@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Record Good Audio Without a Microphone"
-date: 2024-05-26 10:55:13
-updated: 2024-05-27 12:29:22
+date: 2024-05-31T12:43:02.303Z
+updated: 2024-06-01T12:43:02.303Z
 tags:
   - ai video
   - ai youtube
@@ -1234,3 +1234,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

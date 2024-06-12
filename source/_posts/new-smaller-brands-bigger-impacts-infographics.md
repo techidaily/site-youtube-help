@@ -1,7 +1,7 @@
 ---
 title: "[New] Smaller Brands, Bigger Impacts (Infographics)"
-date: 2024-05-27 17:12:25
-updated: 2024-05-30 12:47:16
+date: 2024-05-31T12:40:57.853Z
+updated: 2024-06-01T12:40:57.853Z
 tags:
   - ai video
   - ai youtube
@@ -552,3 +552,4 @@ So what are we waiting for? Let’s pick the right YouTube shorts downloader onl
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

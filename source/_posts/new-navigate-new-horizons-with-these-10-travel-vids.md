@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigate New Horizons with These 10 Travel Vids"
-date: 2024-05-25 15:26:13
-updated: 2024-05-28 10:54:39
+date: 2024-05-31T12:43:31.187Z
+updated: 2024-06-01T12:43:31.187Z
 tags:
   - ai video
   - ai youtube
@@ -750,3 +750,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Hasty Thumbnail Crafting for Fortnite Gameplay\""
-date: 2024-05-24 10:45:31
-updated: 2024-05-27 11:17:53
+date: 2024-05-31T12:41:20.140Z
+updated: 2024-06-01T12:41:20.140Z
 tags:
   - ai video
   - ai youtube
@@ -646,3 +646,4 @@ Now it is time for you to pick the right YouTube shorts description for your vid
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

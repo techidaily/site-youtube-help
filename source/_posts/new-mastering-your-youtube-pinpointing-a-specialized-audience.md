@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Your YouTube  Pinpointing a Specialized Audience\""
-date: 2024-05-25 16:44:40
-updated: 2024-05-28 11:24:55
+date: 2024-05-31T12:40:47.845Z
+updated: 2024-06-01T12:40:47.845Z
 tags:
   - ai video
   - ai youtube
@@ -696,3 +696,4 @@ This guide was informative enough to answer most of your queries, and after read
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

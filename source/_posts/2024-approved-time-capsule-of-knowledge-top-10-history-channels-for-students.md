@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Time Capsule of Knowledge  Top 10 History Channels for Students\""
-date: 2024-05-28 17:59:46
-updated: 2024-05-31 10:13:44
+date: 2024-05-31T12:48:30.140Z
+updated: 2024-06-01T12:48:30.140Z
 tags:
   - ai video
   - ai youtube
@@ -921,3 +921,4 @@ The video editor Wondershare Filmora even allows you to browse for some within t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

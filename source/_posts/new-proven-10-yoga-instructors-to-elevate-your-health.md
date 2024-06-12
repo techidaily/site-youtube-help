@@ -1,7 +1,7 @@
 ---
 title: "[New] Proven 10 Yoga Instructors to Elevate Your Health"
-date: 2024-05-27 23:37:49
-updated: 2024-05-29 11:21:46
+date: 2024-05-31T12:39:59.272Z
+updated: 2024-06-01T12:39:59.272Z
 tags:
   - ai video
   - ai youtube
@@ -1194,3 +1194,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

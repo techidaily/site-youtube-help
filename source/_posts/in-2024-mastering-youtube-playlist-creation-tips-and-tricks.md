@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering YouTube Playlist Creation  Tips and Tricks\""
-date: 2024-05-27 16:44:10
-updated: 2024-05-28 11:57:43
+date: 2024-05-31T12:46:03.370Z
+updated: 2024-06-01T12:46:03.370Z
 tags:
   - ai video
   - ai youtube
@@ -472,3 +472,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

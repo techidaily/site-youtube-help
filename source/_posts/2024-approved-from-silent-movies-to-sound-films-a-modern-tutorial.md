@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Silent Movies to Sound Films  A Modern Tutorial\""
-date: 2024-05-25 17:35:12
-updated: 2024-05-27 12:43:54
+date: 2024-05-31T12:45:27.740Z
+updated: 2024-06-01T12:45:27.740Z
 tags:
   - ai video
   - ai youtube
@@ -782,3 +782,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

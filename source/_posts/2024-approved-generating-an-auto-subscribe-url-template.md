@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Generating an Auto-Subscribe URL Template\""
-date: 2024-05-25 13:31:16
-updated: 2024-05-27 12:46:33
+date: 2024-05-31T12:45:29.978Z
+updated: 2024-06-01T12:45:29.978Z
 tags:
   - ai video
   - ai youtube
@@ -1154,3 +1154,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

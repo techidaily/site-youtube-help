@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering the Art of YouTube Micro Clips"
-date: 2024-05-25 23:51:15
-updated: 2024-05-28 11:44:24
+date: 2024-05-31T12:43:25.131Z
+updated: 2024-06-01T12:43:25.131Z
 tags:
   - ai video
   - ai youtube
@@ -1502,3 +1502,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

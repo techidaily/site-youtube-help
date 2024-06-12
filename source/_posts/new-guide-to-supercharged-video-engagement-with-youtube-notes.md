@@ -1,7 +1,7 @@
 ---
 title: "[New] Guide to Supercharged Video Engagement with YouTube Notes"
-date: 2024-05-24 19:32:24
-updated: 2024-05-27 11:57:44
+date: 2024-05-31T12:44:56.324Z
+updated: 2024-06-01T12:44:56.324Z
 tags:
   - ai video
   - ai youtube
@@ -774,3 +774,4 @@ Enjoy!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

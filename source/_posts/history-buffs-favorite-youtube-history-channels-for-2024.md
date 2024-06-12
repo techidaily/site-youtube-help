@@ -1,7 +1,7 @@
 ---
 title: "History Buffs' Favorite YouTube History Channels for 2024"
-date: 2024-05-24 23:56:31
-updated: 2024-05-27 11:11:20
+date: 2024-05-31T12:41:09.361Z
+updated: 2024-06-01T12:41:09.361Z
 tags:
   - ai video
   - ai youtube
@@ -702,3 +702,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

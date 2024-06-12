@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Background Replacement in Editing Suite\""
-date: 2024-05-28 11:13:40
-updated: 2024-05-30 10:34:24
+date: 2024-05-31T12:39:24.133Z
+updated: 2024-06-01T12:39:24.133Z
 tags:
   - ai video
   - ai youtube
@@ -878,3 +878,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

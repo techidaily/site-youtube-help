@@ -1,7 +1,7 @@
 ---
 title: "How to Loop Videos on iPhone for 2024"
-date: 2024-05-24 23:29:40
-updated: 2024-05-27 10:48:34
+date: 2024-05-31T12:39:14.396Z
+updated: 2024-06-01T12:39:14.396Z
 tags:
   - ai video
   - ai youtube
@@ -1514,3 +1514,4 @@ Hopefully, you've found this article informative and can now enjoy watching or l
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

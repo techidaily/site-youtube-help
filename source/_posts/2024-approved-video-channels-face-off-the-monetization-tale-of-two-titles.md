@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Video Channels Face-Off  The Monetization Tale of Two Titles\""
-date: 2024-05-31 15:42:55
-updated: 2024-06-01 11:33:23
+date: 2024-05-31T12:44:47.968Z
+updated: 2024-06-01T12:44:47.968Z
 tags:
   - ai video
   - ai youtube
@@ -754,3 +754,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

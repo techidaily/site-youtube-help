@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Uncovering YouTube's Star Comment"
-date: 2024-05-31 11:41:12
-updated: 2024-06-01 12:48:17
+date: 2024-05-31T12:47:52.014Z
+updated: 2024-06-01T12:47:52.014Z
 tags:
   - ai video
   - ai youtube
@@ -754,3 +754,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

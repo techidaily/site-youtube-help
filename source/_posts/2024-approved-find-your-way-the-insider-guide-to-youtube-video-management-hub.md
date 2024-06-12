@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Find Your Way  The Insider Guide to YouTube Video Management Hub\""
-date: 2024-05-25 10:11:31
-updated: 2024-05-26 12:13:52
+date: 2024-05-31T12:45:17.745Z
+updated: 2024-06-01T12:45:17.745Z
 tags:
   - ai video
   - ai youtube
@@ -1154,3 +1154,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

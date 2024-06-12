@@ -1,7 +1,7 @@
 ---
 title: "How to Swiftly Excise Your Youtube Comment Spam for 2024"
-date: 2024-05-24 18:58:11
-updated: 2024-05-27 11:54:41
+date: 2024-05-31T12:38:55.890Z
+updated: 2024-06-01T12:38:55.890Z
 tags:
   - ai video
   - ai youtube
@@ -782,3 +782,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

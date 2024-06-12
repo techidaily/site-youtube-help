@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Free Guide  Perfecting Your YouTube Audio-to-Text Conversion\""
-date: 2024-05-25 20:33:40
-updated: 2024-05-27 11:15:52
+date: 2024-05-31T12:39:11.543Z
+updated: 2024-06-01T12:39:11.543Z
 tags:
   - ai video
   - ai youtube
@@ -1013,3 +1013,4 @@ To save and access your live streaming sessions later, you can try the screen re
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

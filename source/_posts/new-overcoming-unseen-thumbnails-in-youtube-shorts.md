@@ -1,7 +1,7 @@
 ---
 title: "[New] Overcoming Unseen Thumbnails in YouTube Shorts"
-date: 2024-05-27 21:49:36
-updated: 2024-05-29 11:59:18
+date: 2024-05-31T12:41:59.551Z
+updated: 2024-06-01T12:41:59.551Z
 tags:
   - ai video
   - ai youtube
@@ -605,3 +605,4 @@ Thus, this article has valuable insights into the width and height of YouTube Th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

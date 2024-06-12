@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Complete Setup Scoop  Easy YouTube Tech for Starters\""
-date: 2024-05-28 15:50:18
-updated: 2024-05-31 10:19:16
+date: 2024-05-31T12:38:39.641Z
+updated: 2024-06-01T12:38:39.641Z
 tags:
   - ai video
   - ai youtube
@@ -1200,3 +1200,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

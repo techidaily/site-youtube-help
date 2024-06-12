@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Roadmap to Captivating Shorts Visuals  Custom Thumbnail Essentials\""
-date: 2024-05-30 13:39:21
-updated: 2024-05-31 12:30:10
+date: 2024-05-31T12:47:15.201Z
+updated: 2024-06-01T12:47:15.201Z
 tags:
   - ai video
   - ai youtube
@@ -400,3 +400,4 @@ Record screen and webcam as well
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Content Creator's Blueprint for Profitable YouTube Videos\""
-date: 2024-05-30 18:21:10
-updated: 2024-05-31 11:16:35
+date: 2024-05-31T12:48:13.557Z
+updated: 2024-06-01T12:48:13.557Z
 tags:
   - ai video
   - ai youtube
@@ -836,3 +836,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transform Your YouTube Image  3 Methods of Neon Bordering\""
-date: 2024-05-31 19:58:42
-updated: 2024-06-01 10:31:53
+date: 2024-05-31T12:48:42.781Z
+updated: 2024-06-01T12:48:42.781Z
 tags:
   - ai video
   - ai youtube
@@ -918,3 +918,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] Proven Techniques for Extracting YouTube Clip Sections"
-date: 2024-05-26 19:44:18
-updated: 2024-05-29 10:46:32
+date: 2024-05-31T12:38:53.062Z
+updated: 2024-06-01T12:38:53.062Z
 tags:
   - ai video
   - ai youtube
@@ -1226,3 +1226,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

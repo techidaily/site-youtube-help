@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Transform Your Footage  A Complete YouTube Studio Editing Course\""
-date: 2024-05-30 17:51:53
-updated: 2024-06-01 12:19:13
+date: 2024-05-31T12:42:52.190Z
+updated: 2024-06-01T12:42:52.190Z
 tags:
   - ai video
   - ai youtube
@@ -990,3 +990,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

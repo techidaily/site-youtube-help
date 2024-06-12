@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Thumbnail Design with Your Mac for 2024"
-date: 2024-05-27 16:19:10
-updated: 2024-05-28 11:36:54
+date: 2024-05-31T12:39:55.679Z
+updated: 2024-06-01T12:39:55.679Z
 tags:
   - ai video
   - ai youtube
@@ -1530,3 +1530,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

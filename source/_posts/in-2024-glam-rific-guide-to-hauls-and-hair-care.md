@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Glam-Rific Guide to Hauls and Hair Care\""
-date: 2024-05-24 16:22:22
-updated: 2024-05-27 10:22:24
+date: 2024-05-31T12:43:28.573Z
+updated: 2024-06-01T12:43:28.573Z
 tags:
   - ai video
   - ai youtube
@@ -1530,3 +1530,4 @@ YouTube rank tracking tools help you monitor your rankings and see how well you 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

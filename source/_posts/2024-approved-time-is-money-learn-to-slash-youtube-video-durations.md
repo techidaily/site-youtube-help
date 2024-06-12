@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Time Is Money - Learn to Slash YouTube Video Durations\""
-date: 2024-05-29 19:11:25
-updated: 2024-05-31 10:17:21
+date: 2024-05-31T12:39:40.882Z
+updated: 2024-06-01T12:39:40.882Z
 tags:
   - ai video
   - ai youtube
@@ -986,3 +986,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

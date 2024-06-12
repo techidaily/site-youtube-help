@@ -1,7 +1,7 @@
 ---
 title: "[New] How To Live Without the Temptation of YouTube Shorts"
-date: 2024-05-26 14:19:33
-updated: 2024-05-27 11:31:59
+date: 2024-05-31T12:45:58.676Z
+updated: 2024-06-01T12:45:58.676Z
 tags:
   - ai video
   - ai youtube
@@ -1098,3 +1098,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

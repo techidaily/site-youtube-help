@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Uncomplicated YouTube Success  Compile Your 10 Basic Yet Effective Projects\""
-date: 2024-05-29 15:24:25
-updated: 2024-06-01 10:48:27
+date: 2024-05-31T12:44:03.878Z
+updated: 2024-06-01T12:44:03.878Z
 tags:
   - ai video
   - ai youtube
@@ -1638,3 +1638,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"From YouTube to TikTok  Crafting the Perfect Cross-Platform Strategy for 2024\""
-date: 2024-05-24 10:23:35
-updated: 2024-05-27 10:37:38
+date: 2024-05-31T12:38:48.094Z
+updated: 2024-06-01T12:38:48.094Z
 tags:
   - ai video
   - ai youtube
@@ -966,3 +966,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

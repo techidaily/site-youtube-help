@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Complete Playbook for YouTube Beginners\""
-date: 2024-05-28 10:49:10
-updated: 2024-05-31 12:50:50
+date: 2024-05-31T12:47:17.969Z
+updated: 2024-06-01T12:47:17.969Z
 tags:
   - ai video
   - ai youtube
@@ -1632,3 +1632,4 @@ This article explored four methods for resizing YouTube thumbnails: using the Wi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

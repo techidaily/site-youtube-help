@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Frame by Frame  The Smartphone Storyteller's Path to YouTubes Thumbnails\""
-date: 2024-05-24 23:48:18
-updated: 2024-05-27 10:16:59
+date: 2024-05-31T12:44:29.263Z
+updated: 2024-06-01T12:44:29.263Z
 tags:
   - ai video
   - ai youtube
@@ -819,3 +819,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

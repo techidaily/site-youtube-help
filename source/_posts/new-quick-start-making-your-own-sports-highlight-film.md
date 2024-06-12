@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quick Start  Making Your Own Sports Highlight Film\""
-date: 2024-05-28 16:49:16
-updated: 2024-05-29 10:34:56
+date: 2024-05-31T12:46:32.123Z
+updated: 2024-06-01T12:46:32.123Z
 tags:
   - ai video
   - ai youtube
@@ -1016,3 +1016,4 @@ Using these methods can help you gain high-quality links to boost your YouTube S
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

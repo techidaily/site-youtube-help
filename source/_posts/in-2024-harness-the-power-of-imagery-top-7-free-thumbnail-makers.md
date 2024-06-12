@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Harness the Power of Imagery  Top 7 Free Thumbnail Makers\""
-date: 2024-05-24 11:10:39
-updated: 2024-05-27 11:19:45
+date: 2024-05-31T12:41:38.012Z
+updated: 2024-06-01T12:41:38.012Z
 tags:
   - ai video
   - ai youtube
@@ -1662,3 +1662,4 @@ Captions are a great way to get users to engage with your videos. Studies have s
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

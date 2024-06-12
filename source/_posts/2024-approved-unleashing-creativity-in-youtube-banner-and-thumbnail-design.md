@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unleashing Creativity in YouTube Banner & Thumbnail Design\""
-date: 2024-05-30 11:48:50
-updated: 2024-06-01 12:35:42
+date: 2024-05-31T12:44:05.765Z
+updated: 2024-06-01T12:44:05.765Z
 tags:
   - ai video
   - ai youtube
@@ -438,3 +438,4 @@ In this comprehensive guide, we've explored why the share function in the playli
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

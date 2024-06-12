@@ -1,7 +1,7 @@
 ---
 title: "[New] Improve Engagement with Skillful Use of Jump Cuts"
-date: 2024-05-26 11:33:20
-updated: 2024-05-27 12:24:18
+date: 2024-05-31T12:39:57.979Z
+updated: 2024-06-01T12:39:57.979Z
 tags:
   - ai video
   - ai youtube
@@ -790,3 +790,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

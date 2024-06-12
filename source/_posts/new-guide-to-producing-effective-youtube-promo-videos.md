@@ -1,7 +1,7 @@
 ---
 title: "[New] Guide to Producing Effective YouTube Promo Videos"
-date: 2024-05-25 14:22:32
-updated: 2024-05-27 10:57:56
+date: 2024-05-31T12:41:51.731Z
+updated: 2024-06-01T12:41:51.731Z
 tags:
   - ai video
   - ai youtube
@@ -592,3 +592,4 @@ We have covered key steps for meeting YouTube's requirements and monetizing vide
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

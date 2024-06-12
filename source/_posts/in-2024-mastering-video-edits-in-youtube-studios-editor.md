@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering Video Edits in YouTube Studio's Editor"
-date: 2024-05-27 15:56:44
-updated: 2024-05-28 10:15:18
+date: 2024-05-31T12:45:20.543Z
+updated: 2024-06-01T12:45:20.543Z
 tags:
   - ai video
   - ai youtube
@@ -766,3 +766,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Setting the Standard for Online Video Presentations – YT Thumbnail Sizing"
-date: 2024-05-28 13:28:15
-updated: 2024-05-30 11:54:14
+date: 2024-05-31T12:45:19.604Z
+updated: 2024-06-01T12:45:19.604Z
 tags:
   - ai video
   - ai youtube
@@ -1334,3 +1334,4 @@ Of course not! What you pull from your YouTube channel is the kind of video that
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Edit YouTube Videos in Final Cut Pro"
-date: 2024-05-26 18:39:46
-updated: 2024-05-27 12:52:33
+date: 2024-05-31T12:45:32.051Z
+updated: 2024-06-01T12:45:32.051Z
 tags:
   - ai video
   - ai youtube
@@ -994,3 +994,4 @@ Thus, if you were looking for the fastest growing YouTube channels to inspire yo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

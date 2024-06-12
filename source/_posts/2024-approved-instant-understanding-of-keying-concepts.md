@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Instant Understanding of Keying Concepts\""
-date: 2024-05-27 14:38:22
-updated: 2024-05-28 12:17:34
+date: 2024-05-31T12:38:26.918Z
+updated: 2024-06-01T12:38:26.918Z
 tags:
   - ai video
   - ai youtube
@@ -738,3 +738,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

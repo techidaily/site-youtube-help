@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Inside Look  The Best YouTube Makeup Artists of Today\""
-date: 2024-05-27 10:54:41
-updated: 2024-05-28 10:28:10
+date: 2024-05-31T12:44:55.564Z
+updated: 2024-06-01T12:44:55.564Z
 tags:
   - ai video
   - ai youtube
@@ -590,3 +590,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

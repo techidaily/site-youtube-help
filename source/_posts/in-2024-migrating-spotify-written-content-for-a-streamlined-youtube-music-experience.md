@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Migrating Spotify' Written Content for a Streamlined YouTube Music Experience"
-date: 2024-05-25 13:48:45
-updated: 2024-05-28 12:14:38
+date: 2024-05-31T12:38:32.910Z
+updated: 2024-06-01T12:38:32.910Z
 tags:
   - ai video
   - ai youtube
@@ -618,3 +618,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

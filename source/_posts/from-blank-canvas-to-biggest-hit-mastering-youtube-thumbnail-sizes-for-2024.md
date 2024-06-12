@@ -1,7 +1,7 @@
 ---
 title: "\"From Blank Canvas to Biggest Hit  Mastering YouTube Thumbnail Sizes for 2024\""
-date: 2024-05-25 20:21:48
-updated: 2024-05-27 10:58:56
+date: 2024-05-31T12:42:52.870Z
+updated: 2024-06-01T12:42:52.870Z
 tags:
   - ai video
   - ai youtube
@@ -754,3 +754,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

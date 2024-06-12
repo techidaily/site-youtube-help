@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How To Add Captions to YouTube Videos\""
-date: 2024-05-25 10:47:58
-updated: 2024-05-27 10:14:16
+date: 2024-05-31T12:47:23.343Z
+updated: 2024-06-01T12:47:23.343Z
 tags:
   - ai video
   - ai youtube
@@ -550,3 +550,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

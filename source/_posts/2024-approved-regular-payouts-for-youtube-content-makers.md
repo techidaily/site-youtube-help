@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Regular Payouts for YouTube Content Makers?\""
-date: 2024-05-28 19:50:48
-updated: 2024-05-29 12:10:15
+date: 2024-05-31T12:45:10.186Z
+updated: 2024-06-01T12:45:10.186Z
 tags:
   - ai video
   - ai youtube
@@ -824,3 +824,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] How to Make a Creative Split-Screen Video for YouTube?\""
-date: 2024-05-27 15:19:39
-updated: 2024-05-28 10:37:56
+date: 2024-05-31T12:41:14.383Z
+updated: 2024-06-01T12:41:14.383Z
 tags:
   - ai video
   - ai youtube
@@ -776,3 +776,4 @@ So what are we waiting for? Let’s pick the right YouTube shorts downloader onl
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

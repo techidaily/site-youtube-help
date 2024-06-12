@@ -1,7 +1,7 @@
 ---
 title: "\"From the Ground Up  Building a New, Dynamic YouTube Chanel for 2024\""
-date: 2024-05-25 15:24:29
-updated: 2024-05-27 10:41:25
+date: 2024-05-31T12:39:02.559Z
+updated: 2024-06-01T12:39:02.559Z
 tags:
   - ai video
   - ai youtube
@@ -1918,3 +1918,4 @@ It is important to know that the default resolution of a YouTube thumbnail is 12
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

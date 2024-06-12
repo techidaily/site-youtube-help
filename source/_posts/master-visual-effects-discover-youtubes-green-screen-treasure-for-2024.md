@@ -1,7 +1,7 @@
 ---
 title: "\"Master Visual Effects  Discover YouTube’s Green Screen Treasure for 2024\""
-date: 2024-05-26 10:27:47
-updated: 2024-05-28 12:21:51
+date: 2024-05-31T12:41:25.374Z
+updated: 2024-06-01T12:41:25.374Z
 tags:
   - ai video
   - ai youtube
@@ -1230,3 +1230,4 @@ Follow @Marion Dubois
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

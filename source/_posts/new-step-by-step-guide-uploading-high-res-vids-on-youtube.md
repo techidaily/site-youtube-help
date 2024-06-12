@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Guide  Uploading High-Res Vids on YouTube\""
-date: 2024-05-29 19:44:44
-updated: 2024-05-30 12:59:45
+date: 2024-05-31T12:48:26.547Z
+updated: 2024-06-01T12:48:26.547Z
 tags:
   - ai video
   - ai youtube
@@ -1086,3 +1086,4 @@ Hopefully, you've found this article informative and can now enjoy watching or l
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

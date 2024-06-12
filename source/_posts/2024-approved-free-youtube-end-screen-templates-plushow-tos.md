@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Free YouTube End Screen Templates [+How-Tos]\""
-date: 2024-05-24 12:48:52
-updated: 2024-05-27 12:36:14
+date: 2024-05-31T12:38:54.303Z
+updated: 2024-06-01T12:38:54.303Z
 tags:
   - ai video
   - ai youtube
@@ -748,3 +748,4 @@ Yet, it would help if you didn't forget the most important thing: the video itse
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

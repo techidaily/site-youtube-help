@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Add Timestamp on YouTube Video Link? [Desktop and Mobile]"
-date: 2024-05-25 12:49:31
-updated: 2024-05-27 11:35:13
+date: 2024-05-31T12:38:43.132Z
+updated: 2024-06-01T12:38:43.132Z
 tags:
   - ai video
   - ai youtube
@@ -1074,3 +1074,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

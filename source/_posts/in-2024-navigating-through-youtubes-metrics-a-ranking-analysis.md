@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Navigating Through YouTube's Metrics  A Ranking Analysis\""
-date: 2024-05-28 10:53:18
-updated: 2024-05-29 12:13:36
+date: 2024-05-31T12:48:40.702Z
+updated: 2024-06-01T12:48:40.702Z
 tags:
   - ai video
   - ai youtube
@@ -1450,3 +1450,4 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

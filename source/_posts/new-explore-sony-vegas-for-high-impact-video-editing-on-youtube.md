@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Explore Sony Vegas for High-Impact Video Editing on YouTube\""
-date: 2024-05-23 12:50:56
-updated: 2024-05-26 10:20:44
+date: 2024-05-31T12:42:41.238Z
+updated: 2024-06-01T12:42:41.238Z
 tags:
   - ai video
   - ai youtube
@@ -544,3 +544,4 @@ Yet, it would help if you didn't forget the most important thing: the video itse
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

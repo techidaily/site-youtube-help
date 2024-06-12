@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Inside Look  How Youtuber Shorts Work\""
-date: 2024-05-27 22:41:14
-updated: 2024-05-28 11:33:57
+date: 2024-05-31T12:46:48.036Z
+updated: 2024-06-01T12:46:48.036Z
 tags:
   - ai video
   - ai youtube
@@ -710,3 +710,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

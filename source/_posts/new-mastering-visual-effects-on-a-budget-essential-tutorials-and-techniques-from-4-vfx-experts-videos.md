@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Visual Effects on a Budget  Essential Tutorials and Techniques From 4 VFX Experts' Videos\""
-date: 2024-05-27 22:47:16
-updated: 2024-05-28 10:11:26
+date: 2024-05-31T12:40:57.787Z
+updated: 2024-06-01T12:40:57.787Z
 tags:
   - ai video
   - ai youtube
@@ -634,3 +634,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

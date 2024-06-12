@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Funny Flicks  Compilation of Chuckle-Inducing Short YouTube Videos\""
-date: 2024-05-24 22:54:52
-updated: 2024-05-27 10:44:31
+date: 2024-05-31T12:43:48.872Z
+updated: 2024-06-01T12:43:48.872Z
 tags:
   - ai video
   - ai youtube
@@ -1322,3 +1322,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

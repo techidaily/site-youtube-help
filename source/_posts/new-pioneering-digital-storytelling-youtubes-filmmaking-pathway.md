@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pioneering Digital Storytelling  YouTube's Filmmaking Pathway\""
-date: 2024-05-27 13:39:51
-updated: 2024-05-29 12:54:18
+date: 2024-05-31T12:46:12.262Z
+updated: 2024-06-01T12:46:12.262Z
 tags:
   - ai video
   - ai youtube
@@ -966,3 +966,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

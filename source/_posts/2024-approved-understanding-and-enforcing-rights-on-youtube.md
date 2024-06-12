@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Understanding and Enforcing Rights on YouTube\""
-date: 2024-05-29 20:14:27
-updated: 2024-06-01 12:10:13
+date: 2024-05-31T12:47:55.883Z
+updated: 2024-06-01T12:47:55.883Z
 tags:
   - ai video
   - ai youtube
@@ -1266,3 +1266,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

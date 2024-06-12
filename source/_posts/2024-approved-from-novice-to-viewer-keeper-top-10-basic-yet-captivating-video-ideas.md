@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Novice to Viewer-Keeper  Top 10 Basic Yet Captivating Video Ideas\""
-date: 2024-05-25 19:24:47
-updated: 2024-05-27 12:17:50
+date: 2024-05-31T12:47:06.668Z
+updated: 2024-06-01T12:47:06.668Z
 tags:
   - ai video
   - ai youtube
@@ -906,3 +906,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

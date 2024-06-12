@@ -1,7 +1,7 @@
 ---
 title: "\"From Script to Screen  YouTube Video Creation Made Simple for 2024\""
-date: 2024-05-24 12:43:49
-updated: 2024-05-27 12:50:34
+date: 2024-05-31T12:39:50.759Z
+updated: 2024-06-01T12:39:50.759Z
 tags:
   - ai video
   - ai youtube
@@ -1342,3 +1342,4 @@ As you can tell, video dimensions significantly influence your media resolution 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

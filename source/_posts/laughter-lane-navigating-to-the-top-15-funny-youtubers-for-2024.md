@@ -1,7 +1,7 @@
 ---
 title: "\"Laughter Lane  Navigating to the Top 15 Funny YouTubers for 2024\""
-date: 2024-05-27 20:37:46
-updated: 2024-05-28 12:15:51
+date: 2024-05-31T12:41:13.315Z
+updated: 2024-06-01T12:41:13.315Z
 tags:
   - ai video
   - ai youtube
@@ -1370,3 +1370,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

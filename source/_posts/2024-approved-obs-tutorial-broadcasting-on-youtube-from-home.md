@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  OBS Tutorial  Broadcasting on Youtube From Home\""
-date: 2024-05-28 18:18:17
-updated: 2024-05-29 12:50:44
+date: 2024-05-31T12:47:41.252Z
+updated: 2024-06-01T12:47:41.252Z
 tags:
   - ai video
   - ai youtube
@@ -1026,3 +1026,4 @@ Detailed tutorials provided by the official channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

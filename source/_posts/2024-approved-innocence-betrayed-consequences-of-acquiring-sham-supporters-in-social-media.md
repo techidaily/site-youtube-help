@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Innocence Betrayed  Consequences of Acquiring Sham Supporters in Social Media\""
-date: 2024-05-25 23:28:20
-updated: 2024-05-27 10:44:49
+date: 2024-05-31T12:45:30.014Z
+updated: 2024-06-01T12:45:30.014Z
 tags:
   - ai video
   - ai youtube
@@ -662,3 +662,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

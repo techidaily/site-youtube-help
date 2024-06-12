@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Simplifying Slide Creations with YouTube Content\""
-date: 2024-05-28 10:11:19
-updated: 2024-05-30 11:31:40
+date: 2024-05-31T12:43:05.863Z
+updated: 2024-06-01T12:43:05.863Z
 tags:
   - ai video
   - ai youtube
@@ -748,3 +748,4 @@ We hope you've found this article informative and can now display your YouTube p
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

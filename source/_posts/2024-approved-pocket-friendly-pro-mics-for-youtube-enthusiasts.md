@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pocket-Friendly Pro Mics for YouTube Enthusiasts\""
-date: 2024-05-27 20:46:53
-updated: 2024-05-29 12:46:13
+date: 2024-05-31T12:38:21.566Z
+updated: 2024-06-01T12:38:21.566Z
 tags:
   - ai video
   - ai youtube
@@ -1074,3 +1074,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

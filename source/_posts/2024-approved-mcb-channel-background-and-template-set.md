@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  MCB Channel Background & Template Set\""
-date: 2024-05-26 16:42:20
-updated: 2024-05-28 12:32:20
+date: 2024-05-31T12:40:43.671Z
+updated: 2024-06-01T12:40:43.671Z
 tags:
   - ai video
   - ai youtube
@@ -330,3 +330,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

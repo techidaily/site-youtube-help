@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Instant Tutorial  Green Screen Techniques Unveiled\""
-date: 2024-05-25 13:18:13
-updated: 2024-05-28 12:49:44
+date: 2024-05-31T12:47:32.274Z
+updated: 2024-06-01T12:47:32.274Z
 tags:
   - ai video
   - ai youtube
@@ -598,3 +598,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Project Board to Public Display  IMovie on YouTube\""
-date: 2024-05-25 13:24:18
-updated: 2024-05-27 10:36:18
+date: 2024-05-31T12:43:30.675Z
+updated: 2024-06-01T12:43:30.675Z
 tags:
   - ai video
   - ai youtube
@@ -760,3 +760,4 @@ This article explored four methods for resizing YouTube thumbnails: using the Wi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

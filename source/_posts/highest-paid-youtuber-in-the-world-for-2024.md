@@ -1,7 +1,7 @@
 ---
 title: "Highest Paid YouTuber in the World for 2024"
-date: 2024-05-24 12:44:17
-updated: 2024-05-27 12:42:50
+date: 2024-05-31T12:43:57.034Z
+updated: 2024-06-01T12:43:57.034Z
 tags:
   - ai video
   - ai youtube
@@ -1259,3 +1259,4 @@ Finding the best prank channels on YouTube to crack your rib during your boring 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

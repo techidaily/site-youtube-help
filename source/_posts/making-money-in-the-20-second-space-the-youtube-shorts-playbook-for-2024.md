@@ -1,7 +1,7 @@
 ---
 title: "\"Making Money in the 20-Second Space  The YouTube Shorts Playbook for 2024\""
-date: 2024-05-26 12:38:53
-updated: 2024-05-28 12:15:11
+date: 2024-05-31T12:45:26.273Z
+updated: 2024-06-01T12:45:26.273Z
 tags:
   - ai video
   - ai youtube
@@ -520,3 +520,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

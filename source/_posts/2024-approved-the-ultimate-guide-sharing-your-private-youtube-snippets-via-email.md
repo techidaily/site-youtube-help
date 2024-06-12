@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Guide  Sharing Your Private YouTube Snippets via Email\""
-date: 2024-05-28 14:40:26
-updated: 2024-05-31 11:45:24
+date: 2024-05-31T12:45:25.733Z
+updated: 2024-06-01T12:45:25.733Z
 tags:
   - ai video
   - ai youtube
@@ -482,3 +482,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

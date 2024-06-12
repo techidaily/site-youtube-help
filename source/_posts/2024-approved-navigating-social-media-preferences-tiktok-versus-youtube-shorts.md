@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Navigating Social Media Preferences  TikTok Versus YouTube Shorts\""
-date: 2024-05-27 23:24:35
-updated: 2024-05-29 10:43:22
+date: 2024-05-31T12:39:48.562Z
+updated: 2024-06-01T12:39:48.562Z
 tags:
   - ai video
   - ai youtube
@@ -1214,3 +1214,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

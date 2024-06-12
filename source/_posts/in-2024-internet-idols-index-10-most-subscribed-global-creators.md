@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Internet Idols Index  10 Most Subscribed Global Creators\""
-date: 2024-05-26 23:39:22
-updated: 2024-05-28 12:37:34
+date: 2024-05-31T12:41:34.768Z
+updated: 2024-06-01T12:41:34.768Z
 tags:
   - ai video
   - ai youtube
@@ -774,3 +774,4 @@ Running a YouTube Channel is lucrative. Although it may take time to build a fol
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

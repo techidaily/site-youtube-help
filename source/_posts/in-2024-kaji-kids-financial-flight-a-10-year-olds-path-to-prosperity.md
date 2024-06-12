@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Kaji Kid’s Financial Flight  A 10-Year-Old’s Path to Prosperity\""
-date: 2024-05-27 11:25:53
-updated: 2024-05-28 10:49:33
+date: 2024-05-31T12:46:46.140Z
+updated: 2024-06-01T12:46:46.140Z
 tags:
   - ai video
   - ai youtube
@@ -720,3 +720,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

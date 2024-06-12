@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Guide to Vlogging with 12 Best Flip-Screen Cameras\""
-date: 2024-05-29 23:58:56
-updated: 2024-05-31 10:31:54
+date: 2024-05-31T12:42:09.865Z
+updated: 2024-06-01T12:42:09.865Z
 tags:
   - ai video
   - ai youtube
@@ -802,3 +802,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

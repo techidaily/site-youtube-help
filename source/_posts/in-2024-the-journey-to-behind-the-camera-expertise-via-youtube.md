@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Journey to Behind-the-Camera Expertise via YouTube\""
-date: 2024-05-30 20:46:35
-updated: 2024-05-31 10:46:12
+date: 2024-05-31T12:46:13.068Z
+updated: 2024-06-01T12:46:13.068Z
 tags:
   - ai video
   - ai youtube
@@ -544,3 +544,4 @@ Yet, it would help if you didn't forget the most important thing: the video itse
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

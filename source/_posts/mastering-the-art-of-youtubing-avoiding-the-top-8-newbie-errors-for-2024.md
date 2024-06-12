@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering the Art of YouTubing  Avoiding the Top 8 Newbie Errors for 2024\""
-date: 2024-05-26 12:52:55
-updated: 2024-05-28 10:44:49
+date: 2024-05-31T12:45:09.672Z
+updated: 2024-06-01T12:45:09.672Z
 tags:
   - ai video
   - ai youtube
@@ -826,3 +826,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

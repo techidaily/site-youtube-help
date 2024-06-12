@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Say Goodbye to Vertical and Horizontal Bars in YouTube Movies"
-date: 2024-05-27 11:27:53
-updated: 2024-05-29 10:54:33
+date: 2024-05-31T12:42:42.062Z
+updated: 2024-06-01T12:42:42.062Z
 tags:
   - ai video
   - ai youtube
@@ -806,3 +806,4 @@ Despite all the reasons to subscribe to YouTube Premium, it still needs a minor 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

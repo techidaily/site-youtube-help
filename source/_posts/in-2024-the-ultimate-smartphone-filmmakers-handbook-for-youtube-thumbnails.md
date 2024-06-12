@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Smartphone Filmmaker's Handbook for YouTube Thumbnails"
-date: 2024-05-29 11:25:49
-updated: 2024-05-31 10:20:18
+date: 2024-05-31T12:38:34.098Z
+updated: 2024-06-01T12:38:34.098Z
 tags:
   - ai video
   - ai youtube
@@ -765,3 +765,4 @@ The better you can design your banner, the higher your chances of growing an aud
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

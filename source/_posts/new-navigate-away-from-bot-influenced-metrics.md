@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigate Away From Bot-Influenced Metrics\""
-date: 2024-05-27 10:56:59
-updated: 2024-05-28 12:18:26
+date: 2024-05-31T12:40:38.998Z
+updated: 2024-06-01T12:40:38.998Z
 tags:
   - ai video
   - ai youtube
@@ -1114,3 +1114,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

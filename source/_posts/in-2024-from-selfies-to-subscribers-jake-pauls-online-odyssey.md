@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Selfies to Subscribers  Jake Paul’s Online Odyssey\""
-date: 2024-05-25 19:47:17
-updated: 2024-05-27 10:53:48
+date: 2024-05-31T12:38:51.432Z
+updated: 2024-06-01T12:38:51.432Z
 tags:
   - ai video
   - ai youtube
@@ -452,3 +452,4 @@ For today, YouTube encodes all the videos with the VP9 codec, but for some reaso
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

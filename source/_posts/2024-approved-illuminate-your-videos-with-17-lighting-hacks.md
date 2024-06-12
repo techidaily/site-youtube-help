@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Illuminate Your Videos with #17 Lighting Hacks\""
-date: 2024-05-25 10:28:32
-updated: 2024-05-27 12:20:11
+date: 2024-05-31T12:43:04.680Z
+updated: 2024-06-01T12:43:04.680Z
 tags:
   - ai video
   - ai youtube
@@ -1318,3 +1318,4 @@ Our final verdict is that haul videos are just entertaining to make and fun to w
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

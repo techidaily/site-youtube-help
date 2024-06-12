@@ -1,7 +1,7 @@
 ---
 title: "[New] Revealing the Ultimate Collection of YouTube Beauty Experts"
-date: 2024-05-27 14:53:37
-updated: 2024-05-29 12:59:21
+date: 2024-05-31T12:40:02.735Z
+updated: 2024-06-01T12:40:02.735Z
 tags:
   - ai video
   - ai youtube
@@ -1206,3 +1206,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

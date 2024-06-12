@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Pro Shortcuts Every YouTuber Needs - The Top 20 List\""
-date: 2024-05-27 13:34:58
-updated: 2024-05-29 10:51:38
+date: 2024-05-31T12:43:09.762Z
+updated: 2024-06-01T12:43:09.762Z
 tags:
   - ai video
   - ai youtube
@@ -702,3 +702,4 @@ In this comprehensive guide, we've explored why the share function in the playli
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"From Concept to Completion  Crafting YouTube Shorts Templates Masterfully for 2024\""
-date: 2024-05-24 22:45:18
-updated: 2024-05-27 11:55:15
+date: 2024-05-31T12:47:48.090Z
+updated: 2024-06-01T12:47:48.090Z
 tags:
   - ai video
   - ai youtube
@@ -731,3 +731,4 @@ Hopefully, you find this guide informative and can now create strong news style 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

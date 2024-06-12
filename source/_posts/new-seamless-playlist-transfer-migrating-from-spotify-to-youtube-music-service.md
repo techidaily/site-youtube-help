@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Seamless Playlist Transfer  Migrating From Spotify to YouTube Music Service\""
-date: 2024-05-28 10:18:51
-updated: 2024-05-30 11:42:15
+date: 2024-05-31T12:42:52.442Z
+updated: 2024-06-01T12:42:52.442Z
 tags:
   - ai video
   - ai youtube
@@ -544,3 +544,4 @@ This guide was informative enough to answer most of your queries, and after read
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

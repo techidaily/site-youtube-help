@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Video Color Correction for YouTube Beauty"
-date: 2024-05-31 18:32:41
-updated: 2024-06-01 10:24:47
+date: 2024-05-31T12:39:07.278Z
+updated: 2024-06-01T12:39:07.278Z
 tags:
   - ai video
   - ai youtube
@@ -458,3 +458,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

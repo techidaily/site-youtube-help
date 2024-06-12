@@ -1,7 +1,7 @@
 ---
 title: "Mastering Video Lighting Techniques for 2024"
-date: 2024-05-27 22:54:55
-updated: 2024-05-28 11:23:56
+date: 2024-05-31T12:44:23.036Z
+updated: 2024-06-01T12:44:23.036Z
 tags:
   - ai video
   - ai youtube
@@ -862,3 +862,4 @@ It is important to know that the default resolution of a YouTube thumbnail is 12
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

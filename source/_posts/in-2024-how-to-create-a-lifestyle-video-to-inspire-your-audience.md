@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Create a Lifestyle Video to Inspire Your Audience"
-date: 2024-05-26 21:33:19
-updated: 2024-05-28 12:24:11
+date: 2024-05-31T12:40:52.996Z
+updated: 2024-06-01T12:40:52.996Z
 tags:
   - ai video
   - ai youtube
@@ -810,3 +810,4 @@ In this day and age, many people are shifting to freelancing or creating compani
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

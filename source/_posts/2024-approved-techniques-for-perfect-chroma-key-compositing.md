@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Techniques for Perfect Chroma Key Compositing\""
-date: 2024-05-29 14:18:23
-updated: 2024-05-30 12:10:55
+date: 2024-05-31T12:41:08.266Z
+updated: 2024-06-01T12:41:08.266Z
 tags:
   - ai video
   - ai youtube
@@ -611,3 +611,4 @@ Whether you create your thumbnails on your mobile device or your computer, use a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

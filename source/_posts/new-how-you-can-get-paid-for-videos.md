@@ -1,7 +1,7 @@
 ---
 title: "[New] How You Can Get Paid for Videos"
-date: 2024-05-26 13:36:16
-updated: 2024-05-27 11:44:40
+date: 2024-05-31T12:45:49.792Z
+updated: 2024-06-01T12:45:49.792Z
 tags:
   - ai video
   - ai youtube
@@ -826,3 +826,4 @@ YouTube Shorts have become immensely popular. They tend to have a higher ROI and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

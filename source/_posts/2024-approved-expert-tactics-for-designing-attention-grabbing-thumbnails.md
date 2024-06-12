@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Expert Tactics for Designing Attention-Grabbing Thumbnails\""
-date: 2024-05-25 20:21:58
-updated: 2024-05-26 10:49:18
+date: 2024-05-31T12:40:44.671Z
+updated: 2024-06-01T12:40:44.671Z
 tags:
   - ai video
   - ai youtube
@@ -1602,3 +1602,4 @@ Numerous programs will swiftly upload and trim your tiny movies, ideal for folks
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

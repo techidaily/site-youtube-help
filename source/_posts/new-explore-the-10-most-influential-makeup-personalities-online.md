@@ -1,7 +1,7 @@
 ---
 title: "[New] Explore the 10 Most Influential Makeup Personalities Online"
-date: 2024-05-23 17:14:13
-updated: 2024-05-26 11:53:48
+date: 2024-05-31T12:40:21.498Z
+updated: 2024-06-01T12:40:21.498Z
 tags:
   - ai video
   - ai youtube
@@ -742,3 +742,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

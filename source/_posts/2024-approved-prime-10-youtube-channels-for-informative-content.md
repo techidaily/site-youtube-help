@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Prime 10 YouTube Channels for Informative Content\""
-date: 2024-05-27 23:10:40
-updated: 2024-05-29 11:36:23
+date: 2024-05-31T12:46:52.444Z
+updated: 2024-06-01T12:46:52.444Z
 tags:
   - ai video
   - ai youtube
@@ -972,3 +972,4 @@ Whether you're a budding YouTubеr or a sеasonеd crеator, we hope this articl
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"From Ingredients to Inspiration  Cooking Videos for 2024\""
-date: 2024-05-26 13:40:51
-updated: 2024-05-27 10:48:56
+date: 2024-05-31T12:48:23.676Z
+updated: 2024-06-01T12:48:23.676Z
 tags:
   - ai video
   - ai youtube
@@ -808,3 +808,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

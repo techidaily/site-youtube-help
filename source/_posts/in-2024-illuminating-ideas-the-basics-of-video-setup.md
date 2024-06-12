@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Illuminating Ideas  The Basics of Video Setup\""
-date: 2024-05-26 16:41:45
-updated: 2024-05-27 10:57:31
+date: 2024-05-31T12:47:38.174Z
+updated: 2024-06-01T12:47:38.174Z
 tags:
   - ai video
   - ai youtube
@@ -788,3 +788,4 @@ Using these methods can help you gain high-quality links to boost your YouTube S
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

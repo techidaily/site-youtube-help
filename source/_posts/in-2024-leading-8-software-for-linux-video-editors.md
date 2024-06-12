@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Leading 8 Software for Linux Video Editors"
-date: 2024-05-27 14:58:36
-updated: 2024-05-28 10:26:58
+date: 2024-05-31T12:47:00.726Z
+updated: 2024-06-01T12:47:00.726Z
 tags:
   - ai video
   - ai youtube
@@ -882,3 +882,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

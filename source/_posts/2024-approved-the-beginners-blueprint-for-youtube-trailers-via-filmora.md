@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Beginner's Blueprint for YouTube Trailers via Filmora\""
-date: 2024-05-30 15:43:50
-updated: 2024-05-31 10:22:51
+date: 2024-05-31T12:45:55.403Z
+updated: 2024-06-01T12:45:55.403Z
 tags:
   - ai video
   - ai youtube
@@ -837,3 +837,4 @@ Thanks for reading, folks.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

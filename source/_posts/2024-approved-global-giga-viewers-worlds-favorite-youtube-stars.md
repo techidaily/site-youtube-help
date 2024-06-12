@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Global Giga-Viewers  World's Favorite YouTube Stars\""
-date: 2024-05-24 22:20:49
-updated: 2024-05-27 12:35:44
+date: 2024-05-31T12:43:51.114Z
+updated: 2024-06-01T12:43:51.114Z
 tags:
   - ai video
   - ai youtube
@@ -990,3 +990,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

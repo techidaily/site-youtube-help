@@ -1,7 +1,7 @@
 ---
 title: "\"Mind Blown by Numbers  Yearly YouTube Insights in 2017 for 2024\""
-date: 2024-05-25 15:52:25
-updated: 2024-05-28 11:48:42
+date: 2024-05-31T12:48:14.154Z
+updated: 2024-06-01T12:48:14.154Z
 tags:
   - ai video
   - ai youtube
@@ -598,3 +598,4 @@ The greatest takeaway from this guide should be that you must be patient and hav
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

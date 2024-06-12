@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Monetization Masterclass with Carminati (AJay)  Crafting Content for Commerce\""
-date: 2024-05-26 12:22:18
-updated: 2024-05-28 12:59:57
+date: 2024-05-31T12:38:52.202Z
+updated: 2024-06-01T12:38:52.202Z
 tags:
   - ai video
   - ai youtube
@@ -909,3 +909,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

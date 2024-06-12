@@ -1,7 +1,7 @@
 ---
 title: "[New] MicroMovie Magic"
-date: 2024-05-25 13:27:19
-updated: 2024-05-28 10:17:59
+date: 2024-05-31T12:43:50.796Z
+updated: 2024-06-01T12:43:50.796Z
 tags:
   - ai video
   - ai youtube
@@ -1298,3 +1298,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

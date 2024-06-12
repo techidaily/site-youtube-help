@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Infuse Vibrancy  YouTube Thumbnails with Neon Borders\""
-date: 2024-05-25 20:28:45
-updated: 2024-05-27 11:22:49
+date: 2024-05-31T12:41:17.909Z
+updated: 2024-06-01T12:41:17.909Z
 tags:
   - ai video
   - ai youtube
@@ -1150,3 +1150,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

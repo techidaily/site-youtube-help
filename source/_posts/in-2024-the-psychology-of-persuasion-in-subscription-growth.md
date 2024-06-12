@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Psychology of Persuasion in Subscription Growth"
-date: 2024-05-30 14:25:33
-updated: 2024-05-31 12:55:12
+date: 2024-05-31T12:40:32.351Z
+updated: 2024-06-01T12:40:32.351Z
 tags:
   - ai video
   - ai youtube
@@ -1034,3 +1034,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Video Impact on YouTube – Top Video Formats for 2024"
-date: 2024-05-27 21:20:41
-updated: 2024-05-28 10:18:46
+date: 2024-05-31T12:39:01.775Z
+updated: 2024-06-01T12:39:01.775Z
 tags:
   - ai video
   - ai youtube
@@ -642,3 +642,4 @@ Hopefully, you've found this article helpful and can now access the unlisted vid
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

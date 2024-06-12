@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlink From YouTube Shorts - Follow This Plan\""
-date: 2024-05-29 16:17:16
-updated: 2024-06-01 11:18:59
+date: 2024-05-31T12:47:00.523Z
+updated: 2024-06-01T12:47:00.523Z
 tags:
   - ai video
   - ai youtube
@@ -1226,3 +1226,4 @@ Good luck with your endeavors as a content creator, musician, comedian, or whate
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

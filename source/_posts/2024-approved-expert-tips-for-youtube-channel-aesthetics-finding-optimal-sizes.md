@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Expert Tips for YouTube Channel Aesthetics  Finding Optimal Sizes\""
-date: 2024-05-25 16:19:10
-updated: 2024-05-26 11:49:20
+date: 2024-05-31T12:42:59.195Z
+updated: 2024-06-01T12:42:59.195Z
 tags:
   - ai video
   - ai youtube
@@ -1226,3 +1226,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

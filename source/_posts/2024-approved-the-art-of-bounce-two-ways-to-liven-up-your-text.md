@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Bounce  Two Ways to Liven Up Your Text\""
-date: 2024-05-27 22:44:59
-updated: 2024-05-30 12:49:26
+date: 2024-05-31T12:46:08.266Z
+updated: 2024-06-01T12:46:08.266Z
 tags:
   - ai video
   - ai youtube
@@ -962,3 +962,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

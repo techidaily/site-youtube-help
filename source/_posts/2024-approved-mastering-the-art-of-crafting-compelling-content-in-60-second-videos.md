@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering the Art of Crafting Compelling Content in 60-Second Videos\""
-date: 2024-05-26 23:12:18
-updated: 2024-05-28 11:56:44
+date: 2024-05-31T12:45:00.142Z
+updated: 2024-06-01T12:45:00.142Z
 tags:
   - ai video
   - ai youtube
@@ -1154,3 +1154,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

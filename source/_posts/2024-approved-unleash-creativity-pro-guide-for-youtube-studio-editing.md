@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unleash Creativity  Pro Guide for YouTube Studio Editing\""
-date: 2024-05-31 21:32:25
-updated: 2024-06-01 12:21:26
+date: 2024-05-31T12:40:37.301Z
+updated: 2024-06-01T12:40:37.301Z
 tags:
   - ai video
   - ai youtube
@@ -656,3 +656,4 @@ This guide was informative enough to answer most of your queries, and after read
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

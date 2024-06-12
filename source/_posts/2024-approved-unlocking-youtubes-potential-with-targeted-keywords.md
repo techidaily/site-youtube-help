@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking YouTube's Potential with Targeted Keywords\""
-date: 2024-05-30 14:34:23
-updated: 2024-06-01 11:24:18
+date: 2024-05-31T12:47:13.585Z
+updated: 2024-06-01T12:47:13.585Z
 tags:
   - ai video
   - ai youtube
@@ -1176,3 +1176,4 @@ YouTube video ads can be a great way to reach as many people as you can with you
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

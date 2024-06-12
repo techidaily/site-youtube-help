@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Hiding YouTube Playback  Tips for iOS and Android\""
-date: 2024-05-24 12:14:55
-updated: 2024-05-27 11:56:31
+date: 2024-05-31T12:41:56.397Z
+updated: 2024-06-01T12:41:56.397Z
 tags:
   - ai video
   - ai youtube
@@ -672,3 +672,4 @@ Alright! Following the steps mentioned above, you will be able to create a good 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Vimeo Shorts to Professional MP4  A Comprehensive Tutorial\""
-date: 2024-05-24 14:42:58
-updated: 2024-05-27 11:20:37
+date: 2024-05-31T12:44:23.707Z
+updated: 2024-06-01T12:44:23.707Z
 tags:
   - ai video
   - ai youtube
@@ -1066,3 +1066,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

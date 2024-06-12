@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Understanding YouTube's Legal Framework Vs. CC\""
-date: 2024-05-29 20:37:36
-updated: 2024-06-01 12:42:54
+date: 2024-05-31T12:41:08.398Z
+updated: 2024-06-01T12:41:08.398Z
 tags:
   - ai video
   - ai youtube
@@ -1314,3 +1314,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

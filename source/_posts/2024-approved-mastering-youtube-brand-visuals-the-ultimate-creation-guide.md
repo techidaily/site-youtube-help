@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering YouTube Brand Visuals  The Ultimate Creation Guide\""
-date: 2024-05-27 15:29:53
-updated: 2024-05-28 12:30:31
+date: 2024-05-31T12:46:55.672Z
+updated: 2024-06-01T12:46:55.672Z
 tags:
   - ai video
   - ai youtube
@@ -1386,3 +1386,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

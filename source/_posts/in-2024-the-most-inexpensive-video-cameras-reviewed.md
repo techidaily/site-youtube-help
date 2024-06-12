@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Most Inexpensive Video Cameras Reviewed"
-date: 2024-05-28 18:23:31
-updated: 2024-05-31 10:21:39
+date: 2024-05-31T12:43:25.272Z
+updated: 2024-06-01T12:43:25.272Z
 tags:
   - ai video
   - ai youtube
@@ -734,3 +734,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

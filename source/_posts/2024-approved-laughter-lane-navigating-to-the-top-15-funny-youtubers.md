@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Laughter Lane  Navigating to the Top 15 Funny YouTubers\""
-date: 2024-05-27 14:20:58
-updated: 2024-05-28 11:50:30
+date: 2024-05-31T12:48:33.283Z
+updated: 2024-06-01T12:48:33.283Z
 tags:
   - ai video
   - ai youtube
@@ -1222,3 +1222,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

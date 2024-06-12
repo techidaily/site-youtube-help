@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Rapid Reference  Green Screen Basics\""
-date: 2024-05-28 16:32:49
-updated: 2024-05-29 10:10:42
+date: 2024-05-31T12:41:44.534Z
+updated: 2024-06-01T12:41:44.534Z
 tags:
   - ai video
   - ai youtube
@@ -834,3 +834,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

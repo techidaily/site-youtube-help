@@ -1,7 +1,7 @@
 ---
 title: "[New] Pathway to Profitability with the New YouTube Premium Program"
-date: 2024-05-28 16:17:26
-updated: 2024-05-29 10:11:17
+date: 2024-05-31T12:45:23.100Z
+updated: 2024-06-01T12:45:23.100Z
 tags:
   - ai video
   - ai youtube
@@ -938,3 +938,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

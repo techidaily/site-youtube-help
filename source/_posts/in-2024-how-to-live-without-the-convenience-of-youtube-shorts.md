@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How To Live Without the Convenience of YouTube Shorts"
-date: 2024-05-24 19:30:34
-updated: 2024-05-27 11:11:36
+date: 2024-05-31T12:39:53.229Z
+updated: 2024-06-01T12:39:53.229Z
 tags:
   - ai video
   - ai youtube
@@ -1266,3 +1266,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

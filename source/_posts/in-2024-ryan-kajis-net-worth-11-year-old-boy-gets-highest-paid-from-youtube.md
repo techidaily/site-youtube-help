@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Ryan Kaji’s Net Worth  11-Year-Old Boy Gets Highest-Paid From YouTube\""
-date: 2024-05-26 13:50:48
-updated: 2024-05-29 10:17:47
+date: 2024-05-31T12:39:02.681Z
+updated: 2024-06-01T12:39:02.681Z
 tags:
   - ai video
   - ai youtube
@@ -888,3 +888,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

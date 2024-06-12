@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Make Killer YouTube Channel Art\""
-date: 2024-05-25 13:58:52
-updated: 2024-05-27 11:56:39
+date: 2024-05-31T12:47:56.663Z
+updated: 2024-06-01T12:47:56.663Z
 tags:
   - ai video
   - ai youtube
@@ -1694,3 +1694,4 @@ I firmly believe that at this point, understanding how to create a YouTube chann
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

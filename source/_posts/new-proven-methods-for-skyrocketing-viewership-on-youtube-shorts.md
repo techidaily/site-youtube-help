@@ -1,7 +1,7 @@
 ---
 title: "[New] Proven Methods for Skyrocketing Viewership on YouTube Shorts"
-date: 2024-05-27 15:45:16
-updated: 2024-05-29 10:50:39
+date: 2024-05-31T12:40:03.758Z
+updated: 2024-06-01T12:40:03.758Z
 tags:
   - ai video
   - ai youtube
@@ -1094,3 +1094,4 @@ Finally, there are a few things you should be aware of:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

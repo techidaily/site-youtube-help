@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quick Fix  Mac-Compatible YouTube Video Resize\""
-date: 2024-05-27 22:55:41
-updated: 2024-05-29 10:32:14
+date: 2024-05-31T12:40:22.610Z
+updated: 2024-06-01T12:40:22.610Z
 tags:
   - ai video
   - ai youtube
@@ -1002,3 +1002,4 @@ Stylish effects like overlays and transitions can give you a compelling piece of
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

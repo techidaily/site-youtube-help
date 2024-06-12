@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Optimize Video Sharing Preferences on YouTube\""
-date: 2024-05-28 19:17:31
-updated: 2024-05-29 10:53:45
+date: 2024-05-31T12:44:02.151Z
+updated: 2024-06-01T12:44:02.151Z
 tags:
   - ai video
   - ai youtube
@@ -1154,3 +1154,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

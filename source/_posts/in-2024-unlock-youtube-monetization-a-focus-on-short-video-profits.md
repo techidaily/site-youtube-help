@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unlock YouTube Monetization  A Focus on Short Video Profits\""
-date: 2024-05-30 11:35:59
-updated: 2024-06-01 11:17:24
+date: 2024-05-31T12:45:19.833Z
+updated: 2024-06-01T12:45:19.833Z
 tags:
   - ai video
   - ai youtube
@@ -1068,3 +1068,4 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

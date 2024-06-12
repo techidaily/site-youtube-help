@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Aesthetic Almanac  Makeup, Hair & More on YouTube\""
-date: 2024-05-27 17:33:53
-updated: 2024-05-30 11:52:32
+date: 2024-05-31T12:39:46.936Z
+updated: 2024-06-01T12:39:46.936Z
 tags:
   - ai video
   - ai youtube
@@ -1527,3 +1527,4 @@ Filmora templates are fully customizable, meaning you can change the text, image
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

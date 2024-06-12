@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Puns & Plots  Developing 7 Funny Video Storylines\""
-date: 2024-05-26 17:27:58
-updated: 2024-05-29 12:34:47
+date: 2024-05-31T12:45:13.201Z
+updated: 2024-06-01T12:45:13.201Z
 tags:
   - ai video
   - ai youtube
@@ -714,3 +714,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

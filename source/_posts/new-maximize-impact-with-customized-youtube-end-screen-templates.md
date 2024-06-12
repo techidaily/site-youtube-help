@@ -1,7 +1,7 @@
 ---
 title: "[New] Maximize Impact with Customized YouTube End Screen Templates"
-date: 2024-05-25 20:14:34
-updated: 2024-05-28 11:35:50
+date: 2024-05-31T12:39:27.178Z
+updated: 2024-06-01T12:39:27.178Z
 tags:
   - ai video
   - ai youtube
@@ -802,3 +802,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

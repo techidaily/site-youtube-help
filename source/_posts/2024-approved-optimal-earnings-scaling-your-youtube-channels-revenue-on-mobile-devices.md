@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Optimal Earnings  Scaling Your YouTube Channel's Revenue on Mobile Devices\""
-date: 2024-05-27 17:14:54
-updated: 2024-05-29 10:44:28
+date: 2024-05-31T12:44:13.280Z
+updated: 2024-06-01T12:44:13.280Z
 tags:
   - ai video
   - ai youtube
@@ -666,3 +666,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

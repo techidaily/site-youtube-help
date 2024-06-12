@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Space to Nature  YT's Guide for Dynamic Green Screen Filmmaking\""
-date: 2024-05-25 10:46:35
-updated: 2024-05-27 12:58:46
+date: 2024-05-31T12:44:06.559Z
+updated: 2024-06-01T12:44:06.559Z
 tags:
   - ai video
   - ai youtube
@@ -970,3 +970,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

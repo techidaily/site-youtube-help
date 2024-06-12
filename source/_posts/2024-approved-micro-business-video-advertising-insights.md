@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Micro-Business Video Advertising Insights\""
-date: 2024-05-26 20:56:27
-updated: 2024-05-28 11:16:23
+date: 2024-05-31T12:45:02.223Z
+updated: 2024-06-01T12:45:02.223Z
 tags:
   - ai video
   - ai youtube
@@ -522,3 +522,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

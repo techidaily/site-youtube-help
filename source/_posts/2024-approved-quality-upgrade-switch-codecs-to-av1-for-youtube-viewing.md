@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quality Upgrade  Switch Codecs to AV1 for YouTube Viewing\""
-date: 2024-05-27 13:15:36
-updated: 2024-05-29 10:24:18
+date: 2024-05-31T12:47:05.805Z
+updated: 2024-06-01T12:47:05.805Z
 tags:
   - ai video
   - ai youtube
@@ -388,3 +388,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

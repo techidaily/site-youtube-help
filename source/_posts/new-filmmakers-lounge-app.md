@@ -1,7 +1,7 @@
 ---
 title: "[New] Filmmaker's Lounge App"
-date: 2024-05-23 17:55:50
-updated: 2024-05-26 12:51:22
+date: 2024-05-31T12:42:25.795Z
+updated: 2024-06-01T12:42:25.795Z
 tags:
   - ai video
   - ai youtube
@@ -1274,3 +1274,4 @@ As you can tell, video dimensions significantly influence your media resolution 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

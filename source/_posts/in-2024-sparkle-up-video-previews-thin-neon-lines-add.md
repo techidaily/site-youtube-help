@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Sparkle up Video Previews  Thin Neon Lines Add\""
-date: 2024-05-29 20:37:56
-updated: 2024-05-30 12:32:43
+date: 2024-05-31T12:48:50.835Z
+updated: 2024-06-01T12:48:50.835Z
 tags:
   - ai video
   - ai youtube
@@ -1134,3 +1134,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

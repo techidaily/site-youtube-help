@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 20 Thumbnail Fonts for Impressive Video Credits\""
-date: 2024-05-29 16:15:56
-updated: 2024-05-31 11:27:44
+date: 2024-05-31T12:44:05.742Z
+updated: 2024-06-01T12:44:05.742Z
 tags:
   - ai video
   - ai youtube
@@ -695,3 +695,4 @@ Hopefully, you find this guide informative and can now create strong news style 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

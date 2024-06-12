@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Collection of YouTube Beauty Icons to Admire"
-date: 2024-05-29 18:47:26
-updated: 2024-05-31 12:46:56
+date: 2024-05-31T12:47:06.500Z
+updated: 2024-06-01T12:47:06.500Z
 tags:
   - ai video
   - ai youtube
@@ -646,3 +646,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step Toward Balance  Best Yoga Series to Watch and Learn From\""
-date: 2024-05-29 16:19:36
-updated: 2024-05-30 12:41:34
+date: 2024-05-31T12:40:44.570Z
+updated: 2024-06-01T12:40:44.570Z
 tags:
   - ai video
   - ai youtube
@@ -764,3 +764,4 @@ Thus YouTube shorts thumbnails are a very important part of your page optimizati
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

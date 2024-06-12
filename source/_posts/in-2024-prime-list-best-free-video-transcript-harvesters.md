@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Prime List  Best Free Video Transcript Harvesters\""
-date: 2024-05-28 10:50:57
-updated: 2024-05-29 10:27:18
+date: 2024-05-31T12:48:20.726Z
+updated: 2024-06-01T12:48:20.726Z
 tags:
   - ai video
   - ai youtube
@@ -936,3 +936,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

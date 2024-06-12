@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unlocking the Art of Video Marketing on YouTube"
-date: 2024-05-31 10:55:34
-updated: 2024-06-01 12:42:15
+date: 2024-05-31T12:44:11.791Z
+updated: 2024-06-01T12:44:11.791Z
 tags:
   - ai video
   - ai youtube
@@ -874,3 +874,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

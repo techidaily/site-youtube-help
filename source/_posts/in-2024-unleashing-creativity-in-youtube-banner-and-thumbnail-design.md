@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unleashing Creativity in YouTube Banner & Thumbnail Design"
-date: 2024-05-30 19:55:24
-updated: 2024-06-01 11:43:31
+date: 2024-05-31T12:45:00.727Z
+updated: 2024-06-01T12:45:00.727Z
 tags:
   - ai video
   - ai youtube
@@ -704,3 +704,4 @@ Simple isn't it. Yes, the process is quite simple. You can easily change YouTube
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

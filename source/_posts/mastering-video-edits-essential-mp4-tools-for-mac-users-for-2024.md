@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Video Edits  Essential MP4 Tools for Mac Users for 2024\""
-date: 2024-05-25 14:36:40
-updated: 2024-05-28 10:14:45
+date: 2024-05-31T12:41:18.718Z
+updated: 2024-06-01T12:41:18.718Z
 tags:
   - ai video
   - ai youtube
@@ -902,3 +902,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering YouTube Video Cuts  A Beginner's Guide for 2024\""
-date: 2024-05-27 20:52:47
-updated: 2024-05-28 12:59:56
+date: 2024-05-31T12:42:10.353Z
+updated: 2024-06-01T12:42:10.353Z
 tags:
   - ai video
   - ai youtube
@@ -810,3 +810,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Setting Up Your YouTube Studio  Essential Equipment List\""
-date: 2024-05-29 20:27:29
-updated: 2024-05-30 11:47:34
+date: 2024-05-31T12:46:05.679Z
+updated: 2024-06-01T12:46:05.679Z
 tags:
   - ai video
   - ai youtube
@@ -1406,3 +1406,4 @@ So, we'd now like to wrap up our music-oriented session on 20 top YouTube music 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

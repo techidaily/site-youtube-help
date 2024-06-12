@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Social Video Marketing Insights for Small Business [Infographic]\""
-date: 2024-05-28 17:59:15
-updated: 2024-05-30 10:28:25
+date: 2024-05-31T12:48:06.869Z
+updated: 2024-06-01T12:48:06.869Z
 tags:
   - ai video
   - ai youtube
@@ -686,3 +686,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

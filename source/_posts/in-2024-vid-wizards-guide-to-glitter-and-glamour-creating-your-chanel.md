@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Vid-Wizards Guide to Glitter and Glamour  Creating Your Chanel\""
-date: 2024-05-30 15:46:31
-updated: 2024-06-01 11:14:35
+date: 2024-05-31T12:43:52.977Z
+updated: 2024-06-01T12:43:52.977Z
 tags:
   - ai video
   - ai youtube
@@ -1290,3 +1290,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  No More YouTube Shorts  A Detailed Breakdown\""
-date: 2024-05-27 23:11:39
-updated: 2024-05-29 12:51:59
+date: 2024-05-31T12:41:49.813Z
+updated: 2024-06-01T12:41:49.813Z
 tags:
   - ai video
   - ai youtube
@@ -1514,3 +1514,4 @@ Follow @Sumia Rafique
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

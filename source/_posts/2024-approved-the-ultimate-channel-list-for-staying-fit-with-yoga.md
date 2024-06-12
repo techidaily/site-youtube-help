@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Channel List for Staying Fit with Yoga\""
-date: 2024-05-28 11:42:21
-updated: 2024-05-31 12:11:14
+date: 2024-05-31T12:42:28.454Z
+updated: 2024-06-01T12:42:28.454Z
 tags:
   - ai video
   - ai youtube
@@ -882,3 +882,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

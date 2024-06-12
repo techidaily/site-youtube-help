@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Step-by-Step to Stellar Custom Shorts Thumbnails\""
-date: 2024-05-28 22:52:42
-updated: 2024-05-30 11:42:58
+date: 2024-05-31T12:46:04.605Z
+updated: 2024-06-01T12:46:04.605Z
 tags:
   - ai video
   - ai youtube
@@ -1240,3 +1240,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

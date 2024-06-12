@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Art of YouTube Shorts  Filming and Editing Made Simple\""
-date: 2024-05-29 16:30:33
-updated: 2024-05-31 11:40:28
+date: 2024-05-31T12:39:57.799Z
+updated: 2024-06-01T12:39:57.799Z
 tags:
   - ai video
   - ai youtube
@@ -1234,3 +1234,4 @@ Detailed tutorials provided by the official channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

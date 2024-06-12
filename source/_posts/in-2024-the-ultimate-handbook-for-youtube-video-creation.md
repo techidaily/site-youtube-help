@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Handbook for YouTube Video Creation"
-date: 2024-05-29 21:31:44
-updated: 2024-05-31 12:21:15
+date: 2024-05-31T12:40:02.488Z
+updated: 2024-06-01T12:40:02.488Z
 tags:
   - ai video
   - ai youtube
@@ -738,3 +738,4 @@ Green screen photography produces excellent results, and its ease of use makes i
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

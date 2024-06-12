@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Thriving on YouTube  The Guide to Affiliates\""
-date: 2024-05-30 16:21:19
-updated: 2024-05-31 10:47:44
+date: 2024-05-31T12:45:08.447Z
+updated: 2024-06-01T12:45:08.447Z
 tags:
   - ai video
   - ai youtube
@@ -798,3 +798,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

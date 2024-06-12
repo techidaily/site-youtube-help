@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Kaji’s Wealth  Kid Star Earnings Surpass Major Celebrities\""
-date: 2024-05-26 23:32:57
-updated: 2024-05-28 11:26:55
+date: 2024-05-31T12:47:11.076Z
+updated: 2024-06-01T12:47:11.076Z
 tags:
   - ai video
   - ai youtube
@@ -748,3 +748,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] Prime Gear Picks for Beginning Creators"
-date: 2024-05-27 19:41:12
-updated: 2024-05-29 11:51:16
+date: 2024-05-31T12:45:28.675Z
+updated: 2024-06-01T12:45:28.675Z
 tags:
   - ai video
   - ai youtube
@@ -636,3 +636,4 @@ The YouTube Creator Studio allows you to manage your channel and content in a ce
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

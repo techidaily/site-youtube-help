@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfect Your Channel Imagery  YouTube Thumbnail Do's & Don'ts\""
-date: 2024-05-26 16:28:45
-updated: 2024-05-29 12:17:59
+date: 2024-05-31T12:41:13.573Z
+updated: 2024-06-01T12:41:13.573Z
 tags:
   - ai video
   - ai youtube
@@ -978,3 +978,4 @@ You can now sync audio and create a realistic moment as if you are sitting among
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

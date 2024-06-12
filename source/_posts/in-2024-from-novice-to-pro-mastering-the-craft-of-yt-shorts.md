@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Novice to Pro  Mastering the Craft of YT Shorts\""
-date: 2024-05-24 14:52:43
-updated: 2024-05-27 11:26:33
+date: 2024-05-31T12:41:28.249Z
+updated: 2024-06-01T12:41:28.249Z
 tags:
   - ai video
   - ai youtube
@@ -1034,3 +1034,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

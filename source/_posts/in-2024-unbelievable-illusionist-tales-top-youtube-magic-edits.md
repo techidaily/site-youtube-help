@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unbelievable Illusionist Tales  Top YouTube Magic Edits\""
-date: 2024-05-30 11:34:22
-updated: 2024-06-01 12:22:16
+date: 2024-05-31T12:42:42.263Z
+updated: 2024-06-01T12:42:42.263Z
 tags:
   - ai video
   - ai youtube
@@ -2752,3 +2752,4 @@ Detailed tutorials provided by the official channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

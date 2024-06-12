@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Stepwise Guide to Antiquated Visual Effects in Videos"
-date: 2024-05-28 16:11:53
-updated: 2024-05-30 12:25:14
+date: 2024-05-31T12:47:59.657Z
+updated: 2024-06-01T12:47:59.657Z
 tags:
   - ai video
   - ai youtube
@@ -862,3 +862,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

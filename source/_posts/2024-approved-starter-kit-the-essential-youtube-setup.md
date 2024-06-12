@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Starter Kit  The Essential YouTube Setup\""
-date: 2024-05-29 22:30:53
-updated: 2024-05-30 12:28:58
+date: 2024-05-31T12:48:43.799Z
+updated: 2024-06-01T12:48:43.799Z
 tags:
   - ai video
   - ai youtube
@@ -1182,3 +1182,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

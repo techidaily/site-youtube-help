@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Songwriter's Journey  Top 15 Video Tips for Music Creators\""
-date: 2024-05-28 12:16:23
-updated: 2024-05-31 10:24:40
+date: 2024-05-31T12:48:49.244Z
+updated: 2024-06-01T12:48:49.244Z
 tags:
   - ai video
   - ai youtube
@@ -806,3 +806,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

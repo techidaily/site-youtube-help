@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Buyer's Blueprint for Youtubers"
-date: 2024-05-30 10:59:59
-updated: 2024-05-31 10:10:21
+date: 2024-05-31T12:40:59.622Z
+updated: 2024-06-01T12:40:59.622Z
 tags:
   - ai video
   - ai youtube
@@ -1796,3 +1796,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

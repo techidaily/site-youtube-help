@@ -1,7 +1,7 @@
 ---
 title: "In 2024, 6 Free Software to Convert YouTube to MP3 for iPhone"
-date: 2024-05-27 22:34:25
-updated: 2024-05-30 12:14:33
+date: 2024-05-31T12:46:29.078Z
+updated: 2024-06-01T12:46:29.078Z
 tags:
   - ai video
   - ai youtube
@@ -986,3 +986,4 @@ Follow @Marion Dubois
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

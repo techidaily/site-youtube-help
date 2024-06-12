@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Ignite YouTube Branding  Get FREE Design Samples\""
-date: 2024-05-25 10:58:19
-updated: 2024-05-27 11:55:53
+date: 2024-05-31T12:41:25.492Z
+updated: 2024-06-01T12:41:25.492Z
 tags:
   - ai video
   - ai youtube
@@ -943,3 +943,4 @@ Filmora templates are fully customizable, meaning you can change the text, image
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Quick Creation of Fortnite Visuals"
-date: 2024-05-26 13:43:23
-updated: 2024-05-29 12:45:50
+date: 2024-05-31T12:43:16.136Z
+updated: 2024-06-01T12:43:16.136Z
 tags:
   - ai video
   - ai youtube
@@ -602,3 +602,4 @@ Hopefully, you find this guide informative and can now create strong news style 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

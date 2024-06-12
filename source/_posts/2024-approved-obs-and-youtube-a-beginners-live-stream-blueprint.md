@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  OBS and Youtube  A Beginner's Live Stream Blueprint\""
-date: 2024-05-28 21:26:12
-updated: 2024-05-29 11:44:15
+date: 2024-05-31T12:40:20.628Z
+updated: 2024-06-01T12:40:20.628Z
 tags:
   - ai video
   - ai youtube
@@ -902,3 +902,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

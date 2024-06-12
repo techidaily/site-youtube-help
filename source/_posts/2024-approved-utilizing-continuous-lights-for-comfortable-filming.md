@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Utilizing Continuous Lights for Comfortable Filming\""
-date: 2024-05-31 22:46:41
-updated: 2024-06-01 12:55:11
+date: 2024-05-31T12:44:06.927Z
+updated: 2024-06-01T12:44:06.927Z
 tags:
   - ai video
   - ai youtube
@@ -698,3 +698,4 @@ This comprehensive guide recommends the 5 best tools to help you **convert Spoti
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

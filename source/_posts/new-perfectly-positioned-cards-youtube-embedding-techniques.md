@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Perfectly Positioned Cards  YouTube Embedding Techniques\""
-date: 2024-05-27 17:13:19
-updated: 2024-05-29 10:25:52
+date: 2024-05-31T12:41:48.533Z
+updated: 2024-06-01T12:41:48.533Z
 tags:
   - ai video
   - ai youtube
@@ -738,3 +738,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

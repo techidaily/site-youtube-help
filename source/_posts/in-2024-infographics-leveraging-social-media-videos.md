@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Infographics  Leveraging Social Media Videos\""
-date: 2024-05-24 12:50:27
-updated: 2024-05-27 12:49:47
+date: 2024-05-31T12:44:52.469Z
+updated: 2024-06-01T12:44:52.469Z
 tags:
   - ai video
   - ai youtube
@@ -774,3 +774,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

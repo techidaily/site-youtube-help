@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Add a YouTube Video to Google Slides"
-date: 2024-05-26 12:15:56
-updated: 2024-05-27 10:24:12
+date: 2024-05-31T12:40:45.181Z
+updated: 2024-06-01T12:40:45.181Z
 tags:
   - ai video
   - ai youtube
@@ -1042,3 +1042,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

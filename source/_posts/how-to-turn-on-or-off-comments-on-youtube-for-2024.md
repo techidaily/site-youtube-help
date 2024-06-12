@@ -1,7 +1,7 @@
 ---
 title: "How to Turn on or Off Comments on YouTube for 2024"
-date: 2024-05-24 23:47:49
-updated: 2024-05-27 12:28:36
+date: 2024-05-31T12:46:04.053Z
+updated: 2024-06-01T12:46:04.053Z
 tags:
   - ai video
   - ai youtube
@@ -1086,3 +1086,4 @@ Captions are a great way to get users to engage with your videos. Studies have s
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Step-By-Step Guide to Adjust YouTube Video Speeds on the Fly\""
-date: 2024-05-27 15:38:38
-updated: 2024-05-30 10:10:27
+date: 2024-05-31T12:42:16.313Z
+updated: 2024-06-01T12:42:16.313Z
 tags:
   - ai video
   - ai youtube
@@ -955,3 +955,4 @@ Thanks for reading, folks.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

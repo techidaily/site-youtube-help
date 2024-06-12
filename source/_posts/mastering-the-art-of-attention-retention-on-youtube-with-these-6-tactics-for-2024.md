@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Attention Retention on YouTube with These 6 Tactics for 2024"
-date: 2024-05-25 14:17:31
-updated: 2024-05-28 11:40:12
+date: 2024-05-31T12:38:46.289Z
+updated: 2024-06-01T12:38:46.289Z
 tags:
   - ai video
   - ai youtube
@@ -918,3 +918,4 @@ However, ad overlay is for content creators with Google AdWords enabled on their
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

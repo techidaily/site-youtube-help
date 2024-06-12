@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Eye-Openers! Yearly Infographics on YT's Surprising Stats ('17)\""
-date: 2024-05-23 11:26:20
-updated: 2024-05-26 11:34:56
+date: 2024-05-31T12:46:59.937Z
+updated: 2024-06-01T12:46:59.937Z
 tags:
   - ai video
   - ai youtube
@@ -518,3 +518,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

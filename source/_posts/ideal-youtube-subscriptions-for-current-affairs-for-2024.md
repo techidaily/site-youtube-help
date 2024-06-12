@@ -1,7 +1,7 @@
 ---
 title: "Ideal YouTube Subscriptions for Current Affairs for 2024"
-date: 2024-05-24 10:37:14
-updated: 2024-05-27 11:27:44
+date: 2024-05-31T12:48:38.328Z
+updated: 2024-06-01T12:48:38.328Z
 tags:
   - ai video
   - ai youtube
@@ -1246,3 +1246,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

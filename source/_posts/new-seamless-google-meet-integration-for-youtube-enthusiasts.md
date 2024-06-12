@@ -1,7 +1,7 @@
 ---
 title: "[New] Seamless Google Meet Integration for YouTube Enthusiasts"
-date: 2024-05-29 20:40:34
-updated: 2024-05-30 11:44:49
+date: 2024-05-31T12:41:54.042Z
+updated: 2024-06-01T12:41:54.042Z
 tags:
   - ai video
   - ai youtube
@@ -481,3 +481,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

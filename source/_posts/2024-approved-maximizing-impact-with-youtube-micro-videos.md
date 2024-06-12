@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Maximizing Impact with YouTube Micro Videos\""
-date: 2024-05-27 10:50:58
-updated: 2024-05-28 12:42:40
+date: 2024-05-31T12:43:17.134Z
+updated: 2024-06-01T12:43:17.134Z
 tags:
   - ai video
   - ai youtube
@@ -890,3 +890,4 @@ However, ad overlay is for content creators with Google AdWords enabled on their
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

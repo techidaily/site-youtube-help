@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Video Creation  Our Picks for the Top 12 Flip-Screen Cams\""
-date: 2024-05-25 20:29:29
-updated: 2024-05-28 12:19:51
+date: 2024-05-31T12:38:25.824Z
+updated: 2024-06-01T12:38:25.824Z
 tags:
   - ai video
   - ai youtube
@@ -598,3 +598,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Visual Identity  Top 6 Sources for YouTube Icons & Logos for 2024\""
-date: 2024-05-25 13:17:44
-updated: 2024-05-28 10:52:34
+date: 2024-05-31T12:38:22.319Z
+updated: 2024-06-01T12:38:22.319Z
 tags:
   - ai video
   - ai youtube
@@ -3132,3 +3132,4 @@ Filmora. Filmora is presented for clients running Windows, Linux, and Mac workin
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

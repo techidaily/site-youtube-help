@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of YouTube Outros with Pros and Resources for 2024"
-date: 2024-05-27 19:27:33
-updated: 2024-05-28 11:12:42
+date: 2024-05-31T12:48:20.960Z
+updated: 2024-06-01T12:48:20.960Z
 tags:
   - ai video
   - ai youtube
@@ -1438,3 +1438,4 @@ In this day and age, many people are shifting to freelancing or creating compani
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

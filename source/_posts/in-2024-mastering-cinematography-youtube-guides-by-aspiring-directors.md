@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering Cinematography  YouTube Guides by Aspiring Directors\""
-date: 2024-05-25 14:20:49
-updated: 2024-05-28 12:26:17
+date: 2024-05-31T12:41:10.799Z
+updated: 2024-06-01T12:41:10.799Z
 tags:
   - ai video
   - ai youtube
@@ -437,3 +437,4 @@ We hope you've enjoyed reading this article and can now use the right hashtags f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

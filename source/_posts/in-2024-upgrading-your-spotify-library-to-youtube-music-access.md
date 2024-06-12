@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Upgrading Your Spotify Library to YouTube Music Access"
-date: 2024-05-29 11:25:23
-updated: 2024-06-01 12:57:20
+date: 2024-05-31T12:42:58.794Z
+updated: 2024-06-01T12:42:58.794Z
 tags:
   - ai video
   - ai youtube
@@ -698,3 +698,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

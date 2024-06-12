@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Script to Screen  Building a YouTube Trailer in Filmora\""
-date: 2024-05-25 16:15:59
-updated: 2024-05-27 12:57:32
+date: 2024-05-31T12:40:40.389Z
+updated: 2024-06-01T12:40:40.389Z
 tags:
   - ai video
   - ai youtube
@@ -824,3 +824,4 @@ Once you post your videos, give them some time to see if people will view them. 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Tips  Adding Captions in YouTube Videos\""
-date: 2024-05-26 14:38:16
-updated: 2024-05-29 11:24:54
+date: 2024-05-31T12:41:57.552Z
+updated: 2024-06-01T12:41:57.552Z
 tags:
   - ai video
   - ai youtube
@@ -662,3 +662,4 @@ Detailed tutorials provided by the official channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

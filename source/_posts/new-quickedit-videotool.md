@@ -1,7 +1,7 @@
 ---
 title: "[New] QuickEdit VideoTool"
-date: 2024-05-28 16:59:27
-updated: 2024-05-29 10:44:17
+date: 2024-05-31T12:42:44.772Z
+updated: 2024-06-01T12:42:44.772Z
 tags:
   - ai video
   - ai youtube
@@ -654,3 +654,4 @@ However, ad overlay is for content creators with Google AdWords enabled on their
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

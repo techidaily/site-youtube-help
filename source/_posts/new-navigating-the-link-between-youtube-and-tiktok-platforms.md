@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating the Link Between YouTube & TikTok Platforms"
-date: 2024-05-26 12:12:34
-updated: 2024-05-29 10:25:50
+date: 2024-05-31T12:47:27.727Z
+updated: 2024-06-01T12:47:27.727Z
 tags:
   - ai video
   - ai youtube
@@ -1462,3 +1462,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

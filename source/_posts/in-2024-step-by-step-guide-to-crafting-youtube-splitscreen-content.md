@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Step-by-Step Guide to Crafting YouTube Splitscreen Content\""
-date: 2024-05-28 22:45:17
-updated: 2024-05-30 11:39:29
+date: 2024-05-31T12:41:34.962Z
+updated: 2024-06-01T12:41:34.962Z
 tags:
   - ai video
   - ai youtube
@@ -830,3 +830,4 @@ YouTubers use several video editors for their work. Some of the most popular edi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

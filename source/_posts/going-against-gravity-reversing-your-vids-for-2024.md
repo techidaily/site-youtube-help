@@ -1,7 +1,7 @@
 ---
 title: "\"Going Against Gravity  Reversing Your Vids for 2024\""
-date: 2024-05-24 19:49:27
-updated: 2024-05-27 12:50:18
+date: 2024-05-31T12:40:05.374Z
+updated: 2024-06-01T12:40:05.374Z
 tags:
   - ai video
   - ai youtube
@@ -1134,3 +1134,4 @@ Captions are a great way to get users to engage with your videos. Studies have s
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

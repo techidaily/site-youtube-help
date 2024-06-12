@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Conversion Guide  YouTube to IGTV\""
-date: 2024-05-29 19:31:30
-updated: 2024-05-31 10:41:45
+date: 2024-05-31T12:41:55.391Z
+updated: 2024-06-01T12:41:55.391Z
 tags:
   - ai video
   - ai youtube
@@ -804,3 +804,4 @@ Hopefully, you've found this article helpful and can now get the SRT files for y
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

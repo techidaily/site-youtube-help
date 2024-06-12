@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Uncover Earth's Wonders with These Top 10 Vids\""
-date: 2024-05-31 20:44:13
-updated: 2024-06-01 11:12:13
+date: 2024-05-31T12:45:17.006Z
+updated: 2024-06-01T12:45:17.006Z
 tags:
   - ai video
   - ai youtube
@@ -874,3 +874,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

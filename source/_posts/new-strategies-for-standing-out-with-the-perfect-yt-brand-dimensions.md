@@ -1,7 +1,7 @@
 ---
 title: "[New] Strategies for Standing Out with the Perfect YT Brand Dimensions"
-date: 2024-05-27 21:48:34
-updated: 2024-05-30 11:56:21
+date: 2024-05-31T12:41:56.323Z
+updated: 2024-06-01T12:41:56.323Z
 tags:
   - ai video
   - ai youtube
@@ -1034,3 +1034,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

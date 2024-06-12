@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Beginner's Checklist  8 Key Slip-Ups in YouTube Creation\""
-date: 2024-05-30 16:21:55
-updated: 2024-05-31 12:34:10
+date: 2024-05-31T12:41:44.563Z
+updated: 2024-06-01T12:41:44.563Z
 tags:
   - ai video
   - ai youtube
@@ -670,3 +670,4 @@ In this day and age, many people are shifting to freelancing or creating compani
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

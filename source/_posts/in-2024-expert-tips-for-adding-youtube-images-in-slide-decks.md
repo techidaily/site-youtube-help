@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Expert Tips for Adding YouTube Images in Slide Decks"
-date: 2024-05-23 18:14:28
-updated: 2024-05-26 12:49:13
+date: 2024-05-31T12:43:09.488Z
+updated: 2024-06-01T12:43:09.488Z
 tags:
   - ai video
   - ai youtube
@@ -1490,3 +1490,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

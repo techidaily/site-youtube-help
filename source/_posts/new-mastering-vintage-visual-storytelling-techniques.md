@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Vintage Visual Storytelling Techniques"
-date: 2024-05-26 13:53:46
-updated: 2024-05-28 12:17:24
+date: 2024-05-31T12:42:01.765Z
+updated: 2024-06-01T12:42:01.765Z
 tags:
   - ai video
   - ai youtube
@@ -990,3 +990,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

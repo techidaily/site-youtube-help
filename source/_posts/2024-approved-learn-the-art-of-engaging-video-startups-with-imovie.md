@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Learn the Art of Engaging Video Startups with iMovie\""
-date: 2024-05-27 14:19:53
-updated: 2024-05-28 12:29:42
+date: 2024-05-31T12:44:34.478Z
+updated: 2024-06-01T12:44:34.478Z
 tags:
   - ai video
   - ai youtube
@@ -626,3 +626,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

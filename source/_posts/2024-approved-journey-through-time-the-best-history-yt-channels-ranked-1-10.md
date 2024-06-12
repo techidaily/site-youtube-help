@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Journey Through Time  The Best History YT Channels Ranked #1-10\""
-date: 2024-05-27 16:32:41
-updated: 2024-05-28 10:11:30
+date: 2024-05-31T12:48:34.458Z
+updated: 2024-06-01T12:48:34.458Z
 tags:
   - ai video
   - ai youtube
@@ -668,3 +668,4 @@ Thus, this article has valuable insights into the width and height of YouTube Th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

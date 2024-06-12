@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Essential Playbook  Achieving Peak Video Editing on YouTube Studio\""
-date: 2024-05-29 13:39:54
-updated: 2024-05-31 11:20:40
+date: 2024-05-31T12:41:53.372Z
+updated: 2024-06-01T12:41:53.372Z
 tags:
   - ai video
   - ai youtube
@@ -690,3 +690,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

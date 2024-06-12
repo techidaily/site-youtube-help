@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Prime Anime Selections on YouTube, Ranked\""
-date: 2024-05-27 11:11:57
-updated: 2024-05-29 12:24:53
+date: 2024-05-31T12:48:18.001Z
+updated: 2024-06-01T12:48:18.001Z
 tags:
   - ai video
   - ai youtube
@@ -1216,3 +1216,4 @@ The better you can design your banner, the higher your chances of growing an aud
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

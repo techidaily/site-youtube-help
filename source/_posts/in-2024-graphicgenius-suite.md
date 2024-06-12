@@ -1,7 +1,7 @@
 ---
 title: "In 2024, GraphicGenius Suite"
-date: 2024-05-26 10:48:23
-updated: 2024-05-27 11:19:54
+date: 2024-05-31T12:42:15.273Z
+updated: 2024-06-01T12:42:15.273Z
 tags:
   - ai video
   - ai youtube
@@ -638,3 +638,4 @@ Stylish effects like overlays and transitions can give you a compelling piece of
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

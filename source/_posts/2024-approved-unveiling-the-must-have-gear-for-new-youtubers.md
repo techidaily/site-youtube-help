@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveiling the Must-Have Gear for New YouTubers\""
-date: 2024-05-31 23:47:37
-updated: 2024-06-01 11:22:29
+date: 2024-05-31T12:43:13.846Z
+updated: 2024-06-01T12:43:13.846Z
 tags:
   - ai video
   - ai youtube
@@ -1160,3 +1160,4 @@ But, while starting, your funding will be less. It would help if you handled the
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Streamline Your Slides with YouTube Videos - A Beginner's Guide\""
-date: 2024-05-27 15:46:47
-updated: 2024-05-30 11:51:27
+date: 2024-05-31T12:48:18.922Z
+updated: 2024-06-01T12:48:18.922Z
 tags:
   - ai video
   - ai youtube
@@ -1046,3 +1046,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

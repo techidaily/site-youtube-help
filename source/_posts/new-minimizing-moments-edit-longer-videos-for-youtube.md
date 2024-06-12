@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Minimizing Moments  Edit Longer Videos for YouTube\""
-date: 2024-05-25 15:35:26
-updated: 2024-05-28 12:59:24
+date: 2024-05-31T12:42:06.193Z
+updated: 2024-06-01T12:42:06.193Z
 tags:
   - ai video
   - ai youtube
@@ -546,3 +546,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

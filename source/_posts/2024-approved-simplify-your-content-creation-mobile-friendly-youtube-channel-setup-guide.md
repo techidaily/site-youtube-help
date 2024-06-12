@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Simplify Your Content Creation  Mobile-Friendly YouTube Channel Setup Guide\""
-date: 2024-05-28 22:29:30
-updated: 2024-05-30 10:17:56
+date: 2024-05-31T12:46:52.524Z
+updated: 2024-06-01T12:46:52.524Z
 tags:
   - ai video
   - ai youtube
@@ -1322,3 +1322,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

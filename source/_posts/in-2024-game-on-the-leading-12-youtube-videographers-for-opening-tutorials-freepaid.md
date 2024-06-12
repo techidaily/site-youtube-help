@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Game On  The Leading 12 YouTube Videographers for Opening Tutorials (Free/Paid)\""
-date: 2024-05-24 11:40:31
-updated: 2024-05-27 10:32:21
+date: 2024-05-31T12:48:45.176Z
+updated: 2024-06-01T12:48:45.176Z
 tags:
   - ai video
   - ai youtube
@@ -1056,3 +1056,4 @@ It's easy to do, and it can be a great way to spend time with family members and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

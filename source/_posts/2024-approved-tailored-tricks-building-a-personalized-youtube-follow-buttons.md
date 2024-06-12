@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tailored Tricks  Building a Personalized YouTube Follow Buttons\""
-date: 2024-05-27 16:26:39
-updated: 2024-05-30 12:35:38
+date: 2024-05-31T12:46:24.680Z
+updated: 2024-06-01T12:46:24.680Z
 tags:
   - ai video
   - ai youtube
@@ -454,3 +454,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

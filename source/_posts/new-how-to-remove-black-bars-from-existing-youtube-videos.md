@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Remove Black Bars From Existing YouTube Videos?"
-date: 2024-05-27 19:31:44
-updated: 2024-05-29 10:44:49
+date: 2024-05-31T12:39:11.571Z
+updated: 2024-06-01T12:39:11.571Z
 tags:
   - ai video
   - ai youtube
@@ -850,3 +850,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

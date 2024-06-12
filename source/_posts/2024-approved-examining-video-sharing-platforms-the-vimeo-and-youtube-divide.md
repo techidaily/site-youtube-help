@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Examining Video Sharing Platforms  The Vimeo & YouTube Divide\""
-date: 2024-05-23 10:31:54
-updated: 2024-05-26 10:10:52
+date: 2024-05-31T12:48:46.780Z
+updated: 2024-06-01T12:48:46.780Z
 tags:
   - ai video
   - ai youtube
@@ -894,3 +894,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

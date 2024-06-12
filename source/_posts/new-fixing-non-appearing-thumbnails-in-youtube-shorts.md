@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Fixing Non-Appearing Thumbnails in YouTube Shorts\""
-date: 2024-05-26 12:23:13
-updated: 2024-05-27 12:30:44
+date: 2024-05-31T12:47:47.593Z
+updated: 2024-06-01T12:47:47.593Z
 tags:
   - ai video
   - ai youtube
@@ -313,3 +313,4 @@ For today, YouTube encodes all the videos with the VP9 codec, but for some reaso
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

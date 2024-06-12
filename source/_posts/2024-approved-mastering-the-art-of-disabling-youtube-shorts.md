@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering the Art of Disabling YouTube Shorts\""
-date: 2024-05-26 11:17:36
-updated: 2024-05-28 11:36:36
+date: 2024-05-31T12:47:58.901Z
+updated: 2024-06-01T12:47:58.901Z
 tags:
   - ai video
   - ai youtube
@@ -1167,3 +1167,4 @@ Filmora templates are fully customizable, meaning you can change the text, image
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

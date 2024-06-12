@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Starter Kit  The Essential YouTube Setup\""
-date: 2024-05-28 19:58:34
-updated: 2024-05-30 12:38:40
+date: 2024-05-31T12:38:26.588Z
+updated: 2024-06-01T12:38:26.588Z
 tags:
   - ai video
   - ai youtube
@@ -1142,3 +1142,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

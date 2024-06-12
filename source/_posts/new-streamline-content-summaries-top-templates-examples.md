@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Streamline Content Summaries  Top Templates Examples\""
-date: 2024-05-27 15:19:55
-updated: 2024-05-30 12:26:13
+date: 2024-05-31T12:39:23.923Z
+updated: 2024-06-01T12:39:23.923Z
 tags:
   - ai video
   - ai youtube
@@ -674,3 +674,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  New-Age Influencers 8  YouTube's Swift Surge\""
-date: 2024-05-28 19:12:38
-updated: 2024-05-29 10:51:16
+date: 2024-05-31T12:41:55.264Z
+updated: 2024-06-01T12:41:55.264Z
 tags:
   - ai video
   - ai youtube
@@ -878,3 +878,4 @@ Hopefully, the information in this guide will be useful when you’re looking fo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

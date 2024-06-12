@@ -1,7 +1,7 @@
 ---
 title: "\"Micro-Moments of Fame  Do YouTubes Shorts or TikToks Get the Edge, In 2024\""
-date: 2024-05-25 16:42:42
-updated: 2024-05-28 12:29:41
+date: 2024-05-31T12:43:45.380Z
+updated: 2024-06-01T12:43:45.380Z
 tags:
   - ai video
   - ai youtube
@@ -734,3 +734,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

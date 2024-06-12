@@ -1,7 +1,7 @@
 ---
 title: "\"Harnessing Video Magic  Channel Creation Wizardry for 2024\""
-date: 2024-05-24 23:18:26
-updated: 2024-05-27 11:36:33
+date: 2024-05-31T12:43:01.746Z
+updated: 2024-06-01T12:43:01.746Z
 tags:
   - ai video
   - ai youtube
@@ -652,3 +652,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

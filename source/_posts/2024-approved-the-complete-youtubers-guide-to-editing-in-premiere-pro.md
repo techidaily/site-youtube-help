@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Complete Youtuber's Guide to Editing in Premiere Pro\""
-date: 2024-05-29 17:41:35
-updated: 2024-05-31 10:54:57
+date: 2024-05-31T12:39:07.725Z
+updated: 2024-06-01T12:39:07.725Z
 tags:
   - ai video
   - ai youtube
@@ -558,3 +558,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

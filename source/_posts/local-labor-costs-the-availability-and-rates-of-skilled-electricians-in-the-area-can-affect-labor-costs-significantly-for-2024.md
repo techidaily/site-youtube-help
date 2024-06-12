@@ -1,7 +1,7 @@
 ---
 title: "\"__Local Labor Costs__  The Availability and Rates of Skilled Electricians in the Area Can Affect Labor Costs Significantly for 2024\""
-date: 2024-05-27 18:39:11
-updated: 2024-05-28 11:17:50
+date: 2024-05-31T12:40:36.795Z
+updated: 2024-06-01T12:40:36.795Z
 tags:
   - ai video
   - ai youtube
@@ -829,3 +829,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Art of Profit From 20-Second Videography  A Guide for Creators\""
-date: 2024-05-27 20:39:24
-updated: 2024-05-30 12:48:13
+date: 2024-05-31T12:42:42.172Z
+updated: 2024-06-01T12:42:42.172Z
 tags:
   - ai video
   - ai youtube
@@ -1148,3 +1148,4 @@ As you can tell, video dimensions significantly influence your media resolution 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

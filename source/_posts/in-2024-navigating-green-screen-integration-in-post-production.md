@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Navigating Green Screen Integration in Post-Production\""
-date: 2024-05-26 14:48:24
-updated: 2024-05-28 11:46:10
+date: 2024-05-31T12:42:00.346Z
+updated: 2024-06-01T12:42:00.346Z
 tags:
   - ai video
   - ai youtube
@@ -464,3 +464,4 @@ Alright! Following the steps mentioned above, you will be able to create a good 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

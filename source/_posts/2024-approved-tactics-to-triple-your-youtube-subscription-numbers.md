@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tactics to Triple Your YouTube Subscription Numbers\""
-date: 2024-05-28 20:27:57
-updated: 2024-05-30 12:38:20
+date: 2024-05-31T12:48:14.672Z
+updated: 2024-06-01T12:48:14.672Z
 tags:
   - ai video
   - ai youtube
@@ -674,3 +674,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

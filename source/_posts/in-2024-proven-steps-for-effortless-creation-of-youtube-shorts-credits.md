@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Proven Steps for Effortless Creation of YouTube Shorts Credits"
-date: 2024-05-26 23:27:58
-updated: 2024-05-29 12:37:15
+date: 2024-05-31T12:43:05.194Z
+updated: 2024-06-01T12:43:05.194Z
 tags:
   - ai video
   - ai youtube
@@ -673,3 +673,4 @@ Now you know what to do and what not to do when it comes to recording and editin
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

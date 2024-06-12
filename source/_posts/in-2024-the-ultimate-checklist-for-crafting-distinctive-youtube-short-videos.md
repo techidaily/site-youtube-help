@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Checklist for Crafting Distinctive YouTube Short Videos"
-date: 2024-05-30 18:12:29
-updated: 2024-05-31 12:58:52
+date: 2024-05-31T12:42:48.722Z
+updated: 2024-06-01T12:42:48.722Z
 tags:
   - ai video
   - ai youtube
@@ -856,3 +856,4 @@ The introduction of the YouTube monetization 500 subscribers’ policy update wa
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

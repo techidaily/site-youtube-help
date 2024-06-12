@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Leveraging SEO in Youtube  A Title & Tags Guidebook\""
-date: 2024-05-26 12:36:55
-updated: 2024-05-28 12:42:40
+date: 2024-05-31T12:41:53.087Z
+updated: 2024-06-01T12:41:53.087Z
 tags:
   - ai video
   - ai youtube
@@ -647,3 +647,4 @@ Now you know what to do and what not to do when it comes to recording and editin
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Understanding ASPECT RATIOS' Impact on YOUTUBE Viewership"
-date: 2024-05-31 15:45:41
-updated: 2024-06-01 11:43:18
+date: 2024-05-31T12:44:28.467Z
+updated: 2024-06-01T12:44:28.467Z
 tags:
   - ai video
   - ai youtube
@@ -968,3 +968,4 @@ Link: <https://www.youtube.com/user/zeenews/videos>
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

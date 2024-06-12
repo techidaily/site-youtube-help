@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Immediate Hit List  Top 10 Videos Watched First Hour\""
-date: 2024-05-26 18:13:12
-updated: 2024-05-27 12:18:36
+date: 2024-05-31T12:42:14.918Z
+updated: 2024-06-01T12:42:14.918Z
 tags:
   - ai video
   - ai youtube
@@ -850,3 +850,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

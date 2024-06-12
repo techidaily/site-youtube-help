@@ -1,7 +1,7 @@
 ---
 title: "Forget YouTube? Here Are the Best 10 Mobile Video Sites for 2024"
-date: 2024-05-26 11:50:10
-updated: 2024-05-27 12:26:18
+date: 2024-05-31T12:45:02.532Z
+updated: 2024-06-01T12:45:02.532Z
 tags:
   - ai video
   - ai youtube
@@ -1934,3 +1934,4 @@ Detailed tutorials provided by the official channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

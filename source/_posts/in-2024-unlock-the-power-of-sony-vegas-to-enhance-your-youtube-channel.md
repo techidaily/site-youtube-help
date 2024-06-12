@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unlock the Power of Sony Vegas to Enhance Your YouTube Channel"
-date: 2024-05-31 15:26:23
-updated: 2024-06-01 12:36:52
+date: 2024-05-31T12:41:10.901Z
+updated: 2024-06-01T12:41:10.901Z
 tags:
   - ai video
   - ai youtube
@@ -716,3 +716,4 @@ Hopefully, you've found this article helpful and can now get the SRT files for y
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

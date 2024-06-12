@@ -1,7 +1,7 @@
 ---
 title: "How to Write a Script for a YouTube Video for 2024"
-date: 2024-05-26 23:49:19
-updated: 2024-05-27 10:59:37
+date: 2024-05-31T12:48:50.613Z
+updated: 2024-06-01T12:48:50.613Z
 tags:
   - ai video
   - ai youtube
@@ -722,3 +722,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

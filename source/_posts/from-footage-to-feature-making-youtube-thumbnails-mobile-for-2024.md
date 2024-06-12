@@ -1,7 +1,7 @@
 ---
 title: "\"From Footage to Feature  Making YouTube Thumbnails (Mobile) for 2024\""
-date: 2024-05-25 10:29:40
-updated: 2024-05-27 11:25:56
+date: 2024-05-31T12:40:00.818Z
+updated: 2024-06-01T12:40:00.818Z
 tags:
   - ai video
   - ai youtube
@@ -655,3 +655,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

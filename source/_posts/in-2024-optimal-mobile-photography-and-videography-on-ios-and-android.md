@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Optimal Mobile Photography and Videography on iOS & Android"
-date: 2024-05-27 18:48:51
-updated: 2024-05-29 11:54:27
+date: 2024-05-31T12:43:15.254Z
+updated: 2024-06-01T12:43:15.254Z
 tags:
   - ai video
   - ai youtube
@@ -724,3 +724,4 @@ Checking YouTube income is not a big deal. This article has covered every necess
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

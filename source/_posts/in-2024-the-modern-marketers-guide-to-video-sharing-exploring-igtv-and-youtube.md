@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Modern Marketer's Guide to Video Sharing  Exploring IGTV & YouTube\""
-date: 2024-05-28 23:29:43
-updated: 2024-05-31 11:20:40
+date: 2024-05-31T12:43:36.442Z
+updated: 2024-06-01T12:43:36.442Z
 tags:
   - ai video
   - ai youtube
@@ -596,3 +596,4 @@ The introduction of the YouTube monetization 500 subscribers’ policy update wa
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

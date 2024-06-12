@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Short Film Producer YT"
-date: 2024-05-27 18:43:29
-updated: 2024-05-30 12:24:26
+date: 2024-05-31T12:40:34.405Z
+updated: 2024-06-01T12:40:34.405Z
 tags:
   - ai video
   - ai youtube
@@ -770,3 +770,4 @@ In this day and age, many people are shifting to freelancing or creating compani
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

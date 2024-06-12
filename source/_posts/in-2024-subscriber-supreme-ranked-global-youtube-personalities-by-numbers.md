@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Subscriber Supreme  Ranked Global YouTube Personalities by Numbers\""
-date: 2024-05-29 15:25:15
-updated: 2024-05-30 10:29:41
+date: 2024-05-31T12:42:22.211Z
+updated: 2024-06-01T12:42:22.211Z
 tags:
   - ai video
   - ai youtube
@@ -1490,3 +1490,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

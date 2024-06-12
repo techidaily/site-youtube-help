@@ -1,7 +1,7 @@
 ---
 title: "[New] Pioneering YouTube Ad Creation Talent Revealed"
-date: 2024-05-27 12:20:50
-updated: 2024-05-29 10:23:35
+date: 2024-05-31T12:42:56.880Z
+updated: 2024-06-01T12:42:56.880Z
 tags:
   - ai video
   - ai youtube
@@ -1880,3 +1880,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

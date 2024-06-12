@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Self-Filmed Flair  Tips for Captivating Solo Videos\""
-date: 2024-05-27 10:39:58
-updated: 2024-05-30 11:31:26
+date: 2024-05-31T12:42:28.208Z
+updated: 2024-06-01T12:42:28.208Z
 tags:
   - ai video
   - ai youtube
@@ -606,3 +606,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

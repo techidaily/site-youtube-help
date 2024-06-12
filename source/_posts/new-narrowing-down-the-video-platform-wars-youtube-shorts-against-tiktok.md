@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Narrowing Down the Video Platform Wars  YouTube Shorts Against TikTok\""
-date: 2024-05-26 16:59:44
-updated: 2024-05-28 12:42:39
+date: 2024-05-31T12:47:50.965Z
+updated: 2024-06-01T12:47:50.965Z
 tags:
   - ai video
   - ai youtube
@@ -918,3 +918,4 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

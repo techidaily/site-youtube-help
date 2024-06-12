@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Partial YouTube Extraction for 2024"
-date: 2024-05-25 12:40:25
-updated: 2024-05-28 12:45:58
+date: 2024-05-31T12:42:51.388Z
+updated: 2024-06-01T12:42:51.388Z
 tags:
   - ai video
   - ai youtube
@@ -1139,3 +1139,4 @@ Whether you create your thumbnails on your mobile device or your computer, use a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

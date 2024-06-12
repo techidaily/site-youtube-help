@@ -1,7 +1,7 @@
 ---
 title: "[New] Guidance to YouTube Music Mix"
-date: 2024-05-24 18:43:37
-updated: 2024-05-27 12:31:38
+date: 2024-05-31T12:41:35.207Z
+updated: 2024-06-01T12:41:35.207Z
 tags:
   - ai video
   - ai youtube
@@ -418,3 +418,4 @@ Sometimes it might help your mental health if you can take out time to watch som
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

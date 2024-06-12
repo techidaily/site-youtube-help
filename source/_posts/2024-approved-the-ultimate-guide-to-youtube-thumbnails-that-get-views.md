@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Guide to YouTube Thumbnails that Get Views\""
-date: 2024-05-29 17:27:38
-updated: 2024-05-31 10:48:49
+date: 2024-05-31T12:48:58.092Z
+updated: 2024-06-01T12:48:58.092Z
 tags:
   - ai video
   - ai youtube
@@ -1462,3 +1462,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

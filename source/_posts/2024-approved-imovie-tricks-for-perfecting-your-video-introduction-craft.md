@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  IMovie Tricks for Perfecting Your Video Introduction Craft\""
-date: 2024-05-26 21:25:26
-updated: 2024-05-27 11:56:32
+date: 2024-05-31T12:48:47.959Z
+updated: 2024-06-01T12:48:47.959Z
 tags:
   - ai video
   - ai youtube
@@ -638,3 +638,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Ultimate Guide to Effective Video Trimming Tools"
-date: 2024-05-31 21:53:14
-updated: 2024-06-01 12:36:19
+date: 2024-05-31T12:42:41.135Z
+updated: 2024-06-01T12:42:41.135Z
 tags:
   - ai video
   - ai youtube
@@ -1162,3 +1162,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

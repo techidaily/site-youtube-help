@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Giggle Galore  Curating the Funniest 10 Short-Form Web Series Ideas\""
-date: 2024-05-25 11:48:21
-updated: 2024-05-27 11:56:19
+date: 2024-05-31T12:43:24.534Z
+updated: 2024-06-01T12:43:24.534Z
 tags:
   - ai video
   - ai youtube
@@ -1190,3 +1190,4 @@ It is important to know that the default resolution of a YouTube thumbnail is 12
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Step-by-Step  Customizing Your YouTube Channel URL\""
-date: 2024-05-27 12:52:31
-updated: 2024-05-30 10:42:37
+date: 2024-05-31T12:40:52.646Z
+updated: 2024-06-01T12:40:52.646Z
 tags:
   - ai video
   - ai youtube
@@ -1222,3 +1222,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

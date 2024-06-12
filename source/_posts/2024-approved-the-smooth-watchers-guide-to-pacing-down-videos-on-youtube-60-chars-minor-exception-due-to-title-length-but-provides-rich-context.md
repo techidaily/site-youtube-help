@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Smooth Watcher's Guide to Pacing Down Videos on YouTube (60 Chars, Minor Exception Due to Title Length but Provides Rich Context)\""
-date: 2024-05-29 22:52:58
-updated: 2024-05-31 11:15:11
+date: 2024-05-31T12:46:23.572Z
+updated: 2024-06-01T12:46:23.572Z
 tags:
   - ai video
   - ai youtube
@@ -1282,3 +1282,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

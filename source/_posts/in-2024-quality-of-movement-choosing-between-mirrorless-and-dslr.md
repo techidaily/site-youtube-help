@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Quality of Movement  Choosing Between Mirrorless & DSLR\""
-date: 2024-05-28 10:52:16
-updated: 2024-05-29 12:34:10
+date: 2024-05-31T12:40:13.169Z
+updated: 2024-06-01T12:40:13.169Z
 tags:
   - ai video
   - ai youtube
@@ -858,3 +858,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

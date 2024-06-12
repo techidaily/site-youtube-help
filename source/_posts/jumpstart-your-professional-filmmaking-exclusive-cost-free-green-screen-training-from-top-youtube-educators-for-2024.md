@@ -1,7 +1,7 @@
 ---
 title: "\"Jumpstart Your Professional Filmmaking  Exclusive, Cost-Free Green Screen Training From Top YouTube Educators for 2024\""
-date: 2024-05-26 15:45:15
-updated: 2024-05-28 11:16:22
+date: 2024-05-31T12:46:35.354Z
+updated: 2024-06-01T12:46:35.354Z
 tags:
   - ai video
   - ai youtube
@@ -654,3 +654,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Navigating Through Time  The Finest History YouTube Sources for Students\""
-date: 2024-05-28 18:43:54
-updated: 2024-05-29 11:15:13
+date: 2024-05-31T12:44:37.211Z
+updated: 2024-06-01T12:44:37.211Z
 tags:
   - ai video
   - ai youtube
@@ -602,3 +602,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

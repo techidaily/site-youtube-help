@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating the Youtube Numbers  Views & Earnings Unpacked\""
-date: 2024-05-28 12:23:41
-updated: 2024-05-29 10:57:30
+date: 2024-05-31T12:43:58.609Z
+updated: 2024-06-01T12:43:58.609Z
 tags:
   - ai video
   - ai youtube
@@ -1186,3 +1186,4 @@ You've just finished creating and editing your video. Click on the "Save" tab an
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

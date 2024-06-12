@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Host Smart and Cheap  Your Guide to Youtube Seminars\""
-date: 2024-05-25 21:13:29
-updated: 2024-05-27 12:27:26
+date: 2024-05-31T12:43:55.660Z
+updated: 2024-06-01T12:43:55.660Z
 tags:
   - ai video
   - ai youtube
@@ -376,3 +376,4 @@ For today, YouTube encodes all the videos with the VP9 codec, but for some reaso
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking Online Potential  Mastering the Art of Thumbnail Sizing\""
-date: 2024-05-31 16:53:23
-updated: 2024-06-01 12:50:24
+date: 2024-05-31T12:47:34.644Z
+updated: 2024-06-01T12:47:34.644Z
 tags:
   - ai video
   - ai youtube
@@ -1010,3 +1010,4 @@ With well-written descriptions and high-quality videos, your success on YouTube 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

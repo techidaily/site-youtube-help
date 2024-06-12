@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 10 iOS & Android Beginner Video-Makers\""
-date: 2024-05-29 10:49:25
-updated: 2024-05-31 12:43:56
+date: 2024-05-31T12:38:56.654Z
+updated: 2024-06-01T12:38:56.654Z
 tags:
   - ai video
   - ai youtube
@@ -2090,3 +2090,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

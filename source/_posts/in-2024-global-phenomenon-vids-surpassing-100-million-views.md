@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Global Phenomenon Vids Surpassing 100 Million Views"
-date: 2024-05-26 20:31:41
-updated: 2024-05-27 10:39:41
+date: 2024-05-31T12:40:57.522Z
+updated: 2024-06-01T12:40:57.522Z
 tags:
   - ai video
   - ai youtube
@@ -1582,3 +1582,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

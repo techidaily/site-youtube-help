@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Underappreciated Film Phenoms of This Year"
-date: 2024-05-30 12:29:43
-updated: 2024-05-31 12:31:19
+date: 2024-05-31T12:39:56.616Z
+updated: 2024-06-01T12:39:56.616Z
 tags:
   - ai video
   - ai youtube
@@ -822,3 +822,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

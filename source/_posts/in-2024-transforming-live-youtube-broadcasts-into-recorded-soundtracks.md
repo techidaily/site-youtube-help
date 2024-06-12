@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Transforming Live YouTube Broadcasts Into Recorded Soundtracks"
-date: 2024-05-29 20:25:53
-updated: 2024-06-01 11:24:52
+date: 2024-05-31T12:45:37.270Z
+updated: 2024-06-01T12:45:37.270Z
 tags:
   - ai video
   - ai youtube
@@ -874,3 +874,4 @@ This portion of VTubing isn't all that dissimilar from creating regular video ma
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

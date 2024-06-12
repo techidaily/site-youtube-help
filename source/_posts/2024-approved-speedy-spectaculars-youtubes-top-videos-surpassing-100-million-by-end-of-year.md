@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Speedy Spectaculars – YouTube's Top Videos Surpassing 100 Million by End of Year\""
-date: 2024-05-28 22:19:43
-updated: 2024-05-30 12:31:43
+date: 2024-05-31T12:43:46.789Z
+updated: 2024-06-01T12:43:46.789Z
 tags:
   - ai video
   - ai youtube
@@ -790,3 +790,4 @@ With YouTube monetization how many views does it take to make money? This will d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

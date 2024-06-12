@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 10 Most Watched YouTube Video in 24 Hours"
-date: 2024-05-30 20:42:56
-updated: 2024-05-31 12:40:48
+date: 2024-05-31T12:39:50.329Z
+updated: 2024-06-01T12:39:50.329Z
 tags:
   - ai video
   - ai youtube
@@ -818,3 +818,4 @@ Now it is time for you to pick the right YouTube shorts description for your vid
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

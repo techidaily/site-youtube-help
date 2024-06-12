@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Thriving on YouTube Using Creative Studio Tools\""
-date: 2024-05-28 11:42:16
-updated: 2024-05-31 11:34:55
+date: 2024-05-31T12:48:58.114Z
+updated: 2024-06-01T12:48:58.114Z
 tags:
   - ai video
   - ai youtube
@@ -510,3 +510,4 @@ Alright! Following the steps mentioned above, you will be able to create a good 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

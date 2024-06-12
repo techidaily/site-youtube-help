@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Optimizing Self-Filmed Content on YouTube\""
-date: 2024-05-28 15:46:23
-updated: 2024-05-29 11:36:32
+date: 2024-05-31T12:42:58.190Z
+updated: 2024-06-01T12:42:58.190Z
 tags:
   - ai video
   - ai youtube
@@ -870,3 +870,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

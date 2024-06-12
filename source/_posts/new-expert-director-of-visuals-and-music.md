@@ -1,7 +1,7 @@
 ---
 title: "[New] Expert Director of Visuals and Music"
-date: 2024-05-23 13:31:30
-updated: 2024-05-26 11:38:55
+date: 2024-05-31T12:39:17.107Z
+updated: 2024-06-01T12:39:17.107Z
 tags:
   - ai video
   - ai youtube
@@ -796,3 +796,4 @@ YouTube Short’s revenue-sharing programs offer a great opportunity for creator
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

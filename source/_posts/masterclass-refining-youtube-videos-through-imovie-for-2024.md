@@ -1,7 +1,7 @@
 ---
 title: "\"Masterclass  Refining YouTube Videos Through iMovie for 2024\""
-date: 2024-05-25 11:31:35
-updated: 2024-05-28 12:34:41
+date: 2024-05-31T12:45:14.097Z
+updated: 2024-06-01T12:45:14.097Z
 tags:
   - ai video
   - ai youtube
@@ -908,3 +908,4 @@ Thus we could say that using hashtags for YouTube shorts would surely help in ga
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Video Basics Made Simple  A List of 10 Accessible YouTube Projects\""
-date: 2024-05-29 16:48:40
-updated: 2024-06-01 11:45:51
+date: 2024-05-31T12:42:47.565Z
+updated: 2024-06-01T12:42:47.565Z
 tags:
   - ai video
   - ai youtube
@@ -994,3 +994,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

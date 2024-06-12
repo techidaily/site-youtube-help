@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Getting Real  Broadcast Your Life on Youtube Using OBS\""
-date: 2024-05-25 16:47:50
-updated: 2024-05-27 12:43:31
+date: 2024-05-31T12:42:45.958Z
+updated: 2024-06-01T12:42:45.958Z
 tags:
   - ai video
   - ai youtube
@@ -886,3 +886,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

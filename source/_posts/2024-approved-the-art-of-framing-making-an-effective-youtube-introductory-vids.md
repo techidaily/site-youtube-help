@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Framing  Making an Effective YouTube Introductory Vids\""
-date: 2024-05-29 15:48:22
-updated: 2024-05-30 11:15:36
+date: 2024-05-31T12:38:35.815Z
+updated: 2024-06-01T12:38:35.815Z
 tags:
   - ai video
   - ai youtube
@@ -572,3 +572,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

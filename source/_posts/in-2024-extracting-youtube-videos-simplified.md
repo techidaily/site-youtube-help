@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Extracting YouTube Videos Simplified"
-date: 2024-05-25 10:28:24
-updated: 2024-05-26 10:53:52
+date: 2024-05-31T12:42:26.417Z
+updated: 2024-06-01T12:42:26.417Z
 tags:
   - ai video
   - ai youtube
@@ -2682,3 +2682,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

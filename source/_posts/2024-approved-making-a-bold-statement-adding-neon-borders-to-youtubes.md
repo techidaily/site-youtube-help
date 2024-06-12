@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Making a Bold Statement  Adding Neon Borders to YouTubes\""
-date: 2024-05-26 12:48:42
-updated: 2024-05-28 12:22:55
+date: 2024-05-31T12:48:03.311Z
+updated: 2024-06-01T12:48:03.311Z
 tags:
   - ai video
   - ai youtube
@@ -882,3 +882,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

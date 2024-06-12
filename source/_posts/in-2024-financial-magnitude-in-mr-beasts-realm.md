@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Financial Magnitude in Mr. Beast's Realm"
-date: 2024-05-24 15:26:52
-updated: 2024-05-26 10:49:10
+date: 2024-05-31T12:47:18.347Z
+updated: 2024-06-01T12:47:18.347Z
 tags:
   - ai video
   - ai youtube
@@ -948,3 +948,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Create a Sports Highlight Video\""
-date: 2024-05-25 16:57:54
-updated: 2024-05-27 10:33:38
+date: 2024-05-31T12:48:34.426Z
+updated: 2024-06-01T12:48:34.426Z
 tags:
   - ai video
   - ai youtube
@@ -970,3 +970,4 @@ This portion of VTubing isn't all that dissimilar from creating regular video ma
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

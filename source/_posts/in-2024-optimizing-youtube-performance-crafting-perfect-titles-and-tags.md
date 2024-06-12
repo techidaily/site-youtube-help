@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Optimizing YouTube Performance  Crafting Perfect Titles and Tags\""
-date: 2024-05-26 23:18:35
-updated: 2024-05-29 10:18:57
+date: 2024-05-31T12:43:20.780Z
+updated: 2024-06-01T12:43:20.780Z
 tags:
   - ai video
   - ai youtube
@@ -610,3 +610,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

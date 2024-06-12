@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Tackling Social Media Platforms  An In-Depth Look at IGTV and YouTube\""
-date: 2024-05-29 13:20:34
-updated: 2024-05-30 11:14:47
+date: 2024-05-31T12:44:27.320Z
+updated: 2024-06-01T12:44:27.320Z
 tags:
   - ai video
   - ai youtube
@@ -830,3 +830,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

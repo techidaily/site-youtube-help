@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quick-Start Guide to Your Channel's Easy Sign Up Button\""
-date: 2024-05-28 22:38:32
-updated: 2024-05-29 11:29:27
+date: 2024-05-31T12:42:29.220Z
+updated: 2024-06-01T12:42:29.220Z
 tags:
   - ai video
   - ai youtube
@@ -554,3 +554,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

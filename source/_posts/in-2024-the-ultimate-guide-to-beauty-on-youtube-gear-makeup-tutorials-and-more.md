@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Ultimate Guide to Beauty on YouTube - Gear, Makeup Tutorials, and More\""
-date: 2024-05-29 18:56:47
-updated: 2024-06-01 11:55:35
+date: 2024-05-31T12:47:03.049Z
+updated: 2024-06-01T12:47:03.049Z
 tags:
   - ai video
   - ai youtube
@@ -1404,3 +1404,4 @@ Additionally, there are many successful Valorant YouTubers who offer a range of 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

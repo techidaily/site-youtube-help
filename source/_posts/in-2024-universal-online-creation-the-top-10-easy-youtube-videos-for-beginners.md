@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Universal Online Creation  The Top 10 Easy YouTube Videos For Beginners\""
-date: 2024-05-29 16:43:38
-updated: 2024-06-01 10:18:49
+date: 2024-05-31T12:48:10.747Z
+updated: 2024-06-01T12:48:10.747Z
 tags:
   - ai video
   - ai youtube
@@ -946,3 +946,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

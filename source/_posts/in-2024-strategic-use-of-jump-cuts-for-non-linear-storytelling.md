@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Strategic Use of Jump Cuts for Non-Linear Storytelling\""
-date: 2024-05-28 21:57:55
-updated: 2024-05-30 11:55:59
+date: 2024-05-31T12:38:40.717Z
+updated: 2024-06-01T12:38:40.717Z
 tags:
   - ai video
   - ai youtube
@@ -488,3 +488,4 @@ It's easy to do, and it can be a great way to spend time with family members and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

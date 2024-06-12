@@ -1,7 +1,7 @@
 ---
 title: "[New] Harnessing Google Trends for Video Concept Generation"
-date: 2024-05-24 22:41:29
-updated: 2024-05-27 12:29:21
+date: 2024-05-31T12:39:19.233Z
+updated: 2024-06-01T12:39:19.233Z
 tags:
   - ai video
   - ai youtube
@@ -1088,3 +1088,4 @@ Thus we could say that using hashtags for YouTube shorts would surely help in ga
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

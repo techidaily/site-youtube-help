@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, No More YouTube Shorts  A Detailed Breakdown\""
-date: 2024-05-26 11:41:36
-updated: 2024-05-29 11:11:29
+date: 2024-05-31T12:41:08.638Z
+updated: 2024-06-01T12:41:08.638Z
 tags:
   - ai video
   - ai youtube
@@ -1202,3 +1202,4 @@ Using these YouTube SEO tips will ensure that your videos rank on top search res
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

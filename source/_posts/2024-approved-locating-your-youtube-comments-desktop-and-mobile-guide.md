@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Locating Your YouTube Comments  Desktop & Mobile Guide\""
-date: 2024-05-25 11:32:23
-updated: 2024-05-28 12:15:56
+date: 2024-05-31T12:39:05.381Z
+updated: 2024-06-01T12:39:05.381Z
 tags:
   - ai video
   - ai youtube
@@ -1174,3 +1174,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

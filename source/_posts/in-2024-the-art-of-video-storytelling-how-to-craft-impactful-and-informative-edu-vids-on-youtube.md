@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Art of Video Storytelling  How to Craft Impactful and Informative Edu-Vids on YouTube\""
-date: 2024-05-27 12:17:37
-updated: 2024-05-30 12:27:37
+date: 2024-05-31T12:43:00.865Z
+updated: 2024-06-01T12:43:00.865Z
 tags:
   - ai video
   - ai youtube
@@ -1170,3 +1170,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

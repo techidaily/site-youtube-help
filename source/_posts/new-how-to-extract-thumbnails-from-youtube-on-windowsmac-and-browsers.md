@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Extract Thumbnails From Youtube on Windows/Mac and Browsers"
-date: 2024-05-24 22:35:24
-updated: 2024-05-27 11:26:43
+date: 2024-05-31T12:48:54.357Z
+updated: 2024-06-01T12:48:54.357Z
 tags:
   - ai video
   - ai youtube
@@ -1126,3 +1126,4 @@ What are some of your favorite unboxing videos? Comment down below!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Shoot and Score  Top Techniques for Great YouTube Cinematography\""
-date: 2024-05-28 11:28:54
-updated: 2024-05-30 10:22:13
+date: 2024-05-31T12:46:38.861Z
+updated: 2024-06-01T12:46:38.861Z
 tags:
   - ai video
   - ai youtube
@@ -938,3 +938,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

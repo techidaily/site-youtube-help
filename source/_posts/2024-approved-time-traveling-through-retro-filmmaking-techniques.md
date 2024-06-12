@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Time Traveling Through Retro Filmmaking Techniques\""
-date: 2024-05-30 22:27:43
-updated: 2024-05-31 12:11:59
+date: 2024-05-31T12:48:55.961Z
+updated: 2024-06-01T12:48:55.961Z
 tags:
   - ai video
   - ai youtube
@@ -772,3 +772,4 @@ Yet, it would help if you didn't forget the most important thing: the video itse
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

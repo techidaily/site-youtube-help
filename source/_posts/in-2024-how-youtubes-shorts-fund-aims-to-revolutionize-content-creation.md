@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How YouTube's Shorts Fund Aims to Revolutionize Content Creation"
-date: 2024-05-24 12:47:23
-updated: 2024-05-27 10:36:31
+date: 2024-05-31T12:46:01.329Z
+updated: 2024-06-01T12:46:01.329Z
 tags:
   - ai video
   - ai youtube
@@ -608,3 +608,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

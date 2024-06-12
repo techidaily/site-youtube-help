@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Face Forward  Influential Beauty Guides\""
-date: 2024-05-29 22:28:49
-updated: 2024-05-31 10:56:55
+date: 2024-05-31T12:44:11.637Z
+updated: 2024-06-01T12:44:11.637Z
 tags:
   - ai video
   - ai youtube
@@ -834,3 +834,4 @@ In this day and age, many people are shifting to freelancing or creating compani
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

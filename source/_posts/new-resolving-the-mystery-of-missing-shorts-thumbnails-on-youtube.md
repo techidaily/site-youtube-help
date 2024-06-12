@@ -1,7 +1,7 @@
 ---
 title: "[New] Resolving the Mystery of Missing Shorts Thumbnails on YouTube"
-date: 2024-05-28 19:34:47
-updated: 2024-05-29 10:35:37
+date: 2024-05-31T12:38:31.162Z
+updated: 2024-06-01T12:38:31.162Z
 tags:
   - ai video
   - ai youtube
@@ -1091,3 +1091,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Capture to Curve  An Insider Look at Editing and Sharing 360° Videos on YouTube\""
-date: 2024-05-25 21:16:50
-updated: 2024-05-27 12:54:21
+date: 2024-05-31T12:43:29.112Z
+updated: 2024-06-01T12:43:29.112Z
 tags:
   - ai video
   - ai youtube
@@ -1078,3 +1078,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

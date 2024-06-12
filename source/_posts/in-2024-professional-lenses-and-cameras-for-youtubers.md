@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Professional Lenses & Cameras for Youtubers"
-date: 2024-05-27 19:11:30
-updated: 2024-05-29 11:10:48
+date: 2024-05-31T12:47:35.009Z
+updated: 2024-06-01T12:47:35.009Z
 tags:
   - ai video
   - ai youtube
@@ -1090,3 +1090,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

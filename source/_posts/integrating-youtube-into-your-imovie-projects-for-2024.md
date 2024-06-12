@@ -1,7 +1,7 @@
 ---
 title: "Integrating YouTube Into Your iMovie Projects for 2024"
-date: 2024-05-25 12:19:18
-updated: 2024-05-28 10:45:27
+date: 2024-05-31T12:47:16.427Z
+updated: 2024-06-01T12:47:16.427Z
 tags:
   - ai video
   - ai youtube
@@ -706,3 +706,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

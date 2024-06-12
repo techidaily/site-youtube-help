@@ -1,7 +1,7 @@
 ---
 title: "Game Jams and Indie Project Highlights for 2024"
-date: 2024-05-24 23:36:37
-updated: 2024-05-27 12:49:54
+date: 2024-05-31T12:46:47.129Z
+updated: 2024-06-01T12:46:47.129Z
 tags:
   - ai video
   - ai youtube
@@ -1846,3 +1846,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

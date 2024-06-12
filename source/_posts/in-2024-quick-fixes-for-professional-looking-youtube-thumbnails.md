@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Quick Fixes for Professional-Looking YouTube Thumbnails\""
-date: 2024-05-26 19:40:12
-updated: 2024-05-29 12:48:11
+date: 2024-05-31T12:39:01.500Z
+updated: 2024-06-01T12:39:01.500Z
 tags:
   - ai video
   - ai youtube
@@ -1102,3 +1102,4 @@ Thus, if you were looking for the fastest growing YouTube channels to inspire yo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

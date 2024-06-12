@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unleash Creativity  Crafting Your Own YouTube Shorts Thumbnails\""
-date: 2024-05-31 15:45:31
-updated: 2024-06-01 10:44:57
+date: 2024-05-31T12:47:06.069Z
+updated: 2024-06-01T12:47:06.069Z
 tags:
   - ai video
   - ai youtube
@@ -776,3 +776,4 @@ Despite all the reasons to subscribe to YouTube Premium, it still needs a minor 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

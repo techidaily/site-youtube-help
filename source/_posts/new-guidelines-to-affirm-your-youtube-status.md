@@ -1,7 +1,7 @@
 ---
 title: "[New] Guidelines to Affirm Your YouTube Status"
-date: 2024-05-24 14:27:21
-updated: 2024-05-27 12:17:59
+date: 2024-05-31T12:39:02.977Z
+updated: 2024-06-01T12:39:02.977Z
 tags:
   - ai video
   - ai youtube
@@ -622,3 +622,4 @@ This portion of VTubing isn't all that dissimilar from creating regular video ma
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 15 Virtual Classrooms  YouTube Channels Pushing Scientific Boundaries\""
-date: 2024-05-28 13:12:30
-updated: 2024-05-31 12:48:17
+date: 2024-05-31T12:48:21.488Z
+updated: 2024-06-01T12:48:21.488Z
 tags:
   - ai video
   - ai youtube
@@ -1414,3 +1414,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

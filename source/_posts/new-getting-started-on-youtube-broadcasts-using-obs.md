@@ -1,7 +1,7 @@
 ---
 title: "[New] Getting Started on YouTube Broadcasts Using OBS"
-date: 2024-05-24 23:28:58
-updated: 2024-05-27 12:18:13
+date: 2024-05-31T12:47:49.787Z
+updated: 2024-06-01T12:47:49.787Z
 tags:
   - ai video
   - ai youtube
@@ -980,3 +980,4 @@ Thus, this article has valuable insights into the width and height of YouTube Th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

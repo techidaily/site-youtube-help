@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Guerrilla Marketing for YouTube  Upping Video Traffic\""
-date: 2024-05-25 23:22:40
-updated: 2024-05-27 11:20:10
+date: 2024-05-31T12:40:03.852Z
+updated: 2024-06-01T12:40:03.852Z
 tags:
   - ai video
   - ai youtube
@@ -914,3 +914,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

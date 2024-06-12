@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Influencer Tip  Crafting Irresistible Templated Content in YouTube Descriptions\""
-date: 2024-05-24 21:52:38
-updated: 2024-05-27 11:48:28
+date: 2024-05-31T12:44:43.116Z
+updated: 2024-06-01T12:44:43.116Z
 tags:
   - ai video
   - ai youtube
@@ -510,3 +510,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

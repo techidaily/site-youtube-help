@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Instructional Guide  Modify Comment Accessibility on YouTube\""
-date: 2024-05-25 20:10:45
-updated: 2024-05-28 12:29:46
+date: 2024-05-31T12:46:12.387Z
+updated: 2024-06-01T12:46:12.387Z
 tags:
   - ai video
   - ai youtube
@@ -930,3 +930,4 @@ YouTube's music library is relatively small. The songs include both traditional 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

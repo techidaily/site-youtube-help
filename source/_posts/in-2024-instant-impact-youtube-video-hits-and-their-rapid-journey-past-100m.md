@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Instant Impact  YouTube Video Hits and Their Rapid Journey Past 100M\""
-date: 2024-05-26 21:37:50
-updated: 2024-05-28 12:34:49
+date: 2024-05-31T12:40:29.883Z
+updated: 2024-06-01T12:40:29.883Z
 tags:
   - ai video
   - ai youtube
@@ -1254,3 +1254,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

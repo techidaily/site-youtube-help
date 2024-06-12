@@ -1,7 +1,7 @@
 ---
 title: "[New] Holistic Title Design Principle Across Tech Sectors"
-date: 2024-05-25 21:12:15
-updated: 2024-05-27 12:38:15
+date: 2024-05-31T12:47:59.831Z
+updated: 2024-06-01T12:47:59.831Z
 tags:
   - ai video
   - ai youtube
@@ -1172,3 +1172,4 @@ For creating YouTube thumbnails, you can use Wondershare Filmora. It's a video e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Guide to Setting Your YouTube Video Width and Height\""
-date: 2024-05-30 18:10:44
-updated: 2024-05-31 11:11:46
+date: 2024-05-31T12:46:12.748Z
+updated: 2024-06-01T12:46:12.748Z
 tags:
   - ai video
   - ai youtube
@@ -1830,3 +1830,4 @@ However, ad overlay is for content creators with Google AdWords enabled on their
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

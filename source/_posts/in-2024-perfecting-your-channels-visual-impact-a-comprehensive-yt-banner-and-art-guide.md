@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Perfecting Your Channel's Visual Impact  A Comprehensive YT Banner & Art Guide\""
-date: 2024-05-27 17:17:32
-updated: 2024-05-29 10:45:44
+date: 2024-05-31T12:42:08.051Z
+updated: 2024-06-01T12:42:08.051Z
 tags:
   - ai video
   - ai youtube
@@ -990,3 +990,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

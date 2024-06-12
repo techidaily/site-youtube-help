@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Permanent Deactivation  The Ultimate Guide to YouTube Shorts\""
-date: 2024-05-26 19:50:42
-updated: 2024-05-29 10:26:14
+date: 2024-05-31T12:46:14.854Z
+updated: 2024-06-01T12:46:14.854Z
 tags:
   - ai video
   - ai youtube
@@ -1266,3 +1266,4 @@ Captions are a great way to get users to engage with your videos. Studies have s
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

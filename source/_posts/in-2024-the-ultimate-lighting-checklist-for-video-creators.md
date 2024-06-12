@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Lighting Checklist for Video Creators"
-date: 2024-05-30 22:26:24
-updated: 2024-05-31 10:42:41
+date: 2024-05-31T12:39:36.878Z
+updated: 2024-06-01T12:39:36.878Z
 tags:
   - ai video
   - ai youtube
@@ -1066,3 +1066,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Master Your YouTube Identity with Cool Titles"
-date: 2024-05-25 19:53:44
-updated: 2024-05-28 12:16:38
+date: 2024-05-31T12:48:12.770Z
+updated: 2024-06-01T12:48:12.770Z
 tags:
   - ai video
   - ai youtube
@@ -684,3 +684,4 @@ For today, YouTube encodes all the videos with the VP9 codec, but for some reaso
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

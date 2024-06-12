@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Explore the Best Historian Content  Top 10 YouTube Recommendations\""
-date: 2024-05-24 22:38:41
-updated: 2024-05-26 12:43:40
+date: 2024-05-31T12:43:46.608Z
+updated: 2024-06-01T12:43:46.608Z
 tags:
   - ai video
   - ai youtube
@@ -690,3 +690,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, MCB Channel Theme Images and Templates"
-date: 2024-05-25 17:27:20
-updated: 2024-05-28 12:53:45
+date: 2024-05-31T12:43:11.812Z
+updated: 2024-06-01T12:43:11.812Z
 tags:
   - ai video
   - ai youtube
@@ -922,3 +922,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

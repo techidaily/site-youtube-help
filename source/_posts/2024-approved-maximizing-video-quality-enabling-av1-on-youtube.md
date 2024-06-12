@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Maximizing Video Quality  Enabling AV1 on YouTube\""
-date: 2024-05-27 13:12:41
-updated: 2024-05-28 10:54:40
+date: 2024-05-31T12:40:32.802Z
+updated: 2024-06-01T12:40:32.802Z
 tags:
   - ai video
   - ai youtube
@@ -432,3 +432,4 @@ Also, you can slow down a tutorial or the video you are watching if you feel the
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

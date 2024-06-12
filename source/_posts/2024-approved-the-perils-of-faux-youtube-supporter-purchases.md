@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Perils of Faux YouTube Supporter Purchases\""
-date: 2024-05-30 17:48:16
-updated: 2024-05-31 11:34:55
+date: 2024-05-31T12:39:27.523Z
+updated: 2024-06-01T12:39:27.523Z
 tags:
   - ai video
   - ai youtube
@@ -934,3 +934,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

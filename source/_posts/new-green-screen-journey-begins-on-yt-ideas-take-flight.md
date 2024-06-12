@@ -1,7 +1,7 @@
 ---
 title: "[New] Green Screen Journey Begins on YT, Ideas Take Flight"
-date: 2024-05-24 11:50:54
-updated: 2024-05-27 12:37:58
+date: 2024-05-31T12:39:27.145Z
+updated: 2024-06-01T12:39:27.145Z
 tags:
   - ai video
   - ai youtube
@@ -934,3 +934,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

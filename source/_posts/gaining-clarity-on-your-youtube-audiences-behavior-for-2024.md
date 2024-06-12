@@ -1,7 +1,7 @@
 ---
 title: "Gaining Clarity on Your YouTube Audience's Behavior for 2024"
-date: 2024-05-25 14:30:28
-updated: 2024-05-27 11:58:55
+date: 2024-05-31T12:40:56.294Z
+updated: 2024-06-01T12:40:56.294Z
 tags:
   - ai video
   - ai youtube
@@ -1130,3 +1130,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

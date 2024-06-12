@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Joyful Views  Essential 15 Comical YouTubers to Relax With\""
-date: 2024-05-27 15:11:57
-updated: 2024-05-28 10:14:43
+date: 2024-05-31T12:39:14.597Z
+updated: 2024-06-01T12:39:14.597Z
 tags:
   - ai video
   - ai youtube
@@ -734,3 +734,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

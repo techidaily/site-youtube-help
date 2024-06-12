@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Complete YouTube Video Editor Reference Manual\""
-date: 2024-05-29 16:50:12
-updated: 2024-05-31 11:40:39
+date: 2024-05-31T12:47:40.293Z
+updated: 2024-06-01T12:47:40.293Z
 tags:
   - ai video
   - ai youtube
@@ -480,3 +480,4 @@ Alright! Following the steps mentioned above, you will be able to create a good 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] Expressive YouTube Aesthetics at No Cost"
-date: 2024-05-24 17:29:24
-updated: 2024-05-26 11:38:52
+date: 2024-05-31T12:38:52.977Z
+updated: 2024-06-01T12:38:52.977Z
 tags:
   - ai video
   - ai youtube
@@ -502,3 +502,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

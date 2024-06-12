@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Real-Time Caption Generator\""
-date: 2024-05-26 14:19:52
-updated: 2024-05-29 12:54:46
+date: 2024-05-31T12:38:44.573Z
+updated: 2024-06-01T12:38:44.573Z
 tags:
   - ai video
   - ai youtube
@@ -1402,3 +1402,4 @@ As you can tell, video dimensions significantly influence your media resolution 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

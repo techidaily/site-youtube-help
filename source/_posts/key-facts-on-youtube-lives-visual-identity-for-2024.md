@@ -1,7 +1,7 @@
 ---
 title: "Key Facts on YouTube Live's Visual Identity for 2024"
-date: 2024-05-27 19:32:24
-updated: 2024-05-28 11:32:28
+date: 2024-05-31T12:41:19.925Z
+updated: 2024-06-01T12:41:19.925Z
 tags:
   - ai video
   - ai youtube
@@ -744,3 +744,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

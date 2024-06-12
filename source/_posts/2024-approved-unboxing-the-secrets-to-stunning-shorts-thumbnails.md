@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unboxing the Secrets to Stunning Shorts Thumbnails\""
-date: 2024-05-31 10:18:33
-updated: 2024-06-01 12:25:10
+date: 2024-05-31T12:45:55.464Z
+updated: 2024-06-01T12:45:55.464Z
 tags:
   - ai video
   - ai youtube
@@ -812,3 +812,4 @@ Hopefully, you've found this article informative and can now enjoy watching or l
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

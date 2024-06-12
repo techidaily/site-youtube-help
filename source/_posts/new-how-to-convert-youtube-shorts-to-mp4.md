@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Convert YouTube Shorts to Mp4"
-date: 2024-05-26 20:45:12
-updated: 2024-05-27 12:31:28
+date: 2024-05-31T12:38:34.255Z
+updated: 2024-06-01T12:38:34.255Z
 tags:
   - ai video
   - ai youtube
@@ -1066,3 +1066,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "How Much Cash Can You Score for Watching A Million Videos, In 2024"
-date: 2024-05-25 10:34:24
-updated: 2024-05-27 11:46:45
+date: 2024-05-31T12:42:15.246Z
+updated: 2024-06-01T12:42:15.246Z
 tags:
   - ai video
   - ai youtube
@@ -1032,3 +1032,4 @@ Thus, if you were looking for the fastest growing YouTube channels to inspire yo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

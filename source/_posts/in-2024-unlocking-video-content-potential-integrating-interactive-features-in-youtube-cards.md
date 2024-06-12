@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unlocking Video Content Potential  Integrating Interactive Features in Youtube Cards\""
-date: 2024-05-30 10:23:23
-updated: 2024-06-01 11:34:45
+date: 2024-05-31T12:43:02.145Z
+updated: 2024-06-01T12:43:02.145Z
 tags:
   - ai video
   - ai youtube
@@ -760,3 +760,4 @@ Thus YouTube shorts thumbnails are a very important part of your page optimizati
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

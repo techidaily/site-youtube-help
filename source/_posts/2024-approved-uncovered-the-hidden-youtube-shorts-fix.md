@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Uncovered  The Hidden YouTube Shorts Fix\""
-date: 2024-05-30 20:32:19
-updated: 2024-06-01 12:44:42
+date: 2024-05-31T12:39:15.454Z
+updated: 2024-06-01T12:39:15.454Z
 tags:
   - ai video
   - ai youtube
@@ -1362,3 +1362,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

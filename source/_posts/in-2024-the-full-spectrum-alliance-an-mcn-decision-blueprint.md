@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Full Spectrum Alliance  An MCN Decision Blueprint\""
-date: 2024-05-29 14:40:56
-updated: 2024-05-31 12:12:37
+date: 2024-05-31T12:42:54.389Z
+updated: 2024-06-01T12:42:54.389Z
 tags:
   - ai video
   - ai youtube
@@ -412,3 +412,4 @@ As you can see, there are different ways you could monetize your YouTube channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

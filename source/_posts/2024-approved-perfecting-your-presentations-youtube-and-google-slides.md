@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfecting Your Presentations  YouTube and Google Slides\""
-date: 2024-05-28 13:56:56
-updated: 2024-05-29 10:26:55
+date: 2024-05-31T12:47:51.244Z
+updated: 2024-06-01T12:47:51.244Z
 tags:
   - ai video
   - ai youtube
@@ -870,3 +870,4 @@ Sometimes it might help your mental health if you can take out time to watch som
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

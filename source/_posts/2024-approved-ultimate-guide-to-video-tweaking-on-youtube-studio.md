@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultimate Guide to Video Tweaking on YouTube Studio\""
-date: 2024-05-31 13:46:55
-updated: 2024-06-01 11:22:25
+date: 2024-05-31T12:41:11.519Z
+updated: 2024-06-01T12:41:11.519Z
 tags:
   - ai video
   - ai youtube
@@ -802,3 +802,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

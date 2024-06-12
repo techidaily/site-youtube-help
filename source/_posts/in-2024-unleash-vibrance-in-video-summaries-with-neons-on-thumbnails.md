@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unleash Vibrance in Video Summaries with Neons on Thumbnails"
-date: 2024-05-29 17:46:14
-updated: 2024-06-01 11:12:45
+date: 2024-05-31T12:43:44.038Z
+updated: 2024-06-01T12:43:44.038Z
 tags:
   - ai video
   - ai youtube
@@ -2872,3 +2872,4 @@ Filmora. Filmora is presented for clients running Windows, Linux, and Mac workin
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

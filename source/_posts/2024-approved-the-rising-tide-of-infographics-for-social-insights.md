@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Rising Tide of Infographics for Social Insights\""
-date: 2024-05-29 20:54:31
-updated: 2024-05-31 11:32:17
+date: 2024-05-31T12:44:11.229Z
+updated: 2024-06-01T12:44:11.229Z
 tags:
   - ai video
   - ai youtube
@@ -574,3 +574,4 @@ Detailed tutorials provided by the official channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

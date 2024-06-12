@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering Time Management for YouTubers with Day Jobs"
-date: 2024-05-25 22:14:49
-updated: 2024-05-28 12:43:52
+date: 2024-05-31T12:45:39.128Z
+updated: 2024-06-01T12:45:39.128Z
 tags:
   - ai video
   - ai youtube
@@ -1058,3 +1058,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

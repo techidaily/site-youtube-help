@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Script to Screen  The Compreeved Guide to YouTube Video Edits\""
-date: 2024-05-25 14:17:47
-updated: 2024-05-27 11:28:58
+date: 2024-05-31T12:43:10.868Z
+updated: 2024-06-01T12:43:10.868Z
 tags:
   - ai video
   - ai youtube
@@ -2122,3 +2122,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

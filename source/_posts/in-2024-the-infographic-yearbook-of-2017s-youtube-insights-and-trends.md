@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Infographic Yearbook of 2017'S Youtube Insights & Trends"
-date: 2024-05-28 13:47:51
-updated: 2024-05-31 11:24:16
+date: 2024-05-31T12:44:40.484Z
+updated: 2024-06-01T12:44:40.484Z
 tags:
   - ai video
   - ai youtube
@@ -662,3 +662,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

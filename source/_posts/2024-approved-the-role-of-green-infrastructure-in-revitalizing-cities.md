@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Role of Green Infrastructure in Revitalizing Cities\""
-date: 2024-05-30 14:12:59
-updated: 2024-05-31 11:59:35
+date: 2024-05-31T12:42:18.535Z
+updated: 2024-06-01T12:42:18.535Z
 tags:
   - ai video
   - ai youtube
@@ -870,3 +870,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "Navigating YouTube Shorts Thumbnail Losses for 2024"
-date: 2024-05-27 21:47:35
-updated: 2024-05-29 11:34:28
+date: 2024-05-31T12:46:46.593Z
+updated: 2024-06-01T12:46:46.593Z
 tags:
   - ai video
   - ai youtube
@@ -779,3 +779,4 @@ However, ad overlay is for content creators with Google AdWords enabled on their
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

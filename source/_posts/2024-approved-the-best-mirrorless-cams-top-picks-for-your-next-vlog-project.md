@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Best Mirrorless Cams  Top Picks for Your Next Vlog Project\""
-date: 2024-05-28 10:14:50
-updated: 2024-05-31 12:22:31
+date: 2024-05-31T12:43:14.958Z
+updated: 2024-06-01T12:43:14.958Z
 tags:
   - ai video
   - ai youtube
@@ -750,3 +750,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

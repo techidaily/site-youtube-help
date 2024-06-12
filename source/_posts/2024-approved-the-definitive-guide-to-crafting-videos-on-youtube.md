@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Definitive Guide to Crafting Videos on YouTube\""
-date: 2024-05-28 10:20:38
-updated: 2024-05-31 12:20:57
+date: 2024-05-31T12:41:55.329Z
+updated: 2024-06-01T12:41:55.329Z
 tags:
   - ai video
   - ai youtube
@@ -914,3 +914,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

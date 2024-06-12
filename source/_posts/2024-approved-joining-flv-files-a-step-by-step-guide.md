@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Joining FLV Files  A Step-by-Step Guide\""
-date: 2024-05-25 12:34:27
-updated: 2024-05-28 10:19:38
+date: 2024-05-31T12:42:16.202Z
+updated: 2024-06-01T12:42:16.202Z
 tags:
   - ai video
   - ai youtube
@@ -770,3 +770,4 @@ The greatest takeaway from this guide should be that you must be patient and hav
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

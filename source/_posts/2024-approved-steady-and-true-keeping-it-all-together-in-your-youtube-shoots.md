@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Steady and True  Keeping It All Together in Your YouTube Shoots\""
-date: 2024-05-27 14:14:42
-updated: 2024-05-30 10:31:57
+date: 2024-05-31T12:45:57.679Z
+updated: 2024-06-01T12:45:57.679Z
 tags:
   - ai video
   - ai youtube
@@ -706,3 +706,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

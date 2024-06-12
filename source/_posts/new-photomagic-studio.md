@@ -1,7 +1,7 @@
 ---
 title: "[New] PhotoMagic Studio"
-date: 2024-05-26 19:41:34
-updated: 2024-05-29 11:50:13
+date: 2024-05-31T12:42:22.580Z
+updated: 2024-06-01T12:42:22.580Z
 tags:
   - ai video
   - ai youtube
@@ -1106,3 +1106,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

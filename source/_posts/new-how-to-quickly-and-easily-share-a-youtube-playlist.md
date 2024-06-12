@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Quickly And Easily Share A YouTube Playlist"
-date: 2024-05-25 12:16:22
-updated: 2024-05-27 12:28:17
+date: 2024-05-31T12:45:09.726Z
+updated: 2024-06-01T12:45:09.726Z
 tags:
   - ai video
   - ai youtube
@@ -530,3 +530,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

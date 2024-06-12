@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Stay Fit and Balanced with These Yoga Vids"
-date: 2024-05-27 21:43:18
-updated: 2024-05-30 12:10:18
+date: 2024-05-31T12:46:45.092Z
+updated: 2024-06-01T12:46:45.092Z
 tags:
   - ai video
   - ai youtube
@@ -1046,3 +1046,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

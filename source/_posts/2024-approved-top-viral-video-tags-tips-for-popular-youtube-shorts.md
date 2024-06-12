@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top Viral Video Tags  Tips for Popular YouTube Shorts\""
-date: 2024-05-28 16:30:12
-updated: 2024-05-31 10:38:44
+date: 2024-05-31T12:47:54.691Z
+updated: 2024-06-01T12:47:54.691Z
 tags:
   - ai video
   - ai youtube
@@ -1060,3 +1060,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

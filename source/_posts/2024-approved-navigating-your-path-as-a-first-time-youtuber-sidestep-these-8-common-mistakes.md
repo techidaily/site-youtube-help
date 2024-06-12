@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Navigating Your Path as a First-Time YouTuber  Sidestep These 8 Common Mistakes\""
-date: 2024-05-28 13:13:42
-updated: 2024-05-29 12:24:41
+date: 2024-05-31T12:46:33.360Z
+updated: 2024-06-01T12:46:33.360Z
 tags:
   - ai video
   - ai youtube
@@ -522,3 +522,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

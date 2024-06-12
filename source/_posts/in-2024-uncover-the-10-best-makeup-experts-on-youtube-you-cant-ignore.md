@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Uncover the 10 Best Makeup Experts on YouTube You Can't Ignore"
-date: 2024-05-29 14:43:32
-updated: 2024-06-01 11:48:39
+date: 2024-05-31T12:42:59.920Z
+updated: 2024-06-01T12:42:59.920Z
 tags:
   - ai video
   - ai youtube
@@ -1050,3 +1050,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

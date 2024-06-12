@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transforming Self-Doubt Into YouTube Dominance\""
-date: 2024-05-31 17:52:13
-updated: 2024-06-01 11:49:18
+date: 2024-05-31T12:42:19.688Z
+updated: 2024-06-01T12:42:19.688Z
 tags:
   - ai video
   - ai youtube
@@ -564,3 +564,4 @@ For today, YouTube encodes all the videos with the VP9 codec, but for some reaso
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

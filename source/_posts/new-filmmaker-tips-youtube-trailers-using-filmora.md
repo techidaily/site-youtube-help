@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Filmmaker Tips  YouTube Trailers Using Filmora\""
-date: 2024-05-25 12:42:59
-updated: 2024-05-26 10:17:28
+date: 2024-05-31T12:38:55.306Z
+updated: 2024-06-01T12:38:55.306Z
 tags:
   - ai video
   - ai youtube
@@ -544,3 +544,4 @@ Hopefully, the information in this guide will be useful when you’re looking fo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

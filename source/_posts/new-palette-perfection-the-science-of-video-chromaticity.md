@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Palette Perfection  The Science of Video Chromaticity\""
-date: 2024-05-27 18:33:23
-updated: 2024-05-29 11:13:43
+date: 2024-05-31T12:48:18.820Z
+updated: 2024-06-01T12:48:18.820Z
 tags:
   - ai video
   - ai youtube
@@ -694,3 +694,4 @@ Now that you know the importance of YouTube keyword research and how to perform 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

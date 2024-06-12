@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mirrorless Evolution Overshadowing Traditional DSLR Videography\""
-date: 2024-05-26 14:41:24
-updated: 2024-05-28 11:32:58
+date: 2024-05-31T12:47:50.214Z
+updated: 2024-06-01T12:47:50.214Z
 tags:
   - ai video
   - ai youtube
@@ -758,3 +758,4 @@ Follow @Marion Dubois
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

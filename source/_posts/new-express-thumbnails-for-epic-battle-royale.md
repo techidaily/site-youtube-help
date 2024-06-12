@@ -1,7 +1,7 @@
 ---
 title: "[New] Express Thumbnails for Epic Battle Royale"
-date: 2024-05-24 20:11:32
-updated: 2024-05-26 12:20:45
+date: 2024-05-31T12:47:33.063Z
+updated: 2024-06-01T12:47:33.063Z
 tags:
   - ai video
   - ai youtube
@@ -982,3 +982,4 @@ Pre-recorded videos are also a great way to present your content with perfection
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

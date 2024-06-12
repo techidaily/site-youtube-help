@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Leaders in Learning  Select Sci-YT Channels\""
-date: 2024-05-27 11:54:49
-updated: 2024-05-28 11:57:18
+date: 2024-05-31T12:48:37.299Z
+updated: 2024-06-01T12:48:37.299Z
 tags:
   - ai video
   - ai youtube
@@ -962,3 +962,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

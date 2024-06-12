@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Going Against Gravity  Reversing Your Vids\""
-date: 2024-05-24 16:18:50
-updated: 2024-05-27 12:41:28
+date: 2024-05-31T12:45:54.761Z
+updated: 2024-06-01T12:45:54.761Z
 tags:
   - ai video
   - ai youtube
@@ -1266,3 +1266,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

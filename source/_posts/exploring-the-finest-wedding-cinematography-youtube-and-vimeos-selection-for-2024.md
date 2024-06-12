@@ -1,7 +1,7 @@
 ---
 title: "\"Exploring the Finest Wedding Cinematography - Youtube & Vimeo's Selection for 2024\""
-date: 2024-05-23 21:53:23
-updated: 2024-05-26 10:47:15
+date: 2024-05-31T12:46:26.916Z
+updated: 2024-06-01T12:46:26.916Z
 tags:
   - ai video
   - ai youtube
@@ -858,3 +858,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Scratch to Screen  Video Editing with YouTube & Others\""
-date: 2024-05-24 11:24:51
-updated: 2024-05-27 12:56:30
+date: 2024-05-31T12:42:45.442Z
+updated: 2024-06-01T12:42:45.442Z
 tags:
   - ai video
   - ai youtube
@@ -902,3 +902,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

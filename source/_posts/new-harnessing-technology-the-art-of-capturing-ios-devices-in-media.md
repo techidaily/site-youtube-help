@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Harnessing Technology  The Art of Capturing iOS Devices in Media\""
-date: 2024-05-25 20:42:54
-updated: 2024-05-27 10:57:48
+date: 2024-05-31T12:39:59.199Z
+updated: 2024-06-01T12:39:59.199Z
 tags:
   - ai video
   - ai youtube
@@ -618,3 +618,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Synthesizing Creativity  A Brainstormer’s Toolkit for Names\""
-date: 2024-05-29 21:13:11
-updated: 2024-05-30 12:35:16
+date: 2024-05-31T12:39:17.892Z
+updated: 2024-06-01T12:39:17.892Z
 tags:
   - ai video
   - ai youtube
@@ -1050,3 +1050,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

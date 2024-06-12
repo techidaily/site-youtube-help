@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Explore the Past, Study Better  Student-Approved Historical YouTube Channels\""
-date: 2024-05-24 12:50:46
-updated: 2024-05-26 11:45:55
+date: 2024-05-31T12:47:54.425Z
+updated: 2024-06-01T12:47:54.425Z
 tags:
   - ai video
   - ai youtube
@@ -814,3 +814,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

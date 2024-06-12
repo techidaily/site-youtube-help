@@ -1,7 +1,7 @@
 ---
 title: "Harmonizing Visuals & Soundtracks with YouTube's Video Editor for 2024"
-date: 2024-05-24 18:16:57
-updated: 2024-05-27 11:22:32
+date: 2024-05-31T12:40:53.913Z
+updated: 2024-06-01T12:40:53.913Z
 tags:
   - ai video
   - ai youtube
@@ -1326,3 +1326,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Evolution of Video  From Full-Length to YT Shorts\""
-date: 2024-05-29 10:49:35
-updated: 2024-05-31 11:22:37
+date: 2024-05-31T12:47:27.207Z
+updated: 2024-06-01T12:47:27.207Z
 tags:
   - ai video
   - ai youtube
@@ -687,3 +687,4 @@ Now you know what to do and what not to do when it comes to recording and editin
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

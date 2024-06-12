@@ -1,7 +1,7 @@
 ---
 title: "[New] Maximize Views with These Top 20 Thumbnail Fonts"
-date: 2024-05-27 22:13:13
-updated: 2024-05-28 12:51:49
+date: 2024-05-31T12:46:28.721Z
+updated: 2024-06-01T12:46:28.721Z
 tags:
   - ai video
   - ai youtube
@@ -835,3 +835,4 @@ YouTubers use several video editors for their work. Some of the most popular edi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Simple Guide  YouTube to MP3 on Mac\""
-date: 2024-05-28 13:19:40
-updated: 2024-05-30 10:36:23
+date: 2024-05-31T12:46:37.913Z
+updated: 2024-06-01T12:46:37.913Z
 tags:
   - ai video
   - ai youtube
@@ -526,3 +526,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

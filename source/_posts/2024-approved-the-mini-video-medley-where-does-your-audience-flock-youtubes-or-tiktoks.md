@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Mini-Video Medley  Where Does Your Audience Flock? YouTubes or TikToks?\""
-date: 2024-05-29 13:56:20
-updated: 2024-05-31 11:34:56
+date: 2024-05-31T12:41:51.116Z
+updated: 2024-06-01T12:41:51.116Z
 tags:
   - ai video
   - ai youtube
@@ -1474,3 +1474,4 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

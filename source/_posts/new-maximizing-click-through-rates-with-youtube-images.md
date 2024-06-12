@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Maximizing Click-Through Rates with Youtube Images\""
-date: 2024-05-27 16:44:42
-updated: 2024-05-28 11:59:27
+date: 2024-05-31T12:43:26.753Z
+updated: 2024-06-01T12:43:26.753Z
 tags:
   - ai video
   - ai youtube
@@ -694,3 +694,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

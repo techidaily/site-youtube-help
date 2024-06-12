@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Dynamic Duo of Filmmaking and Thumbnail Design\""
-date: 2024-05-28 16:21:49
-updated: 2024-05-31 10:22:49
+date: 2024-05-31T12:47:59.114Z
+updated: 2024-06-01T12:47:59.114Z
 tags:
   - ai video
   - ai youtube
@@ -719,3 +719,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

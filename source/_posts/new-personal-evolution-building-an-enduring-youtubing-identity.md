@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Personal Evolution  Building an Enduring YouTubing Identity\""
-date: 2024-05-27 12:57:11
-updated: 2024-05-29 10:50:23
+date: 2024-05-31T12:42:20.453Z
+updated: 2024-06-01T12:42:20.453Z
 tags:
   - ai video
   - ai youtube
@@ -706,3 +706,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

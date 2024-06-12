@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Reduce, Share and Enjoy  Top 5 Shortened URLs for YouTube\""
-date: 2024-05-27 16:28:29
-updated: 2024-05-29 11:43:43
+date: 2024-05-31T12:48:37.394Z
+updated: 2024-06-01T12:48:37.394Z
 tags:
   - ai video
   - ai youtube
@@ -1150,3 +1150,4 @@ Pre-recorded videos are also a great way to present your content with perfection
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

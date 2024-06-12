@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Jumpstart Your Journey  Essential YouTubing Skills Course\""
-date: 2024-05-27 20:20:18
-updated: 2024-05-28 12:52:25
+date: 2024-05-31T12:42:27.132Z
+updated: 2024-06-01T12:42:27.132Z
 tags:
   - ai video
   - ai youtube
@@ -726,3 +726,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

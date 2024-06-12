@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Tutorial  Turning Your Google Meet Into a YouTube Showcase\""
-date: 2024-05-30 23:56:49
-updated: 2024-06-01 11:48:29
+date: 2024-05-31T12:40:25.636Z
+updated: 2024-06-01T12:40:25.636Z
 tags:
   - ai video
   - ai youtube
@@ -315,3 +315,4 @@ For today, YouTube encodes all the videos with the VP9 codec, but for some reaso
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

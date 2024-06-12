@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Complete Guide to Crafting YouTube Masterpieces\""
-date: 2024-05-30 23:39:38
-updated: 2024-05-31 11:43:56
+date: 2024-05-31T12:48:13.526Z
+updated: 2024-06-01T12:48:13.526Z
 tags:
   - ai video
   - ai youtube
@@ -1350,3 +1350,4 @@ Follow @Marion Dubois
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Easy Way to Embed YouTube Into Google Slides"
-date: 2024-05-28 15:59:56
-updated: 2024-05-31 12:23:23
+date: 2024-05-31T12:38:38.508Z
+updated: 2024-06-01T12:38:38.508Z
 tags:
   - ai video
   - ai youtube
@@ -1446,3 +1446,4 @@ As you can tell, video dimensions significantly influence your media resolution 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

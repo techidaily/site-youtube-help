@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Guide to Profiting From YouTube Shorts  Key Requirements & Potential Income\""
-date: 2024-05-24 19:16:58
-updated: 2024-05-27 11:16:33
+date: 2024-05-31T12:45:34.756Z
+updated: 2024-06-01T12:45:34.756Z
 tags:
   - ai video
   - ai youtube
@@ -832,3 +832,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

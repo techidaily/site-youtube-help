@@ -1,7 +1,7 @@
 ---
 title: "[New] Seamless Transitions for YouTube Videos in Adobe Premiere"
-date: 2024-05-28 22:53:14
-updated: 2024-05-30 12:15:25
+date: 2024-05-31T12:43:39.969Z
+updated: 2024-06-01T12:43:39.969Z
 tags:
   - ai video
   - ai youtube
@@ -762,3 +762,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

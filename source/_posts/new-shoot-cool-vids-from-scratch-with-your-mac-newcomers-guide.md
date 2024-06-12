@@ -1,7 +1,7 @@
 ---
 title: "[New] Shoot Cool Vids From Scratch with Your Mac, Newcomers Guide"
-date: 2024-05-28 16:37:33
-updated: 2024-05-30 10:30:42
+date: 2024-05-31T12:42:43.675Z
+updated: 2024-06-01T12:42:43.675Z
 tags:
   - ai video
   - ai youtube
@@ -814,3 +814,4 @@ Follow @Marion Dubois
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Recover Hidden Shorts' Thumbnails in Videos"
-date: 2024-05-24 21:47:17
-updated: 2024-05-27 11:46:54
+date: 2024-05-31T12:41:25.461Z
+updated: 2024-06-01T12:41:25.461Z
 tags:
   - ai video
   - ai youtube
@@ -591,3 +591,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

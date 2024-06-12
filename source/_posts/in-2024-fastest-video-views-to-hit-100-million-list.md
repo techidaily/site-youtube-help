@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Fastest Video Views to Hit 100 Million List"
-date: 2024-05-24 20:29:54
-updated: 2024-05-26 12:21:26
+date: 2024-05-31T12:48:42.924Z
+updated: 2024-06-01T12:48:42.924Z
 tags:
   - ai video
   - ai youtube
@@ -830,3 +830,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

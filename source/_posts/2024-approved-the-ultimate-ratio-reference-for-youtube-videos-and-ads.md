@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Ratio Reference for YouTube Videos & Ads\""
-date: 2024-05-30 10:51:19
-updated: 2024-05-31 12:50:42
+date: 2024-05-31T12:43:59.027Z
+updated: 2024-06-01T12:43:59.027Z
 tags:
   - ai video
   - ai youtube
@@ -1060,3 +1060,4 @@ Do you share your computer with other fellows? The chances are that someone hit 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

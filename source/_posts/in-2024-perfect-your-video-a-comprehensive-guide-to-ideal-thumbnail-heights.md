@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Perfect Your Video  A Comprehensive Guide to Ideal Thumbnail Heights\""
-date: 2024-05-27 14:14:26
-updated: 2024-05-29 12:17:39
+date: 2024-05-31T12:39:51.039Z
+updated: 2024-06-01T12:39:51.039Z
 tags:
   - ai video
   - ai youtube
@@ -796,3 +796,4 @@ The introduction of the YouTube monetization 500 subscribers’ policy update wa
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

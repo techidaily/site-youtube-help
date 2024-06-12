@@ -1,7 +1,7 @@
 ---
 title: "How to Shave Seconds Off Your YouTube Video Submission for 2024"
-date: 2024-05-26 14:54:14
-updated: 2024-05-27 12:21:56
+date: 2024-05-31T12:40:27.672Z
+updated: 2024-06-01T12:40:27.672Z
 tags:
   - ai video
   - ai youtube
@@ -1350,3 +1350,4 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

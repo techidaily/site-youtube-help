@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating Through the World of Cosmetics  YouTube's Top Artists\""
-date: 2024-05-27 10:28:24
-updated: 2024-05-29 10:54:37
+date: 2024-05-31T12:47:37.560Z
+updated: 2024-06-01T12:47:37.560Z
 tags:
   - ai video
   - ai youtube
@@ -1102,3 +1102,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

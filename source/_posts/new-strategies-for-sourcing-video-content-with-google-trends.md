@@ -1,7 +1,7 @@
 ---
 title: "[New] Strategies for Sourcing Video Content with Google Trends"
-date: 2024-05-27 16:39:35
-updated: 2024-05-30 12:37:52
+date: 2024-05-31T12:40:26.029Z
+updated: 2024-06-01T12:40:26.029Z
 tags:
   - ai video
   - ai youtube
@@ -986,3 +986,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

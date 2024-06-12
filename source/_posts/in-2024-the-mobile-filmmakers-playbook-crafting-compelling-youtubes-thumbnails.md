@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Mobile Filmmaker’s Playbook  Crafting Compelling YouTubes Thumbnails\""
-date: 2024-05-30 21:41:32
-updated: 2024-05-31 11:42:53
+date: 2024-05-31T12:45:53.840Z
+updated: 2024-06-01T12:45:53.840Z
 tags:
   - ai video
   - ai youtube
@@ -711,3 +711,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Exporting Your Creativity  IMovie Videos for YouTube Audiences\""
-date: 2024-05-25 11:17:55
-updated: 2024-05-26 10:58:25
+date: 2024-05-31T12:48:15.606Z
+updated: 2024-06-01T12:48:15.606Z
 tags:
   - ai video
   - ai youtube
@@ -934,3 +934,4 @@ I firmly believe that at this point, understanding how to create a YouTube chann
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

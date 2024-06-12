@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Simplifying the MP4 Creation From Your YT Shorts\""
-date: 2024-05-27 16:36:11
-updated: 2024-05-30 10:20:37
+date: 2024-05-31T12:42:49.504Z
+updated: 2024-06-01T12:42:49.504Z
 tags:
   - ai video
   - ai youtube
@@ -828,3 +828,4 @@ This article explored four methods for resizing YouTube thumbnails: using the Wi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

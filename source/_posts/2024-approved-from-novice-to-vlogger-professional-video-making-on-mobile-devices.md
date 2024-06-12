@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Novice to Vlogger  Professional Video Making on Mobile Devices\""
-date: 2024-05-24 13:12:51
-updated: 2024-05-27 12:59:54
+date: 2024-05-31T12:46:24.379Z
+updated: 2024-06-01T12:46:24.379Z
 tags:
   - ai video
   - ai youtube
@@ -494,3 +494,4 @@ YouTube Short’s revenue-sharing programs offer a great opportunity for creator
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

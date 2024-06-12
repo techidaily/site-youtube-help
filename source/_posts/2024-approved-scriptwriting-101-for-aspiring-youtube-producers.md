@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Scriptwriting 101 for Aspiring YouTube Producers\""
-date: 2024-05-27 17:16:57
-updated: 2024-05-29 11:12:40
+date: 2024-05-31T12:47:53.494Z
+updated: 2024-06-01T12:47:53.494Z
 tags:
   - ai video
   - ai youtube
@@ -756,3 +756,4 @@ Thus, this article has valuable insights into the width and height of YouTube Th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Social Media Shifts  Yearly Data Visualization Guide\""
-date: 2024-05-29 14:10:44
-updated: 2024-05-30 11:55:30
+date: 2024-05-31T12:46:07.370Z
+updated: 2024-06-01T12:46:07.370Z
 tags:
   - ai video
   - ai youtube
@@ -360,3 +360,4 @@ It's easy to do, and it can be a great way to spend time with family members and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "Mastering YouTube Video Free Transcription Techniques for 2024"
-date: 2024-05-25 16:23:52
-updated: 2024-05-28 10:24:28
+date: 2024-05-31T12:40:13.568Z
+updated: 2024-06-01T12:40:13.568Z
 tags:
   - ai video
   - ai youtube
@@ -1334,3 +1334,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

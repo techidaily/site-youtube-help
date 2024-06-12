@@ -1,7 +1,7 @@
 ---
 title: "How to Embed YouTube in Your GSlides Presentation for 2024"
-date: 2024-05-25 21:28:29
-updated: 2024-05-27 12:57:19
+date: 2024-05-31T12:45:15.782Z
+updated: 2024-06-01T12:45:15.782Z
 tags:
   - ai video
   - ai youtube
@@ -1058,3 +1058,4 @@ Turn long videos into viral clips. Effortlessly transform lengthy videos into en
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

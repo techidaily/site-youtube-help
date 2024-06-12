@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Playlist in 10 Seconds  YouTube Shorts Explained\""
-date: 2024-05-28 18:55:58
-updated: 2024-05-31 11:59:59
+date: 2024-05-31T12:46:39.231Z
+updated: 2024-06-01T12:46:39.231Z
 tags:
   - ai video
   - ai youtube
@@ -1050,3 +1050,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

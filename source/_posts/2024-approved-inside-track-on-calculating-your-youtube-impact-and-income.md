@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Inside Track on Calculating Your YouTube Impact and Income\""
-date: 2024-05-27 20:50:50
-updated: 2024-05-28 10:32:11
+date: 2024-05-31T12:42:57.075Z
+updated: 2024-06-01T12:42:57.075Z
 tags:
   - ai video
   - ai youtube
@@ -1018,3 +1018,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

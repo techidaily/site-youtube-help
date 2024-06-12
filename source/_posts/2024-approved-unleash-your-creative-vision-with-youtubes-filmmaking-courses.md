@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unleash Your Creative Vision with YouTube's Filmmaking Courses\""
-date: 2024-05-29 13:24:48
-updated: 2024-06-01 11:46:58
+date: 2024-05-31T12:42:36.339Z
+updated: 2024-06-01T12:42:36.339Z
 tags:
   - ai video
   - ai youtube
@@ -722,3 +722,4 @@ Turn long videos into viral clips. Effortlessly transform lengthy videos into en
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Save While You Teach  Hosting Low-Cost Seminars via YouTube\""
-date: 2024-05-27 15:45:25
-updated: 2024-05-29 12:17:44
+date: 2024-05-31T12:44:23.379Z
+updated: 2024-06-01T12:44:23.379Z
 tags:
   - ai video
   - ai youtube
@@ -1342,3 +1342,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

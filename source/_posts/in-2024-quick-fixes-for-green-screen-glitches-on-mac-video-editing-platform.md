@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Quick Fixes for Green Screen Glitches on Mac Video Editing Platform"
-date: 2024-05-28 23:51:26
-updated: 2024-05-29 12:11:56
+date: 2024-05-31T12:38:38.388Z
+updated: 2024-06-01T12:38:38.388Z
 tags:
   - ai video
   - ai youtube
@@ -1010,3 +1010,4 @@ Turn long videos into viral clips. Effortlessly transform lengthy videos into en
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

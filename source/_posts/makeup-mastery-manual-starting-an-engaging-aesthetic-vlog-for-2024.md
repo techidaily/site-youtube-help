@@ -1,7 +1,7 @@
 ---
 title: "\"Makeup Mastery Manual  Starting an Engaging Aesthetic Vlog for 2024\""
-date: 2024-05-27 12:48:50
-updated: 2024-05-28 11:32:41
+date: 2024-05-31T12:47:19.606Z
+updated: 2024-06-01T12:47:19.606Z
 tags:
   - ai video
   - ai youtube
@@ -742,3 +742,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

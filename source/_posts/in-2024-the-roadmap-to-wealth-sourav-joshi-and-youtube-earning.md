@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Roadmap to Wealth  Sourav Joshi and YouTube Earning\""
-date: 2024-05-28 16:29:17
-updated: 2024-05-31 10:45:32
+date: 2024-05-31T12:39:33.533Z
+updated: 2024-06-01T12:39:33.533Z
 tags:
   - ai video
   - ai youtube
@@ -626,3 +626,4 @@ In this comprehensive guide, we've explored why the share function in the playli
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

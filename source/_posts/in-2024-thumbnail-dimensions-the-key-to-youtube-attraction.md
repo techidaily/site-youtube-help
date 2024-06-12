@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Thumbnail Dimensions  The Key to YouTube Attraction\""
-date: 2024-05-29 16:39:14
-updated: 2024-05-31 10:47:59
+date: 2024-05-31T12:48:29.542Z
+updated: 2024-06-01T12:48:29.542Z
 tags:
   - ai video
   - ai youtube
@@ -728,3 +728,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

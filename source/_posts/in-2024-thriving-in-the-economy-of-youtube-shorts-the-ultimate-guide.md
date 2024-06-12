@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Thriving in the Economy of YouTube Shorts – The Ultimate Guide"
-date: 2024-05-29 17:41:18
-updated: 2024-05-31 12:47:29
+date: 2024-05-31T12:47:34.022Z
+updated: 2024-06-01T12:47:34.022Z
 tags:
   - ai video
   - ai youtube
@@ -822,3 +822,4 @@ Because YouTube is a search engine, SEO is crucial if you want people to find yo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

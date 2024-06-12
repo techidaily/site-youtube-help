@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Stand Out on Google  The Ultimate Thumbnail Font Guide\""
-date: 2024-05-28 11:55:58
-updated: 2024-05-30 11:41:25
+date: 2024-05-31T12:47:14.655Z
+updated: 2024-06-01T12:47:14.655Z
 tags:
   - ai video
   - ai youtube
@@ -923,3 +923,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

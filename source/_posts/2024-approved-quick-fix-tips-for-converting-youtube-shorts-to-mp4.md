@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick-Fix Tips for Converting YouTube Shorts to Mp4\""
-date: 2024-05-28 14:16:45
-updated: 2024-05-29 10:52:56
+date: 2024-05-31T12:43:02.714Z
+updated: 2024-06-01T12:43:02.714Z
 tags:
   - ai video
   - ai youtube
@@ -1007,3 +1007,4 @@ Filmora templates are fully customizable, meaning you can change the text, image
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

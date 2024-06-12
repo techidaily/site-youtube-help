@@ -1,7 +1,7 @@
 ---
 title: "\"High-Cash Content Creators for 2024\""
-date: 2024-05-24 18:28:29
-updated: 2024-05-27 12:20:31
+date: 2024-05-31T12:44:40.254Z
+updated: 2024-06-01T12:44:40.254Z
 tags:
   - ai video
   - ai youtube
@@ -1310,3 +1310,4 @@ It is important to know that the default resolution of a YouTube thumbnail is 12
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

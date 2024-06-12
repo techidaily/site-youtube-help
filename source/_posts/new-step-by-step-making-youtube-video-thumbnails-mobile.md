@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step  Making YouTube Video Thumbnails (Mobile)\""
-date: 2024-05-28 19:33:25
-updated: 2024-05-30 11:16:18
+date: 2024-05-31T12:43:13.493Z
+updated: 2024-06-01T12:43:13.493Z
 tags:
   - ai video
   - ai youtube
@@ -791,3 +791,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

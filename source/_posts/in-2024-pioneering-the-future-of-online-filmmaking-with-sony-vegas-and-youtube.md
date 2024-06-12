@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Pioneering the Future of Online Filmmaking with Sony Vegas and YouTube"
-date: 2024-05-26 17:40:16
-updated: 2024-05-29 10:12:31
+date: 2024-05-31T12:41:18.544Z
+updated: 2024-06-01T12:41:18.544Z
 tags:
   - ai video
   - ai youtube
@@ -582,3 +582,4 @@ Enjoy!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

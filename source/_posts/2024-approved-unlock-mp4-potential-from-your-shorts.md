@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlock MP4 Potential From Your Shorts\""
-date: 2024-05-31 21:30:43
-updated: 2024-06-01 11:37:32
+date: 2024-05-31T12:40:18.675Z
+updated: 2024-06-01T12:40:18.675Z
 tags:
   - ai video
   - ai youtube
@@ -1086,3 +1086,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

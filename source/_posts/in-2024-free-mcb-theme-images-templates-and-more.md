@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Free MCB Theme Images, Templates & More"
-date: 2024-05-24 13:50:37
-updated: 2024-05-27 11:45:44
+date: 2024-05-31T12:44:05.870Z
+updated: 2024-06-01T12:44:05.870Z
 tags:
   - ai video
   - ai youtube
@@ -862,3 +862,4 @@ You've just finished creating and editing your video. Click on the "Save" tab an
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Mobile Filmmaker's Blueprint  Crafting Viral Thumbnails for YouTubes\""
-date: 2024-05-30 21:44:26
-updated: 2024-05-31 11:23:40
+date: 2024-05-31T12:39:04.909Z
+updated: 2024-06-01T12:39:04.909Z
 tags:
   - ai video
   - ai youtube
@@ -799,3 +799,4 @@ This portion of VTubing isn't all that dissimilar from creating regular video ma
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

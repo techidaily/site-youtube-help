@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Interactive Slides with YouTube Videos\""
-date: 2024-05-25 22:46:33
-updated: 2024-05-28 11:36:14
+date: 2024-05-31T12:44:56.653Z
+updated: 2024-06-01T12:44:56.653Z
 tags:
   - ai video
   - ai youtube
@@ -1086,3 +1086,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"Innovative Education  Prime 15 YouTube Science Outlets for 2024\""
-date: 2024-05-24 14:33:46
-updated: 2024-05-27 10:21:26
+date: 2024-05-31T12:47:15.289Z
+updated: 2024-06-01T12:47:15.289Z
 tags:
   - ai video
   - ai youtube
@@ -862,3 +862,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

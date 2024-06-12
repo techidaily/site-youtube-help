@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Font Selection Wonders  Enhancing YouTube Video Thumbnails\""
-date: 2024-05-25 10:21:43
-updated: 2024-05-27 11:40:55
+date: 2024-05-31T12:43:06.732Z
+updated: 2024-06-01T12:43:06.732Z
 tags:
   - ai video
   - ai youtube
@@ -775,3 +775,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Professional Filmmaking Made Easy with Right Lenses\""
-date: 2024-05-26 12:43:48
-updated: 2024-05-29 10:18:24
+date: 2024-05-31T12:47:25.729Z
+updated: 2024-06-01T12:47:25.729Z
 tags:
   - ai video
   - ai youtube
@@ -1010,3 +1010,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

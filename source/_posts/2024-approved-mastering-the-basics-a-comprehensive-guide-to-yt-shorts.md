@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering the Basics  A Comprehensive Guide to YT Shorts\""
-date: 2024-05-27 20:37:54
-updated: 2024-05-28 11:47:39
+date: 2024-05-31T12:48:37.827Z
+updated: 2024-06-01T12:48:37.827Z
 tags:
   - ai video
   - ai youtube
@@ -969,3 +969,4 @@ The video editor Wondershare Filmora even allows you to browse for some within t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

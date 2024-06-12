@@ -1,7 +1,7 @@
 ---
 title: "\"Navigate the Melody Maze  Crafting a Personalized YouTube Playlist for 2024\""
-date: 2024-05-25 12:52:39
-updated: 2024-05-28 10:20:37
+date: 2024-05-31T12:47:58.581Z
+updated: 2024-06-01T12:47:58.581Z
 tags:
   - ai video
   - ai youtube
@@ -1306,3 +1306,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

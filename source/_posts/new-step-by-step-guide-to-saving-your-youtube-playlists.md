@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Guide to Saving Your YouTube Playlists\""
-date: 2024-05-27 10:30:43
-updated: 2024-05-30 12:26:12
+date: 2024-05-31T12:48:08.842Z
+updated: 2024-06-01T12:48:08.842Z
 tags:
   - ai video
   - ai youtube
@@ -962,3 +962,4 @@ Captions are a great way to get users to engage with your videos. Studies have s
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

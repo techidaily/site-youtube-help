@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering the Art of Design  Selecting Ideal Dimensions for YT Branding\""
-date: 2024-05-27 19:52:42
-updated: 2024-05-28 10:33:47
+date: 2024-05-31T12:39:12.370Z
+updated: 2024-06-01T12:39:12.370Z
 tags:
   - ai video
   - ai youtube
@@ -842,3 +842,4 @@ Hopefully, you've found this article helpful and can now access the unlisted vid
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

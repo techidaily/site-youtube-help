@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking Video Potential  Essential Courses for New Creators\""
-date: 2024-05-30 18:48:51
-updated: 2024-06-01 11:11:21
+date: 2024-05-31T12:45:49.249Z
+updated: 2024-06-01T12:45:49.249Z
 tags:
   - ai video
   - ai youtube
@@ -650,3 +650,4 @@ Sometimes it might help your mental health if you can take out time to watch som
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

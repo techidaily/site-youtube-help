@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Humor Hits  The Best Funny YouTube Short Ideas on the Block\""
-date: 2024-05-24 23:37:46
-updated: 2024-05-27 10:33:25
+date: 2024-05-31T12:39:55.879Z
+updated: 2024-06-01T12:39:55.879Z
 tags:
   - ai video
   - ai youtube
@@ -982,3 +982,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Swaying Symbols  Dynamic Animation for Text Effects\""
-date: 2024-05-27 17:12:57
-updated: 2024-05-30 11:45:13
+date: 2024-05-31T12:44:01.281Z
+updated: 2024-06-01T12:44:01.281Z
 tags:
   - ai video
   - ai youtube
@@ -826,3 +826,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

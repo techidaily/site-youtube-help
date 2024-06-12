@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Project Board to Public Display  IMovie on YouTube\""
-date: 2024-05-24 19:12:34
-updated: 2024-05-27 11:26:19
+date: 2024-05-31T12:48:02.043Z
+updated: 2024-06-01T12:48:02.043Z
 tags:
   - ai video
   - ai youtube
@@ -1122,3 +1122,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

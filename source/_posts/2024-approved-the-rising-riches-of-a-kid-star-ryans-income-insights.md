@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Rising Riches of a Kid Star  Ryan's Income Insights\""
-date: 2024-05-29 14:24:14
-updated: 2024-05-31 10:36:45
+date: 2024-05-31T12:39:01.144Z
+updated: 2024-06-01T12:39:01.144Z
 tags:
   - ai video
   - ai youtube
@@ -850,3 +850,4 @@ No doubt, Mr. Beast has become a leading artist on this platform and made a trem
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

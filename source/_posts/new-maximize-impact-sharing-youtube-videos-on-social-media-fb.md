@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Maximize Impact  Sharing YouTube Videos on Social Media (FB)\""
-date: 2024-05-26 22:47:10
-updated: 2024-05-28 11:22:31
+date: 2024-05-31T12:42:26.984Z
+updated: 2024-06-01T12:42:26.984Z
 tags:
   - ai video
   - ai youtube
@@ -862,3 +862,4 @@ YouTube Short’s revenue-sharing programs offer a great opportunity for creator
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

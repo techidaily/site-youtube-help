@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Face Forward  Top Makeup Creatives\""
-date: 2024-05-29 11:35:29
-updated: 2024-05-31 12:45:36
+date: 2024-05-31T12:39:45.316Z
+updated: 2024-06-01T12:39:45.316Z
 tags:
   - ai video
   - ai youtube
@@ -934,3 +934,4 @@ The process of creating a compelling video is painless, with only 3 steps proces
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

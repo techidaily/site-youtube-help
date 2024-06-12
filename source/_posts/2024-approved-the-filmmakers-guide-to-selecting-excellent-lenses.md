@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Filmmaker's Guide to Selecting Excellent Lenses\""
-date: 2024-05-30 19:19:48
-updated: 2024-05-31 10:14:24
+date: 2024-05-31T12:45:02.401Z
+updated: 2024-06-01T12:45:02.401Z
 tags:
   - ai video
   - ai youtube
@@ -746,3 +746,4 @@ Sometimes it might help your mental health if you can take out time to watch som
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

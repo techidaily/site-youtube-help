@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Lightning-Fast Method for Double Exposure Filming\""
-date: 2024-05-27 12:20:38
-updated: 2024-05-28 12:17:56
+date: 2024-05-31T12:46:51.860Z
+updated: 2024-06-01T12:46:51.860Z
 tags:
   - ai video
   - ai youtube
@@ -734,3 +734,4 @@ The best science YouTube channels have one thing in common- high-quality content
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

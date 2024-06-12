@@ -1,7 +1,7 @@
 ---
 title: "Exploring Mukbang Culture in Live Video Formats for 2024"
-date: 2024-05-25 20:32:21
-updated: 2024-05-26 12:38:52
+date: 2024-05-31T12:38:56.784Z
+updated: 2024-06-01T12:38:56.784Z
 tags:
   - ai video
   - ai youtube
@@ -806,3 +806,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Transforming Your Film with Advanced Color Separation"
-date: 2024-05-31 17:53:11
-updated: 2024-06-01 10:11:13
+date: 2024-05-31T12:43:04.355Z
+updated: 2024-06-01T12:43:04.355Z
 tags:
   - ai video
   - ai youtube
@@ -463,3 +463,4 @@ Users can subscribe to Shorts channels. And if they see that your videos are wel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

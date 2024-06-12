@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Tailoring Thumbnails for Increased Video Engagement on YouTube"
-date: 2024-05-29 10:13:19
-updated: 2024-05-30 11:26:30
+date: 2024-05-31T12:47:28.435Z
+updated: 2024-06-01T12:47:28.435Z
 tags:
   - ai video
   - ai youtube
@@ -794,3 +794,4 @@ Their basic software package is available for free download and includes a wide 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mind Blown by Numbers  Yearly YouTube Insights in 2017\""
-date: 2024-05-25 12:13:38
-updated: 2024-05-28 11:13:22
+date: 2024-05-31T12:48:37.322Z
+updated: 2024-06-01T12:48:37.322Z
 tags:
   - ai video
   - ai youtube
@@ -394,3 +394,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

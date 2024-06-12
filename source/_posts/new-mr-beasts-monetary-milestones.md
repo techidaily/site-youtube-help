@@ -1,7 +1,7 @@
 ---
 title: "[New] Mr. Beast’s Monetary Milestones"
-date: 2024-05-25 21:26:16
-updated: 2024-05-28 12:35:26
+date: 2024-05-31T12:42:41.366Z
+updated: 2024-06-01T12:42:41.366Z
 tags:
   - ai video
   - ai youtube
@@ -792,3 +792,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

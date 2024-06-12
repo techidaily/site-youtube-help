@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From FTP to Feed  The Complete Guide to Uploading to YouTube\""
-date: 2024-05-26 19:21:45
-updated: 2024-05-27 10:41:52
+date: 2024-05-31T12:43:15.533Z
+updated: 2024-06-01T12:43:15.533Z
 tags:
   - ai video
   - ai youtube
@@ -1246,3 +1246,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

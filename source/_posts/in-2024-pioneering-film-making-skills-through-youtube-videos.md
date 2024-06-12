@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Pioneering Film Making Skills Through YouTube Videos"
-date: 2024-05-27 18:58:55
-updated: 2024-05-29 11:26:34
+date: 2024-05-31T12:44:42.557Z
+updated: 2024-06-01T12:44:42.557Z
 tags:
   - ai video
   - ai youtube
@@ -766,3 +766,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

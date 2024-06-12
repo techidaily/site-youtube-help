@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Tailoring Youtube Shorts Thumbnails Made Simple"
-date: 2024-05-27 12:21:35
-updated: 2024-05-30 12:48:24
+date: 2024-05-31T12:41:31.771Z
+updated: 2024-06-01T12:41:31.771Z
 tags:
   - ai video
   - ai youtube
@@ -640,3 +640,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

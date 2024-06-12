@@ -1,7 +1,7 @@
 ---
 title: "Making YouTube Audio MP3s Easily for Your Mac for 2024"
-date: 2024-05-27 15:11:17
-updated: 2024-05-28 12:22:31
+date: 2024-05-31T12:48:14.127Z
+updated: 2024-06-01T12:48:14.127Z
 tags:
   - ai video
   - ai youtube
@@ -650,3 +650,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

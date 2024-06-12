@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Blueprint for Building a YouTube Empire in Quick Time"
-date: 2024-05-28 20:14:14
-updated: 2024-05-31 10:49:51
+date: 2024-05-31T12:45:19.732Z
+updated: 2024-06-01T12:45:19.732Z
 tags:
   - ai video
   - ai youtube
@@ -962,3 +962,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

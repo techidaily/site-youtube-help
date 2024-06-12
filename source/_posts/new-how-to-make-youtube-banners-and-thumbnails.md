@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Make YouTube Banners and Thumbnails"
-date: 2024-05-25 15:22:29
-updated: 2024-05-27 12:33:56
+date: 2024-05-31T12:48:00.948Z
+updated: 2024-06-01T12:48:00.948Z
 tags:
   - ai video
   - ai youtube
@@ -452,3 +452,4 @@ As you can see, there are different ways you could monetize your YouTube channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

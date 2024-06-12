@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Fitness Through Yoga  YouTube Channel Hits List\""
-date: 2024-05-25 23:26:17
-updated: 2024-05-27 12:40:41
+date: 2024-05-31T12:48:08.218Z
+updated: 2024-06-01T12:48:08.218Z
 tags:
   - ai video
   - ai youtube
@@ -930,3 +930,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

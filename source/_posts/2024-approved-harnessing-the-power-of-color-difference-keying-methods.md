@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Harnessing the Power of Color Difference Keying Methods\""
-date: 2024-05-25 11:32:50
-updated: 2024-05-27 10:46:36
+date: 2024-05-31T12:38:49.953Z
+updated: 2024-06-01T12:38:49.953Z
 tags:
   - ai video
   - ai youtube
@@ -1034,3 +1034,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

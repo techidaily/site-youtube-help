@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Transform Your YT Prompts with Green Savvy"
-date: 2024-05-30 18:15:20
-updated: 2024-06-01 11:43:48
+date: 2024-05-31T12:46:16.278Z
+updated: 2024-06-01T12:46:16.278Z
 tags:
   - ai video
   - ai youtube
@@ -966,3 +966,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

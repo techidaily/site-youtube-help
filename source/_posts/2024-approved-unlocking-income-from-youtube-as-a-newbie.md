@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking Income From YouTube as a Newbie\""
-date: 2024-05-29 18:48:52
-updated: 2024-06-01 12:39:44
+date: 2024-05-31T12:48:44.945Z
+updated: 2024-06-01T12:48:44.945Z
 tags:
   - ai video
   - ai youtube
@@ -1630,3 +1630,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

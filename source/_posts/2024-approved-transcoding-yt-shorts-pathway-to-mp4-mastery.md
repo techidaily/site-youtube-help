@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transcoding YT Shorts  Pathway to MP4 Mastery\""
-date: 2024-05-28 13:40:40
-updated: 2024-05-31 12:16:38
+date: 2024-05-31T12:42:21.053Z
+updated: 2024-06-01T12:42:21.053Z
 tags:
   - ai video
   - ai youtube
@@ -910,3 +910,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

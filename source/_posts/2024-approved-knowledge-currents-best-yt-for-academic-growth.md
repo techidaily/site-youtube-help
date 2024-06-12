@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Knowledge Currents  Best YT for Academic Growth\""
-date: 2024-05-25 22:53:14
-updated: 2024-05-28 12:17:34
+date: 2024-05-31T12:47:25.654Z
+updated: 2024-06-01T12:47:25.654Z
 tags:
   - ai video
   - ai youtube
@@ -686,3 +686,4 @@ Hopefully, you've found this article helpful and can now access the unlisted vid
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

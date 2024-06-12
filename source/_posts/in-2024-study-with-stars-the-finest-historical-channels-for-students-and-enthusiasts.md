@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Study with Stars  The Finest Historical Channels for Students & Enthusiasts\""
-date: 2024-05-27 22:33:15
-updated: 2024-05-30 11:43:51
+date: 2024-05-31T12:41:58.217Z
+updated: 2024-06-01T12:41:58.217Z
 tags:
   - ai video
   - ai youtube
@@ -470,3 +470,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

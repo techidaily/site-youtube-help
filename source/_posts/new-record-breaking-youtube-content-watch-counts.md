@@ -1,7 +1,7 @@
 ---
 title: "[New] Record Breaking YouTube Content Watch Counts"
-date: 2024-05-28 11:24:55
-updated: 2024-05-29 12:29:52
+date: 2024-05-31T12:45:50.931Z
+updated: 2024-06-01T12:45:50.931Z
 tags:
   - ai video
   - ai youtube
@@ -1358,3 +1358,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

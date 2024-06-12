@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Navigating YouTube Shorts Investments"
-date: 2024-05-27 10:15:11
-updated: 2024-05-29 10:49:50
+date: 2024-05-31T12:43:11.843Z
+updated: 2024-06-01T12:43:11.843Z
 tags:
   - ai video
   - ai youtube
@@ -866,3 +866,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

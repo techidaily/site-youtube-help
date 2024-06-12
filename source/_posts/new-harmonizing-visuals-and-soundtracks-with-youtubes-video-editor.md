@@ -1,7 +1,7 @@
 ---
 title: "[New] Harmonizing Visuals & Soundtracks with YouTube's Video Editor"
-date: 2024-05-24 13:18:29
-updated: 2024-05-27 10:15:31
+date: 2024-05-31T12:38:51.815Z
+updated: 2024-06-01T12:38:51.815Z
 tags:
   - ai video
   - ai youtube
@@ -786,3 +786,4 @@ Sometimes it might help your mental health if you can take out time to watch som
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

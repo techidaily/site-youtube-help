@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  10 Most Susbcribed YouTuber in the World\""
-date: 2024-05-29 19:22:10
-updated: 2024-05-31 10:39:59
+date: 2024-05-31T12:38:29.126Z
+updated: 2024-06-01T12:38:29.126Z
 tags:
   - ai video
   - ai youtube
@@ -970,3 +970,4 @@ It is important to know that the default resolution of a YouTube thumbnail is 12
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

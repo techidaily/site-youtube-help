@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Record Good Audio Without a Microphone?"
-date: 2024-05-25 16:22:32
-updated: 2024-05-27 10:42:42
+date: 2024-05-31T12:44:12.034Z
+updated: 2024-06-01T12:44:12.034Z
 tags:
   - ai video
   - ai youtube
@@ -766,3 +766,4 @@ Follow @Marion Dubois
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

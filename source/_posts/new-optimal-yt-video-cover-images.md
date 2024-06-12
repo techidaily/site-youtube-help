@@ -1,7 +1,7 @@
 ---
 title: "[New] Optimal YT Video Cover Images"
-date: 2024-05-28 21:11:42
-updated: 2024-05-29 10:34:23
+date: 2024-05-31T12:41:52.937Z
+updated: 2024-06-01T12:41:52.937Z
 tags:
   - ai video
   - ai youtube
@@ -554,3 +554,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

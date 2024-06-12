@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Organize Soundtracks on Youtube  The Playlist Guide\""
-date: 2024-05-28 17:37:47
-updated: 2024-05-29 10:21:51
+date: 2024-05-31T12:39:51.533Z
+updated: 2024-06-01T12:39:51.533Z
 tags:
   - ai video
   - ai youtube
@@ -1358,3 +1358,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

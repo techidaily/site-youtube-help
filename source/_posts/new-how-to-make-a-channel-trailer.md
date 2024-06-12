@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Make a Channel Trailer"
-date: 2024-05-26 10:12:42
-updated: 2024-05-27 11:59:34
+date: 2024-05-31T12:48:23.122Z
+updated: 2024-06-01T12:48:23.122Z
 tags:
   - ai video
   - ai youtube
@@ -758,3 +758,4 @@ The process of creating a compelling video is painless, with only 3 steps proces
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

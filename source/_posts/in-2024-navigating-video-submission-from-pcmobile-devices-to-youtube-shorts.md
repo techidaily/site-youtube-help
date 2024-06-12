@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Navigating Video Submission  From PC/Mobile Devices to YouTube Shorts\""
-date: 2024-05-27 20:32:21
-updated: 2024-05-29 12:39:31
+date: 2024-05-31T12:48:28.138Z
+updated: 2024-06-01T12:48:28.138Z
 tags:
   - ai video
   - ai youtube
@@ -890,3 +890,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

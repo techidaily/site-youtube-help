@@ -1,7 +1,7 @@
 ---
 title: "\"Get Going on YouTube  Video Upload Tutorial in Premiere for 2024\""
-date: 2024-05-24 12:51:32
-updated: 2024-05-27 11:50:57
+date: 2024-05-31T12:38:37.042Z
+updated: 2024-06-01T12:38:37.042Z
 tags:
   - ai video
   - ai youtube
@@ -934,3 +934,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

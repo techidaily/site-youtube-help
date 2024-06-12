@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Fundamentals of Earnings on YouTube"
-date: 2024-05-28 13:26:30
-updated: 2024-05-31 12:42:59
+date: 2024-05-31T12:41:23.146Z
+updated: 2024-06-01T12:41:23.146Z
 tags:
   - ai video
   - ai youtube
@@ -1168,3 +1168,4 @@ Finding the best prank channels on YouTube to crack your rib during your boring 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

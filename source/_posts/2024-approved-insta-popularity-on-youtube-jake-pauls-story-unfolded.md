@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Insta-Popularity on Youtube  Jake Paul’s Story Unfolded\""
-date: 2024-05-26 20:41:18
-updated: 2024-05-28 10:23:15
+date: 2024-05-31T12:42:47.200Z
+updated: 2024-06-01T12:42:47.200Z
 tags:
   - ai video
   - ai youtube
@@ -838,3 +838,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

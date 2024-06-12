@@ -1,7 +1,7 @@
 ---
 title: "\"From Shortcuts to Sharing  Merging YouTube & TikTok Pathways for 2024\""
-date: 2024-05-25 22:11:41
-updated: 2024-05-27 10:35:26
+date: 2024-05-31T12:42:59.560Z
+updated: 2024-06-01T12:42:59.560Z
 tags:
   - ai video
   - ai youtube
@@ -1402,3 +1402,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

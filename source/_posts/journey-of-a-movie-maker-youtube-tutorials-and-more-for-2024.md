@@ -1,7 +1,7 @@
 ---
 title: "\"Journey of a Movie Maker  YouTube Tutorials & More for 2024\""
-date: 2024-05-25 12:39:35
-updated: 2024-05-28 11:19:41
+date: 2024-05-31T12:38:26.696Z
+updated: 2024-06-01T12:38:26.696Z
 tags:
   - ai video
   - ai youtube
@@ -670,3 +670,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

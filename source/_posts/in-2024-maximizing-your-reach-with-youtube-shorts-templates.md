@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Maximizing Your Reach with YouTube Shorts Templates"
-date: 2024-05-27 15:34:19
-updated: 2024-05-28 11:20:40
+date: 2024-05-31T12:40:15.674Z
+updated: 2024-06-01T12:40:15.674Z
 tags:
   - ai video
   - ai youtube
@@ -863,3 +863,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

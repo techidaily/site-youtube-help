@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unlock Your YouTube Potential  Expert Tips on Writing Video Outlines\""
-date: 2024-05-31 17:52:58
-updated: 2024-06-01 12:19:56
+date: 2024-05-31T12:42:22.340Z
+updated: 2024-06-01T12:42:22.340Z
 tags:
   - ai video
   - ai youtube
@@ -652,3 +652,4 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top Revenue-Making YouTube Visionary\""
-date: 2024-05-30 23:30:22
-updated: 2024-05-31 12:49:33
+date: 2024-05-31T12:47:50.351Z
+updated: 2024-06-01T12:47:50.351Z
 tags:
   - ai video
   - ai youtube
@@ -1023,3 +1023,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

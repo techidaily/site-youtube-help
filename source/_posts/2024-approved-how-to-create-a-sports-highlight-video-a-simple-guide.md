@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Create a Sports Highlight Video - a Simple Guide\""
-date: 2024-05-29 10:22:58
-updated: 2024-05-30 10:11:46
+date: 2024-05-31T12:38:34.505Z
+updated: 2024-06-01T12:38:34.505Z
 tags:
   - ai video
   - ai youtube
@@ -1002,3 +1002,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

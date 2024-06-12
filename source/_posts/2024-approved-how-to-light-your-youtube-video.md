@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How To Light Your YouTube Video\""
-date: 2024-05-24 10:20:35
-updated: 2024-05-27 11:57:26
+date: 2024-05-31T12:40:31.692Z
+updated: 2024-06-01T12:40:31.692Z
 tags:
   - ai video
   - ai youtube
@@ -2022,3 +2022,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

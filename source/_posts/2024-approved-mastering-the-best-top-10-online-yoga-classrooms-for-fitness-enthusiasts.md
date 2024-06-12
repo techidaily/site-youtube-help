@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering the Best  Top 10 Online Yoga Classrooms for Fitness Enthusiasts\""
-date: 2024-05-26 13:18:54
-updated: 2024-05-28 11:53:45
+date: 2024-05-31T12:40:45.834Z
+updated: 2024-06-01T12:40:45.834Z
 tags:
   - ai video
   - ai youtube
@@ -1006,3 +1006,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

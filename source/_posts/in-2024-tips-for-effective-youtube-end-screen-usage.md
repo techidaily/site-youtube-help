@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Tips for Effective YouTube End Screen Usage"
-date: 2024-05-30 16:30:22
-updated: 2024-05-31 12:20:21
+date: 2024-05-31T12:42:27.855Z
+updated: 2024-06-01T12:42:27.855Z
 tags:
   - ai video
   - ai youtube
@@ -742,3 +742,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

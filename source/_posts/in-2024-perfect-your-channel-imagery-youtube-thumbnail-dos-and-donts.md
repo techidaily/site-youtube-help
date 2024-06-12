@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Perfect Your Channel Imagery  YouTube Thumbnail Do's & Don'ts\""
-date: 2024-05-27 17:14:38
-updated: 2024-05-29 10:50:32
+date: 2024-05-31T12:46:20.679Z
+updated: 2024-06-01T12:46:20.679Z
 tags:
   - ai video
   - ai youtube
@@ -1046,3 +1046,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Increase Views - Discover 20 Prime Thumbnail Fonts\""
-date: 2024-05-24 10:35:59
-updated: 2024-05-27 11:46:15
+date: 2024-05-31T12:40:42.326Z
+updated: 2024-06-01T12:40:42.326Z
 tags:
   - ai video
   - ai youtube
@@ -783,3 +783,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

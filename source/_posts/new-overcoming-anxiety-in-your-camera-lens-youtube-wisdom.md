@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Overcoming Anxiety in Your Camera Lens  YouTube Wisdom\""
-date: 2024-05-27 20:16:22
-updated: 2024-05-29 12:54:48
+date: 2024-05-31T12:40:29.142Z
+updated: 2024-06-01T12:40:29.142Z
 tags:
   - ai video
   - ai youtube
@@ -868,3 +868,4 @@ The first step to running a successful channel is to be accepted into the YouTub
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"Maximizing Video Quality  Enabling AV1 on YouTube for 2024\""
-date: 2024-05-25 12:38:47
-updated: 2024-05-28 11:48:41
+date: 2024-05-31T12:39:25.941Z
+updated: 2024-06-01T12:39:25.941Z
 tags:
   - ai video
   - ai youtube
@@ -740,3 +740,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

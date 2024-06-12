@@ -1,7 +1,7 @@
 ---
 title: "\"IMovie Secrets  Captivating Your Audience From the Start for 2024\""
-date: 2024-05-25 13:42:54
-updated: 2024-05-27 10:40:35
+date: 2024-05-31T12:41:09.394Z
+updated: 2024-06-01T12:41:09.394Z
 tags:
   - ai video
   - ai youtube
@@ -1214,3 +1214,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

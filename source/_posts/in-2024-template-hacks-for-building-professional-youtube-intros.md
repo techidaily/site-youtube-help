@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Template Hacks for Building Professional YouTube Intros"
-date: 2024-05-28 10:42:18
-updated: 2024-05-30 12:28:15
+date: 2024-05-31T12:42:13.457Z
+updated: 2024-06-01T12:42:13.457Z
 tags:
   - ai video
   - ai youtube
@@ -1147,3 +1147,4 @@ Now you know what to do and what not to do when it comes to recording and editin
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

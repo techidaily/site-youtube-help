@@ -1,7 +1,7 @@
 ---
 title: "\"Finding Peace in Patience  Slowing Down Your Online Video Experience on YouTube (60 Chars, a Bit Long but Full of Helpful Info) for 2024\""
-date: 2024-05-26 12:34:11
-updated: 2024-05-27 11:59:10
+date: 2024-05-31T12:39:43.155Z
+updated: 2024-06-01T12:39:43.155Z
 tags:
   - ai video
   - ai youtube
@@ -1090,3 +1090,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Shot Securement  Keeping Cameras Still on Arms Only\""
-date: 2024-05-29 23:32:33
-updated: 2024-05-30 10:22:43
+date: 2024-05-31T12:47:30.993Z
+updated: 2024-06-01T12:47:30.993Z
 tags:
   - ai video
   - ai youtube
@@ -622,3 +622,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

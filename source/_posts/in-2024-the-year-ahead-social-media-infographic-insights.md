@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Year Ahead  Social Media Infographic Insights\""
-date: 2024-05-28 23:53:47
-updated: 2024-05-31 10:27:36
+date: 2024-05-31T12:40:50.790Z
+updated: 2024-06-01T12:40:50.790Z
 tags:
   - ai video
   - ai youtube
@@ -522,3 +522,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

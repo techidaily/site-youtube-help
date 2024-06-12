@@ -1,7 +1,7 @@
 ---
 title: "[New] Securely and Swiftly Acquiring Your YouTube Watch Lists"
-date: 2024-05-28 19:53:18
-updated: 2024-05-30 11:26:56
+date: 2024-05-31T12:42:20.511Z
+updated: 2024-06-01T12:42:20.511Z
 tags:
   - ai video
   - ai youtube
@@ -842,3 +842,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

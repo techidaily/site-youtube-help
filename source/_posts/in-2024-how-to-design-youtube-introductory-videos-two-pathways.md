@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, How to Design YouTube Introductory Videos  Two Pathways\""
-date: 2024-05-25 16:20:54
-updated: 2024-05-27 10:56:34
+date: 2024-05-31T12:46:19.370Z
+updated: 2024-06-01T12:46:19.370Z
 tags:
   - ai video
   - ai youtube
@@ -1026,3 +1026,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

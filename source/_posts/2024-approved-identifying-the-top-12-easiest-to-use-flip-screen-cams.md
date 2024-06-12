@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Identifying the Top 12 Easiest to Use Flip Screen Cams\""
-date: 2024-05-24 19:30:38
-updated: 2024-05-27 10:59:48
+date: 2024-05-31T12:40:48.053Z
+updated: 2024-06-01T12:40:48.053Z
 tags:
   - ai video
   - ai youtube
@@ -1038,3 +1038,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

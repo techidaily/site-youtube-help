@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Creation to Consumption  IGTV Vs. YouTube Explained for You\""
-date: 2024-05-24 16:18:20
-updated: 2024-05-27 12:21:25
+date: 2024-05-31T12:46:33.745Z
+updated: 2024-06-01T12:46:33.745Z
 tags:
   - ai video
   - ai youtube
@@ -650,3 +650,4 @@ Also, you can slow down a tutorial or the video you are watching if you feel the
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] Exploring YouTube's Earnings Mechanism Through CPM Analysis"
-date: 2024-05-25 13:35:20
-updated: 2024-05-26 11:51:29
+date: 2024-05-31T12:46:15.246Z
+updated: 2024-06-01T12:46:15.246Z
 tags:
   - ai video
   - ai youtube
@@ -898,3 +898,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

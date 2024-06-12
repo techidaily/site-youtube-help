@@ -1,7 +1,7 @@
 ---
 title: "Guidelines to Frame Your YouTube Creation Flow for 2024"
-date: 2024-05-25 18:13:34
-updated: 2024-05-27 10:48:27
+date: 2024-05-31T12:48:30.267Z
+updated: 2024-06-01T12:48:30.267Z
 tags:
   - ai video
   - ai youtube
@@ -834,3 +834,4 @@ Finally, there are a few things you should be aware of:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Shrink It Down  YouTube's Video Trimming Process\""
-date: 2024-05-29 19:56:15
-updated: 2024-05-30 11:51:16
+date: 2024-05-31T12:45:34.469Z
+updated: 2024-06-01T12:45:34.469Z
 tags:
   - ai video
   - ai youtube
@@ -678,3 +678,4 @@ This portion of VTubing isn't all that dissimilar from creating regular video ma
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

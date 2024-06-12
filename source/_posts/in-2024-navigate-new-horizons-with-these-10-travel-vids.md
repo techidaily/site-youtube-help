@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Navigate New Horizons with These 10 Travel Vids"
-date: 2024-05-27 17:37:17
-updated: 2024-05-28 11:38:22
+date: 2024-05-31T12:44:34.883Z
+updated: 2024-06-01T12:44:34.883Z
 tags:
   - ai video
   - ai youtube
@@ -1030,3 +1030,4 @@ Do you share your computer with other fellows? The chances are that someone hit 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

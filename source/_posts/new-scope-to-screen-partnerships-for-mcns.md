@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Scope-to-Screen Partnerships for MCNs\""
-date: 2024-05-28 17:49:19
-updated: 2024-05-29 12:24:33
+date: 2024-05-31T12:47:49.868Z
+updated: 2024-06-01T12:47:49.868Z
 tags:
   - ai video
   - ai youtube
@@ -994,3 +994,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

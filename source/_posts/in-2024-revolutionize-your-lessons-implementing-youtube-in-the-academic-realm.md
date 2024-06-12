@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Revolutionize Your Lessons  Implementing YouTube in the Academic Realm\""
-date: 2024-05-27 11:18:25
-updated: 2024-05-29 10:20:23
+date: 2024-05-31T12:40:24.617Z
+updated: 2024-06-01T12:40:24.617Z
 tags:
   - ai video
   - ai youtube
@@ -734,3 +734,4 @@ Follow @Marion Dubois
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top Earning YouTube Star Globally"
-date: 2024-05-29 15:55:48
-updated: 2024-05-31 12:51:39
+date: 2024-05-31T12:44:18.354Z
+updated: 2024-06-01T12:44:18.354Z
 tags:
   - ai video
   - ai youtube
@@ -1271,3 +1271,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

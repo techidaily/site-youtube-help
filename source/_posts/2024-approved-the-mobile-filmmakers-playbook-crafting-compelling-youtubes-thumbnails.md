@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Mobile Filmmaker’s Playbook  Crafting Compelling YouTubes Thumbnails\""
-date: 2024-05-28 12:11:21
-updated: 2024-05-31 12:13:11
+date: 2024-05-31T12:45:23.681Z
+updated: 2024-06-01T12:45:23.681Z
 tags:
   - ai video
   - ai youtube
@@ -855,3 +855,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Maximizing Youtube Revenue  Understanding AdSense Payments per Thousand Views\""
-date: 2024-05-27 18:39:36
-updated: 2024-05-28 11:51:58
+date: 2024-05-31T12:48:53.011Z
+updated: 2024-06-01T12:48:53.011Z
 tags:
   - ai video
   - ai youtube
@@ -633,3 +633,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

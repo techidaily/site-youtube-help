@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Finding the Balance  Adding Videos to Text on a Budget\""
-date: 2024-05-24 12:39:36
-updated: 2024-05-27 10:15:20
+date: 2024-05-31T12:38:42.228Z
+updated: 2024-06-01T12:38:42.228Z
 tags:
   - ai video
   - ai youtube
@@ -622,3 +622,4 @@ Enjoy!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

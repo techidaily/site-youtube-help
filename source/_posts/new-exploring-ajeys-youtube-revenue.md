@@ -1,7 +1,7 @@
 ---
 title: "[New] Exploring Ajey's YouTube Revenue"
-date: 2024-05-25 13:51:47
-updated: 2024-05-26 10:30:32
+date: 2024-05-31T12:45:21.969Z
+updated: 2024-06-01T12:45:21.969Z
 tags:
   - ai video
   - ai youtube
@@ -689,3 +689,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

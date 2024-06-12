@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Making a Mark with Effective YouTube Channel Graphics"
-date: 2024-05-25 16:49:26
-updated: 2024-05-28 12:59:13
+date: 2024-05-31T12:44:00.268Z
+updated: 2024-06-01T12:44:00.268Z
 tags:
   - ai video
   - ai youtube
@@ -718,3 +718,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

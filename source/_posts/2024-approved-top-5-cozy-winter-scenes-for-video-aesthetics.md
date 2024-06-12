@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 5 Cozy Winter Scenes for Video Aesthetics\""
-date: 2024-05-29 12:58:42
-updated: 2024-05-31 10:42:21
+date: 2024-05-31T12:44:19.080Z
+updated: 2024-06-01T12:44:19.080Z
 tags:
   - ai video
   - ai youtube
@@ -930,3 +930,4 @@ The future holds more great ways and opportunities to make things easy for us wi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

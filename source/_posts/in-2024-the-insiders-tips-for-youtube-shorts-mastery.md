@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Insider's Tips for YouTube Shorts Mastery"
-date: 2024-05-28 11:32:16
-updated: 2024-05-31 11:35:24
+date: 2024-05-31T12:45:05.016Z
+updated: 2024-06-01T12:45:05.016Z
 tags:
   - ai video
   - ai youtube
@@ -738,3 +738,4 @@ There are 60.8 million subscribers. Vlad and Niki maintain the popularity of chi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

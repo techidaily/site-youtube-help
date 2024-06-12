@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pictorial Narration Framework\""
-date: 2024-05-28 11:45:32
-updated: 2024-05-29 10:15:34
+date: 2024-05-31T12:42:47.321Z
+updated: 2024-06-01T12:42:47.321Z
 tags:
   - ai video
   - ai youtube
@@ -1106,3 +1106,4 @@ You are not limited to using any video file format. Several reasons may also com
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

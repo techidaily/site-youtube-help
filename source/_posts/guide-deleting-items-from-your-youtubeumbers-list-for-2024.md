@@ -1,7 +1,7 @@
 ---
 title: "\"Guide  Deleting Items From Your YouTube'umbers List for 2024\""
-date: 2024-05-24 20:11:51
-updated: 2024-05-27 11:31:53
+date: 2024-05-31T12:48:12.652Z
+updated: 2024-06-01T12:48:12.652Z
 tags:
   - ai video
   - ai youtube
@@ -444,3 +444,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] How To Make YouTube Videos on Your Smartphone"
-date: 2024-05-25 16:23:12
-updated: 2024-05-28 12:30:16
+date: 2024-05-31T12:46:53.298Z
+updated: 2024-06-01T12:46:53.298Z
 tags:
   - ai video
   - ai youtube
@@ -742,3 +742,4 @@ Captions are a great way to get users to engage with your videos. Studies have s
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

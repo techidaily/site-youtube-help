@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Make Shorts Into Compact MP4 Files"
-date: 2024-05-26 10:54:29
-updated: 2024-05-27 11:28:17
+date: 2024-05-31T12:46:24.942Z
+updated: 2024-06-01T12:46:24.942Z
 tags:
   - ai video
   - ai youtube
@@ -846,3 +846,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pocket-Sized Pop  Understanding the Dynamics of Short Form Tunes\""
-date: 2024-05-26 17:11:25
-updated: 2024-05-29 12:39:50
+date: 2024-05-31T12:40:55.469Z
+updated: 2024-06-01T12:40:55.469Z
 tags:
   - ai video
   - ai youtube
@@ -938,3 +938,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Increase Click-Through with Best YouTube Thumbnail Fonts\""
-date: 2024-05-26 20:52:23
-updated: 2024-05-27 11:21:56
+date: 2024-05-31T12:41:41.615Z
+updated: 2024-06-01T12:41:41.615Z
 tags:
   - ai video
   - ai youtube
@@ -1137,3 +1137,4 @@ YouTube video ads can be a great way to reach as many people as you can with you
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

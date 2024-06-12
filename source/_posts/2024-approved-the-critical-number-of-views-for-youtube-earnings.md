@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Critical Number of Views for YouTube Earnings\""
-date: 2024-05-30 17:17:53
-updated: 2024-05-31 12:42:42
+date: 2024-05-31T12:41:26.896Z
+updated: 2024-06-01T12:41:26.896Z
 tags:
   - ai video
   - ai youtube
@@ -714,3 +714,4 @@ Hopefully, you've found this article helpful and can now watch your favorite pla
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

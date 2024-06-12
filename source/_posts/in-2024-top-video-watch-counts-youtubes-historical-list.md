@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top Video Watch Counts  YouTube's Historical List\""
-date: 2024-05-28 11:51:56
-updated: 2024-05-31 11:15:19
+date: 2024-05-31T12:40:14.626Z
+updated: 2024-06-01T12:40:14.626Z
 tags:
   - ai video
   - ai youtube
@@ -926,3 +926,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

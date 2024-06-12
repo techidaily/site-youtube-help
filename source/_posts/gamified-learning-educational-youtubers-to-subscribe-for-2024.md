@@ -1,7 +1,7 @@
 ---
 title: "\"Gamified Learning  Educational YouTubers to Subscribe for 2024\""
-date: 2024-05-26 16:55:41
-updated: 2024-05-27 11:35:37
+date: 2024-05-31T12:38:21.870Z
+updated: 2024-06-01T12:38:21.870Z
 tags:
   - ai video
   - ai youtube
@@ -3162,3 +3162,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

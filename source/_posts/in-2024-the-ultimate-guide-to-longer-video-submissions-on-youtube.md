@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Guide to Longer Video Submissions on YouTube"
-date: 2024-05-28 11:45:13
-updated: 2024-05-31 11:33:36
+date: 2024-05-31T12:44:09.421Z
+updated: 2024-06-01T12:44:09.421Z
 tags:
   - ai video
   - ai youtube
@@ -962,3 +962,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

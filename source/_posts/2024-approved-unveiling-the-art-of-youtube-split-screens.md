@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveiling the Art of YouTube Split-Screens\""
-date: 2024-05-31 15:21:26
-updated: 2024-06-01 10:57:16
+date: 2024-05-31T12:44:04.694Z
+updated: 2024-06-01T12:44:04.694Z
 tags:
   - ai video
   - ai youtube
@@ -1014,3 +1014,4 @@ The future holds more great ways and opportunities to make things easy for us wi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

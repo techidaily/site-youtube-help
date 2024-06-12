@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Short Film Synopsis  Must-Know Points\""
-date: 2024-05-29 21:15:27
-updated: 2024-05-30 11:19:18
+date: 2024-05-31T12:42:14.585Z
+updated: 2024-06-01T12:42:14.585Z
 tags:
   - ai video
   - ai youtube
@@ -810,3 +810,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

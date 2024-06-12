@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Social Media Synergy  Cross-Promoting Your YouTube Content\""
-date: 2024-05-27 21:23:46
-updated: 2024-05-30 12:40:36
+date: 2024-05-31T12:47:56.613Z
+updated: 2024-06-01T12:47:56.613Z
 tags:
   - ai video
   - ai youtube
@@ -726,3 +726,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

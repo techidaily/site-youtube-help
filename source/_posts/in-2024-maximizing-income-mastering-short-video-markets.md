@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Maximizing Income  Mastering Short Video Markets\""
-date: 2024-05-27 20:49:30
-updated: 2024-05-28 10:29:27
+date: 2024-05-31T12:41:38.131Z
+updated: 2024-06-01T12:41:38.131Z
 tags:
   - ai video
   - ai youtube
@@ -705,3 +705,4 @@ Filmora templates are fully customizable, meaning you can change the text, image
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

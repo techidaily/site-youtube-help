@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top Earner Among Global Video Stars\""
-date: 2024-05-28 21:24:45
-updated: 2024-05-31 10:31:13
+date: 2024-05-31T12:45:11.266Z
+updated: 2024-06-01T12:45:11.266Z
 tags:
   - ai video
   - ai youtube
@@ -951,3 +951,4 @@ Hopefully, the information in this guide will be useful when you’re looking fo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

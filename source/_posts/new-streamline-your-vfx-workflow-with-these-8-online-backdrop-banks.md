@@ -1,7 +1,7 @@
 ---
 title: "[New] Streamline Your VFX Workflow with These 8 Online Backdrop Banks"
-date: 2024-05-27 10:31:52
-updated: 2024-05-30 11:45:22
+date: 2024-05-31T12:48:32.112Z
+updated: 2024-06-01T12:48:32.112Z
 tags:
   - ai video
   - ai youtube
@@ -1454,3 +1454,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

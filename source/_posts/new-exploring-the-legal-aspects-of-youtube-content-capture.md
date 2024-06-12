@@ -1,7 +1,7 @@
 ---
 title: "[New] Exploring the Legal Aspects of YouTube Content Capture"
-date: 2024-05-25 20:46:53
-updated: 2024-05-26 10:38:52
+date: 2024-05-31T12:48:32.873Z
+updated: 2024-06-01T12:48:32.873Z
 tags:
   - ai video
   - ai youtube
@@ -915,3 +915,4 @@ No. After a service provider has sent out the likes, they don't have a way to ta
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

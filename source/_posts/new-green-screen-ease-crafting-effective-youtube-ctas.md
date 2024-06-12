@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Green Screen Ease  Crafting Effective YouTube CTAs\""
-date: 2024-05-26 23:57:30
-updated: 2024-05-27 10:46:58
+date: 2024-05-31T12:39:57.939Z
+updated: 2024-06-01T12:39:57.939Z
 tags:
   - ai video
   - ai youtube
@@ -1734,3 +1734,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

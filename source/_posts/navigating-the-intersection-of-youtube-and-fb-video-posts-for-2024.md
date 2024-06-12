@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Intersection of YouTube and FB Video Posts for 2024"
-date: 2024-05-26 10:19:36
-updated: 2024-05-29 11:30:56
+date: 2024-05-31T12:46:20.889Z
+updated: 2024-06-01T12:46:20.889Z
 tags:
   - ai video
   - ai youtube
@@ -1202,3 +1202,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

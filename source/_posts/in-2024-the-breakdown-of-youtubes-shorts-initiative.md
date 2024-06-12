@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Breakdown of YouTube's Shorts Initiative"
-date: 2024-05-28 20:40:16
-updated: 2024-05-31 11:21:26
+date: 2024-05-31T12:46:47.491Z
+updated: 2024-06-01T12:46:47.491Z
 tags:
   - ai video
   - ai youtube
@@ -900,3 +900,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

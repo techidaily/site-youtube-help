@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Footage to Frame  Crafting YouTube Thumbnails on Mobile Devices\""
-date: 2024-05-25 20:52:46
-updated: 2024-05-27 10:27:49
+date: 2024-05-31T12:48:52.268Z
+updated: 2024-06-01T12:48:52.268Z
 tags:
   - ai video
   - ai youtube
@@ -827,3 +827,4 @@ Turn long videos into viral clips. Effortlessly transform lengthy videos into en
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

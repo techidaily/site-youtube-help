@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Embed YouTube in Your GSlides Presentation\""
-date: 2024-05-26 12:56:19
-updated: 2024-05-27 12:51:16
+date: 2024-05-31T12:40:04.921Z
+updated: 2024-06-01T12:40:04.921Z
 tags:
   - ai video
   - ai youtube
@@ -1122,3 +1122,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

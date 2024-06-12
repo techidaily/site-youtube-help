@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Masterful Approach to Creating Attractive YT Summaries\""
-date: 2024-05-25 20:29:16
-updated: 2024-05-28 12:46:19
+date: 2024-05-31T12:44:15.480Z
+updated: 2024-06-01T12:44:15.480Z
 tags:
   - ai video
   - ai youtube
@@ -557,3 +557,4 @@ If you too have got inspired and looking forward to starting with some interesti
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

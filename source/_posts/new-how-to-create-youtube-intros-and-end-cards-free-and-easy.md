@@ -1,7 +1,7 @@
 ---
 title: "\"[New] How to Create YouTube Intros & End Cards - Free and Easy\""
-date: 2024-05-25 13:31:20
-updated: 2024-05-27 12:29:40
+date: 2024-05-31T12:47:17.591Z
+updated: 2024-06-01T12:47:17.591Z
 tags:
   - ai video
   - ai youtube
@@ -690,3 +690,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

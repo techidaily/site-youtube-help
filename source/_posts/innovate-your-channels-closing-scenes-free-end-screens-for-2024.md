@@ -1,7 +1,7 @@
 ---
 title: "\"Innovate Your Channels' Closing Scenes  Free End Screens for 2024\""
-date: 2024-05-26 16:59:17
-updated: 2024-05-27 10:53:35
+date: 2024-05-31T12:48:52.108Z
+updated: 2024-06-01T12:48:52.108Z
 tags:
   - ai video
   - ai youtube
@@ -822,3 +822,4 @@ Hopefully, you've found this article helpful and can now access the unlisted vid
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

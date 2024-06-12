@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering YouTube Studio  The Ultimate Guide to Video Edits\""
-date: 2024-05-27 17:23:42
-updated: 2024-05-28 11:17:17
+date: 2024-05-31T12:45:17.282Z
+updated: 2024-06-01T12:45:17.282Z
 tags:
   - ai video
   - ai youtube
@@ -784,3 +784,4 @@ If you want your videos to be even more awesome, you can use a cool tool called 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

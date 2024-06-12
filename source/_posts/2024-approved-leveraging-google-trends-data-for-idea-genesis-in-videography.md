@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Leveraging Google Trends Data for Idea Genesis in Videography\""
-date: 2024-05-27 15:35:22
-updated: 2024-05-28 12:12:42
+date: 2024-05-31T12:47:45.688Z
+updated: 2024-06-01T12:47:45.688Z
 tags:
   - ai video
   - ai youtube
@@ -798,3 +798,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Essential Guide to YouTube Video Lighting Tips\""
-date: 2024-05-29 22:49:23
-updated: 2024-05-31 10:26:37
+date: 2024-05-31T12:38:22.839Z
+updated: 2024-06-01T12:38:22.839Z
 tags:
   - ai video
   - ai youtube
@@ -1226,3 +1226,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Real-Time Caption Generator\""
-date: 2024-05-26 16:14:38
-updated: 2024-05-29 10:48:16
+date: 2024-05-31T12:44:49.469Z
+updated: 2024-06-01T12:44:49.469Z
 tags:
   - ai video
   - ai youtube
@@ -1586,3 +1586,4 @@ So, we'd now like to wrap up our music-oriented session on 20 top YouTube music 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

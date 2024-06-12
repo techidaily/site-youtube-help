@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Maximize Video Potential  A Complete Guide to YouTube Thumbnail Dimensions\""
-date: 2024-05-25 12:14:21
-updated: 2024-05-28 10:12:37
+date: 2024-05-31T12:46:53.388Z
+updated: 2024-06-01T12:46:53.388Z
 tags:
   - ai video
   - ai youtube
@@ -738,3 +738,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

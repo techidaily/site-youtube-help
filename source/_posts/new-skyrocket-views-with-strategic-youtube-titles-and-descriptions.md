@@ -1,7 +1,7 @@
 ---
 title: "[New] Skyrocket Views with Strategic YouTube Titles & Descriptions"
-date: 2024-05-28 12:45:24
-updated: 2024-05-30 12:47:59
+date: 2024-05-31T12:38:36.636Z
+updated: 2024-06-01T12:38:36.636Z
 tags:
   - ai video
   - ai youtube
@@ -1074,3 +1074,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

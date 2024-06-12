@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top Earner YouTube Star - Global Leader\""
-date: 2024-05-28 15:38:48
-updated: 2024-05-31 10:35:41
+date: 2024-05-31T12:42:49.607Z
+updated: 2024-06-01T12:42:49.607Z
 tags:
   - ai video
   - ai youtube
@@ -1123,3 +1123,4 @@ YT SEO tools can help you optimize your videos to increase views and grow your f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

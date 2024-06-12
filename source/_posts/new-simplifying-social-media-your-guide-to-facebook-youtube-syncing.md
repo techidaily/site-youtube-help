@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Simplifying Social Media  Your Guide to Facebook-YouTube Syncing\""
-date: 2024-05-29 12:50:29
-updated: 2024-05-30 12:49:10
+date: 2024-05-31T12:48:56.703Z
+updated: 2024-06-01T12:48:56.703Z
 tags:
   - ai video
   - ai youtube
@@ -1098,3 +1098,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

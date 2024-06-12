@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unleashing Potential  The Art of YouTube SEO Keywords\""
-date: 2024-05-31 16:54:13
-updated: 2024-06-01 12:23:31
+date: 2024-05-31T12:45:27.205Z
+updated: 2024-06-01T12:45:27.205Z
 tags:
   - ai video
   - ai youtube
@@ -1350,3 +1350,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

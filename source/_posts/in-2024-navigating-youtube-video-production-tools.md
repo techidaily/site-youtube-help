@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Navigating YouTube Video Production Tools"
-date: 2024-05-26 12:19:49
-updated: 2024-05-29 11:17:32
+date: 2024-05-31T12:38:48.242Z
+updated: 2024-06-01T12:38:48.242Z
 tags:
   - ai video
   - ai youtube
@@ -642,3 +642,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

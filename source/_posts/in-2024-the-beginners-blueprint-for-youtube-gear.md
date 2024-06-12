@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Beginner's Blueprint for YouTube Gear"
-date: 2024-05-29 16:22:44
-updated: 2024-05-31 10:29:52
+date: 2024-05-31T12:44:35.942Z
+updated: 2024-06-01T12:44:35.942Z
 tags:
   - ai video
   - ai youtube
@@ -675,3 +675,4 @@ Now you know what to do and what not to do when it comes to recording and editin
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

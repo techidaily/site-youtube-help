@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Reference to YouTube Video Aspect Ratios\""
-date: 2024-05-28 20:10:32
-updated: 2024-05-31 11:38:49
+date: 2024-05-31T12:43:33.753Z
+updated: 2024-06-01T12:43:33.753Z
 tags:
   - ai video
   - ai youtube
@@ -658,3 +658,4 @@ Alright! Following the steps mentioned above, you will be able to create a good 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

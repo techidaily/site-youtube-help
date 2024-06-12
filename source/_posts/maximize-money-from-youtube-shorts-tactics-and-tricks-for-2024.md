@@ -1,7 +1,7 @@
 ---
 title: "\"Maximize Money From YouTube Shorts  Tactics & Tricks for 2024\""
-date: 2024-05-26 16:36:54
-updated: 2024-05-28 11:31:57
+date: 2024-05-31T12:47:53.141Z
+updated: 2024-06-01T12:47:53.141Z
 tags:
   - ai video
   - ai youtube
@@ -622,3 +622,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

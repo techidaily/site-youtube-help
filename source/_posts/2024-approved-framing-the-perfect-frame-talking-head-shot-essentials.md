@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Framing the Perfect Frame  Talking-Head Shot Essentials\""
-date: 2024-05-25 11:33:17
-updated: 2024-05-27 11:32:47
+date: 2024-05-31T12:39:51.661Z
+updated: 2024-06-01T12:39:51.661Z
 tags:
   - ai video
   - ai youtube
@@ -842,3 +842,4 @@ You can now sync audio and create a realistic moment as if you are sitting among
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

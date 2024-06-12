@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfect Harmony  The Ultimate Guide to Youtube's Anime Vids\""
-date: 2024-05-27 16:21:26
-updated: 2024-05-29 11:19:28
+date: 2024-05-31T12:47:56.807Z
+updated: 2024-06-01T12:47:56.807Z
 tags:
   - ai video
   - ai youtube
@@ -1378,3 +1378,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Video Basics Made Simple  A List of 10 Accessible YouTube Projects\""
-date: 2024-05-31 17:28:34
-updated: 2024-06-01 11:27:50
+date: 2024-05-31T12:42:15.724Z
+updated: 2024-06-01T12:42:15.724Z
 tags:
   - ai video
   - ai youtube
@@ -576,3 +576,4 @@ We hope you've found this article informative and can now display your YouTube p
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

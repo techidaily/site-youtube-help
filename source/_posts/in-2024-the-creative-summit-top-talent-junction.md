@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Creative Summit  Top Talent Junction\""
-date: 2024-05-30 22:47:44
-updated: 2024-05-31 10:36:13
+date: 2024-05-31T12:47:29.641Z
+updated: 2024-06-01T12:47:29.641Z
 tags:
   - ai video
   - ai youtube
@@ -730,3 +730,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

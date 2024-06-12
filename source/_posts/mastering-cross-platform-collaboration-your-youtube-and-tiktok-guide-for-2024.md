@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Cross-Platform Collaboration  Your YouTube & TikTok Guide for 2024\""
-date: 2024-05-27 10:32:27
-updated: 2024-05-28 12:28:30
+date: 2024-05-31T12:41:09.897Z
+updated: 2024-06-01T12:41:09.897Z
 tags:
   - ai video
   - ai youtube
@@ -938,3 +938,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

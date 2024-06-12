@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Strategic Use of YouTube Cards & Markup\""
-date: 2024-05-27 22:20:12
-updated: 2024-05-30 10:57:40
+date: 2024-05-31T12:41:52.197Z
+updated: 2024-06-01T12:41:52.197Z
 tags:
   - ai video
   - ai youtube
@@ -1182,3 +1182,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"Navigating Mobility in Film  Crafting YouTubes' Best Thumbnails for 2024\""
-date: 2024-05-26 12:58:32
-updated: 2024-05-28 11:33:44
+date: 2024-05-31T12:47:43.130Z
+updated: 2024-06-01T12:47:43.130Z
 tags:
   - ai video
   - ai youtube
@@ -765,3 +765,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

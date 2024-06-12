@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Liven Up Thumbnails  Enchanted Settings\""
-date: 2024-05-26 11:41:48
-updated: 2024-05-28 12:36:48
+date: 2024-05-31T12:40:10.563Z
+updated: 2024-06-01T12:40:10.563Z
 tags:
   - ai video
   - ai youtube
@@ -1289,3 +1289,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Eye-Catching YouTube  Most Followed Channels\""
-date: 2024-05-24 10:11:50
-updated: 2024-05-26 12:35:54
+date: 2024-05-31T12:39:58.873Z
+updated: 2024-06-01T12:39:58.873Z
 tags:
   - ai video
   - ai youtube
@@ -778,3 +778,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Leading 8 YouTube Entities Experiencing Unprecedented Growth"
-date: 2024-05-28 10:24:20
-updated: 2024-05-31 10:19:48
+date: 2024-05-31T12:40:19.035Z
+updated: 2024-06-01T12:40:19.035Z
 tags:
   - ai video
   - ai youtube
@@ -882,3 +882,4 @@ Also, you can slow down a tutorial or the video you are watching if you feel the
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

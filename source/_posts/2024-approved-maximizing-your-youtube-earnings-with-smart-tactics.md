@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Maximizing Your YouTube Earnings with Smart Tactics\""
-date: 2024-05-27 18:33:10
-updated: 2024-05-28 12:52:44
+date: 2024-05-31T12:46:31.336Z
+updated: 2024-06-01T12:46:31.336Z
 tags:
   - ai video
   - ai youtube
@@ -780,3 +780,4 @@ The process of creating a compelling video is painless, with only 3 steps proces
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

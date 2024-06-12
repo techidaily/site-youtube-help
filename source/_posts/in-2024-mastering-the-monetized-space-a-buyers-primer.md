@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering the Monetized Space  A Buyer's Primer\""
-date: 2024-05-26 16:45:15
-updated: 2024-05-28 10:12:29
+date: 2024-05-31T12:38:54.862Z
+updated: 2024-06-01T12:38:54.862Z
 tags:
   - ai video
   - ai youtube
@@ -896,3 +896,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

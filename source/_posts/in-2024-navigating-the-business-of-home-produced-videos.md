@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Navigating the Business of Home-Produced Videos\""
-date: 2024-05-27 13:49:39
-updated: 2024-05-29 12:49:11
+date: 2024-05-31T12:48:35.954Z
+updated: 2024-06-01T12:48:35.954Z
 tags:
   - ai video
   - ai youtube
@@ -1019,3 +1019,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

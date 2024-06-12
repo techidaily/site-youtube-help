@@ -1,7 +1,7 @@
 ---
 title: "How Much Wealth Can You Generate on YouTube Using CPM, In 2024"
-date: 2024-05-25 12:12:51
-updated: 2024-05-27 10:18:14
+date: 2024-05-31T12:41:46.753Z
+updated: 2024-06-01T12:41:46.753Z
 tags:
   - ai video
   - ai youtube
@@ -886,3 +886,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

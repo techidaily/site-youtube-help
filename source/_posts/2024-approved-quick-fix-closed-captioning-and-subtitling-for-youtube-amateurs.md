@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick-Fix Closed Captioning & Subtitling for YouTube Amateurs\""
-date: 2024-05-26 22:33:44
-updated: 2024-05-29 12:10:15
+date: 2024-05-31T12:47:36.861Z
+updated: 2024-06-01T12:47:36.861Z
 tags:
   - ai video
   - ai youtube
@@ -812,3 +812,4 @@ If you are making a video from your photos, you can use an online video maker wi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

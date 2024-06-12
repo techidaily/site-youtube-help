@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Influencer Collaborations Impacting Video View Counts\""
-date: 2024-05-26 13:46:33
-updated: 2024-05-27 12:57:18
+date: 2024-05-31T12:47:21.132Z
+updated: 2024-06-01T12:47:21.132Z
 tags:
   - ai video
   - ai youtube
@@ -782,3 +782,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

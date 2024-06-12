@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Harnessing the Power of Asynchronous Programming in JavaScript\""
-date: 2024-05-24 10:11:37
-updated: 2024-05-27 12:29:46
+date: 2024-05-31T12:44:26.604Z
+updated: 2024-06-01T12:44:26.604Z
 tags:
   - ai video
   - ai youtube
@@ -574,3 +574,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step Into History  Discovering the Best 10 Educational YT Channels\""
-date: 2024-05-28 19:36:36
-updated: 2024-05-30 12:39:27
+date: 2024-05-31T12:40:38.044Z
+updated: 2024-06-01T12:40:38.044Z
 tags:
   - ai video
   - ai youtube
@@ -910,3 +910,4 @@ You can make a great milestone with **YouTube Shorts music** than if you didn’
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

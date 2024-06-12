@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Role of Lighting in Professional YouTube Content Creation\""
-date: 2024-05-28 20:27:29
-updated: 2024-05-31 12:56:36
+date: 2024-05-31T12:42:59.404Z
+updated: 2024-06-01T12:42:59.404Z
 tags:
   - ai video
   - ai youtube
@@ -782,3 +782,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

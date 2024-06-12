@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Social Media Showdown  Comparing IGTV and YouTube's Unique Aspects\""
-date: 2024-05-27 23:47:51
-updated: 2024-05-30 12:26:25
+date: 2024-05-31T12:47:45.475Z
+updated: 2024-06-01T12:47:45.475Z
 tags:
   - ai video
   - ai youtube
@@ -702,3 +702,4 @@ Follow @Marion Dubois
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

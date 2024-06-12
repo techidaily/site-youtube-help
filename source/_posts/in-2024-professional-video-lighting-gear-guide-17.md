@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Professional Video Lighting Gear Guide (#17)"
-date: 2024-05-28 18:44:11
-updated: 2024-05-29 12:23:38
+date: 2024-05-31T12:43:35.284Z
+updated: 2024-06-01T12:43:35.284Z
 tags:
   - ai video
   - ai youtube
@@ -1118,3 +1118,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

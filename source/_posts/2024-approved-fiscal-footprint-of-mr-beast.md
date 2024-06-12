@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Fiscal Footprint of Mr. Beast\""
-date: 2024-05-26 15:12:27
-updated: 2024-05-27 10:24:22
+date: 2024-05-31T12:38:53.228Z
+updated: 2024-06-01T12:38:53.228Z
 tags:
   - ai video
   - ai youtube
@@ -908,3 +908,4 @@ YouTubers use several video editors for their work. Some of the most popular edi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

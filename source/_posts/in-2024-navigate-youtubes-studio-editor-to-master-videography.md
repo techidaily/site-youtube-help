@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Navigate YouTube's Studio Editor to Master Videography"
-date: 2024-05-26 17:30:49
-updated: 2024-05-28 12:21:28
+date: 2024-05-31T12:46:17.490Z
+updated: 2024-06-01T12:46:17.490Z
 tags:
   - ai video
   - ai youtube
@@ -1434,3 +1434,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

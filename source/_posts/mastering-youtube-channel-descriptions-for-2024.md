@@ -1,7 +1,7 @@
 ---
 title: "Mastering YouTube Channel Descriptions for 2024"
-date: 2024-05-26 14:41:28
-updated: 2024-05-28 10:51:58
+date: 2024-05-31T12:47:30.861Z
+updated: 2024-06-01T12:47:30.861Z
 tags:
   - ai video
   - ai youtube
@@ -1158,3 +1158,4 @@ Thus, if you were looking for the fastest growing YouTube channels to inspire yo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

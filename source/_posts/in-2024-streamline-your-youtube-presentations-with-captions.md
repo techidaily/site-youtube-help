@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Streamline Your YouTube Presentations with Captions"
-date: 2024-05-27 18:35:28
-updated: 2024-05-30 11:58:47
+date: 2024-05-31T12:48:45.329Z
+updated: 2024-06-01T12:48:45.329Z
 tags:
   - ai video
   - ai youtube
@@ -545,3 +545,4 @@ If you too have got inspired and looking forward to starting with some interesti
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

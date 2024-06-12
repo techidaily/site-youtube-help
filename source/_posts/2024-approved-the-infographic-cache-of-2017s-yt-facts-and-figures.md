@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Infographic Cache of 2017’S YT Facts and Figures\""
-date: 2024-05-29 23:21:24
-updated: 2024-05-31 10:24:59
+date: 2024-05-31T12:47:46.883Z
+updated: 2024-06-01T12:47:46.883Z
 tags:
   - ai video
   - ai youtube
@@ -348,3 +348,4 @@ We hope you've found this article informative and can now display your YouTube p
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

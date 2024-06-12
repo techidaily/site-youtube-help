@@ -1,7 +1,7 @@
 ---
 title: "Incorporating YT Playlists Into Web Design for 2024"
-date: 2024-05-24 11:29:51
-updated: 2024-05-27 10:58:48
+date: 2024-05-31T12:45:10.762Z
+updated: 2024-06-01T12:45:10.762Z
 tags:
   - ai video
   - ai youtube
@@ -628,3 +628,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

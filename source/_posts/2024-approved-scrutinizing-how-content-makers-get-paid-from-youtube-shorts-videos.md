@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Scrutinizing How Content Makers Get Paid From YouTube Shorts Videos\""
-date: 2024-05-27 20:56:26
-updated: 2024-05-29 10:39:30
+date: 2024-05-31T12:40:35.057Z
+updated: 2024-06-01T12:40:35.057Z
 tags:
   - ai video
   - ai youtube
@@ -766,3 +766,4 @@ Despite all the reasons to subscribe to YouTube Premium, it still needs a minor 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

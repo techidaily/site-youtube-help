@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unbelievable Illusionist Tales  Top YouTube Magic Edits\""
-date: 2024-05-29 22:11:20
-updated: 2024-06-01 12:46:14
+date: 2024-05-31T12:39:31.889Z
+updated: 2024-06-01T12:39:31.889Z
 tags:
   - ai video
   - ai youtube
@@ -2868,3 +2868,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

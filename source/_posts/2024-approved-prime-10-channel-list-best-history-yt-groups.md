@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Prime 10 Channel List  Best History YT Groups\""
-date: 2024-05-27 18:26:50
-updated: 2024-05-29 10:17:15
+date: 2024-05-31T12:44:19.995Z
+updated: 2024-06-01T12:44:19.995Z
 tags:
   - ai video
   - ai youtube
@@ -874,3 +874,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

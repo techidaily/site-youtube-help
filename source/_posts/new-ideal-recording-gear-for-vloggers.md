@@ -1,7 +1,7 @@
 ---
 title: "[New] Ideal Recording Gear for Vloggers"
-date: 2024-05-25 14:27:42
-updated: 2024-05-27 11:17:23
+date: 2024-05-31T12:39:28.174Z
+updated: 2024-06-01T12:39:28.174Z
 tags:
   - ai video
   - ai youtube
@@ -1238,3 +1238,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

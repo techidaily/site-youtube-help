@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Steady and True  Keeping It All Together in Your YouTube Shoots\""
-date: 2024-05-28 18:18:36
-updated: 2024-05-30 12:57:54
+date: 2024-05-31T12:47:28.382Z
+updated: 2024-06-01T12:47:28.382Z
 tags:
   - ai video
   - ai youtube
@@ -890,3 +890,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

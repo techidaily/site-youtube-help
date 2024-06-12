@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  SMART Video Tactics for Small Enterprises\""
-date: 2024-05-27 22:27:56
-updated: 2024-05-30 10:42:34
+date: 2024-05-31T12:39:15.371Z
+updated: 2024-06-01T12:39:15.371Z
 tags:
   - ai video
   - ai youtube
@@ -829,3 +829,4 @@ The video editor Wondershare Filmora even allows you to browse for some within t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

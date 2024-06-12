@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultimate Hocus Pocus  Editor's Best Tricks\""
-date: 2024-05-29 21:49:53
-updated: 2024-06-01 12:17:18
+date: 2024-05-31T12:42:01.055Z
+updated: 2024-06-01T12:42:01.055Z
 tags:
   - ai video
   - ai youtube
@@ -2888,3 +2888,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

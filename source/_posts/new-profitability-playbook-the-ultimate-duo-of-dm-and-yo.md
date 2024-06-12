@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Profitability Playbook  The Ultimate Duo of Dm & Yo\""
-date: 2024-05-27 15:12:41
-updated: 2024-05-29 11:19:41
+date: 2024-05-31T12:45:06.525Z
+updated: 2024-06-01T12:45:06.525Z
 tags:
   - ai video
   - ai youtube
@@ -688,3 +688,4 @@ The first step to running a successful channel is to be accepted into the YouTub
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

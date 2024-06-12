@@ -1,7 +1,7 @@
 ---
 title: "\"From Video to Audio  Quickly Create MP3 From YouTube on Mac for 2024\""
-date: 2024-05-26 21:33:33
-updated: 2024-05-27 12:39:15
+date: 2024-05-31T12:46:09.535Z
+updated: 2024-06-01T12:46:09.535Z
 tags:
   - ai video
   - ai youtube
@@ -438,3 +438,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

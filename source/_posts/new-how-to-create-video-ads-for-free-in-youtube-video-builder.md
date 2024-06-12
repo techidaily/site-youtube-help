@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Create Video Ads for Free in YouTube Video Builder"
-date: 2024-05-26 23:34:32
-updated: 2024-05-27 11:52:47
+date: 2024-05-31T12:43:01.193Z
+updated: 2024-06-01T12:43:01.193Z
 tags:
   - ai video
   - ai youtube
@@ -856,3 +856,4 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

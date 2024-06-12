@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unlock the Secrets of Smooth and Seamless Keying in Videography"
-date: 2024-05-29 20:30:12
-updated: 2024-06-01 11:21:46
+date: 2024-05-31T12:39:11.390Z
+updated: 2024-06-01T12:39:11.390Z
 tags:
   - ai video
   - ai youtube
@@ -950,3 +950,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

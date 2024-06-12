@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Vlogs to Virality  Jake Paul, the Online Phenomenon\""
-date: 2024-05-25 22:46:22
-updated: 2024-05-27 12:55:32
+date: 2024-05-31T12:44:39.894Z
+updated: 2024-06-01T12:44:39.894Z
 tags:
   - ai video
   - ai youtube
@@ -682,3 +682,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Platform Showdown  Vimeo's Edge vs YouTube & Dailymotion\""
-date: 2024-05-28 10:37:54
-updated: 2024-05-29 10:14:32
+date: 2024-05-31T12:41:10.090Z
+updated: 2024-06-01T12:41:10.090Z
 tags:
   - ai video
   - ai youtube
@@ -1390,3 +1390,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

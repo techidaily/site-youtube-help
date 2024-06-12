@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Integrating Video Content  YouTube & Google Slides\""
-date: 2024-05-27 19:17:42
-updated: 2024-05-28 10:33:56
+date: 2024-05-31T12:45:05.524Z
+updated: 2024-06-01T12:45:05.524Z
 tags:
   - ai video
   - ai youtube
@@ -809,3 +809,4 @@ To save and access your live streaming sessions later, you can try the screen re
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

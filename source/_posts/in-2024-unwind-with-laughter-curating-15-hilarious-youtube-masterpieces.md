@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unwind with Laughter  Curating 15 Hilarious YouTube Masterpieces\""
-date: 2024-05-31 10:22:28
-updated: 2024-06-01 10:27:59
+date: 2024-05-31T12:45:22.882Z
+updated: 2024-06-01T12:45:22.882Z
 tags:
   - ai video
   - ai youtube
@@ -652,3 +652,4 @@ Finding the best prank channels on YouTube to crack your rib during your boring 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

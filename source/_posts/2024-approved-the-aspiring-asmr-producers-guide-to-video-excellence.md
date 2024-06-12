@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Aspiring ASMR Producer's Guide to Video Excellence\""
-date: 2024-05-29 18:26:14
-updated: 2024-05-31 10:45:57
+date: 2024-05-31T12:47:33.396Z
+updated: 2024-06-01T12:47:33.396Z
 tags:
   - ai video
   - ai youtube
@@ -1010,3 +1010,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

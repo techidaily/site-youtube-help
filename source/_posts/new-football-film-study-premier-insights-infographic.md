@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Football Film Study  Premier Insights Infographic\""
-date: 2024-05-26 21:18:34
-updated: 2024-05-27 11:42:50
+date: 2024-05-31T12:42:19.204Z
+updated: 2024-06-01T12:42:19.204Z
 tags:
   - ai video
   - ai youtube
@@ -710,3 +710,4 @@ Link: <https://www.youtube.com/user/zeenews/videos>
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Ignite Your Creativity  Making Dynamic Splitscreen Videos\""
-date: 2024-05-24 15:33:13
-updated: 2024-05-27 11:53:52
+date: 2024-05-31T12:47:41.516Z
+updated: 2024-06-01T12:47:41.516Z
 tags:
   - ai video
   - ai youtube
@@ -874,3 +874,4 @@ Follow @Marion Dubois
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

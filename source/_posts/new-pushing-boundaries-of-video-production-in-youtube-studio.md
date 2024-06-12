@@ -1,7 +1,7 @@
 ---
 title: "[New] Pushing Boundaries of Video Production in YouTube Studio"
-date: 2024-05-26 22:37:55
-updated: 2024-05-29 10:58:21
+date: 2024-05-31T12:47:35.378Z
+updated: 2024-06-01T12:47:35.378Z
 tags:
   - ai video
   - ai youtube
@@ -1150,3 +1150,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

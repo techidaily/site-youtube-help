@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Steps for Controlling Video Comment Settings in YouTube\""
-date: 2024-05-28 13:20:40
-updated: 2024-05-30 11:53:54
+date: 2024-05-31T12:45:56.556Z
+updated: 2024-06-01T12:45:56.556Z
 tags:
   - ai video
   - ai youtube
@@ -824,3 +824,4 @@ That’s all on T-Series income on YouTube. T-Series did not just become success
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

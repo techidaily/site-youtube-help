@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Free Video Wizardry  Top 8 Editing Programs for YouTube Enthusiasts\""
-date: 2024-05-26 21:33:20
-updated: 2024-05-27 10:54:24
+date: 2024-05-31T12:39:09.600Z
+updated: 2024-06-01T12:39:09.600Z
 tags:
   - ai video
   - ai youtube
@@ -1459,3 +1459,4 @@ Whether you create your thumbnails on your mobile device or your computer, use a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

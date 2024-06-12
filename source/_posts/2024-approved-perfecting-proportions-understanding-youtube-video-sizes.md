@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfecting Proportions  Understanding YouTube Video Sizes\""
-date: 2024-05-27 21:13:16
-updated: 2024-05-29 10:16:40
+date: 2024-05-31T12:43:02.681Z
+updated: 2024-06-01T12:43:02.681Z
 tags:
   - ai video
   - ai youtube
@@ -1016,3 +1016,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

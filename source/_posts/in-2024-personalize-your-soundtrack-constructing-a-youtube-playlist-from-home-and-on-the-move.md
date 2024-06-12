@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Personalize Your Soundtrack  Constructing a YouTube Playlist From Home & On-the-Move\""
-date: 2024-05-27 11:37:58
-updated: 2024-05-29 10:45:34
+date: 2024-05-31T12:39:38.997Z
+updated: 2024-06-01T12:39:38.997Z
 tags:
   - ai video
   - ai youtube
@@ -528,3 +528,4 @@ Now it is time for you to pick the right YouTube shorts description for your vid
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

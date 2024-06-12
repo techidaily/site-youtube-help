@@ -1,7 +1,7 @@
 ---
 title: "\"Journey to Wellness - Discovering the Best Yoga Vloggers for 2024\""
-date: 2024-05-27 10:47:24
-updated: 2024-05-28 10:31:39
+date: 2024-05-31T12:39:31.250Z
+updated: 2024-06-01T12:39:31.250Z
 tags:
   - ai video
   - ai youtube
@@ -1414,3 +1414,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

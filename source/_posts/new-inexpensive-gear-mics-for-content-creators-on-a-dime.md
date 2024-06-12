@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Inexpensive Gear  Mics for Content Creators on a Dime\""
-date: 2024-05-26 23:22:20
-updated: 2024-05-27 11:20:45
+date: 2024-05-31T12:38:58.634Z
+updated: 2024-06-01T12:38:58.634Z
 tags:
   - ai video
   - ai youtube
@@ -1414,3 +1414,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

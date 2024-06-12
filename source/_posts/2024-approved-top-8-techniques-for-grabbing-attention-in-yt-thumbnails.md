@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 8 Techniques for Grabbing Attention in YT Thumbnails\""
-date: 2024-05-29 11:23:43
-updated: 2024-05-31 11:28:37
+date: 2024-05-31T12:41:00.433Z
+updated: 2024-06-01T12:41:00.433Z
 tags:
   - ai video
   - ai youtube
@@ -670,3 +670,4 @@ In this comprehensive guide, we've explored why the share function in the playli
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

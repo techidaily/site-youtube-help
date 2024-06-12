@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Get Just the Essentials From YouTube Videos"
-date: 2024-05-25 12:42:38
-updated: 2024-05-27 12:42:41
+date: 2024-05-31T12:46:10.072Z
+updated: 2024-06-01T12:46:10.072Z
 tags:
   - ai video
   - ai youtube
@@ -1330,3 +1330,4 @@ Google asked for our ZIP code when we originally joined up for YouTube TV, which
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

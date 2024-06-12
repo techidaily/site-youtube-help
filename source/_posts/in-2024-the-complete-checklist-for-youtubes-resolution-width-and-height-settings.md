@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Complete Checklist for YouTube's Resolution, Width & Height Settings"
-date: 2024-05-29 16:22:53
-updated: 2024-05-31 10:44:12
+date: 2024-05-31T12:40:03.451Z
+updated: 2024-06-01T12:40:03.451Z
 tags:
   - ai video
   - ai youtube
@@ -1518,3 +1518,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Power of First Impressions  Crafting Impactful YouTube Images\""
-date: 2024-05-29 17:34:17
-updated: 2024-05-31 12:10:56
+date: 2024-05-31T12:48:31.145Z
+updated: 2024-06-01T12:48:31.145Z
 tags:
   - ai video
   - ai youtube
@@ -1350,3 +1350,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

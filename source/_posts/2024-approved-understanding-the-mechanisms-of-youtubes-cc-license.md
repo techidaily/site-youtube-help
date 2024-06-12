@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Understanding the Mechanisms of YouTube's CC License\""
-date: 2024-05-30 10:24:46
-updated: 2024-06-01 10:28:50
+date: 2024-05-31T12:42:48.435Z
+updated: 2024-06-01T12:42:48.435Z
 tags:
   - ai video
   - ai youtube
@@ -570,3 +570,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Navigating the Numbers  YouTube Earnings & CPM Insights\""
-date: 2024-05-27 17:16:56
-updated: 2024-05-29 12:10:57
+date: 2024-05-31T12:44:15.019Z
+updated: 2024-06-01T12:44:15.019Z
 tags:
   - ai video
   - ai youtube
@@ -886,3 +886,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 10 Female YouTubers [Lastest]\""
-date: 2024-05-30 23:32:12
-updated: 2024-05-31 11:38:12
+date: 2024-05-31T12:46:57.062Z
+updated: 2024-06-01T12:46:57.062Z
 tags:
   - ai video
   - ai youtube
@@ -928,3 +928,4 @@ YouTube Shorts have become immensely popular. They tend to have a higher ROI and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

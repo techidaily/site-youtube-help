@@ -1,7 +1,7 @@
 ---
 title: "\"Making an Impact on YouTube  Tips on Banners and Art Dimensions for 2024\""
-date: 2024-05-27 15:28:36
-updated: 2024-05-28 10:48:20
+date: 2024-05-31T12:48:37.616Z
+updated: 2024-06-01T12:48:37.616Z
 tags:
   - ai video
   - ai youtube
@@ -722,3 +722,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Infographics  Boosting Buzz Through Social Videos\""
-date: 2024-05-26 14:53:59
-updated: 2024-05-27 11:26:53
+date: 2024-05-31T12:45:58.440Z
+updated: 2024-06-01T12:45:58.440Z
 tags:
   - ai video
   - ai youtube
@@ -829,3 +829,4 @@ The video editor Wondershare Filmora even allows you to browse for some within t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

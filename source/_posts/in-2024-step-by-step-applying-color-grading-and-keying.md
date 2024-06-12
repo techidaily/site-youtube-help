@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Step-by-Step  Applying Color Grading and Keying\""
-date: 2024-05-29 13:37:34
-updated: 2024-05-30 11:13:14
+date: 2024-05-31T12:40:47.330Z
+updated: 2024-06-01T12:40:47.330Z
 tags:
   - ai video
   - ai youtube
@@ -910,3 +910,4 @@ Pre-recorded videos are also a great way to present your content with perfection
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

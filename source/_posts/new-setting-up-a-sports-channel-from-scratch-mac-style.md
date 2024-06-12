@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Setting up a Sports Channel From Scratch, Mac-Style\""
-date: 2024-05-27 16:13:54
-updated: 2024-05-30 12:41:37
+date: 2024-05-31T12:45:00.891Z
+updated: 2024-06-01T12:45:00.891Z
 tags:
   - ai video
   - ai youtube
@@ -1094,3 +1094,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

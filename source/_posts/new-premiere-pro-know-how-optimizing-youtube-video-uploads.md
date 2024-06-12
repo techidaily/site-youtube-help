@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Premiere Pro Know-How  Optimizing YouTube Video Uploads\""
-date: 2024-05-28 15:47:21
-updated: 2024-05-29 12:12:10
+date: 2024-05-31T12:44:27.605Z
+updated: 2024-06-01T12:44:27.605Z
 tags:
   - ai video
   - ai youtube
@@ -990,3 +990,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

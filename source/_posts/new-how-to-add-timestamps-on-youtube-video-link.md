@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Add Timestamps on YouTube Video Link?"
-date: 2024-05-25 22:25:42
-updated: 2024-05-27 11:22:49
+date: 2024-05-31T12:38:37.649Z
+updated: 2024-06-01T12:38:37.649Z
 tags:
   - ai video
   - ai youtube
@@ -1366,3 +1366,4 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

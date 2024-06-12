@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Perfecting Your Vids  A Comprehensive YouTube Studio Tutorial\""
-date: 2024-05-27 12:42:56
-updated: 2024-05-29 12:27:44
+date: 2024-05-31T12:38:26.526Z
+updated: 2024-06-01T12:38:26.526Z
 tags:
   - ai video
   - ai youtube
@@ -2170,3 +2170,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Short Cuts, Big Impact  Top Editors for YouTube Short Videos on Mobile\""
-date: 2024-05-27 19:44:25
-updated: 2024-05-30 10:18:21
+date: 2024-05-31T12:46:02.880Z
+updated: 2024-06-01T12:46:02.880Z
 tags:
   - ai video
   - ai youtube
@@ -1530,3 +1530,4 @@ Link: <https://www.youtube.com/user/zeenews/videos>
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

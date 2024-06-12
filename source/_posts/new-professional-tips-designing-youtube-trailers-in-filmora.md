@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Professional Tips  Designing YouTube Trailers in Filmora\""
-date: 2024-05-28 17:11:23
-updated: 2024-05-29 12:49:49
+date: 2024-05-31T12:43:00.221Z
+updated: 2024-06-01T12:43:00.221Z
 tags:
   - ai video
   - ai youtube
@@ -664,3 +664,4 @@ You can try creating a video for YouTube. And use Filmora to make your videos im
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

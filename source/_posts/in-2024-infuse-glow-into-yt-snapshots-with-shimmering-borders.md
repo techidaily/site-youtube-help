@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Infuse Glow Into YT Snapshots with Shimmering Borders"
-date: 2024-05-25 22:48:41
-updated: 2024-05-27 10:25:52
+date: 2024-05-31T12:40:44.121Z
+updated: 2024-06-01T12:40:44.121Z
 tags:
   - ai video
   - ai youtube
@@ -910,3 +910,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

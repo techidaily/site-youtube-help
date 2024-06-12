@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Get Just the Essentials From YouTube Videos"
-date: 2024-05-25 10:28:29
-updated: 2024-05-27 11:41:27
+date: 2024-05-31T12:39:01.363Z
+updated: 2024-06-01T12:39:01.363Z
 tags:
   - ai video
   - ai youtube
@@ -1342,3 +1342,4 @@ However, ad overlay is for content creators with Google AdWords enabled on their
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

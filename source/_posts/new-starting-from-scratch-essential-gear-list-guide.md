@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Starting From Scratch  Essential Gear List Guide\""
-date: 2024-05-29 16:57:26
-updated: 2024-05-30 11:47:43
+date: 2024-05-31T12:38:48.791Z
+updated: 2024-06-01T12:38:48.791Z
 tags:
   - ai video
   - ai youtube
@@ -934,3 +934,4 @@ However, ad overlay is for content creators with Google AdWords enabled on their
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

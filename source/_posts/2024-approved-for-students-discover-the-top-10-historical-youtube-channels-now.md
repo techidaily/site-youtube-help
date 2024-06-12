@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  For Students, Discover the Top 10 Historical YouTube Channels Now\""
-date: 2024-05-24 14:45:39
-updated: 2024-05-27 10:50:14
+date: 2024-05-31T12:41:34.360Z
+updated: 2024-06-01T12:41:34.360Z
 tags:
   - ai video
   - ai youtube
@@ -714,3 +714,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

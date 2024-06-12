@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Journey Through Time  The Best History YT Channels Ranked #1-10\""
-date: 2024-05-25 20:59:36
-updated: 2024-05-28 12:59:36
+date: 2024-05-31T12:46:49.248Z
+updated: 2024-06-01T12:46:49.248Z
 tags:
   - ai video
   - ai youtube
@@ -834,3 +834,4 @@ It is important to know that the default resolution of a YouTube thumbnail is 12
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

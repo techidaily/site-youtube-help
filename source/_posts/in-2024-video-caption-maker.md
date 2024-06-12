@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Video Caption Maker"
-date: 2024-05-29 14:34:27
-updated: 2024-06-01 10:50:56
+date: 2024-05-31T12:39:08.272Z
+updated: 2024-06-01T12:39:08.272Z
 tags:
   - ai video
   - ai youtube
@@ -942,3 +942,4 @@ YouTube's music library is relatively small. The songs include both traditional 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

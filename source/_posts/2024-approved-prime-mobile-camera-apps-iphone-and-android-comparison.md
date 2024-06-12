@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Prime Mobile Camera Apps  IPhone & Android Comparison\""
-date: 2024-05-27 23:36:23
-updated: 2024-05-29 12:47:48
+date: 2024-05-31T12:44:13.305Z
+updated: 2024-06-01T12:44:13.305Z
 tags:
   - ai video
   - ai youtube
@@ -638,3 +638,4 @@ With YouTube monetization how many views does it take to make money? This will d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

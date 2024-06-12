@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Short Film Synopsis  Must-Know Points\""
-date: 2024-05-28 12:36:12
-updated: 2024-05-30 11:39:43
+date: 2024-05-31T12:40:00.418Z
+updated: 2024-06-01T12:40:00.418Z
 tags:
   - ai video
   - ai youtube
@@ -658,3 +658,4 @@ Also, you can slow down a tutorial or the video you are watching if you feel the
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

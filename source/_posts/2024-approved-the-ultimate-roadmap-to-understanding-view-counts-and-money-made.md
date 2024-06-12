@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Roadmap to Understanding View Counts & Money Made\""
-date: 2024-05-29 13:49:53
-updated: 2024-05-31 12:45:16
+date: 2024-05-31T12:44:46.921Z
+updated: 2024-06-01T12:44:46.921Z
 tags:
   - ai video
   - ai youtube
@@ -942,3 +942,4 @@ Follow @Marion Dubois
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

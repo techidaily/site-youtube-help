@@ -1,7 +1,7 @@
 ---
 title: "[New] From Raw Video to Engaging YouTube Videos with Sony Vegas Tools"
-date: 2024-05-25 20:50:23
-updated: 2024-05-27 10:19:51
+date: 2024-05-31T12:44:56.300Z
+updated: 2024-06-01T12:44:56.300Z
 tags:
   - ai video
   - ai youtube
@@ -1070,3 +1070,4 @@ Thus, finding the best YouTube channel to watch anime during your free or boring
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Microtones and Monikers  Shorts' Sound Roles\""
-date: 2024-05-27 19:48:49
-updated: 2024-05-28 12:32:36
+date: 2024-05-31T12:40:56.717Z
+updated: 2024-06-01T12:40:56.717Z
 tags:
   - ai video
   - ai youtube
@@ -1430,3 +1430,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

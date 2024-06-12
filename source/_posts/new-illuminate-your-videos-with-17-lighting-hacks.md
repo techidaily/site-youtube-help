@@ -1,7 +1,7 @@
 ---
 title: "[New] Illuminate Your Videos with #17 Lighting Hacks"
-date: 2024-05-26 12:24:34
-updated: 2024-05-27 11:49:23
+date: 2024-05-31T12:45:26.432Z
+updated: 2024-06-01T12:45:26.432Z
 tags:
   - ai video
   - ai youtube
@@ -923,3 +923,4 @@ Hopefully, this article helped resolve your query, and you can now use the right
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

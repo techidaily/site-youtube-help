@@ -1,7 +1,7 @@
 ---
 title: "\"[New] MelodyCut Studio  High-Quality Video & Audio Editing\""
-date: 2024-05-27 18:15:17
-updated: 2024-05-28 12:44:45
+date: 2024-05-31T12:44:01.943Z
+updated: 2024-06-01T12:44:01.943Z
 tags:
   - ai video
   - ai youtube
@@ -1466,3 +1466,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfect Size  Crafting Engaging Thumbnails\""
-date: 2024-05-28 14:43:15
-updated: 2024-05-29 11:33:39
+date: 2024-05-31T12:44:12.303Z
+updated: 2024-06-01T12:44:12.303Z
 tags:
   - ai video
   - ai youtube
@@ -1850,3 +1850,4 @@ Wanted to make YouTube videos by yourself and share them with your audiences? Ch
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

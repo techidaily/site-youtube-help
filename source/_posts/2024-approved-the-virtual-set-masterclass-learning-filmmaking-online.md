@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Virtual Set Masterclass  Learning Filmmaking Online\""
-date: 2024-05-29 12:47:42
-updated: 2024-05-31 10:24:11
+date: 2024-05-31T12:48:52.637Z
+updated: 2024-06-01T12:48:52.637Z
 tags:
   - ai video
   - ai youtube
@@ -890,3 +890,4 @@ You can make a great milestone with **YouTube Shorts music** than if you didn’
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Personal Creation Goals  Selecting Between TikTok and YouTube Shorts\""
-date: 2024-05-28 19:48:29
-updated: 2024-05-29 11:53:34
+date: 2024-05-31T12:47:52.807Z
+updated: 2024-06-01T12:47:52.807Z
 tags:
   - ai video
   - ai youtube
@@ -1026,3 +1026,4 @@ Once you post your videos, give them some time to see if people will view them. 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Historical Knowledge at Your Fingertips  Best YT History Channels\""
-date: 2024-05-24 21:49:13
-updated: 2024-05-27 10:28:58
+date: 2024-05-31T12:42:00.607Z
+updated: 2024-06-01T12:42:00.607Z
 tags:
   - ai video
   - ai youtube
@@ -550,3 +550,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

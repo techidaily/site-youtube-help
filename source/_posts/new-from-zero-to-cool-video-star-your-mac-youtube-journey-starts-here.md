@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Zero to Cool Video Star  Your Mac Youtube Journey Starts Here\""
-date: 2024-05-25 10:31:11
-updated: 2024-05-27 10:35:41
+date: 2024-05-31T12:38:41.990Z
+updated: 2024-06-01T12:38:41.990Z
 tags:
   - ai video
   - ai youtube
@@ -878,3 +878,4 @@ Finally, there are a few things you should be aware of:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Stability  Camera Shots in the Wind\""
-date: 2024-05-28 12:39:51
-updated: 2024-05-29 10:48:49
+date: 2024-05-31T12:47:13.349Z
+updated: 2024-06-01T12:47:13.349Z
 tags:
   - ai video
   - ai youtube
@@ -614,3 +614,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

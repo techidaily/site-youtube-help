@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pioneering Vlogging Tech  Our Ranking of Top 12 Video Cameras\""
-date: 2024-05-26 14:58:34
-updated: 2024-05-29 11:28:15
+date: 2024-05-31T12:42:17.233Z
+updated: 2024-06-01T12:42:17.233Z
 tags:
   - ai video
   - ai youtube
@@ -1422,3 +1422,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

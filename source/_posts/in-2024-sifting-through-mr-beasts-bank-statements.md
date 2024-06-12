@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Sifting Through Mr. Beast's Bank Statements"
-date: 2024-05-27 13:12:54
-updated: 2024-05-30 12:39:29
+date: 2024-05-31T12:48:47.380Z
+updated: 2024-06-01T12:48:47.380Z
 tags:
   - ai video
   - ai youtube
@@ -1172,3 +1172,4 @@ What are some of your favorite unboxing videos? Comment down below!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

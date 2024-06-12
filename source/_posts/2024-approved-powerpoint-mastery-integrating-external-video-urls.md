@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  PowerPoint Mastery  Integrating External Video URLs\""
-date: 2024-05-27 16:46:51
-updated: 2024-05-29 12:38:53
+date: 2024-05-31T12:40:16.307Z
+updated: 2024-06-01T12:40:16.307Z
 tags:
   - ai video
   - ai youtube
@@ -1006,3 +1006,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

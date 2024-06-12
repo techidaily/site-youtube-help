@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Guide to Neon-Bordered YouTube Thumbnails\""
-date: 2024-05-30 22:46:40
-updated: 2024-05-31 12:30:53
+date: 2024-05-31T12:42:45.232Z
+updated: 2024-06-01T12:42:45.232Z
 tags:
   - ai video
   - ai youtube
@@ -2306,3 +2306,4 @@ We have introduced the best video editing tool for YouTube videos as well, and l
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

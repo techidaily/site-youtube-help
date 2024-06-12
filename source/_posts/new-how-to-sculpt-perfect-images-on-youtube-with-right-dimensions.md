@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Sculpt Perfect Images on YouTube with Right Dimensions"
-date: 2024-05-25 10:46:20
-updated: 2024-05-27 10:19:28
+date: 2024-05-31T12:41:17.634Z
+updated: 2024-06-01T12:41:17.634Z
 tags:
   - ai video
   - ai youtube
@@ -1894,3 +1894,4 @@ You've just finished creating and editing your video. Click on the "Save" tab an
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

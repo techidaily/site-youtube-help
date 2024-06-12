@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Power Play  The Most Popular Female YouTube Personalities\""
-date: 2024-05-27 13:34:35
-updated: 2024-05-29 11:49:46
+date: 2024-05-31T12:46:44.113Z
+updated: 2024-06-01T12:46:44.113Z
 tags:
   - ai video
   - ai youtube
@@ -1706,3 +1706,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

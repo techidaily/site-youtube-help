@@ -1,7 +1,7 @@
 ---
 title: "Navigate New Horizons with These 10 Travel Vids for 2024"
-date: 2024-05-25 18:12:58
-updated: 2024-05-28 10:43:26
+date: 2024-05-31T12:46:28.651Z
+updated: 2024-06-01T12:46:28.651Z
 tags:
   - ai video
   - ai youtube
@@ -858,3 +858,4 @@ I firmly believe that at this point, understanding how to create a YouTube chann
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

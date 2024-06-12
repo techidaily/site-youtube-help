@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Shortcuts to Sharing  Merging YouTube & TikTok Pathways\""
-date: 2024-05-25 13:55:56
-updated: 2024-05-27 12:20:56
+date: 2024-05-31T12:43:07.943Z
+updated: 2024-06-01T12:43:07.943Z
 tags:
   - ai video
   - ai youtube
@@ -1062,3 +1062,4 @@ Google asked for our ZIP code when we originally joined up for YouTube TV, which
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

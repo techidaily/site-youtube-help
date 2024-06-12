@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Premier Visionaries in Multimedia Creation\""
-date: 2024-05-27 12:14:26
-updated: 2024-05-29 10:51:28
+date: 2024-05-31T12:42:21.718Z
+updated: 2024-06-01T12:42:21.718Z
 tags:
   - ai video
   - ai youtube
@@ -1388,3 +1388,4 @@ Numerous programs will swiftly upload and trim your tiny movies, ideal for folks
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

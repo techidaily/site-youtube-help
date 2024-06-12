@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Highest Rated Smartphone Camera & Recording Apps  IPhone vs Android\""
-date: 2024-05-25 13:11:29
-updated: 2024-05-27 11:26:27
+date: 2024-05-31T12:48:36.722Z
+updated: 2024-06-01T12:48:36.722Z
 tags:
   - ai video
   - ai youtube
@@ -1210,3 +1210,4 @@ As you can tell, video dimensions significantly influence your media resolution 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

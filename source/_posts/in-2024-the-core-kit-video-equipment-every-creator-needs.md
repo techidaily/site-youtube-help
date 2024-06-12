@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Core Kit  Video Equipment Every Creator Needs\""
-date: 2024-05-28 11:11:47
-updated: 2024-05-31 12:52:39
+date: 2024-05-31T12:48:36.082Z
+updated: 2024-06-01T12:48:36.082Z
 tags:
   - ai video
   - ai youtube
@@ -622,3 +622,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

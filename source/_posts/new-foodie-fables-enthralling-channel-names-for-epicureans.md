@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Foodie Fables  Enthralling Channel Names for Epicureans\""
-date: 2024-05-26 21:32:32
-updated: 2024-05-27 10:26:49
+date: 2024-05-31T12:46:35.396Z
+updated: 2024-06-01T12:46:35.396Z
 tags:
   - ai video
   - ai youtube
@@ -1414,3 +1414,4 @@ Of course not! What you pull from your YouTube channel is the kind of video that
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

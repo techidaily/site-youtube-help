@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Explore the 10 Most Inspiring YouTube Makeup Vloggers Ever"
-date: 2024-05-23 15:44:15
-updated: 2024-05-26 12:52:27
+date: 2024-05-31T12:39:34.358Z
+updated: 2024-06-01T12:39:34.358Z
 tags:
   - ai video
   - ai youtube
@@ -990,3 +990,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

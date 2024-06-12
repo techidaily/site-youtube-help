@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Guide to Rearranging Your YouTube Collection\""
-date: 2024-05-26 14:45:37
-updated: 2024-05-29 11:54:27
+date: 2024-05-31T12:43:51.245Z
+updated: 2024-06-01T12:43:51.245Z
 tags:
   - ai video
   - ai youtube
@@ -798,3 +798,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

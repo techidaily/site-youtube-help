@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Share Smart  Optimizing YouTube Videos on FB Platform\""
-date: 2024-05-27 12:50:42
-updated: 2024-05-30 12:38:10
+date: 2024-05-31T12:46:15.513Z
+updated: 2024-06-01T12:46:15.513Z
 tags:
   - ai video
   - ai youtube
@@ -1102,3 +1102,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Infographic - Hottest Social Media Trends That Will Take Over 2023\""
-date: 2024-05-27 19:43:21
-updated: 2024-05-30 12:50:26
+date: 2024-05-31T12:43:54.929Z
+updated: 2024-06-01T12:43:54.929Z
 tags:
   - ai video
   - ai youtube
@@ -638,3 +638,4 @@ Hopefully, you've found this article informative and can now enjoy watching or l
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

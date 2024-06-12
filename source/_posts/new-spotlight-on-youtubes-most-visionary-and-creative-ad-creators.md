@@ -1,7 +1,7 @@
 ---
 title: "[New] Spotlight on YouTube’s Most Visionary and Creative Ad Creators"
-date: 2024-05-28 15:17:34
-updated: 2024-05-30 12:33:45
+date: 2024-05-31T12:43:23.488Z
+updated: 2024-06-01T12:43:23.488Z
 tags:
   - ai video
   - ai youtube
@@ -1900,3 +1900,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

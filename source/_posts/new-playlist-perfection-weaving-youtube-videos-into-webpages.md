@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Playlist Perfection  Weaving YouTube Videos Into Webpages\""
-date: 2024-05-26 22:11:22
-updated: 2024-05-29 11:41:18
+date: 2024-05-31T12:40:19.300Z
+updated: 2024-06-01T12:40:19.300Z
 tags:
   - ai video
   - ai youtube
@@ -640,3 +640,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Reclaiming Brightness in YouTube Videos"
-date: 2024-05-27 11:12:15
-updated: 2024-05-29 10:43:21
+date: 2024-05-31T12:42:46.479Z
+updated: 2024-06-01T12:42:46.479Z
 tags:
   - ai video
   - ai youtube
@@ -3362,3 +3362,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

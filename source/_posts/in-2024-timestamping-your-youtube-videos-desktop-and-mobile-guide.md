@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Timestamping Your YouTube Videos  Desktop & Mobile Guide\""
-date: 2024-05-30 18:39:58
-updated: 2024-05-31 10:19:32
+date: 2024-05-31T12:40:13.381Z
+updated: 2024-06-01T12:40:13.381Z
 tags:
   - ai video
   - ai youtube
@@ -1062,3 +1062,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

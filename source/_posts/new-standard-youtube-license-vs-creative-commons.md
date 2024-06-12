@@ -1,7 +1,7 @@
 ---
 title: "[New] Standard YouTube License Vs. Creative Commons"
-date: 2024-05-29 23:54:55
-updated: 2024-05-30 10:13:26
+date: 2024-05-31T12:38:33.433Z
+updated: 2024-06-01T12:38:33.433Z
 tags:
   - ai video
   - ai youtube
@@ -866,3 +866,4 @@ Do you share your computer with other fellows? The chances are that someone hit 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

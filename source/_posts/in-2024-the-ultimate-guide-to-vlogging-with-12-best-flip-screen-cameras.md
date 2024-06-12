@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Ultimate Guide to Vlogging with 12 Best Flip-Screen Cameras\""
-date: 2024-05-29 10:53:56
-updated: 2024-05-31 11:54:22
+date: 2024-05-31T12:44:19.501Z
+updated: 2024-06-01T12:44:19.501Z
 tags:
   - ai video
   - ai youtube
@@ -642,3 +642,4 @@ Now it is time for you to pick the right YouTube shorts description for your vid
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

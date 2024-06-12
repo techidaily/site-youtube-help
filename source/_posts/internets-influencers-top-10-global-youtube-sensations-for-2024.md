@@ -1,7 +1,7 @@
 ---
 title: "\"Internet's Influencers  Top 10 Global YouTube Sensations for 2024\""
-date: 2024-05-26 19:16:45
-updated: 2024-05-28 12:56:29
+date: 2024-05-31T12:40:19.116Z
+updated: 2024-06-01T12:40:19.116Z
 tags:
   - ai video
   - ai youtube
@@ -922,3 +922,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

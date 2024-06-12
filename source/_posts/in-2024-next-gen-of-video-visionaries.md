@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Next Gen of Video Visionaries"
-date: 2024-05-26 10:54:59
-updated: 2024-05-29 12:11:15
+date: 2024-05-31T12:46:37.281Z
+updated: 2024-06-01T12:46:37.281Z
 tags:
   - ai video
   - ai youtube
@@ -1066,3 +1066,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"Making Money on YouTube  A Beginner's Revenue Roadmap for 2024\""
-date: 2024-05-25 15:12:54
-updated: 2024-05-28 10:54:12
+date: 2024-05-31T12:38:27.704Z
+updated: 2024-06-01T12:38:27.704Z
 tags:
   - ai video
   - ai youtube
@@ -974,3 +974,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

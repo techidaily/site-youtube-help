@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 8 Techniques for Grabbing Attention in YT Thumbnails"
-date: 2024-05-28 19:58:57
-updated: 2024-05-31 11:42:18
+date: 2024-05-31T12:39:51.348Z
+updated: 2024-06-01T12:39:51.348Z
 tags:
   - ai video
   - ai youtube
@@ -926,3 +926,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

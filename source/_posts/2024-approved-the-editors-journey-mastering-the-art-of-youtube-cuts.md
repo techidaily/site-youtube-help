@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Editor's Journey  Mastering the Art of Youtube Cuts\""
-date: 2024-05-29 14:24:32
-updated: 2024-05-31 11:33:40
+date: 2024-05-31T12:45:57.746Z
+updated: 2024-06-01T12:45:57.746Z
 tags:
   - ai video
   - ai youtube
@@ -1066,3 +1066,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

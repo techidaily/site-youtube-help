@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Thumbnail Tutorial for YouTube Using Mobile Devices"
-date: 2024-05-29 17:18:54
-updated: 2024-05-31 11:29:28
+date: 2024-05-31T12:42:23.508Z
+updated: 2024-06-01T12:42:23.508Z
 tags:
   - ai video
   - ai youtube
@@ -461,3 +461,4 @@ For today, YouTube encodes all the videos with the VP9 codec, but for some reaso
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

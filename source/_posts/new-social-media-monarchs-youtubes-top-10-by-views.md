@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Social Media Monarchs  YouTube's Top 10 by Views\""
-date: 2024-05-28 19:12:43
-updated: 2024-05-30 11:31:15
+date: 2024-05-31T12:48:59.831Z
+updated: 2024-06-01T12:48:59.831Z
 tags:
   - ai video
   - ai youtube
@@ -1602,3 +1602,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"Navigating Through Time  The Finest History YouTube Sources for Students for 2024\""
-date: 2024-05-28 12:36:21
-updated: 2024-05-29 10:28:55
+date: 2024-05-31T12:39:31.432Z
+updated: 2024-06-01T12:39:31.432Z
 tags:
   - ai video
   - ai youtube
@@ -644,3 +644,4 @@ So what are we waiting for? Let’s pick the right YouTube shorts downloader onl
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

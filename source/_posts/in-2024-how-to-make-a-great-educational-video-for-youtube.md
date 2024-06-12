@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Make a Great Educational Video for YouTube?"
-date: 2024-05-24 13:31:52
-updated: 2024-05-27 10:23:48
+date: 2024-05-31T12:39:09.229Z
+updated: 2024-06-01T12:39:09.229Z
 tags:
   - ai video
   - ai youtube
@@ -678,3 +678,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

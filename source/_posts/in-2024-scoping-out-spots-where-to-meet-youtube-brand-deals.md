@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Scoping Out Spots  Where to Meet YouTube Brand Deals\""
-date: 2024-05-27 20:23:53
-updated: 2024-05-29 10:39:42
+date: 2024-05-31T12:47:21.683Z
+updated: 2024-06-01T12:47:21.683Z
 tags:
   - ai video
   - ai youtube
@@ -690,3 +690,4 @@ In this day and age, many people are shifting to freelancing or creating compani
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

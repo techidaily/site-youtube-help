@@ -1,7 +1,7 @@
 ---
 title: "In 2024, FB Share Strategies for Your YouTube Content"
-date: 2024-05-24 12:39:52
-updated: 2024-05-26 10:28:59
+date: 2024-05-31T12:45:05.963Z
+updated: 2024-06-01T12:45:05.963Z
 tags:
   - ai video
   - ai youtube
@@ -810,3 +810,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

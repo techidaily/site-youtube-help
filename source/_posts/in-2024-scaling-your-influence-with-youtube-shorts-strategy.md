@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Scaling Your Influence with YouTube Shorts Strategy"
-date: 2024-05-28 11:56:26
-updated: 2024-05-29 10:23:55
+date: 2024-05-31T12:48:16.225Z
+updated: 2024-06-01T12:48:16.225Z
 tags:
   - ai video
   - ai youtube
@@ -1390,3 +1390,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

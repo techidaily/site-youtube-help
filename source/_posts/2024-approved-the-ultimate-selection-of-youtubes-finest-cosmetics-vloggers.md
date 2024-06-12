@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Selection of YouTube's Finest Cosmetics Vloggers\""
-date: 2024-05-28 11:30:40
-updated: 2024-05-31 12:24:39
+date: 2024-05-31T12:41:44.632Z
+updated: 2024-06-01T12:41:44.632Z
 tags:
   - ai video
   - ai youtube
@@ -870,3 +870,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

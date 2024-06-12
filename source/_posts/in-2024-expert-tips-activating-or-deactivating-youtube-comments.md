@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Expert Tips  Activating or Deactivating YouTube Comments\""
-date: 2024-05-23 20:21:21
-updated: 2024-05-26 11:24:12
+date: 2024-05-31T12:40:18.763Z
+updated: 2024-06-01T12:40:18.763Z
 tags:
   - ai video
   - ai youtube
@@ -1714,3 +1714,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

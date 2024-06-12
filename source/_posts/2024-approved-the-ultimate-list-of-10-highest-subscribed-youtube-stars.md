@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate List of 10 Highest Subscribed YouTube Stars\""
-date: 2024-05-29 19:50:42
-updated: 2024-05-31 12:56:37
+date: 2024-05-31T12:41:58.907Z
+updated: 2024-06-01T12:41:58.907Z
 tags:
   - ai video
   - ai youtube
@@ -1150,3 +1150,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

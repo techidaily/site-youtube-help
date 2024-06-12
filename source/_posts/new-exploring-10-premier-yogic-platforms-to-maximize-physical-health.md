@@ -1,7 +1,7 @@
 ---
 title: "[New] Exploring 10 Premier Yogic Platforms to Maximize Physical Health"
-date: 2024-05-25 23:18:20
-updated: 2024-05-26 11:29:32
+date: 2024-05-31T12:47:30.913Z
+updated: 2024-06-01T12:47:30.913Z
 tags:
   - ai video
   - ai youtube
@@ -858,3 +858,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

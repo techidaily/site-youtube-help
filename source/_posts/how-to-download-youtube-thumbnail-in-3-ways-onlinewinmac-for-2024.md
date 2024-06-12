@@ -1,7 +1,7 @@
 ---
 title: "How to Download YouTube Thumbnail in 3 Ways [Online/Win/Mac] for 2024"
-date: 2024-05-24 20:53:49
-updated: 2024-05-27 12:15:23
+date: 2024-05-31T12:38:39.288Z
+updated: 2024-06-01T12:38:39.288Z
 tags:
   - ai video
   - ai youtube
@@ -858,3 +858,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

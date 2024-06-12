@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Setup Essentials  Prepping for a Thriving YouTube Channel\""
-date: 2024-05-29 10:25:51
-updated: 2024-05-30 10:38:12
+date: 2024-05-31T12:41:43.087Z
+updated: 2024-06-01T12:41:43.087Z
 tags:
   - ai video
   - ai youtube
@@ -680,3 +680,4 @@ Checking YouTube income is not a big deal. This article has covered every necess
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

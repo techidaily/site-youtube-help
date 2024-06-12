@@ -1,7 +1,7 @@
 ---
 title: "Multimedia Caption Compiler for 2024"
-date: 2024-05-25 12:45:16
-updated: 2024-05-28 11:33:41
+date: 2024-05-31T12:40:12.608Z
+updated: 2024-06-01T12:40:12.608Z
 tags:
   - ai video
   - ai youtube
@@ -874,3 +874,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

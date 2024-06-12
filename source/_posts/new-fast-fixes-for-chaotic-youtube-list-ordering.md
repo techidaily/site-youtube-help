@@ -1,7 +1,7 @@
 ---
 title: "[New] Fast Fixes for Chaotic YouTube List Ordering"
-date: 2024-05-25 15:55:22
-updated: 2024-05-26 10:40:10
+date: 2024-05-31T12:42:52.263Z
+updated: 2024-06-01T12:42:52.263Z
 tags:
   - ai video
   - ai youtube
@@ -994,3 +994,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

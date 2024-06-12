@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Make YT Previews Shine  With Splashy Neon Border\""
-date: 2024-05-26 18:56:44
-updated: 2024-05-28 12:54:35
+date: 2024-05-31T12:45:14.470Z
+updated: 2024-06-01T12:45:14.470Z
 tags:
   - ai video
   - ai youtube
@@ -1114,3 +1114,4 @@ You are not limited to using any video file format. Several reasons may also com
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

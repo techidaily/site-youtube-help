@@ -1,7 +1,7 @@
 ---
 title: "How to Make a Cool YouTube Video Intro in iMovie, In 2024"
-date: 2024-05-25 12:48:37
-updated: 2024-05-28 11:45:23
+date: 2024-05-31T12:48:30.301Z
+updated: 2024-06-01T12:48:30.301Z
 tags:
   - ai video
   - ai youtube
@@ -1138,3 +1138,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

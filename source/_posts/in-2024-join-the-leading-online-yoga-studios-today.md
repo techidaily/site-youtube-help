@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Join the Leading Online Yoga Studios Today"
-date: 2024-05-27 20:56:59
-updated: 2024-05-28 11:27:33
+date: 2024-05-31T12:46:25.930Z
+updated: 2024-06-01T12:46:25.930Z
 tags:
   - ai video
   - ai youtube
@@ -690,3 +690,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Optimize Video Quality  Turning ON AV1 in YouTube Settings\""
-date: 2024-05-28 22:17:49
-updated: 2024-05-29 11:19:25
+date: 2024-05-31T12:43:22.432Z
+updated: 2024-06-01T12:43:22.432Z
 tags:
   - ai video
   - ai youtube
@@ -380,3 +380,4 @@ Hopefully, you find this guide informative and can now create strong news style 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

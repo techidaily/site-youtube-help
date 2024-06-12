@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  VFX Essentials Unlocked  Top 8 Sites for FREE High-Quality Green Screen Imagery\""
-date: 2024-05-31 18:19:33
-updated: 2024-06-01 10:58:14
+date: 2024-05-31T12:38:52.658Z
+updated: 2024-06-01T12:38:52.658Z
 tags:
   - ai video
   - ai youtube
@@ -1246,3 +1246,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

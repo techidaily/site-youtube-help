@@ -1,7 +1,7 @@
 ---
 title: "Maximize Engagement with Proper YouTube Video Dimensions for 2024"
-date: 2024-05-27 11:19:53
-updated: 2024-05-28 11:33:21
+date: 2024-05-31T12:40:14.778Z
+updated: 2024-06-01T12:40:14.778Z
 tags:
   - ai video
   - ai youtube
@@ -1534,3 +1534,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

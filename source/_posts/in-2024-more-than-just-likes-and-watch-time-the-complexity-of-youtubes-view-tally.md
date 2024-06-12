@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, More than Just Likes and Watch Time  The Complexity of YouTube's View Tally\""
-date: 2024-05-27 20:57:39
-updated: 2024-05-28 11:45:26
+date: 2024-05-31T12:45:17.316Z
+updated: 2024-06-01T12:45:17.316Z
 tags:
   - ai video
   - ai youtube
@@ -906,3 +906,4 @@ Because YouTube is a search engine, SEO is crucial if you want people to find yo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

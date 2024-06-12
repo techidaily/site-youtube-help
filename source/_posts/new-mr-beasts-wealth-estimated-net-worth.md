@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mr. Beast's Wealth  Estimated Net Worth\""
-date: 2024-05-27 13:30:43
-updated: 2024-05-28 10:40:52
+date: 2024-05-31T12:40:49.941Z
+updated: 2024-06-01T12:40:49.941Z
 tags:
   - ai video
   - ai youtube
@@ -760,3 +760,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

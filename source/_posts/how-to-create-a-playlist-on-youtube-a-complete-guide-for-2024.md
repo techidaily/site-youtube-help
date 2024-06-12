@@ -1,7 +1,7 @@
 ---
 title: "\"How to Create a Playlist on Youtube - a Complete Guide for 2024\""
-date: 2024-05-25 12:39:32
-updated: 2024-05-27 10:22:40
+date: 2024-05-31T12:44:36.987Z
+updated: 2024-06-01T12:44:36.987Z
 tags:
   - ai video
   - ai youtube
@@ -934,3 +934,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

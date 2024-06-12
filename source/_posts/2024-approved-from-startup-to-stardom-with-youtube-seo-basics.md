@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Startup to Stardom with YouTube SEO Basics\""
-date: 2024-05-25 14:33:36
-updated: 2024-05-27 10:12:42
+date: 2024-05-31T12:41:40.962Z
+updated: 2024-06-01T12:41:40.962Z
 tags:
   - ai video
   - ai youtube
@@ -1310,3 +1310,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

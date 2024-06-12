@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Learning Ranks  Top 10 Education-Centric Channels\""
-date: 2024-05-25 18:11:45
-updated: 2024-05-28 12:51:33
+date: 2024-05-31T12:39:10.126Z
+updated: 2024-06-01T12:39:10.126Z
 tags:
   - ai video
   - ai youtube
@@ -778,3 +778,4 @@ The best yoga YouTube channels are not only about the yoga material. It also inv
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

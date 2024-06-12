@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Swift Switcheroo  Rearranging YT Lists in a Minute\""
-date: 2024-05-27 11:57:45
-updated: 2024-05-30 10:33:27
+date: 2024-05-31T12:44:29.090Z
+updated: 2024-06-01T12:44:29.090Z
 tags:
   - ai video
   - ai youtube
@@ -990,3 +990,4 @@ To do that, use the game-changing Filmora 11 (mentioned in the article) to creat
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "Navigating to Platforms for YouTube Influencer Partnerships for 2024"
-date: 2024-05-26 21:50:18
-updated: 2024-05-29 11:43:54
+date: 2024-05-31T12:39:30.340Z
+updated: 2024-06-01T12:39:30.340Z
 tags:
   - ai video
   - ai youtube
@@ -482,3 +482,4 @@ Hopefully, you've found this article helpful and can now locate your YouTube Mus
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Starting From Scratch on Youtube  Channel Creation and Monetization Basics\""
-date: 2024-05-28 12:20:22
-updated: 2024-05-30 12:39:46
+date: 2024-05-31T12:44:56.476Z
+updated: 2024-06-01T12:44:56.476Z
 tags:
   - ai video
   - ai youtube
@@ -1275,3 +1275,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

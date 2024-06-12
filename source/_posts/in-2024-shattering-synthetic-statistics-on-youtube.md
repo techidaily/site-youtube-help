@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Shattering Synthetic Statistics on YouTube"
-date: 2024-05-27 14:26:47
-updated: 2024-05-30 10:37:28
+date: 2024-05-31T12:44:51.705Z
+updated: 2024-06-01T12:44:51.705Z
 tags:
   - ai video
   - ai youtube
@@ -626,3 +626,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

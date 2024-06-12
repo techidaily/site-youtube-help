@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Make Free Intros for YouTube? [+Templates]"
-date: 2024-05-25 23:51:13
-updated: 2024-05-28 11:52:53
+date: 2024-05-31T12:43:07.793Z
+updated: 2024-06-01T12:43:07.793Z
 tags:
   - ai video
   - ai youtube
@@ -874,3 +874,4 @@ Record screen and webcam as well
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "Integrating Cognitive Science Into Organizational Leadership Practices for 2024"
-date: 2024-05-26 15:11:55
-updated: 2024-05-28 12:47:22
+date: 2024-05-31T12:44:02.850Z
+updated: 2024-06-01T12:44:02.850Z
 tags:
   - ai video
   - ai youtube
@@ -1758,3 +1758,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

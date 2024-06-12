@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Two Sides to Every Story – How to Create Balanced Reaction Videos on YouTube (2 POV Approach)"
-date: 2024-05-31 20:17:37
-updated: 2024-06-01 12:15:43
+date: 2024-05-31T12:42:12.467Z
+updated: 2024-06-01T12:42:12.467Z
 tags:
   - ai video
   - ai youtube
@@ -712,3 +712,4 @@ The YouTube Shorts Fund offers an exceptional for creators to make additional in
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

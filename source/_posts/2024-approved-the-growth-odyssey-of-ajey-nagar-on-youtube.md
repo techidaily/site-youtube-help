@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Growth Odyssey of Ajey Nagar on YouTube\""
-date: 2024-05-29 23:55:18
-updated: 2024-05-31 11:53:15
+date: 2024-05-31T12:43:53.492Z
+updated: 2024-06-01T12:43:53.492Z
 tags:
   - ai video
   - ai youtube
@@ -672,3 +672,4 @@ If you already have a YouTube channel and a certain number of views, you can tak
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

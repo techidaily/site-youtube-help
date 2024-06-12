@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Novice to Pro  YouTube Shorts Guide\""
-date: 2024-05-26 17:38:19
-updated: 2024-05-27 11:44:56
+date: 2024-05-31T12:42:54.644Z
+updated: 2024-06-01T12:42:54.644Z
 tags:
   - ai video
   - ai youtube
@@ -775,3 +775,4 @@ Filmora templates are fully customizable, meaning you can change the text, image
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

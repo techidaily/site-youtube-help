@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Masterclass on Uploading YouTube Vids to FB Groups"
-date: 2024-05-27 18:31:49
-updated: 2024-05-28 10:39:46
+date: 2024-05-31T12:40:48.597Z
+updated: 2024-06-01T12:40:48.597Z
 tags:
   - ai video
   - ai youtube
@@ -894,3 +894,4 @@ Also, you can slow down a tutorial or the video you are watching if you feel the
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

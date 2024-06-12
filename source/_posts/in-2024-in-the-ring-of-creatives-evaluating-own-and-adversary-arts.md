@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, In the Ring of Creatives  Evaluating Own and Adversary Arts\""
-date: 2024-05-26 11:17:17
-updated: 2024-05-27 12:47:16
+date: 2024-05-31T12:40:58.441Z
+updated: 2024-06-01T12:40:58.441Z
 tags:
   - ai video
   - ai youtube
@@ -802,3 +802,4 @@ The new YouTube monetization policy 2023 has created more opportunities for crea
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

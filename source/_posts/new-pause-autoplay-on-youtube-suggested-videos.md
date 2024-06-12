@@ -1,7 +1,7 @@
 ---
 title: "[New] Pause Autoplay on YouTube Suggested Videos"
-date: 2024-05-27 21:19:28
-updated: 2024-05-29 10:18:39
+date: 2024-05-31T12:40:09.218Z
+updated: 2024-06-01T12:40:09.218Z
 tags:
   - ai video
   - ai youtube
@@ -1498,3 +1498,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

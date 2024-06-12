@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Scope-to-Screen Partnerships for MCNs\""
-date: 2024-05-27 11:51:53
-updated: 2024-05-29 10:15:15
+date: 2024-05-31T12:46:44.644Z
+updated: 2024-06-01T12:46:44.644Z
 tags:
   - ai video
   - ai youtube
@@ -573,3 +573,4 @@ If you already have a YouTube channel and a certain number of views, you can tak
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "8 Sites to Download Free Green Screen Backgrounds and Footage for 2024"
-date: 2024-05-25 17:27:31
-updated: 2024-05-27 12:32:41
+date: 2024-05-31T12:44:20.218Z
+updated: 2024-06-01T12:44:20.218Z
 tags:
   - ai video
   - ai youtube
@@ -1418,3 +1418,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

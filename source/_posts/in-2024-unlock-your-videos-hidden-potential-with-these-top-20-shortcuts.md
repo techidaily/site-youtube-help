@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unlock Your Video's Hidden Potential with These Top 20 Shortcuts"
-date: 2024-05-30 15:23:12
-updated: 2024-06-01 12:38:38
+date: 2024-05-31T12:46:11.968Z
+updated: 2024-06-01T12:46:11.968Z
 tags:
   - ai video
   - ai youtube
@@ -946,3 +946,4 @@ YouTubers use several video editors for their work. Some of the most popular edi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

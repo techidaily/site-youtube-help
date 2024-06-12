@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tips for Effective Tripod Usage in Video Blogging\""
-date: 2024-05-29 10:32:57
-updated: 2024-05-31 10:25:27
+date: 2024-05-31T12:42:00.035Z
+updated: 2024-06-01T12:42:00.035Z
 tags:
   - ai video
   - ai youtube
@@ -1146,3 +1146,4 @@ Detailed tutorials provided by the official channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

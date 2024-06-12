@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Smart Strategies to Enhance Your Video with Customized End Screen Cards"
-date: 2024-05-28 14:44:23
-updated: 2024-05-30 11:21:13
+date: 2024-05-31T12:43:18.527Z
+updated: 2024-06-01T12:43:18.527Z
 tags:
   - ai video
   - ai youtube
@@ -684,3 +684,4 @@ So what are we waiting for? Let’s pick the right YouTube shorts downloader onl
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

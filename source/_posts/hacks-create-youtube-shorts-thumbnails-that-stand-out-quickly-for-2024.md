@@ -1,7 +1,7 @@
 ---
 title: "\"Hacks  Create YouTube Shorts Thumbnails That Stand Out Quickly for 2024\""
-date: 2024-05-24 17:49:59
-updated: 2024-05-27 11:41:25
+date: 2024-05-31T12:38:27.300Z
+updated: 2024-06-01T12:38:27.300Z
 tags:
   - ai video
   - ai youtube
@@ -433,3 +433,4 @@ Hopefully, this article helped resolve your query, and you can now use the right
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

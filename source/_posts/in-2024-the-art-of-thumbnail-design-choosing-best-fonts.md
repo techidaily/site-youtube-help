@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Art of Thumbnail Design  Choosing Best Fonts\""
-date: 2024-05-29 15:46:22
-updated: 2024-05-30 12:18:33
+date: 2024-05-31T12:46:35.200Z
+updated: 2024-06-01T12:46:35.200Z
 tags:
   - ai video
   - ai youtube
@@ -857,3 +857,4 @@ Simple isn't it. Yes, the process is quite simple. You can easily change YouTube
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

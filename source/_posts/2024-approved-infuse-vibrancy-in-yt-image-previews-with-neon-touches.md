@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Infuse Vibrancy in YT Image Previews with Neon Touches\""
-date: 2024-05-25 18:36:45
-updated: 2024-05-27 10:16:49
+date: 2024-05-31T12:41:14.684Z
+updated: 2024-06-01T12:41:14.684Z
 tags:
   - ai video
   - ai youtube
@@ -1066,3 +1066,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

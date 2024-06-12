@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mind Mavens  Top 10 Educational YouTube Hubs\""
-date: 2024-05-25 11:27:33
-updated: 2024-05-28 12:29:46
+date: 2024-05-31T12:46:14.734Z
+updated: 2024-06-01T12:46:14.734Z
 tags:
   - ai video
   - ai youtube
@@ -604,3 +604,4 @@ If you want your videos to be even more awesome, you can use a cool tool called 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

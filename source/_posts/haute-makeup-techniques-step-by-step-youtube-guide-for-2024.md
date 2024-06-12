@@ -1,7 +1,7 @@
 ---
 title: "\"Haute Makeup Techniques  Step-by-Step YouTube Guide for 2024\""
-date: 2024-05-25 13:52:44
-updated: 2024-05-27 11:35:28
+date: 2024-05-31T12:41:04.972Z
+updated: 2024-06-01T12:41:04.972Z
 tags:
   - ai video
   - ai youtube
@@ -1378,3 +1378,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

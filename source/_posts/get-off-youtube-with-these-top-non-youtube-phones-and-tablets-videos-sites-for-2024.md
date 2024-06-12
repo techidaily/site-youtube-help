@@ -1,7 +1,7 @@
 ---
 title: "\"Get Off YouTube with These Top Non-YouTube Phones and Tablets Videos Sites for 2024\""
-date: 2024-05-25 13:56:28
-updated: 2024-05-27 11:19:47
+date: 2024-05-31T12:40:24.425Z
+updated: 2024-06-01T12:40:24.425Z
 tags:
   - ai video
   - ai youtube
@@ -2282,3 +2282,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

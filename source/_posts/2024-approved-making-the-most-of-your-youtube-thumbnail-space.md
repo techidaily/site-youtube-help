@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Making the Most of Your YouTube Thumbnail Space\""
-date: 2024-05-27 10:14:15
-updated: 2024-05-28 12:18:50
+date: 2024-05-31T12:43:20.157Z
+updated: 2024-06-01T12:43:20.157Z
 tags:
   - ai video
   - ai youtube
@@ -936,3 +936,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

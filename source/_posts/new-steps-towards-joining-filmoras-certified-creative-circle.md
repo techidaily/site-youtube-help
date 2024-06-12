@@ -1,7 +1,7 @@
 ---
 title: "[New] Steps Towards Joining Filmora's Certified Creative Circle"
-date: 2024-05-27 16:31:44
-updated: 2024-05-30 11:57:55
+date: 2024-05-31T12:48:32.030Z
+updated: 2024-06-01T12:48:32.030Z
 tags:
   - ai video
   - ai youtube
@@ -654,3 +654,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

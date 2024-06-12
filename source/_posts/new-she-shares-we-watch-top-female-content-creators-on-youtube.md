@@ -1,7 +1,7 @@
 ---
 title: "\"[New] She Shares, We Watch  Top Female Content Creators on YouTube\""
-date: 2024-05-28 13:56:20
-updated: 2024-05-30 11:58:40
+date: 2024-05-31T12:40:51.152Z
+updated: 2024-06-01T12:40:51.152Z
 tags:
   - ai video
   - ai youtube
@@ -1138,3 +1138,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

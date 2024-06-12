@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Frosty Frameworks for Warm Video Productions\""
-date: 2024-05-24 23:11:46
-updated: 2024-05-27 12:42:15
+date: 2024-05-31T12:42:19.492Z
+updated: 2024-06-01T12:42:19.492Z
 tags:
   - ai video
   - ai youtube
@@ -682,3 +682,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

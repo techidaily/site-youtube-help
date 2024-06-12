@@ -1,7 +1,7 @@
 ---
 title: "[New] Streamline YouTube Sounds to MP3 Using Mac"
-date: 2024-05-28 19:47:55
-updated: 2024-05-30 11:25:54
+date: 2024-05-31T12:39:49.402Z
+updated: 2024-06-01T12:39:49.402Z
 tags:
   - ai video
   - ai youtube
@@ -802,3 +802,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

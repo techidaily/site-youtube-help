@@ -1,7 +1,7 @@
 ---
 title: "[New] Ideal Microphones for Social Media Influencers"
-date: 2024-05-25 10:30:10
-updated: 2024-05-27 11:19:54
+date: 2024-05-31T12:39:39.310Z
+updated: 2024-06-01T12:39:39.310Z
 tags:
   - ai video
   - ai youtube
@@ -1390,3 +1390,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

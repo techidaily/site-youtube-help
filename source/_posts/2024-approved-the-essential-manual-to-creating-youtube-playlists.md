@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Essential Manual to Creating YouTube Playlists\""
-date: 2024-05-28 14:31:32
-updated: 2024-05-31 12:55:35
+date: 2024-05-31T12:43:10.713Z
+updated: 2024-06-01T12:43:10.713Z
 tags:
   - ai video
   - ai youtube
@@ -918,3 +918,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "How To Create News Style Outro for 2024"
-date: 2024-05-27 11:16:33
-updated: 2024-05-29 11:37:39
+date: 2024-05-31T12:46:15.867Z
+updated: 2024-06-01T12:46:15.867Z
 tags:
   - ai video
   - ai youtube
@@ -738,3 +738,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

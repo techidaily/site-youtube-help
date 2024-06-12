@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Text That Moves  Two Fascinating Techniques Revealed\""
-date: 2024-05-27 11:23:48
-updated: 2024-05-30 12:18:19
+date: 2024-05-31T12:38:54.071Z
+updated: 2024-06-01T12:38:54.071Z
 tags:
   - ai video
   - ai youtube
@@ -1006,3 +1006,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

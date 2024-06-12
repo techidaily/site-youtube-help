@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Record-Breaking Content  Top YouTube Videos Reaching Milestone in '24\""
-date: 2024-05-27 22:39:37
-updated: 2024-05-29 10:23:49
+date: 2024-05-31T12:47:42.020Z
+updated: 2024-06-01T12:47:42.020Z
 tags:
   - ai video
   - ai youtube
@@ -822,3 +822,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Live Without YouTube Shorts"
-date: 2024-05-25 10:51:42
-updated: 2024-05-27 10:57:24
+date: 2024-05-31T12:45:42.683Z
+updated: 2024-06-01T12:45:42.683Z
 tags:
   - ai video
   - ai youtube
@@ -1226,3 +1226,4 @@ Good luck with your endeavors as a content creator, musician, comedian, or whate
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

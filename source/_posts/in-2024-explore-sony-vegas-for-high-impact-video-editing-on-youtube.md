@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Explore Sony Vegas for High-Impact Video Editing on YouTube\""
-date: 2024-05-25 19:12:57
-updated: 2024-05-26 11:10:43
+date: 2024-05-31T12:42:21.875Z
+updated: 2024-06-01T12:42:21.875Z
 tags:
   - ai video
   - ai youtube
@@ -850,3 +850,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

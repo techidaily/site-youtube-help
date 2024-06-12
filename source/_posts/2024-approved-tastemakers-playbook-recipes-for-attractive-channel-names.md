@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tastemakers' Playbook  Recipes for Attractive Channel Names\""
-date: 2024-05-28 18:51:26
-updated: 2024-05-30 12:24:32
+date: 2024-05-31T12:41:59.960Z
+updated: 2024-06-01T12:41:59.960Z
 tags:
   - ai video
   - ai youtube
@@ -1102,3 +1102,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

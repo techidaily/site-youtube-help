@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The SMART Approach to Video Marketing for SMBs"
-date: 2024-05-28 16:14:19
-updated: 2024-05-31 10:21:57
+date: 2024-05-31T12:41:39.444Z
+updated: 2024-06-01T12:41:39.444Z
 tags:
   - ai video
   - ai youtube
@@ -284,3 +284,4 @@ For today, YouTube encodes all the videos with the VP9 codec, but for some reaso
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Setting up a Sports Channel From Scratch, Mac-Style\""
-date: 2024-05-29 15:24:57
-updated: 2024-05-30 11:55:52
+date: 2024-05-31T12:39:14.127Z
+updated: 2024-06-01T12:39:14.127Z
 tags:
   - ai video
   - ai youtube
@@ -1058,3 +1058,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Growth by Numbers  Tapping Into YouTube Analytics Power\""
-date: 2024-05-26 13:25:19
-updated: 2024-05-27 11:23:44
+date: 2024-05-31T12:47:53.771Z
+updated: 2024-06-01T12:47:53.771Z
 tags:
   - ai video
   - ai youtube
@@ -3170,3 +3170,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

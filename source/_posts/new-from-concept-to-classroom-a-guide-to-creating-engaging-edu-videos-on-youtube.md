@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Concept to Classroom  A Guide to Creating Engaging Edu-Videos on YouTube\""
-date: 2024-05-25 21:47:18
-updated: 2024-05-27 12:51:41
+date: 2024-05-31T12:42:15.905Z
+updated: 2024-06-01T12:42:15.905Z
 tags:
   - ai video
   - ai youtube
@@ -570,3 +570,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

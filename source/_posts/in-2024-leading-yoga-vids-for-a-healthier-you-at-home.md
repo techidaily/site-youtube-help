@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Leading Yoga Vids for a Healthier You at Home"
-date: 2024-05-27 23:39:46
-updated: 2024-05-28 10:25:30
+date: 2024-05-31T12:47:00.761Z
+updated: 2024-06-01T12:47:00.761Z
 tags:
   - ai video
   - ai youtube
@@ -1074,3 +1074,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

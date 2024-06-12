@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Independent Artists' Guide to Personalized Visual Tricks\""
-date: 2024-05-26 18:35:36
-updated: 2024-05-27 12:40:24
+date: 2024-05-31T12:39:17.270Z
+updated: 2024-06-01T12:39:17.270Z
 tags:
   - ai video
   - ai youtube
@@ -718,3 +718,4 @@ The best science YouTube channels have one thing in common- high-quality content
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Exploring Video Marketing  YouTube or TikTok?\""
-date: 2024-05-23 15:32:30
-updated: 2024-05-26 10:18:41
+date: 2024-05-31T12:39:53.914Z
+updated: 2024-06-01T12:39:53.914Z
 tags:
   - ai video
   - ai youtube
@@ -1546,3 +1546,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

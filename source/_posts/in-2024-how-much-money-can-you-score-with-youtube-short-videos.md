@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How Much Money Can You Score with YouTube Short Videos?"
-date: 2024-05-25 13:36:32
-updated: 2024-05-27 11:56:37
+date: 2024-05-31T12:43:36.256Z
+updated: 2024-06-01T12:43:36.256Z
 tags:
   - ai video
   - ai youtube
@@ -1314,3 +1314,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

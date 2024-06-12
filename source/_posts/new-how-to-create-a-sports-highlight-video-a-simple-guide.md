@@ -1,7 +1,7 @@
 ---
 title: "\"[New] How to Create a Sports Highlight Video - a Simple Guide\""
-date: 2024-05-27 15:37:40
-updated: 2024-05-30 11:31:52
+date: 2024-05-31T12:38:40.980Z
+updated: 2024-06-01T12:38:40.980Z
 tags:
   - ai video
   - ai youtube
@@ -1266,3 +1266,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

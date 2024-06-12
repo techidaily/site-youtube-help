@@ -1,7 +1,7 @@
 ---
 title: "[New] Gamer's Guide to Video Recording"
-date: 2024-05-25 10:29:50
-updated: 2024-05-27 12:40:57
+date: 2024-05-31T12:44:30.899Z
+updated: 2024-06-01T12:44:30.899Z
 tags:
   - ai video
   - ai youtube
@@ -2586,3 +2586,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

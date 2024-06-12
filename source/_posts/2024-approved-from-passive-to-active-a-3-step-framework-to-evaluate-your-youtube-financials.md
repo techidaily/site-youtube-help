@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Passive to Active  A 3-Step Framework to Evaluate Your YouTube Financials\""
-date: 2024-05-25 15:59:27
-updated: 2024-05-27 12:50:24
+date: 2024-05-31T12:41:48.636Z
+updated: 2024-06-01T12:41:48.636Z
 tags:
   - ai video
   - ai youtube
@@ -820,3 +820,4 @@ The best yoga YouTube channels are not only about the yoga material. It also inv
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

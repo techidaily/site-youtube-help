@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top-Tier Free Video Editing Software Guide for iPhone/iPad Users\""
-date: 2024-05-30 12:44:10
-updated: 2024-05-31 12:34:22
+date: 2024-05-31T12:46:11.939Z
+updated: 2024-06-01T12:46:11.939Z
 tags:
   - ai video
   - ai youtube
@@ -1758,3 +1758,4 @@ There could be several reasons for **YouTube black screen**, and depending on th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

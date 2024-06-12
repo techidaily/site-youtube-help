@@ -1,7 +1,7 @@
 ---
 title: "\"Infographic-Led Exploration of Future Social Trends for 2024\""
-date: 2024-05-25 12:51:54
-updated: 2024-05-27 11:34:49
+date: 2024-05-31T12:39:20.312Z
+updated: 2024-06-01T12:39:20.312Z
 tags:
   - ai video
   - ai youtube
@@ -662,3 +662,4 @@ Link: <https://www.youtube.com/user/zeenews/videos>
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

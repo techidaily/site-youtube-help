@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Hourly Heavy Hitters  Top Ten YouTube Video Rankings in a Day\""
-date: 2024-05-25 18:59:15
-updated: 2024-05-27 10:47:21
+date: 2024-05-31T12:45:17.234Z
+updated: 2024-06-01T12:45:17.234Z
 tags:
   - ai video
   - ai youtube
@@ -1290,3 +1290,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Screenplay Grooves  Best Background Tunes For YT Shorts\""
-date: 2024-05-27 22:39:15
-updated: 2024-05-29 10:30:33
+date: 2024-05-31T12:43:22.235Z
+updated: 2024-06-01T12:43:22.235Z
 tags:
   - ai video
   - ai youtube
@@ -1258,3 +1258,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

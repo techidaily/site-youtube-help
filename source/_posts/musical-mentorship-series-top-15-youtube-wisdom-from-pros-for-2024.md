@@ -1,7 +1,7 @@
 ---
 title: "\"Musical Mentorship Series - Top 15 YouTube Wisdom From Pros for 2024\""
-date: 2024-05-26 23:14:49
-updated: 2024-05-28 10:28:56
+date: 2024-05-31T12:48:55.520Z
+updated: 2024-06-01T12:48:55.520Z
 tags:
   - ai video
   - ai youtube
@@ -1522,3 +1522,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

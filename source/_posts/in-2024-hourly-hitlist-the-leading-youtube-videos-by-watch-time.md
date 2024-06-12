@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Hourly Hitlist  The Leading YouTube Videos by Watch Time\""
-date: 2024-05-25 16:13:58
-updated: 2024-05-27 10:51:22
+date: 2024-05-31T12:45:18.167Z
+updated: 2024-06-01T12:45:18.167Z
 tags:
   - ai video
   - ai youtube
@@ -1582,3 +1582,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

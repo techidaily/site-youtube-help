@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering Thumbnail Aesthetics  Fantasy Settings & Techniques\""
-date: 2024-05-25 17:15:25
-updated: 2024-05-28 11:31:56
+date: 2024-05-31T12:44:00.305Z
+updated: 2024-06-01T12:44:00.305Z
 tags:
   - ai video
   - ai youtube
@@ -1029,3 +1029,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

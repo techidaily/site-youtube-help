@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 10 Most Subscribed YouTuber in the World"
-date: 2024-05-29 18:25:41
-updated: 2024-05-31 12:18:20
+date: 2024-05-31T12:45:39.489Z
+updated: 2024-06-01T12:45:39.489Z
 tags:
   - ai video
   - ai youtube
@@ -1006,3 +1006,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

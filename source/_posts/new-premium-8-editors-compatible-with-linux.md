@@ -1,7 +1,7 @@
 ---
 title: "[New] Premium 8 Editors Compatible with Linux"
-date: 2024-05-27 23:36:12
-updated: 2024-05-29 11:16:48
+date: 2024-05-31T12:44:12.948Z
+updated: 2024-06-01T12:44:12.948Z
 tags:
   - ai video
   - ai youtube
@@ -746,3 +746,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Integrating Cognitive Science Into Organizational Leadership Practices\""
-date: 2024-05-25 13:54:24
-updated: 2024-05-28 11:29:40
+date: 2024-05-31T12:43:45.592Z
+updated: 2024-06-01T12:43:45.592Z
 tags:
   - ai video
   - ai youtube
@@ -1914,3 +1914,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

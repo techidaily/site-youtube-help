@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How Much Does YouTube Pay for 1 Million Views?"
-date: 2024-05-24 16:29:38
-updated: 2024-05-27 11:53:33
+date: 2024-05-31T12:40:05.461Z
+updated: 2024-06-01T12:40:05.461Z
 tags:
   - ai video
   - ai youtube
@@ -920,3 +920,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

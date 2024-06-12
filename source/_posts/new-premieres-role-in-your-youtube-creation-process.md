@@ -1,7 +1,7 @@
 ---
 title: "[New] Premiere's Role in Your YouTube Creation Process"
-date: 2024-05-28 14:23:35
-updated: 2024-05-29 11:10:37
+date: 2024-05-31T12:38:56.328Z
+updated: 2024-06-01T12:38:56.328Z
 tags:
   - ai video
   - ai youtube
@@ -990,3 +990,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

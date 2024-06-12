@@ -1,7 +1,7 @@
 ---
 title: "How to Make Shorts Into Compact MP4 Files for 2024"
-date: 2024-05-24 16:44:45
-updated: 2024-05-27 11:59:49
+date: 2024-05-31T12:42:05.597Z
+updated: 2024-06-01T12:42:05.597Z
 tags:
   - ai video
   - ai youtube
@@ -962,3 +962,4 @@ The greatest takeaway from this guide should be that you must be patient and hav
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

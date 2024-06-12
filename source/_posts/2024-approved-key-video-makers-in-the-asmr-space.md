@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Key Video Makers in the ASMR Space\""
-date: 2024-05-26 10:22:48
-updated: 2024-05-28 10:23:46
+date: 2024-05-31T12:39:47.221Z
+updated: 2024-06-01T12:39:47.221Z
 tags:
   - ai video
   - ai youtube
@@ -636,3 +636,4 @@ For today, YouTube encodes all the videos with the VP9 codec, but for some reaso
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering Self-Portraits  Top Techniques for YouTube Presentations\""
-date: 2024-05-27 19:21:41
-updated: 2024-05-28 12:24:46
+date: 2024-05-31T12:45:31.664Z
+updated: 2024-06-01T12:45:31.664Z
 tags:
   - ai video
   - ai youtube
@@ -926,3 +926,4 @@ Of course not! What you pull from your YouTube channel is the kind of video that
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

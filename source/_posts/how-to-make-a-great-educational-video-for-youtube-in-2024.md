@@ -1,7 +1,7 @@
 ---
 title: "How to Make a Great Educational Video for YouTube, In 2024"
-date: 2024-05-24 19:17:12
-updated: 2024-05-27 12:26:37
+date: 2024-05-31T12:41:31.519Z
+updated: 2024-06-01T12:41:31.519Z
 tags:
   - ai video
   - ai youtube
@@ -770,3 +770,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

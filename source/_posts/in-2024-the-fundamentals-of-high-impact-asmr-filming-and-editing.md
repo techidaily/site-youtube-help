@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Fundamentals of High-Impact ASMR Filming & Editing\""
-date: 2024-05-30 13:32:54
-updated: 2024-05-31 10:35:17
+date: 2024-05-31T12:42:26.789Z
+updated: 2024-06-01T12:42:26.789Z
 tags:
   - ai video
   - ai youtube
@@ -761,3 +761,4 @@ If you too have got inspired and looking forward to starting with some interesti
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

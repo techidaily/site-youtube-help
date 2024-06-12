@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering the Art of Customizing Your YouTube Channel URL"
-date: 2024-05-25 17:35:28
-updated: 2024-05-28 10:21:39
+date: 2024-05-31T12:38:29.602Z
+updated: 2024-06-01T12:38:29.602Z
 tags:
   - ai video
   - ai youtube
@@ -505,3 +505,4 @@ We hope you've enjoyed reading this article and can now use the right hashtags f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

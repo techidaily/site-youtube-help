@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Gamified Learning  Educational YouTubers to Subscribe\""
-date: 2024-05-26 21:44:32
-updated: 2024-05-27 10:12:16
+date: 2024-05-31T12:47:19.276Z
+updated: 2024-06-01T12:47:19.276Z
 tags:
   - ai video
   - ai youtube
@@ -870,3 +870,4 @@ Follow @Marion Dubois
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

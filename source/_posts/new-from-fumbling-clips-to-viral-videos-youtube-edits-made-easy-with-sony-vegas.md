@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Fumbling Clips to Viral Videos  YouTube Edits Made Easy with Sony Vegas\""
-date: 2024-05-26 11:32:23
-updated: 2024-05-27 10:36:37
+date: 2024-05-31T12:42:24.716Z
+updated: 2024-06-01T12:42:24.716Z
 tags:
   - ai video
   - ai youtube
@@ -739,3 +739,4 @@ That’s all you need to know about creating a successful YouTube channel. If yo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

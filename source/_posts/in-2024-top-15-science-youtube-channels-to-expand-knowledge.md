@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 15 Science YouTube Channels to Expand Knowledge"
-date: 2024-05-30 17:15:31
-updated: 2024-05-31 10:58:43
+date: 2024-05-31T12:46:32.994Z
+updated: 2024-06-01T12:46:32.994Z
 tags:
   - ai video
   - ai youtube
@@ -1262,3 +1262,4 @@ InShot is the best app to put music to videos for Android users. For iOS users, 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Light Up Your Screen  The 9 Most Innovative CamGear for Video Creators\""
-date: 2024-05-25 16:21:50
-updated: 2024-05-28 12:52:57
+date: 2024-05-31T12:38:57.003Z
+updated: 2024-06-01T12:38:57.003Z
 tags:
   - ai video
   - ai youtube
@@ -674,3 +674,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

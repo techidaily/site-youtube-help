@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Framing the Perfect Frame  Talking-Head Shot Essentials\""
-date: 2024-05-26 14:21:40
-updated: 2024-05-27 11:15:41
+date: 2024-05-31T12:39:27.752Z
+updated: 2024-06-01T12:39:27.752Z
 tags:
   - ai video
   - ai youtube
@@ -922,3 +922,4 @@ It is important to know that the default resolution of a YouTube thumbnail is 12
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

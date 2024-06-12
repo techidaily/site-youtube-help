@@ -1,7 +1,7 @@
 ---
 title: "\"Innovate On-Screen Imagery with YouTube’s Green Screens Edge for 2024\""
-date: 2024-05-26 12:14:24
-updated: 2024-05-27 10:34:32
+date: 2024-05-31T12:42:10.322Z
+updated: 2024-06-01T12:42:10.322Z
 tags:
   - ai video
   - ai youtube
@@ -766,3 +766,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

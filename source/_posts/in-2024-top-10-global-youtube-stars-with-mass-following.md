@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 10 Global YouTube Stars with Mass Following"
-date: 2024-05-28 22:49:19
-updated: 2024-05-31 12:35:44
+date: 2024-05-31T12:43:46.344Z
+updated: 2024-06-01T12:43:46.344Z
 tags:
   - ai video
   - ai youtube
@@ -700,3 +700,4 @@ That’s all on T-Series income on YouTube. T-Series did not just become success
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

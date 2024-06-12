@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Go Green  Integrate Subscriptions in Ads\""
-date: 2024-05-24 23:14:19
-updated: 2024-05-27 11:26:34
+date: 2024-05-31T12:46:18.662Z
+updated: 2024-06-01T12:46:18.662Z
 tags:
   - ai video
   - ai youtube
@@ -1030,3 +1030,4 @@ Follow @Marion Dubois
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

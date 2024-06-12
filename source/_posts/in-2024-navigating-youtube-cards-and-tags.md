@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Navigating YouTube Cards and Tags"
-date: 2024-05-28 16:50:12
-updated: 2024-05-29 12:22:23
+date: 2024-05-31T12:42:13.388Z
+updated: 2024-06-01T12:42:13.388Z
 tags:
   - ai video
   - ai youtube
@@ -1074,3 +1074,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

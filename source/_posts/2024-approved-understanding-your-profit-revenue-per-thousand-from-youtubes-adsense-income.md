@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Understanding Your Profit  Revenue Per Thousand From YouTube's AdSense Income\""
-date: 2024-05-31 21:54:36
-updated: 2024-06-01 10:42:45
+date: 2024-05-31T12:43:29.509Z
+updated: 2024-06-01T12:43:29.509Z
 tags:
   - ai video
   - ai youtube
@@ -713,3 +713,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

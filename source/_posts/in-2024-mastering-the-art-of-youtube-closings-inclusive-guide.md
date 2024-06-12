@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering the Art of YouTube Closings [Inclusive Guide]"
-date: 2024-05-25 15:12:47
-updated: 2024-05-28 10:48:33
+date: 2024-05-31T12:46:00.720Z
+updated: 2024-06-01T12:46:00.720Z
 tags:
   - ai video
   - ai youtube
@@ -1410,3 +1410,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

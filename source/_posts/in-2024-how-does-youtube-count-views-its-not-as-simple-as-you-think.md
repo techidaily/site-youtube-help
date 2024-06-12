@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How Does YouTube Count Views? It's Not as Simple as You Think"
-date: 2024-05-24 23:14:23
-updated: 2024-05-27 10:14:57
+date: 2024-05-31T12:40:40.871Z
+updated: 2024-06-01T12:40:40.871Z
 tags:
   - ai video
   - ai youtube
@@ -922,3 +922,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

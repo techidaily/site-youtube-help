@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Fitness Forward  6 Video Concepts to Energize Your Online Community\""
-date: 2024-05-24 10:44:32
-updated: 2024-05-27 10:25:25
+date: 2024-05-31T12:45:20.025Z
+updated: 2024-06-01T12:45:20.025Z
 tags:
   - ai video
   - ai youtube
@@ -870,3 +870,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

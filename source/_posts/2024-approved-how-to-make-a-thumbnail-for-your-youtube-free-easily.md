@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Make a Thumbnail for Your YouTube Free Easily\""
-date: 2024-05-26 18:13:48
-updated: 2024-05-27 11:34:44
+date: 2024-05-31T12:46:23.344Z
+updated: 2024-06-01T12:46:23.344Z
 tags:
   - ai video
   - ai youtube
@@ -634,3 +634,4 @@ Sometimes it might help your mental health if you can take out time to watch som
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

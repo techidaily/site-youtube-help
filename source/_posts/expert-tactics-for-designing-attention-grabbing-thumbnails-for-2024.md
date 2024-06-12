@@ -1,7 +1,7 @@
 ---
 title: "\"Expert Tactics for Designing Attention-Grabbing Thumbnails for 2024\""
-date: 2024-05-23 20:17:40
-updated: 2024-05-26 11:49:36
+date: 2024-05-31T12:47:25.866Z
+updated: 2024-06-01T12:47:25.866Z
 tags:
   - ai video
   - ai youtube
@@ -1114,3 +1114,4 @@ The greatest takeaway from this guide should be that you must be patient and hav
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

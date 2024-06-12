@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Blueprint for Striking YouTube Channel Designs\""
-date: 2024-05-29 21:43:28
-updated: 2024-05-31 12:39:53
+date: 2024-05-31T12:41:18.109Z
+updated: 2024-06-01T12:41:18.109Z
 tags:
   - ai video
   - ai youtube
@@ -1498,3 +1498,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

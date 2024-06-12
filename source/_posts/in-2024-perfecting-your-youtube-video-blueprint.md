@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Perfecting Your YouTube Video Blueprint"
-date: 2024-05-27 10:28:38
-updated: 2024-05-29 10:20:41
+date: 2024-05-31T12:45:22.795Z
+updated: 2024-06-01T12:45:22.795Z
 tags:
   - ai video
   - ai youtube
@@ -570,3 +570,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

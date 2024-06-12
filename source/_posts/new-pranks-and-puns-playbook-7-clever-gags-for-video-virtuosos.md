@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pranks & Puns Playbook  7 Clever Gags for Video Virtuosos\""
-date: 2024-05-28 23:23:45
-updated: 2024-05-29 11:43:20
+date: 2024-05-31T12:42:59.067Z
+updated: 2024-06-01T12:42:59.067Z
 tags:
   - ai video
   - ai youtube
@@ -812,3 +812,4 @@ Using these methods can help you gain high-quality links to boost your YouTube S
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

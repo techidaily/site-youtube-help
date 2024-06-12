@@ -1,7 +1,7 @@
 ---
 title: "\"Giggles Galore  Celebrating the Funniest Web Content Creators for 2024\""
-date: 2024-05-25 18:50:55
-updated: 2024-05-27 12:58:42
+date: 2024-05-31T12:46:38.072Z
+updated: 2024-06-01T12:46:38.072Z
 tags:
   - ai video
   - ai youtube
@@ -938,3 +938,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

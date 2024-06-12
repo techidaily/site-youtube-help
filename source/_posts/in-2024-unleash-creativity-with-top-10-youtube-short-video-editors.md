@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unleash Creativity with Top 10 YouTube Short Video Editors"
-date: 2024-05-30 16:29:21
-updated: 2024-06-01 12:31:17
+date: 2024-05-31T12:42:21.388Z
+updated: 2024-06-01T12:42:21.388Z
 tags:
   - ai video
   - ai youtube
@@ -1834,3 +1834,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

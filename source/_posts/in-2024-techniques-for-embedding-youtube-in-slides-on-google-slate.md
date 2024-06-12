@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Techniques for Embedding YouTube in Slides on Google Slate"
-date: 2024-05-28 20:12:37
-updated: 2024-05-30 10:12:20
+date: 2024-05-31T12:44:02.738Z
+updated: 2024-06-01T12:44:02.738Z
 tags:
   - ai video
   - ai youtube
@@ -970,3 +970,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

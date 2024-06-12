@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unlocking Views with Optimal Thumbnail Design"
-date: 2024-05-30 15:39:55
-updated: 2024-06-01 12:34:27
+date: 2024-05-31T12:40:24.772Z
+updated: 2024-06-01T12:40:24.772Z
 tags:
   - ai video
   - ai youtube
@@ -640,3 +640,4 @@ Yet, it would help if you didn't forget the most important thing: the video itse
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

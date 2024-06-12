@@ -1,7 +1,7 @@
 ---
 title: "\"Exploring the Neuroscience of Decision-Making and Its Implications for Leadership for 2024\""
-date: 2024-05-24 19:38:51
-updated: 2024-05-26 11:41:44
+date: 2024-05-31T12:41:42.629Z
+updated: 2024-06-01T12:41:42.629Z
 tags:
   - ai video
   - ai youtube
@@ -1574,3 +1574,4 @@ Enjoy!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

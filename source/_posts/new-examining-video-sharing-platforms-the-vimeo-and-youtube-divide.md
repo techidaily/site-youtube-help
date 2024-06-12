@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Examining Video Sharing Platforms  The Vimeo & YouTube Divide\""
-date: 2024-05-25 14:31:12
-updated: 2024-05-26 10:27:11
+date: 2024-05-31T12:38:58.409Z
+updated: 2024-06-01T12:38:58.409Z
 tags:
   - ai video
   - ai youtube
@@ -450,3 +450,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

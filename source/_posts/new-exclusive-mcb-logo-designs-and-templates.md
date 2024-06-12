@@ -1,7 +1,7 @@
 ---
 title: "[New] Exclusive MCB Logo Designs and Templates"
-date: 2024-05-24 18:58:16
-updated: 2024-05-26 12:13:44
+date: 2024-05-31T12:40:13.596Z
+updated: 2024-06-01T12:40:13.596Z
 tags:
   - ai video
   - ai youtube
@@ -1186,3 +1186,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

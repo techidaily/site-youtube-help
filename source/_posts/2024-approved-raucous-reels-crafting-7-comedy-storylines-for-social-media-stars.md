@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Raucous Reels  Crafting 7 Comedy Storylines for Social Media Stars\""
-date: 2024-05-26 20:13:48
-updated: 2024-05-29 12:32:40
+date: 2024-05-31T12:45:22.307Z
+updated: 2024-06-01T12:45:22.307Z
 tags:
   - ai video
   - ai youtube
@@ -1294,3 +1294,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Harmonizing Cityscapes and Nature  The Role of Green Spaces\""
-date: 2024-05-25 22:13:51
-updated: 2024-05-27 11:52:56
+date: 2024-05-31T12:45:42.619Z
+updated: 2024-06-01T12:45:42.619Z
 tags:
   - ai video
   - ai youtube
@@ -874,3 +874,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

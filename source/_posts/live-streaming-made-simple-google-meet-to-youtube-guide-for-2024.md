@@ -1,7 +1,7 @@
 ---
 title: "\"Live Streaming Made Simple  Google Meet to YouTube Guide for 2024\""
-date: 2024-05-27 21:19:10
-updated: 2024-05-28 11:18:51
+date: 2024-05-31T12:45:06.370Z
+updated: 2024-06-01T12:45:06.370Z
 tags:
   - ai video
   - ai youtube
@@ -315,3 +315,4 @@ For today, YouTube encodes all the videos with the VP9 codec, but for some reaso
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

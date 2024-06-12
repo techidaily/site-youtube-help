@@ -1,7 +1,7 @@
 ---
 title: "10 Most Susbcribed YouTuber in the World for 2024"
-date: 2024-05-30 21:49:51
-updated: 2024-05-31 12:26:37
+date: 2024-05-31T12:44:15.378Z
+updated: 2024-06-01T12:44:15.378Z
 tags:
   - ai video
   - ai youtube
@@ -1122,3 +1122,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

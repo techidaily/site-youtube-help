@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Masterclass in Making Engaging Video Lessons  Your Step-by-Step Guide for YouTube\""
-date: 2024-05-25 17:31:47
-updated: 2024-05-28 11:27:55
+date: 2024-05-31T12:43:27.031Z
+updated: 2024-06-01T12:43:27.031Z
 tags:
   - ai video
   - ai youtube
@@ -702,3 +702,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

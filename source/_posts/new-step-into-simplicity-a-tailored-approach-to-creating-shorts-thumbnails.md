@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step Into Simplicity  A Tailored Approach to Creating Shorts Thumbnails\""
-date: 2024-05-28 11:39:47
-updated: 2024-05-30 12:32:56
+date: 2024-05-31T12:40:19.443Z
+updated: 2024-06-01T12:40:19.443Z
 tags:
   - ai video
   - ai youtube
@@ -704,3 +704,4 @@ YouTube's music library is relatively small. The songs include both traditional 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Step-By-Step Process to Crafting Impressive YouTube Shorts Templates\""
-date: 2024-05-28 22:19:54
-updated: 2024-05-30 10:41:13
+date: 2024-05-31T12:46:59.221Z
+updated: 2024-06-01T12:46:59.221Z
 tags:
   - ai video
   - ai youtube
@@ -1163,3 +1163,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

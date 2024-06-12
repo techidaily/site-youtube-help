@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tips to Expunge Your YouTube Queue of Postponed Content\""
-date: 2024-05-29 23:34:14
-updated: 2024-05-31 11:26:15
+date: 2024-05-31T12:38:44.616Z
+updated: 2024-06-01T12:38:44.616Z
 tags:
   - ai video
   - ai youtube
@@ -292,3 +292,4 @@ Hopefully, you've found this article helpful and can now locate your YouTube Mus
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

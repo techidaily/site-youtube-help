@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Easy Way to Spruce Up Your YouTube Feedback with Emojis\""
-date: 2024-05-30 10:16:32
-updated: 2024-05-31 11:42:10
+date: 2024-05-31T12:38:28.237Z
+updated: 2024-06-01T12:38:28.237Z
 tags:
   - ai video
   - ai youtube
@@ -1850,3 +1850,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

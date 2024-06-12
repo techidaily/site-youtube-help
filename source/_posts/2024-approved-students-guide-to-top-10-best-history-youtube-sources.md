@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Student's Guide to Top 10 Best History YouTube Sources\""
-date: 2024-05-29 12:51:53
-updated: 2024-05-30 12:54:30
+date: 2024-05-31T12:47:13.407Z
+updated: 2024-06-01T12:47:13.407Z
 tags:
   - ai video
   - ai youtube
@@ -610,3 +610,4 @@ Also, you can slow down a tutorial or the video you are watching if you feel the
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

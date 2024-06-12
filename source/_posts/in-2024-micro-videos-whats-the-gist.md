@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Micro Videos  What's the Gist?\""
-date: 2024-05-27 23:38:28
-updated: 2024-05-28 12:50:30
+date: 2024-05-31T12:48:40.659Z
+updated: 2024-06-01T12:48:40.659Z
 tags:
   - ai video
   - ai youtube
@@ -766,3 +766,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

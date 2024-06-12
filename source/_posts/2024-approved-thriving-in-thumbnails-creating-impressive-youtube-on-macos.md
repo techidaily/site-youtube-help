@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Thriving in Thumbnails  Creating Impressive Youtube on macOS\""
-date: 2024-05-28 15:16:13
-updated: 2024-05-31 12:58:29
+date: 2024-05-31T12:43:19.372Z
+updated: 2024-06-01T12:43:19.372Z
 tags:
   - ai video
   - ai youtube
@@ -514,3 +514,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

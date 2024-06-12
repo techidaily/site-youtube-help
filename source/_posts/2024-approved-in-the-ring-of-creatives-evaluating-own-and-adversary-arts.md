@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  In the Ring of Creatives  Evaluating Own and Adversary Arts\""
-date: 2024-05-24 14:46:42
-updated: 2024-05-27 11:42:28
+date: 2024-05-31T12:44:15.459Z
+updated: 2024-06-01T12:44:15.459Z
 tags:
   - ai video
   - ai youtube
@@ -786,3 +786,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

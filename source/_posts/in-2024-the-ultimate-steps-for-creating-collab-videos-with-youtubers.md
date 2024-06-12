@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Steps for Creating Collab Videos with YouTubers"
-date: 2024-05-30 11:50:32
-updated: 2024-05-31 10:48:37
+date: 2024-05-31T12:38:50.812Z
+updated: 2024-06-01T12:38:50.812Z
 tags:
   - ai video
   - ai youtube
@@ -1054,3 +1054,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

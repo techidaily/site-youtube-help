@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Strategic Income Generation Through YouTube, As Per Sourav Joshi's Playbook\""
-date: 2024-05-28 13:39:41
-updated: 2024-05-30 12:52:20
+date: 2024-05-31T12:40:29.494Z
+updated: 2024-06-01T12:40:29.494Z
 tags:
   - ai video
   - ai youtube
@@ -998,3 +998,4 @@ Captions are a great way to get users to engage with your videos. Studies have s
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

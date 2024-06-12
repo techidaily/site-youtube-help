@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Ultimate Guide to Neon-Bordered YouTube Thumbnails\""
-date: 2024-05-30 10:10:16
-updated: 2024-05-31 12:23:10
+date: 2024-05-31T12:39:35.619Z
+updated: 2024-06-01T12:39:35.619Z
 tags:
   - ai video
   - ai youtube
@@ -737,3 +737,4 @@ We hope you've enjoyed reading this article and can now use the right hashtags f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

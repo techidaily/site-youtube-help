@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Make A YouTube Intro Video [2 Ways]"
-date: 2024-05-24 22:33:12
-updated: 2024-05-27 12:29:39
+date: 2024-05-31T12:48:29.305Z
+updated: 2024-06-01T12:48:29.305Z
 tags:
   - ai video
   - ai youtube
@@ -974,3 +974,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

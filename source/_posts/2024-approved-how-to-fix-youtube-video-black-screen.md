@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Fix YouTube Video Black Screen\""
-date: 2024-05-26 13:20:43
-updated: 2024-05-27 10:19:32
+date: 2024-05-31T12:42:08.556Z
+updated: 2024-06-01T12:42:08.556Z
 tags:
   - ai video
   - ai youtube
@@ -1198,3 +1198,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

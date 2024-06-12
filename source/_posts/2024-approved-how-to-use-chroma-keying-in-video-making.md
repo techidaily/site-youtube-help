@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Use Chroma Keying in Video Making\""
-date: 2024-05-24 19:29:25
-updated: 2024-05-27 10:56:20
+date: 2024-05-31T12:48:16.725Z
+updated: 2024-06-01T12:48:16.725Z
 tags:
   - ai video
   - ai youtube
@@ -602,3 +602,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

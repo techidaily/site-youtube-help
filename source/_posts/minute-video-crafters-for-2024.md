@@ -1,7 +1,7 @@
 ---
 title: "Minute Video Crafters for 2024"
-date: 2024-05-25 20:27:52
-updated: 2024-05-28 10:54:44
+date: 2024-05-31T12:45:50.587Z
+updated: 2024-06-01T12:45:50.587Z
 tags:
   - ai video
   - ai youtube
@@ -1218,3 +1218,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

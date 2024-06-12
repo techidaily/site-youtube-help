@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Complete Angle Manipulation Handbook for YouTube Videos"
-date: 2024-05-30 12:42:55
-updated: 2024-05-31 12:53:14
+date: 2024-05-31T12:43:55.035Z
+updated: 2024-06-01T12:43:55.035Z
 tags:
   - ai video
   - ai youtube
@@ -630,3 +630,4 @@ Record screen and webcam as well
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

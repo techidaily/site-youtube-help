@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Quick Stability  Camera Shots in the Wind\""
-date: 2024-05-28 21:42:22
-updated: 2024-05-29 12:30:37
+date: 2024-05-31T12:43:54.015Z
+updated: 2024-06-01T12:43:54.015Z
 tags:
   - ai video
   - ai youtube
@@ -954,3 +954,4 @@ However, ad overlay is for content creators with Google AdWords enabled on their
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

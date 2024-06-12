@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mr. Beast  Financial Evolution Analysis\""
-date: 2024-05-25 16:20:53
-updated: 2024-05-28 10:35:31
+date: 2024-05-31T12:38:59.254Z
+updated: 2024-06-01T12:38:59.254Z
 tags:
   - ai video
   - ai youtube
@@ -940,3 +940,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

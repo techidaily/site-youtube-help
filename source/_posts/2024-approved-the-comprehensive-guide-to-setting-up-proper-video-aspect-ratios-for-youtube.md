@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Comprehensive Guide to Setting Up Proper Video Aspect Ratios for YouTube\""
-date: 2024-05-28 19:47:45
-updated: 2024-05-31 10:17:48
+date: 2024-05-31T12:48:34.629Z
+updated: 2024-06-01T12:48:34.629Z
 tags:
   - ai video
   - ai youtube
@@ -1514,3 +1514,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

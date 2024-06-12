@@ -1,7 +1,7 @@
 ---
 title: "[New] Gain Command Over YouTube's Video Playback Speed"
-date: 2024-05-25 17:10:17
-updated: 2024-05-27 11:36:28
+date: 2024-05-31T12:44:45.372Z
+updated: 2024-06-01T12:44:45.372Z
 tags:
   - ai video
   - ai youtube
@@ -754,3 +754,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

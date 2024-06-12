@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlinking From YouTube Shorts - Easy and Permanent\""
-date: 2024-05-31 13:13:54
-updated: 2024-06-01 11:10:27
+date: 2024-05-31T12:46:39.307Z
+updated: 2024-06-01T12:46:39.307Z
 tags:
   - ai video
   - ai youtube
@@ -1326,3 +1326,4 @@ Once you post your videos, give them some time to see if people will view them. 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

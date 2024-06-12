@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfecting Online Visuals  Beauty-Focused Color Correction\""
-date: 2024-05-27 22:19:54
-updated: 2024-05-29 11:31:12
+date: 2024-05-31T12:43:04.778Z
+updated: 2024-06-01T12:43:04.778Z
 tags:
   - ai video
   - ai youtube
@@ -722,3 +722,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

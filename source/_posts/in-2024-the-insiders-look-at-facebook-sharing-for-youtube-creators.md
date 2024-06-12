@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Insider's Look at Facebook Sharing for YouTube Creators"
-date: 2024-05-30 13:15:40
-updated: 2024-05-31 11:32:49
+date: 2024-05-31T12:48:48.583Z
+updated: 2024-06-01T12:48:48.583Z
 tags:
   - ai video
   - ai youtube
@@ -1730,3 +1730,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

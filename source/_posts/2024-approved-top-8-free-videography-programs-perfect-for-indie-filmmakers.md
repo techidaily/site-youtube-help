@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 8 Free Videography Programs Perfect For Indie Filmmakers\""
-date: 2024-05-28 23:49:58
-updated: 2024-05-31 12:57:27
+date: 2024-05-31T12:40:30.688Z
+updated: 2024-06-01T12:40:30.688Z
 tags:
   - ai video
   - ai youtube
@@ -1782,3 +1782,4 @@ What are some of your favorite unboxing videos? Comment down below!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

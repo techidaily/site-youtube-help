@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Guide to Correcting Hidden Shorts on YouTube\""
-date: 2024-05-27 19:52:18
-updated: 2024-05-29 12:41:42
+date: 2024-05-31T12:43:27.110Z
+updated: 2024-06-01T12:43:27.110Z
 tags:
   - ai video
   - ai youtube
@@ -663,3 +663,4 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

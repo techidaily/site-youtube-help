@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Directory of Freely Licensed Sound Sources\""
-date: 2024-05-30 23:38:56
-updated: 2024-05-31 10:31:13
+date: 2024-05-31T12:46:13.741Z
+updated: 2024-06-01T12:46:13.741Z
 tags:
   - ai video
   - ai youtube
@@ -1566,3 +1566,4 @@ Hopefully, you've found this article informative and can now enjoy watching or l
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

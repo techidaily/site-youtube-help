@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Collection of YouTube Beauty Icons to Admire\""
-date: 2024-05-30 16:51:17
-updated: 2024-05-31 10:57:28
+date: 2024-05-31T12:48:10.376Z
+updated: 2024-06-01T12:48:10.376Z
 tags:
   - ai video
   - ai youtube
@@ -572,3 +572,4 @@ Alright! Following the steps mentioned above, you will be able to create a good 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

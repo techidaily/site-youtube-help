@@ -1,7 +1,7 @@
 ---
 title: "In 2024, 10 Fastest Growing YouTube Channels to Inspire You"
-date: 2024-05-23 16:20:59
-updated: 2024-05-26 12:48:17
+date: 2024-05-31T12:44:40.297Z
+updated: 2024-06-01T12:44:40.297Z
 tags:
   - ai video
   - ai youtube
@@ -1450,3 +1450,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

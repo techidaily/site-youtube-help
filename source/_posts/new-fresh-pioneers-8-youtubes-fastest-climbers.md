@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Fresh Pioneers 8  YouTube's Fastest Climbers\""
-date: 2024-05-24 20:44:55
-updated: 2024-05-27 11:17:10
+date: 2024-05-31T12:48:46.545Z
+updated: 2024-06-01T12:48:46.545Z
 tags:
   - ai video
   - ai youtube
@@ -1078,3 +1078,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

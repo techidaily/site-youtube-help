@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Time Travelers' Guide to Top Student-Friendly YouTube History\""
-date: 2024-05-28 11:50:35
-updated: 2024-05-31 10:53:21
+date: 2024-05-31T12:44:20.570Z
+updated: 2024-06-01T12:44:20.570Z
 tags:
   - ai video
   - ai youtube
@@ -646,3 +646,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

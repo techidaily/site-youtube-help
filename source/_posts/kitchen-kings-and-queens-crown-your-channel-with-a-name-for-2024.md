@@ -1,7 +1,7 @@
 ---
 title: "\"Kitchen Kings & Queens  Crown Your Channel With a Name for 2024\""
-date: 2024-05-27 20:12:13
-updated: 2024-05-28 11:38:24
+date: 2024-05-31T12:44:29.779Z
+updated: 2024-06-01T12:44:29.779Z
 tags:
   - ai video
   - ai youtube
@@ -1190,3 +1190,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveiling the 12 Superior Portable Cams for Flip Screen Use\""
-date: 2024-05-31 10:42:48
-updated: 2024-06-01 10:46:16
+date: 2024-05-31T12:43:49.230Z
+updated: 2024-06-01T12:43:49.230Z
 tags:
   - ai video
   - ai youtube
@@ -770,3 +770,4 @@ The best yoga YouTube channels are not only about the yoga material. It also inv
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

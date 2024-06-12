@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Say No to Latency  Turn On AV1 in YouTube Settings\""
-date: 2024-05-26 20:56:12
-updated: 2024-05-29 11:18:10
+date: 2024-05-31T12:40:46.744Z
+updated: 2024-06-01T12:40:46.744Z
 tags:
   - ai video
   - ai youtube
@@ -496,3 +496,4 @@ There are many ways for an investor to get information on stocks and the stock m
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

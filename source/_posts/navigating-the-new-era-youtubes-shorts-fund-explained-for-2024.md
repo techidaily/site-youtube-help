@@ -1,7 +1,7 @@
 ---
 title: "\"Navigating the New Era  YouTube's Shorts Fund Explained for 2024\""
-date: 2024-05-27 10:33:30
-updated: 2024-05-29 11:29:27
+date: 2024-05-31T12:45:47.488Z
+updated: 2024-06-01T12:45:47.488Z
 tags:
   - ai video
   - ai youtube
@@ -618,3 +618,4 @@ But, while starting, your funding will be less. It would help if you handled the
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

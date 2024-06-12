@@ -1,7 +1,7 @@
 ---
 title: "[New] Implementing Custom Overlays in YouTube Videos"
-date: 2024-05-25 21:30:40
-updated: 2024-05-27 10:29:34
+date: 2024-05-31T12:43:48.652Z
+updated: 2024-06-01T12:43:48.652Z
 tags:
   - ai video
   - ai youtube
@@ -554,3 +554,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Trend Titan Tags  The List That Elevates Your YouTube Shorts to Fame\""
-date: 2024-05-31 17:52:27
-updated: 2024-06-01 12:11:37
+date: 2024-05-31T12:48:37.533Z
+updated: 2024-06-01T12:48:37.533Z
 tags:
   - ai video
   - ai youtube
@@ -972,3 +972,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

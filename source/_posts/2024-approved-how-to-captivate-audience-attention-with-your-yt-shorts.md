@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Captivate Audience Attention with Your YT Shorts\""
-date: 2024-05-24 17:19:36
-updated: 2024-05-27 11:51:57
+date: 2024-05-31T12:48:12.266Z
+updated: 2024-06-01T12:48:12.266Z
 tags:
   - ai video
   - ai youtube
@@ -2110,3 +2110,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Capitalize on Your YouTube Shorts for Cash Flow"
-date: 2024-05-24 18:19:28
-updated: 2024-05-27 11:21:11
+date: 2024-05-31T12:44:04.157Z
+updated: 2024-06-01T12:44:04.157Z
 tags:
   - ai video
   - ai youtube
@@ -720,3 +720,4 @@ Thus, this article has valuable insights into the width and height of YouTube Th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

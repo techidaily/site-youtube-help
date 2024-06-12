@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Soundscape Symphony  Crafting Concert Videos with These 15 Tutorials\""
-date: 2024-05-28 11:57:55
-updated: 2024-05-30 10:49:11
+date: 2024-05-31T12:39:12.817Z
+updated: 2024-06-01T12:39:12.817Z
 tags:
   - ai video
   - ai youtube
@@ -646,3 +646,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

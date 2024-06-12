@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Leading Selection of 10 Free Video Subtitle Extractors"
-date: 2024-05-26 23:46:26
-updated: 2024-05-28 10:31:46
+date: 2024-05-31T12:47:34.936Z
+updated: 2024-06-01T12:47:34.936Z
 tags:
   - ai video
   - ai youtube
@@ -868,3 +868,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

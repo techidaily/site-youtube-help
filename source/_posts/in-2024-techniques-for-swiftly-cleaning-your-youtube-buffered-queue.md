@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Techniques for Swiftly Cleaning Your YouTube Buffered Queue"
-date: 2024-05-27 14:11:40
-updated: 2024-05-30 11:55:41
+date: 2024-05-31T12:47:23.873Z
+updated: 2024-06-01T12:47:23.873Z
 tags:
   - ai video
   - ai youtube
@@ -273,3 +273,4 @@ Hopefully, this article helped resolve your query, and you can now use the right
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

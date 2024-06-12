@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Add Custom YouTube Shorts Thumbnails Effortlessly"
-date: 2024-05-25 15:46:25
-updated: 2024-05-27 10:53:50
+date: 2024-05-31T12:41:55.064Z
+updated: 2024-06-01T12:41:55.064Z
 tags:
   - ai video
   - ai youtube
@@ -828,3 +828,4 @@ Our final verdict is that haul videos are just entertaining to make and fun to w
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

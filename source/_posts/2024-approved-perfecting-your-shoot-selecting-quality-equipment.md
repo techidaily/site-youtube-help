@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfecting Your Shoot  Selecting Quality Equipment\""
-date: 2024-05-28 13:37:18
-updated: 2024-05-29 11:25:54
+date: 2024-05-31T12:48:25.768Z
+updated: 2024-06-01T12:48:25.768Z
 tags:
   - ai video
   - ai youtube
@@ -806,3 +806,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

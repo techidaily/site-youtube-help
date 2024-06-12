@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Parody Basics  Tips for Entertaining Mocks\""
-date: 2024-05-28 20:13:35
-updated: 2024-05-29 12:56:11
+date: 2024-05-31T12:44:36.644Z
+updated: 2024-06-01T12:44:36.644Z
 tags:
   - ai video
   - ai youtube
@@ -674,3 +674,4 @@ YouTubers use several video editors for their work. Some of the most popular edi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

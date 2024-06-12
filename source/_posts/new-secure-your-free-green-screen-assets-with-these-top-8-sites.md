@@ -1,7 +1,7 @@
 ---
 title: "[New] Secure Your FREE Green Screen Assets with These Top 8 Sites"
-date: 2024-05-29 21:28:24
-updated: 2024-05-30 11:23:43
+date: 2024-05-31T12:43:01.365Z
+updated: 2024-06-01T12:43:01.365Z
 tags:
   - ai video
   - ai youtube
@@ -1134,3 +1134,4 @@ Hopefully, you've found this article helpful and can now watch your favorite pla
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering the Art of YouTube Thumbnail Capture"
-date: 2024-05-27 10:20:12
-updated: 2024-05-28 11:32:23
+date: 2024-05-31T12:41:55.732Z
+updated: 2024-06-01T12:41:55.732Z
 tags:
   - ai video
   - ai youtube
@@ -1006,3 +1006,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

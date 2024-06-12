@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Find YouTube Sponsorships by Using FameBit"
-date: 2024-05-25 21:50:38
-updated: 2024-05-27 10:10:54
+date: 2024-05-31T12:48:27.135Z
+updated: 2024-06-01T12:48:27.135Z
 tags:
   - ai video
   - ai youtube
@@ -894,3 +894,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

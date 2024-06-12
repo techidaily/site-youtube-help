@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Hands-On Tips for Masterful Video Edits with YouTube Studio\""
-date: 2024-05-25 15:59:52
-updated: 2024-05-27 10:33:38
+date: 2024-05-31T12:41:42.002Z
+updated: 2024-06-01T12:41:42.002Z
 tags:
   - ai video
   - ai youtube
@@ -1018,3 +1018,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

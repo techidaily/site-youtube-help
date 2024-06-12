@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unveiling CarryMinati's Channel Economics (Ajey)"
-date: 2024-05-29 14:59:22
-updated: 2024-06-01 10:42:29
+date: 2024-05-31T12:38:33.144Z
+updated: 2024-06-01T12:38:33.144Z
 tags:
   - ai video
   - ai youtube
@@ -769,3 +769,4 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

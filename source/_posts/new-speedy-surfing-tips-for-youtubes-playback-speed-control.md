@@ -1,7 +1,7 @@
 ---
 title: "[New] Speedy Surfing Tips for YouTube's Playback Speed Control"
-date: 2024-05-27 11:30:25
-updated: 2024-05-30 12:26:59
+date: 2024-05-31T12:41:49.659Z
+updated: 2024-06-01T12:41:49.659Z
 tags:
   - ai video
   - ai youtube
@@ -858,3 +858,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

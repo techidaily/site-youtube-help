@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Short-Form Showdown  Youtube VS. TikTok Edition\""
-date: 2024-05-27 16:45:15
-updated: 2024-05-30 10:44:18
+date: 2024-05-31T12:45:02.021Z
+updated: 2024-06-01T12:45:02.021Z
 tags:
   - ai video
   - ai youtube
@@ -958,3 +958,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

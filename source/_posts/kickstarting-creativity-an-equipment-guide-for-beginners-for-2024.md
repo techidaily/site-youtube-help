@@ -1,7 +1,7 @@
 ---
 title: "\"Kickstarting Creativity  An Equipment Guide for Beginners for 2024\""
-date: 2024-05-27 10:54:41
-updated: 2024-05-28 11:29:30
+date: 2024-05-31T12:38:33.217Z
+updated: 2024-06-01T12:38:33.217Z
 tags:
   - ai video
   - ai youtube
@@ -656,3 +656,4 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

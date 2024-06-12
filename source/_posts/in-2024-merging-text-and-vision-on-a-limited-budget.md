@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Merging Text & Vision on a Limited Budget"
-date: 2024-05-26 15:47:34
-updated: 2024-05-28 11:30:20
+date: 2024-05-31T12:40:08.628Z
+updated: 2024-06-01T12:40:08.628Z
 tags:
   - ai video
   - ai youtube
@@ -846,3 +846,4 @@ Captions are a great way to get users to engage with your videos. Studies have s
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "Frameworks for Compelling YouTube Content Layouts for 2024"
-date: 2024-05-25 12:28:29
-updated: 2024-05-27 12:26:31
+date: 2024-05-31T12:44:55.928Z
+updated: 2024-06-01T12:44:55.928Z
 tags:
   - ai video
   - ai youtube
@@ -828,3 +828,4 @@ Simple isn't it. Yes, the process is quite simple. You can easily change YouTube
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

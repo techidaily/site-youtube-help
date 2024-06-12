@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Expanding Creatives Across Social Media"
-date: 2024-05-23 10:37:48
-updated: 2024-05-26 11:10:33
+date: 2024-05-31T12:44:39.235Z
+updated: 2024-06-01T12:44:39.235Z
 tags:
   - ai video
   - ai youtube
@@ -1450,3 +1450,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Enhance Your Vlog's Pacing Using Jump Cuts"
-date: 2024-05-24 19:45:56
-updated: 2024-05-27 12:14:34
+date: 2024-05-31T12:45:42.643Z
+updated: 2024-06-01T12:45:42.643Z
 tags:
   - ai video
   - ai youtube
@@ -588,3 +588,4 @@ The YouTube Creator Studio allows you to manage your channel and content in a ce
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

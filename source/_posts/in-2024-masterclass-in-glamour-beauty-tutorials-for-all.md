@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Masterclass in Glamour  Beauty Tutorials for All\""
-date: 2024-05-26 19:55:32
-updated: 2024-05-28 12:45:33
+date: 2024-05-31T12:47:43.903Z
+updated: 2024-06-01T12:47:43.903Z
 tags:
   - ai video
   - ai youtube
@@ -1402,3 +1402,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

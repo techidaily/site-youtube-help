@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top YouTube Fonts for Striking, Shareable Thumbnails"
-date: 2024-05-29 19:25:42
-updated: 2024-05-31 10:28:20
+date: 2024-05-31T12:39:07.219Z
+updated: 2024-06-01T12:39:07.219Z
 tags:
   - ai video
   - ai youtube
@@ -963,3 +963,4 @@ It’s a nice feeling to learn how to upload YouTube Shorts and share the fun wi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

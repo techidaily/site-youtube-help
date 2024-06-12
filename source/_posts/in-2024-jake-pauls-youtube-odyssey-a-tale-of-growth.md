@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Jake Paul's YouTube Odyssey  A Tale of Growth\""
-date: 2024-05-26 20:45:51
-updated: 2024-05-28 10:32:19
+date: 2024-05-31T12:43:26.240Z
+updated: 2024-06-01T12:43:26.240Z
 tags:
   - ai video
   - ai youtube
@@ -1018,3 +1018,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

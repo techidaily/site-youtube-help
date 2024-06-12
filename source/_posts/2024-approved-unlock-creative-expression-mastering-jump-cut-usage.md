@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlock Creative Expression  Mastering Jump Cut Usage\""
-date: 2024-05-31 23:29:58
-updated: 2024-06-01 10:22:44
+date: 2024-05-31T12:46:44.758Z
+updated: 2024-06-01T12:46:44.758Z
 tags:
   - ai video
   - ai youtube
@@ -558,3 +558,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

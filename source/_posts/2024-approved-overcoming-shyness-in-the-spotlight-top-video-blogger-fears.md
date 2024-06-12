@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Overcoming Shyness in the Spotlight  Top Video Blogger Fears\""
-date: 2024-05-28 23:59:37
-updated: 2024-05-29 11:14:24
+date: 2024-05-31T12:42:27.202Z
+updated: 2024-06-01T12:42:27.202Z
 tags:
   - ai video
   - ai youtube
@@ -854,3 +854,4 @@ Because YouTube is a search engine, SEO is crucial if you want people to find yo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

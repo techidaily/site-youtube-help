@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Social Media Integration for Amplified YouTube Shorts Reach"
-date: 2024-05-29 13:53:59
-updated: 2024-05-30 10:17:48
+date: 2024-05-31T12:44:41.436Z
+updated: 2024-06-01T12:44:41.436Z
 tags:
   - ai video
   - ai youtube
@@ -854,3 +854,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

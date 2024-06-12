@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfect Thumbnail Size for Click-Through Rates\""
-date: 2024-05-26 22:56:21
-updated: 2024-05-29 12:56:20
+date: 2024-05-31T12:45:39.997Z
+updated: 2024-06-01T12:45:39.997Z
 tags:
   - ai video
   - ai youtube
@@ -902,3 +902,4 @@ Captions are a great way to get users to engage with your videos. Studies have s
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

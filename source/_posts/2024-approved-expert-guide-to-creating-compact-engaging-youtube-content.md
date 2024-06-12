@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Expert Guide to Creating Compact, Engaging YouTube Content\""
-date: 2024-05-24 16:20:51
-updated: 2024-05-26 11:39:23
+date: 2024-05-31T12:42:54.817Z
+updated: 2024-06-01T12:42:54.817Z
 tags:
   - ai video
   - ai youtube
@@ -790,3 +790,4 @@ This portion of VTubing isn't all that dissimilar from creating regular video ma
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Transfer Video From YouTube to Dailymotion?"
-date: 2024-05-31 19:56:22
-updated: 2024-06-01 12:43:28
+date: 2024-05-31T12:48:04.317Z
+updated: 2024-06-01T12:48:04.317Z
 tags:
   - ai video
   - ai youtube
@@ -538,3 +538,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

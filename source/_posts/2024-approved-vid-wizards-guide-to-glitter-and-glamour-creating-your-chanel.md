@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Vid-Wizards Guide to Glitter and Glamour  Creating Your Chanel\""
-date: 2024-05-30 18:25:50
-updated: 2024-06-01 11:18:22
+date: 2024-05-31T12:44:25.798Z
+updated: 2024-06-01T12:44:25.798Z
 tags:
   - ai video
   - ai youtube
@@ -982,3 +982,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

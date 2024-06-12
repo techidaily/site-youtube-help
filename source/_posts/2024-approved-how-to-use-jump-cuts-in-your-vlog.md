@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How To Use Jump Cuts in Your Vlog\""
-date: 2024-05-25 15:49:58
-updated: 2024-05-27 12:45:17
+date: 2024-05-31T12:43:17.009Z
+updated: 2024-06-01T12:43:17.009Z
 tags:
   - ai video
   - ai youtube
@@ -502,3 +502,4 @@ With well-written descriptions and high-quality videos, your success on YouTube 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

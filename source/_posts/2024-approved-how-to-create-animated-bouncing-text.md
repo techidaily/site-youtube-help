@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Create Animated Bouncing Text\""
-date: 2024-05-24 19:13:50
-updated: 2024-05-27 11:20:21
+date: 2024-05-31T12:42:50.394Z
+updated: 2024-06-01T12:42:50.394Z
 tags:
   - ai video
   - ai youtube
@@ -648,3 +648,4 @@ As you can see, there are different ways you could monetize your YouTube channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

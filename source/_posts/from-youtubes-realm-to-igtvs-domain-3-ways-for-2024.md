@@ -1,7 +1,7 @@
 ---
 title: "From YouTube's Realm to IGTV's Domain (3 Ways) for 2024"
-date: 2024-05-24 16:40:51
-updated: 2024-05-27 11:45:18
+date: 2024-05-31T12:43:49.284Z
+updated: 2024-06-01T12:43:49.284Z
 tags:
   - ai video
   - ai youtube
@@ -854,3 +854,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From FTP to Feed  The Complete Guide to Uploading to YouTube\""
-date: 2024-05-24 18:56:38
-updated: 2024-05-27 11:59:21
+date: 2024-05-31T12:41:04.597Z
+updated: 2024-06-01T12:41:04.597Z
 tags:
   - ai video
   - ai youtube
@@ -1230,3 +1230,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

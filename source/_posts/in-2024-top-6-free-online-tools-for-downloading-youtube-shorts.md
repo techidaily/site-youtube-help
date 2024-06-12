@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 6 Free, Online Tools for Downloading YouTube Shorts"
-date: 2024-05-28 11:27:17
-updated: 2024-05-31 10:29:42
+date: 2024-05-31T12:38:24.292Z
+updated: 2024-06-01T12:38:24.292Z
 tags:
   - ai video
   - ai youtube
@@ -776,3 +776,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

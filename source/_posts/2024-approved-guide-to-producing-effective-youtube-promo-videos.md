@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Guide to Producing Effective YouTube Promo Videos\""
-date: 2024-05-25 11:44:20
-updated: 2024-05-27 10:15:32
+date: 2024-05-31T12:42:38.176Z
+updated: 2024-06-01T12:42:38.176Z
 tags:
   - ai video
   - ai youtube
@@ -1748,3 +1748,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

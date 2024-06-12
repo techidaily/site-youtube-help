@@ -1,7 +1,7 @@
 ---
 title: "\"Hilarious YouTube Moments  Top 10 Quirky Short Film Concepts for 2024\""
-date: 2024-05-26 19:18:46
-updated: 2024-05-27 11:25:49
+date: 2024-05-31T12:39:35.300Z
+updated: 2024-06-01T12:39:35.300Z
 tags:
   - ai video
   - ai youtube
@@ -1598,3 +1598,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

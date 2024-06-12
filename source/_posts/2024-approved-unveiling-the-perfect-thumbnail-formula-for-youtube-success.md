@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveiling The Perfect Thumbnail Formula for YouTube Success\""
-date: 2024-05-31 21:27:55
-updated: 2024-06-01 11:55:56
+date: 2024-05-31T12:42:49.710Z
+updated: 2024-06-01T12:42:49.710Z
 tags:
   - ai video
   - ai youtube
@@ -962,3 +962,4 @@ I firmly believe that at this point, understanding how to create a YouTube chann
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

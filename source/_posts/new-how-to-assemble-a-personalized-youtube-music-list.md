@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Assemble a Personalized YouTube Music List"
-date: 2024-05-24 10:14:15
-updated: 2024-05-27 11:56:44
+date: 2024-05-31T12:41:26.550Z
+updated: 2024-06-01T12:41:26.550Z
 tags:
   - ai video
   - ai youtube
@@ -742,3 +742,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

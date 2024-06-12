@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Green Screen Tech for Improved CTAs"
-date: 2024-05-25 11:44:29
-updated: 2024-05-27 11:23:17
+date: 2024-05-31T12:48:58.390Z
+updated: 2024-06-01T12:48:58.390Z
 tags:
   - ai video
   - ai youtube
@@ -1106,3 +1106,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

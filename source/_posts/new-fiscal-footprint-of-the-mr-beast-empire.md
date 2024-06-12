@@ -1,7 +1,7 @@
 ---
 title: "[New] Fiscal Footprint of the Mr. Beast Empire"
-date: 2024-05-25 11:39:15
-updated: 2024-05-27 12:49:18
+date: 2024-05-31T12:46:01.499Z
+updated: 2024-06-01T12:46:01.499Z
 tags:
   - ai video
   - ai youtube
@@ -912,3 +912,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

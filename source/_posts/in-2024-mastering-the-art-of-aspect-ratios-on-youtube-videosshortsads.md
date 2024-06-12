@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering the Art of Aspect Ratios on YouTube Videos/Shorts/Ads"
-date: 2024-05-25 13:28:52
-updated: 2024-05-28 11:42:11
+date: 2024-05-31T12:41:49.127Z
+updated: 2024-06-01T12:41:49.127Z
 tags:
   - ai video
   - ai youtube
@@ -768,3 +768,4 @@ Enjoy!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

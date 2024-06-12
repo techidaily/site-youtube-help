@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigate to 8 Online Vaults for Free Green Screen Backdrop Archives"
-date: 2024-05-27 19:42:42
-updated: 2024-05-28 12:36:36
+date: 2024-05-31T12:41:13.415Z
+updated: 2024-06-01T12:41:13.415Z
 tags:
   - ai video
   - ai youtube
@@ -1246,3 +1246,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

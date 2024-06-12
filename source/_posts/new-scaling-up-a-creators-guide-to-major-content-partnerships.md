@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Scaling Up  A Creator's Guide to Major Content Partnerships\""
-date: 2024-05-28 22:37:32
-updated: 2024-05-29 12:12:14
+date: 2024-05-31T12:44:13.035Z
+updated: 2024-06-01T12:44:13.035Z
 tags:
   - ai video
   - ai youtube
@@ -650,3 +650,4 @@ Hopefully, you find this guide informative and can now create strong news style 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

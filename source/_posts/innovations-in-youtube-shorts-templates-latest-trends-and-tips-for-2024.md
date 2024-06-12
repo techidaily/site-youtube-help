@@ -1,7 +1,7 @@
 ---
 title: "\"Innovations in YouTube Shorts Templates  Latest Trends & Tips for 2024\""
-date: 2024-05-24 22:36:19
-updated: 2024-05-27 10:49:20
+date: 2024-05-31T12:47:48.531Z
+updated: 2024-06-01T12:47:48.531Z
 tags:
   - ai video
   - ai youtube
@@ -1427,3 +1427,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Power Play  Joining a Music Company Network in the Age of Streaming\""
-date: 2024-05-28 21:27:12
-updated: 2024-05-31 12:43:35
+date: 2024-05-31T12:40:35.583Z
+updated: 2024-06-01T12:40:35.583Z
 tags:
   - ai video
   - ai youtube
@@ -690,3 +690,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

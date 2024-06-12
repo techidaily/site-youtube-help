@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Plot to Post  A Detailed Guide to Writing YouTube Videos\""
-date: 2024-05-24 16:12:24
-updated: 2024-05-27 10:32:23
+date: 2024-05-31T12:39:31.618Z
+updated: 2024-06-01T12:39:31.618Z
 tags:
   - ai video
   - ai youtube
@@ -1082,3 +1082,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

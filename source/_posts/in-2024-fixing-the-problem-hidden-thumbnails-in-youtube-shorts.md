@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Fixing the Problem  Hidden Thumbnails in YouTube Shorts\""
-date: 2024-05-24 10:22:50
-updated: 2024-05-27 10:56:12
+date: 2024-05-31T12:41:45.806Z
+updated: 2024-06-01T12:41:45.806Z
 tags:
   - ai video
   - ai youtube
@@ -617,3 +617,4 @@ The better you can design your banner, the higher your chances of growing an aud
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

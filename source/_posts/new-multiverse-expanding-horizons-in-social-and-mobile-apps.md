@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Multiverse  Expanding Horizons in Social & Mobile Apps\""
-date: 2024-05-26 13:56:12
-updated: 2024-05-28 10:25:31
+date: 2024-05-31T12:43:42.071Z
+updated: 2024-06-01T12:43:42.071Z
 tags:
   - ai video
   - ai youtube
@@ -1090,3 +1090,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

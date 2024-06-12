@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Global Gross Earnings of YouTube Luminaries\""
-date: 2024-05-24 14:25:41
-updated: 2024-05-27 11:47:53
+date: 2024-05-31T12:48:21.144Z
+updated: 2024-06-01T12:48:21.144Z
 tags:
   - ai video
   - ai youtube
@@ -802,3 +802,4 @@ We hope you've enjoyed reading this article and can now use the right hashtags f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

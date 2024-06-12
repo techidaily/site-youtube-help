@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Year's Predictions Rendered in Infographics"
-date: 2024-05-28 17:45:38
-updated: 2024-05-31 10:33:19
+date: 2024-05-31T12:45:10.713Z
+updated: 2024-06-01T12:45:10.713Z
 tags:
   - ai video
   - ai youtube
@@ -587,3 +587,4 @@ Filmora templates are fully customizable, meaning you can change the text, image
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

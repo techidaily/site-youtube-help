@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  List of 8 YouTube Outlets Skyrocketing in Viewership\""
-date: 2024-05-25 17:25:34
-updated: 2024-05-28 11:30:20
+date: 2024-05-31T12:47:54.541Z
+updated: 2024-06-01T12:47:54.541Z
 tags:
   - ai video
   - ai youtube
@@ -974,3 +974,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

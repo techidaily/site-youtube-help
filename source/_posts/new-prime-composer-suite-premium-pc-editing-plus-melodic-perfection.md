@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Prime Composer Suite  Premium PC Editing + Melodic Perfection\""
-date: 2024-05-27 19:26:19
-updated: 2024-05-29 12:48:40
+date: 2024-05-31T12:47:06.636Z
+updated: 2024-06-01T12:47:06.636Z
 tags:
   - ai video
   - ai youtube
@@ -1138,3 +1138,4 @@ Hopefully, you've found this article helpful and can now access the unlisted vid
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

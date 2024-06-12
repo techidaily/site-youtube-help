@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Joyful Jams  The Funniest Musical Mashups\""
-date: 2024-05-27 17:35:30
-updated: 2024-05-28 10:29:25
+date: 2024-05-31T12:45:38.831Z
+updated: 2024-06-01T12:45:38.831Z
 tags:
   - ai video
   - ai youtube
@@ -1582,3 +1582,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

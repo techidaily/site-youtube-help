@@ -1,7 +1,7 @@
 ---
 title: "[New] Strategic Income Generation Through YouTube, As Per Sourav Joshi's Playbook"
-date: 2024-05-28 12:30:17
-updated: 2024-05-30 10:33:27
+date: 2024-05-31T12:40:39.162Z
+updated: 2024-06-01T12:40:39.162Z
 tags:
   - ai video
   - ai youtube
@@ -822,3 +822,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

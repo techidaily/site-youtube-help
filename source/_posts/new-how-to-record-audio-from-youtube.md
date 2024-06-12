@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Record Audio From YouTube"
-date: 2024-05-27 10:55:40
-updated: 2024-05-29 10:54:52
+date: 2024-05-31T12:38:50.982Z
+updated: 2024-06-01T12:38:50.982Z
 tags:
   - ai video
   - ai youtube
@@ -950,3 +950,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

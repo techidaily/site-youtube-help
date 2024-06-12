@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 50 Digital Rich List"
-date: 2024-05-30 11:29:47
-updated: 2024-05-31 10:23:30
+date: 2024-05-31T12:43:55.173Z
+updated: 2024-06-01T12:43:55.173Z
 tags:
   - ai video
   - ai youtube
@@ -875,3 +875,4 @@ Hopefully, this article helped resolve your query, and you can now use the right
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

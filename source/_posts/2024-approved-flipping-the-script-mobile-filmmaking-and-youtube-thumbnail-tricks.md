@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Flipping the Script  Mobile Filmmaking & YouTube Thumbnail Tricks\""
-date: 2024-05-26 16:24:51
-updated: 2024-05-27 12:22:37
+date: 2024-05-31T12:45:33.201Z
+updated: 2024-06-01T12:45:33.201Z
 tags:
   - ai video
   - ai youtube
@@ -729,3 +729,4 @@ So what are we waiting for? Let’s pick the right YouTube shorts downloader onl
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

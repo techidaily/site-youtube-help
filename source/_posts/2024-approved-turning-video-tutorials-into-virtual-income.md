@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Turning Video Tutorials Into Virtual Income\""
-date: 2024-05-31 17:22:22
-updated: 2024-06-01 11:45:37
+date: 2024-05-31T12:45:49.182Z
+updated: 2024-06-01T12:45:49.182Z
 tags:
   - ai video
   - ai youtube
@@ -633,3 +633,4 @@ The YouTube Shorts Fund offers an exceptional for creators to make additional in
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Transformative Content Blocks  Enhanced Youtube Decks\""
-date: 2024-05-30 12:25:30
-updated: 2024-06-01 10:58:41
+date: 2024-05-31T12:40:26.758Z
+updated: 2024-06-01T12:40:26.758Z
 tags:
   - ai video
   - ai youtube
@@ -698,3 +698,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

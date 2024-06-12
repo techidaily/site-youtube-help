@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Explore the Best Free Tools to Shorten YouTube Videos"
-date: 2024-05-23 15:24:48
-updated: 2024-05-26 12:12:45
+date: 2024-05-31T12:42:32.059Z
+updated: 2024-06-01T12:42:32.059Z
 tags:
   - ai video
   - ai youtube
@@ -1218,3 +1218,4 @@ Enjoy!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

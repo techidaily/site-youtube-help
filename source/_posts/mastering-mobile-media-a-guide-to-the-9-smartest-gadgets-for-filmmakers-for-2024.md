@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Mobile Media  A Guide to the 9 Smartest Gadgets for Filmmakers for 2024\""
-date: 2024-05-25 13:40:42
-updated: 2024-05-28 10:31:45
+date: 2024-05-31T12:48:53.187Z
+updated: 2024-06-01T12:48:53.187Z
 tags:
   - ai video
   - ai youtube
@@ -634,3 +634,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

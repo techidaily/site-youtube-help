@@ -1,7 +1,7 @@
 ---
 title: "[New] Permanent Silence of the Quick Content Platform"
-date: 2024-05-28 23:53:58
-updated: 2024-05-29 12:28:19
+date: 2024-05-31T12:40:53.305Z
+updated: 2024-06-01T12:40:53.305Z
 tags:
   - ai video
   - ai youtube
@@ -1166,3 +1166,4 @@ The process of creating a compelling video is painless, with only 3 steps proces
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

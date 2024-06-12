@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Multiverse  Expanding Horizons in Social & Mobile Apps\""
-date: 2024-05-25 20:40:44
-updated: 2024-05-28 11:20:23
+date: 2024-05-31T12:42:14.077Z
+updated: 2024-06-01T12:42:14.077Z
 tags:
   - ai video
   - ai youtube
@@ -1286,3 +1286,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top FIFA Footage Trends Captured in Infographics"
-date: 2024-05-30 12:41:23
-updated: 2024-05-31 12:16:37
+date: 2024-05-31T12:40:12.497Z
+updated: 2024-06-01T12:40:12.497Z
 tags:
   - ai video
   - ai youtube
@@ -410,3 +410,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Pro's Pathway to Professionalism  Making Videos Using a Phone\""
-date: 2024-05-28 18:54:38
-updated: 2024-05-31 11:16:43
+date: 2024-05-31T12:41:17.103Z
+updated: 2024-06-01T12:41:17.103Z
 tags:
   - ai video
   - ai youtube
@@ -686,3 +686,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

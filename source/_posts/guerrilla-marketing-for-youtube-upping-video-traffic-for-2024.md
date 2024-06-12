@@ -1,7 +1,7 @@
 ---
 title: "\"Guerrilla Marketing for YouTube  Upping Video Traffic for 2024\""
-date: 2024-05-26 19:58:50
-updated: 2024-05-27 11:37:38
+date: 2024-05-31T12:39:39.818Z
+updated: 2024-06-01T12:39:39.818Z
 tags:
   - ai video
   - ai youtube
@@ -822,3 +822,4 @@ YouTubers use several video editors for their work. Some of the most popular edi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

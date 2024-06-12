@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking Video Potential  YouTube to IGTV\""
-date: 2024-05-31 19:30:54
-updated: 2024-06-01 11:43:31
+date: 2024-05-31T12:48:34.836Z
+updated: 2024-06-01T12:48:34.836Z
 tags:
   - ai video
   - ai youtube
@@ -846,3 +846,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

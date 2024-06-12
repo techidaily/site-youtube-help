@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From YouTube to TikTok  Crafting the Perfect Cross-Platform Strategy\""
-date: 2024-05-24 10:20:15
-updated: 2024-05-27 10:35:38
+date: 2024-05-31T12:38:23.105Z
+updated: 2024-06-01T12:38:23.105Z
 tags:
   - ai video
   - ai youtube
@@ -866,3 +866,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

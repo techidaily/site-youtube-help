@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unending Shutdown Method  How to Kill Off Youtube Shorts\""
-date: 2024-05-31 21:36:46
-updated: 2024-06-01 10:37:52
+date: 2024-05-31T12:44:42.988Z
+updated: 2024-06-01T12:44:42.988Z
 tags:
   - ai video
   - ai youtube
@@ -1334,3 +1334,4 @@ Do you share your computer with other fellows? The chances are that someone hit 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Steps Towards Joining Filmora's Certified Creative Circle\""
-date: 2024-05-27 16:48:51
-updated: 2024-05-30 10:13:49
+date: 2024-05-31T12:40:21.928Z
+updated: 2024-06-01T12:40:21.928Z
 tags:
   - ai video
   - ai youtube
@@ -658,3 +658,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

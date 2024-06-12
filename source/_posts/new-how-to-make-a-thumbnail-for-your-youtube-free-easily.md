@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Make a Thumbnail for Your YouTube Free Easily"
-date: 2024-05-26 20:53:18
-updated: 2024-05-27 12:10:40
+date: 2024-05-31T12:38:32.111Z
+updated: 2024-06-01T12:38:32.111Z
 tags:
   - ai video
   - ai youtube
@@ -882,3 +882,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Step-by-Step  Adding Subsections and Chapters to Your YouTube Tutorials\""
-date: 2024-05-27 16:39:40
-updated: 2024-05-30 12:49:49
+date: 2024-05-31T12:46:26.739Z
+updated: 2024-06-01T12:46:26.739Z
 tags:
   - ai video
   - ai youtube
@@ -772,3 +772,4 @@ Yet, it would help if you didn't forget the most important thing: the video itse
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

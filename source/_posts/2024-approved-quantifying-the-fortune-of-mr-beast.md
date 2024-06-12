@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quantifying the Fortune of Mr. Beast\""
-date: 2024-05-27 10:57:57
-updated: 2024-05-29 11:19:49
+date: 2024-05-31T12:41:44.505Z
+updated: 2024-06-01T12:41:44.505Z
 tags:
   - ai video
   - ai youtube
@@ -1052,3 +1052,4 @@ However, ad overlay is for content creators with Google AdWords enabled on their
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

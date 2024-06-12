@@ -1,7 +1,7 @@
 ---
 title: "\"Learn to Edit Films  YouTube Tutorials + Others for 2024\""
-date: 2024-05-26 20:31:19
-updated: 2024-05-28 10:43:38
+date: 2024-05-31T12:44:49.750Z
+updated: 2024-06-01T12:44:49.750Z
 tags:
   - ai video
   - ai youtube
@@ -802,3 +802,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

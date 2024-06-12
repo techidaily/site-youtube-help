@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering YouTube Pace Control  Top Tips for Slower Views (48 Chars) for 2024\""
-date: 2024-05-26 22:52:20
-updated: 2024-05-28 11:46:21
+date: 2024-05-31T12:39:42.181Z
+updated: 2024-06-01T12:39:42.181Z
 tags:
   - ai video
   - ai youtube
@@ -850,3 +850,4 @@ Despite all the reasons to subscribe to YouTube Premium, it still needs a minor 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

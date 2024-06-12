@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Football Video Analysis  Top YouTube Infographics\""
-date: 2024-05-24 16:30:44
-updated: 2024-05-27 10:39:23
+date: 2024-05-31T12:43:00.385Z
+updated: 2024-06-01T12:43:00.385Z
 tags:
   - ai video
   - ai youtube
@@ -586,3 +586,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

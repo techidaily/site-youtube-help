@@ -1,7 +1,7 @@
 ---
 title: "[New] Principles of Filming Inspirational Daily Living Documentaries"
-date: 2024-05-26 15:10:39
-updated: 2024-05-29 12:45:22
+date: 2024-05-31T12:44:47.643Z
+updated: 2024-06-01T12:44:47.643Z
 tags:
   - ai video
   - ai youtube
@@ -866,3 +866,4 @@ Now you have the top 7 voice changers for YouTubers, select one of them and use 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

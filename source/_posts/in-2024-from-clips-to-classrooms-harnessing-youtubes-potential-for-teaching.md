@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Clips to Classrooms  Harnessing YouTube's Potential for Teaching\""
-date: 2024-05-26 19:42:46
-updated: 2024-05-27 11:38:13
+date: 2024-05-31T12:42:25.237Z
+updated: 2024-06-01T12:42:25.237Z
 tags:
   - ai video
   - ai youtube
@@ -822,3 +822,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

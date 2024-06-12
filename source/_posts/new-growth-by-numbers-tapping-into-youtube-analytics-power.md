@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Growth by Numbers  Tapping Into YouTube Analytics Power\""
-date: 2024-05-25 14:44:20
-updated: 2024-05-27 11:18:20
+date: 2024-05-31T12:42:28.078Z
+updated: 2024-06-01T12:42:28.078Z
 tags:
   - ai video
   - ai youtube
@@ -3040,3 +3040,4 @@ But, while starting, your funding will be less. It would help if you handled the
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

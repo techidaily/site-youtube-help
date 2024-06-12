@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Static to Sprightly  Bouncing Text Animations\""
-date: 2024-05-24 18:17:28
-updated: 2024-05-27 11:14:33
+date: 2024-05-31T12:41:06.661Z
+updated: 2024-06-01T12:41:06.661Z
 tags:
   - ai video
   - ai youtube
@@ -838,3 +838,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

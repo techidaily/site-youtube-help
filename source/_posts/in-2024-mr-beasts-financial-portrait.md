@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mr. Beast’s Financial Portrait"
-date: 2024-05-25 20:26:14
-updated: 2024-05-28 12:41:36
+date: 2024-05-31T12:39:22.232Z
+updated: 2024-06-01T12:39:22.232Z
 tags:
   - ai video
   - ai youtube
@@ -988,3 +988,4 @@ Hopefully, you've found this article informative and can now enjoy watching or l
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

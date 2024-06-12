@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Harmonizing Your Spotify Queue with YouTube Music Catalogs"
-date: 2024-05-25 18:54:30
-updated: 2024-05-27 12:33:48
+date: 2024-05-31T12:46:23.738Z
+updated: 2024-06-01T12:46:23.738Z
 tags:
   - ai video
   - ai youtube
@@ -814,3 +814,4 @@ YouTubers use several video editors for their work. Some of the most popular edi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

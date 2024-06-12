@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of YouTube Shorts  Filming and Editing Made Simple\""
-date: 2024-05-28 18:50:33
-updated: 2024-05-31 10:50:52
+date: 2024-05-31T12:44:51.271Z
+updated: 2024-06-01T12:44:51.271Z
 tags:
   - ai video
   - ai youtube
@@ -1298,3 +1298,4 @@ YT SEO tools can help you optimize your videos to increase views and grow your f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

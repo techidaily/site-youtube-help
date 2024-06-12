@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Transforming Viewership Into Viewer Funds on YouTube"
-date: 2024-05-31 19:53:28
-updated: 2024-06-01 11:17:57
+date: 2024-05-31T12:44:48.469Z
+updated: 2024-06-01T12:44:48.469Z
 tags:
   - ai video
   - ai youtube
@@ -586,3 +586,4 @@ The YouTube Shorts Fund offers an exceptional for creators to make additional in
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

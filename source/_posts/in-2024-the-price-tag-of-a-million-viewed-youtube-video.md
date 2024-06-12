@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Price Tag of a Million-Viewed YouTube Video\""
-date: 2024-05-30 13:25:14
-updated: 2024-05-31 12:56:31
+date: 2024-05-31T12:42:17.881Z
+updated: 2024-06-01T12:42:17.881Z
 tags:
   - ai video
   - ai youtube
@@ -844,3 +844,4 @@ It is important to know that the default resolution of a YouTube thumbnail is 12
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

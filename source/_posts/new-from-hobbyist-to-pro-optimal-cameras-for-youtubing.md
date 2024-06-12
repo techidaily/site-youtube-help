@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Hobbyist to Pro  Optimal Cameras For YouTubing\""
-date: 2024-05-26 12:11:13
-updated: 2024-05-27 11:22:12
+date: 2024-05-31T12:38:54.169Z
+updated: 2024-06-01T12:38:54.169Z
 tags:
   - ai video
   - ai youtube
@@ -1426,3 +1426,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

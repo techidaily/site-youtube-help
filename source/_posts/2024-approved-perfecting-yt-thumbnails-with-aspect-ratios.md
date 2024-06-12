@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfecting YT Thumbnails with Aspect Ratios\""
-date: 2024-05-26 21:33:21
-updated: 2024-05-29 12:32:16
+date: 2024-05-31T12:47:27.907Z
+updated: 2024-06-01T12:47:27.907Z
 tags:
   - ai video
   - ai youtube
@@ -1080,3 +1080,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

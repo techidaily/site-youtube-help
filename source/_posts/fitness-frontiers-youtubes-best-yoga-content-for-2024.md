@@ -1,7 +1,7 @@
 ---
 title: "\"Fitness Frontiers - YouTube's Best Yoga Content for 2024\""
-date: 2024-05-24 10:10:51
-updated: 2024-05-27 11:31:28
+date: 2024-05-31T12:47:19.179Z
+updated: 2024-06-01T12:47:19.179Z
 tags:
   - ai video
   - ai youtube
@@ -890,3 +890,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

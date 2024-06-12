@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Most Influential YouTube Musicians Ranked\""
-date: 2024-05-25 14:55:47
-updated: 2024-05-28 11:39:35
+date: 2024-05-31T12:47:27.872Z
+updated: 2024-06-01T12:47:27.872Z
 tags:
   - ai video
   - ai youtube
@@ -1510,3 +1510,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

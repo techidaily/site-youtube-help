@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Selecting Gear for YouTube  A Filmmaker's Essentials\""
-date: 2024-05-29 16:52:46
-updated: 2024-05-30 12:32:36
+date: 2024-05-31T12:43:54.084Z
+updated: 2024-06-01T12:43:54.084Z
 tags:
   - ai video
   - ai youtube
@@ -758,3 +758,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

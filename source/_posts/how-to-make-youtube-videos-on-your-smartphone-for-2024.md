@@ -1,7 +1,7 @@
 ---
 title: "How To Make YouTube Videos on Your Smartphone for 2024"
-date: 2024-05-25 22:12:25
-updated: 2024-05-28 11:55:49
+date: 2024-05-31T12:47:15.947Z
+updated: 2024-06-01T12:47:15.947Z
 tags:
   - ai video
   - ai youtube
@@ -666,3 +666,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

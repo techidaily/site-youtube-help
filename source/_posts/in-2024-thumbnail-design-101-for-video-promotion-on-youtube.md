@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Thumbnail Design 101 for Video Promotion on YouTube"
-date: 2024-05-30 18:21:14
-updated: 2024-05-31 10:44:37
+date: 2024-05-31T12:47:28.459Z
+updated: 2024-06-01T12:47:28.459Z
 tags:
   - ai video
   - ai youtube
@@ -534,3 +534,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

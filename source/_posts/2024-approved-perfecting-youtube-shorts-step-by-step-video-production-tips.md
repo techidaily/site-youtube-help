@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfecting YouTube Shorts  Step-by-Step Video Production Tips\""
-date: 2024-05-28 20:54:26
-updated: 2024-05-29 11:21:41
+date: 2024-05-31T12:45:41.219Z
+updated: 2024-06-01T12:45:41.219Z
 tags:
   - ai video
   - ai youtube
@@ -1441,3 +1441,4 @@ The video editor Wondershare Filmora even allows you to browse for some within t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transitioning Playlists From Spotify to a Tailored YouTube Music List\""
-date: 2024-05-29 14:49:59
-updated: 2024-06-01 11:44:42
+date: 2024-05-31T12:48:05.835Z
+updated: 2024-06-01T12:48:05.835Z
 tags:
   - ai video
   - ai youtube
@@ -718,3 +718,4 @@ Now it is time for you to pick the right YouTube shorts description for your vid
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

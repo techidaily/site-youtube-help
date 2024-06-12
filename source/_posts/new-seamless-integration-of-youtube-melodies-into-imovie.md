@@ -1,7 +1,7 @@
 ---
 title: "[New] Seamless Integration of YouTube Melodies Into iMovie"
-date: 2024-05-28 16:37:37
-updated: 2024-05-30 10:34:42
+date: 2024-05-31T12:43:20.122Z
+updated: 2024-06-01T12:43:20.122Z
 tags:
   - ai video
   - ai youtube
@@ -1282,3 +1282,4 @@ This portion of VTubing isn't all that dissimilar from creating regular video ma
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

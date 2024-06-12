@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The New Face of Collaboration  Video Events Post-VidCon\""
-date: 2024-05-30 20:37:32
-updated: 2024-05-31 12:55:56
+date: 2024-05-31T12:39:54.543Z
+updated: 2024-06-01T12:39:54.543Z
 tags:
   - ai video
   - ai youtube
@@ -2314,3 +2314,4 @@ Wanted to make YouTube videos by yourself and share them with your audiences? Ch
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

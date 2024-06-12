@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Steps Towards Joining Filmora's Certified Creative Circle"
-date: 2024-05-28 11:56:46
-updated: 2024-05-30 11:26:49
+date: 2024-05-31T12:46:26.137Z
+updated: 2024-06-01T12:46:26.137Z
 tags:
   - ai video
   - ai youtube
@@ -890,3 +890,4 @@ Their basic software package is available for free download and includes a wide 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

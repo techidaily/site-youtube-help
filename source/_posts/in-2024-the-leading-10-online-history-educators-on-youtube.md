@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Leading 10 Online History Educators on Youtube"
-date: 2024-05-30 16:46:21
-updated: 2024-05-31 10:34:54
+date: 2024-05-31T12:46:05.045Z
+updated: 2024-06-01T12:46:05.045Z
 tags:
   - ai video
   - ai youtube
@@ -786,3 +786,4 @@ Good luck with your endeavors as a content creator, musician, comedian, or whate
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Smooth Watcher's Guide to Pacing Down Videos on YouTube (60 Chars, Minor Exception Due to Title Length but Provides Rich Context)"
-date: 2024-05-29 15:13:26
-updated: 2024-05-31 12:56:35
+date: 2024-05-31T12:47:42.787Z
+updated: 2024-06-01T12:47:42.787Z
 tags:
   - ai video
   - ai youtube
@@ -788,3 +788,4 @@ The better you can design your banner, the higher your chances of growing an aud
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The YouTube Makeup Craft  Color Correction Essentials\""
-date: 2024-05-30 19:58:27
-updated: 2024-05-31 12:48:20
+date: 2024-05-31T12:45:40.133Z
+updated: 2024-06-01T12:45:40.133Z
 tags:
   - ai video
   - ai youtube
@@ -528,3 +528,4 @@ That’s all on T-Series income on YouTube. T-Series did not just become success
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

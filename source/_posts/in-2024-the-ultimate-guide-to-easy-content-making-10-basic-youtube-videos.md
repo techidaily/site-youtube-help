@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Ultimate Guide to Easy Content  Making 10 Basic YouTube Videos\""
-date: 2024-05-30 21:55:15
-updated: 2024-05-31 12:36:35
+date: 2024-05-31T12:44:37.436Z
+updated: 2024-06-01T12:44:37.436Z
 tags:
   - ai video
   - ai youtube
@@ -974,3 +974,4 @@ Google asked for our ZIP code when we originally joined up for YouTube TV, which
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Visual Guide to ASPECT RATIOS on Platforms Like YouTube"
-date: 2024-05-30 11:28:31
-updated: 2024-05-31 11:16:16
+date: 2024-05-31T12:45:19.762Z
+updated: 2024-06-01T12:45:19.762Z
 tags:
   - ai video
   - ai youtube
@@ -740,3 +740,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

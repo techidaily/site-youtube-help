@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Visionaries of Video Workshop"
-date: 2024-05-29 15:32:37
-updated: 2024-05-31 10:32:11
+date: 2024-05-31T12:43:25.295Z
+updated: 2024-06-01T12:43:25.295Z
 tags:
   - ai video
   - ai youtube
@@ -734,3 +734,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

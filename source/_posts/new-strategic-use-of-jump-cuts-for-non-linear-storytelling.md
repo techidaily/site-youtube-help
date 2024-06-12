@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Strategic Use of Jump Cuts for Non-Linear Storytelling\""
-date: 2024-05-27 12:23:45
-updated: 2024-05-30 10:26:19
+date: 2024-05-31T12:38:34.469Z
+updated: 2024-06-01T12:38:34.469Z
 tags:
   - ai video
   - ai youtube
@@ -582,3 +582,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

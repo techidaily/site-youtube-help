@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Fast Fortnite Cover Art Techniques\""
-date: 2024-05-23 18:41:29
-updated: 2024-05-26 12:25:38
+date: 2024-05-31T12:46:40.045Z
+updated: 2024-06-01T12:46:40.045Z
 tags:
   - ai video
   - ai youtube
@@ -646,3 +646,4 @@ Enjoy!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

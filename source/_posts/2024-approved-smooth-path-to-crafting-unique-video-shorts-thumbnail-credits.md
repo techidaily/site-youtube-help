@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Smooth Path to Crafting Unique Video Shorts Thumbnail Credits\""
-date: 2024-05-28 13:43:23
-updated: 2024-05-30 10:42:41
+date: 2024-05-31T12:44:30.171Z
+updated: 2024-06-01T12:44:30.171Z
 tags:
   - ai video
   - ai youtube
@@ -780,3 +780,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

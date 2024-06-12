@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Finishing Touch  Journalism's Close Call\""
-date: 2024-05-28 22:12:38
-updated: 2024-05-31 12:41:29
+date: 2024-05-31T12:42:19.031Z
+updated: 2024-06-01T12:42:19.031Z
 tags:
   - ai video
   - ai youtube
@@ -954,3 +954,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

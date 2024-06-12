@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Richest Rewarded Creators on YouTube\""
-date: 2024-05-28 16:10:32
-updated: 2024-05-31 10:40:44
+date: 2024-05-31T12:44:27.009Z
+updated: 2024-06-01T12:44:27.009Z
 tags:
   - ai video
   - ai youtube
@@ -1079,3 +1079,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

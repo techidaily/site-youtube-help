@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Swaying Scripts  An Introduction to Bouncy Text Animations\""
-date: 2024-05-27 21:38:35
-updated: 2024-05-30 10:43:31
+date: 2024-05-31T12:42:58.250Z
+updated: 2024-06-01T12:42:58.250Z
 tags:
   - ai video
   - ai youtube
@@ -910,3 +910,4 @@ YouTube rank tracking tools help you monitor your rankings and see how well you 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

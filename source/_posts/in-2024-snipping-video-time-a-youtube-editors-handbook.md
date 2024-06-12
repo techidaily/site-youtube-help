@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Snipping Video Time  A YouTube Editors' Handbook\""
-date: 2024-05-29 23:26:24
-updated: 2024-05-30 10:45:15
+date: 2024-05-31T12:45:59.168Z
+updated: 2024-06-01T12:45:59.168Z
 tags:
   - ai video
   - ai youtube
@@ -666,3 +666,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

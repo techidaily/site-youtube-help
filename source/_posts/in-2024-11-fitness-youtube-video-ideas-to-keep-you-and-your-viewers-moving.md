@@ -1,7 +1,7 @@
 ---
 title: "In 2024, 11 Fitness YouTube Video Ideas to Keep You and Your Viewers Moving"
-date: 2024-05-24 19:14:47
-updated: 2024-05-27 10:27:11
+date: 2024-05-31T12:40:26.464Z
+updated: 2024-06-01T12:40:26.464Z
 tags:
   - ai video
   - ai youtube
@@ -742,3 +742,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

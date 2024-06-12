@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlock YouTube Partnership  Aim for a 10K Views Target\""
-date: 2024-05-31 18:16:33
-updated: 2024-06-01 11:27:32
+date: 2024-05-31T12:38:25.051Z
+updated: 2024-06-01T12:38:25.051Z
 tags:
   - ai video
   - ai youtube
@@ -758,3 +758,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

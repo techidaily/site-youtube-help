@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Rising Stars in Digital Domain"
-date: 2024-05-26 12:56:51
-updated: 2024-05-29 10:49:59
+date: 2024-05-31T12:42:49.896Z
+updated: 2024-06-01T12:42:49.896Z
 tags:
   - ai video
   - ai youtube
@@ -1102,3 +1102,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

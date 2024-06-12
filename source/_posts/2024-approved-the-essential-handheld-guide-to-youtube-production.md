@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Essential Handheld Guide to YouTube Production\""
-date: 2024-05-29 22:55:32
-updated: 2024-05-31 11:41:32
+date: 2024-05-31T12:45:25.713Z
+updated: 2024-06-01T12:45:25.713Z
 tags:
   - ai video
   - ai youtube
@@ -560,3 +560,4 @@ So what are we waiting for? Let’s pick the right YouTube shorts downloader onl
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Condensation  Editing YouTube Video Durations\""
-date: 2024-05-29 14:38:39
-updated: 2024-05-30 10:27:34
+date: 2024-05-31T12:48:51.366Z
+updated: 2024-06-01T12:48:51.366Z
 tags:
   - ai video
   - ai youtube
@@ -922,3 +922,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

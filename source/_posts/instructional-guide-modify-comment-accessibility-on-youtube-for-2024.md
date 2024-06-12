@@ -1,7 +1,7 @@
 ---
 title: "\"Instructional Guide  Modify Comment Accessibility on YouTube for 2024\""
-date: 2024-05-25 19:57:46
-updated: 2024-05-28 10:59:28
+date: 2024-05-31T12:42:43.426Z
+updated: 2024-06-01T12:42:43.426Z
 tags:
   - ai video
   - ai youtube
@@ -760,3 +760,4 @@ It's easy to do, and it can be a great way to spend time with family members and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

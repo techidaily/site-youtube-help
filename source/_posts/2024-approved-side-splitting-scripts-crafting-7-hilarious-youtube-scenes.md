@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Side-Splitting Scripts  Crafting 7 Hilarious YouTube Scenes\""
-date: 2024-05-27 23:30:43
-updated: 2024-05-30 10:28:38
+date: 2024-05-31T12:45:49.989Z
+updated: 2024-06-01T12:45:49.989Z
 tags:
   - ai video
   - ai youtube
@@ -554,3 +554,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "Guide to Equipment Selection for YouTube Creators for 2024"
-date: 2024-05-25 10:52:18
-updated: 2024-05-27 11:38:48
+date: 2024-05-31T12:43:56.037Z
+updated: 2024-06-01T12:43:56.037Z
 tags:
   - ai video
   - ai youtube
@@ -662,3 +662,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

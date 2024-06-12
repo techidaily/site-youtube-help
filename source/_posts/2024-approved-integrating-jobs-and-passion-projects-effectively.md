@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Integrating Jobs & Passion Projects Effectively\""
-date: 2024-05-25 11:38:20
-updated: 2024-05-28 12:46:40
+date: 2024-05-31T12:47:14.440Z
+updated: 2024-06-01T12:47:14.440Z
 tags:
   - ai video
   - ai youtube
@@ -770,3 +770,4 @@ Their basic software package is available for free download and includes a wide 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  4 Ways To Set Up Your YouTube Talking-Head Shots\""
-date: 2024-05-28 15:23:13
-updated: 2024-05-30 12:47:43
+date: 2024-05-31T12:45:57.384Z
+updated: 2024-06-01T12:45:57.384Z
 tags:
   - ai video
   - ai youtube
@@ -1150,3 +1150,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Hidden Economics of YouTube Content Production\""
-date: 2024-05-28 13:52:53
-updated: 2024-05-31 10:41:52
+date: 2024-05-31T12:47:54.632Z
+updated: 2024-06-01T12:47:54.632Z
 tags:
   - ai video
   - ai youtube
@@ -2846,3 +2846,4 @@ Filmora. Filmora is presented for clients running Windows, Linux, and Mac workin
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

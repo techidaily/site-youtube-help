@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 5 Gaming Headsets for YouTube\""
-date: 2024-05-30 21:54:47
-updated: 2024-05-31 12:53:54
+date: 2024-05-31T12:43:30.503Z
+updated: 2024-06-01T12:43:30.503Z
 tags:
   - ai video
   - ai youtube
@@ -1118,3 +1118,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

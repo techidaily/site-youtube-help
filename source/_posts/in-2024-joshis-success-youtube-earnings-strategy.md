@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Joshi's Success  YouTube Earnings Strategy\""
-date: 2024-05-27 13:23:34
-updated: 2024-05-28 10:20:45
+date: 2024-05-31T12:39:45.692Z
+updated: 2024-06-01T12:39:45.692Z
 tags:
   - ai video
   - ai youtube
@@ -746,3 +746,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

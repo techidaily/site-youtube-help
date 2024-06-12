@@ -1,7 +1,7 @@
 ---
 title: "\"Exploring Object-Oriented Programming for Complex Applications for 2024\""
-date: 2024-05-25 17:20:37
-updated: 2024-05-26 12:17:11
+date: 2024-05-31T12:39:10.936Z
+updated: 2024-06-01T12:39:10.936Z
 tags:
   - ai video
   - ai youtube
@@ -810,3 +810,4 @@ Of course not! What you pull from your YouTube channel is the kind of video that
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

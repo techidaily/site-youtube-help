@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Generating Attention-Grabbing Video Teasers\""
-date: 2024-05-25 11:13:56
-updated: 2024-05-27 12:37:29
+date: 2024-05-31T12:42:01.371Z
+updated: 2024-06-01T12:42:01.371Z
 tags:
   - ai video
   - ai youtube
@@ -790,3 +790,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

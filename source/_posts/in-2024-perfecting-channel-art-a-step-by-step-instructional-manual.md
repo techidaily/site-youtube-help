@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Perfecting Channel Art  A Step-by-Step Instructional Manual\""
-date: 2024-05-28 12:18:41
-updated: 2024-05-29 12:34:58
+date: 2024-05-31T12:46:42.933Z
+updated: 2024-06-01T12:46:42.933Z
 tags:
   - ai video
   - ai youtube
@@ -1404,3 +1404,4 @@ We hope you've found this article informative and can now display your YouTube p
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

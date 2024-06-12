@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pro Tips  Optimal Videography with These Top 12 Portable Cams\""
-date: 2024-05-28 16:55:35
-updated: 2024-05-29 10:50:25
+date: 2024-05-31T12:41:31.303Z
+updated: 2024-06-01T12:41:31.303Z
 tags:
   - ai video
   - ai youtube
@@ -566,3 +566,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

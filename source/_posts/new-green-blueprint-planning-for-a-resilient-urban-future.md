@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Green Blueprint  Planning for a Resilient Urban Future\""
-date: 2024-05-24 20:33:58
-updated: 2024-05-27 10:25:29
+date: 2024-05-31T12:39:37.043Z
+updated: 2024-06-01T12:39:37.043Z
 tags:
   - ai video
   - ai youtube
@@ -898,3 +898,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

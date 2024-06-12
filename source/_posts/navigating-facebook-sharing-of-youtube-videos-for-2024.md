@@ -1,7 +1,7 @@
 ---
 title: "Navigating Facebook Sharing of YouTube Videos for 2024"
-date: 2024-05-26 22:22:38
-updated: 2024-05-28 12:43:30
+date: 2024-05-31T12:48:24.250Z
+updated: 2024-06-01T12:48:24.250Z
 tags:
   - ai video
   - ai youtube
@@ -698,3 +698,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

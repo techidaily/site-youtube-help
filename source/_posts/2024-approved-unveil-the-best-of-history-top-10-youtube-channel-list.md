@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveil the Best of History  Top 10 YouTube Channel List\""
-date: 2024-05-29 17:59:21
-updated: 2024-06-01 11:10:50
+date: 2024-05-31T12:38:20.738Z
+updated: 2024-06-01T12:38:20.738Z
 tags:
   - ai video
   - ai youtube
@@ -1022,3 +1022,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

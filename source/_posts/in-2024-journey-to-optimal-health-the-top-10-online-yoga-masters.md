@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Journey to Optimal Health - The Top 10 Online Yoga Masters\""
-date: 2024-05-27 12:46:59
-updated: 2024-05-28 12:56:33
+date: 2024-05-31T12:47:28.216Z
+updated: 2024-06-01T12:47:28.216Z
 tags:
   - ai video
   - ai youtube
@@ -998,3 +998,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

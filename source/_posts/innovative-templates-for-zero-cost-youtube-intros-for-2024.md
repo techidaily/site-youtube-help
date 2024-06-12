@@ -1,7 +1,7 @@
 ---
 title: "\"Innovative Templates for Zero-Cost YouTube Intros for 2024\""
-date: 2024-05-27 19:53:10
-updated: 2024-05-28 11:58:29
+date: 2024-05-31T12:40:45.455Z
+updated: 2024-06-01T12:40:45.455Z
 tags:
   - ai video
   - ai youtube
@@ -1038,3 +1038,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

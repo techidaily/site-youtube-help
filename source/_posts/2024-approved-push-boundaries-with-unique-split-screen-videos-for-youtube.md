@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Push Boundaries with Unique Split-Screen Videos for YouTube\""
-date: 2024-05-27 18:34:15
-updated: 2024-05-29 10:35:12
+date: 2024-05-31T12:48:19.106Z
+updated: 2024-06-01T12:48:19.106Z
 tags:
   - ai video
   - ai youtube
@@ -686,3 +686,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

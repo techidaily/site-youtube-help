@@ -1,7 +1,7 @@
 ---
 title: "\"From Scripts to Screen  Making YouTube Splits for 2024\""
-date: 2024-05-24 12:25:45
-updated: 2024-05-27 12:26:23
+date: 2024-05-31T12:46:20.336Z
+updated: 2024-06-01T12:46:20.336Z
 tags:
   - ai video
   - ai youtube
@@ -1042,3 +1042,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

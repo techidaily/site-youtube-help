@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Metrics Guide to Monetize and Mobilize YouTube Audiences"
-date: 2024-05-30 12:54:53
-updated: 2024-05-31 10:28:20
+date: 2024-05-31T12:38:44.097Z
+updated: 2024-06-01T12:38:44.097Z
 tags:
   - ai video
   - ai youtube
@@ -1026,3 +1026,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] Revitalize Your Day with These Top 10 Yoga Videos"
-date: 2024-05-27 20:21:33
-updated: 2024-05-29 11:11:53
+date: 2024-05-31T12:40:32.568Z
+updated: 2024-06-01T12:40:32.568Z
 tags:
   - ai video
   - ai youtube
@@ -1176,3 +1176,4 @@ YouTube video ads can be a great way to reach as many people as you can with you
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The YouTube Comeback Kid  Jake Paul’s Story\""
-date: 2024-05-29 22:15:26
-updated: 2024-05-31 12:29:29
+date: 2024-05-31T12:48:30.487Z
+updated: 2024-06-01T12:48:30.487Z
 tags:
   - ai video
   - ai youtube
@@ -606,3 +606,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

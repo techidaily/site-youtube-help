@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unleash Your Potential with These Elite 12 Vlogger-Friendly Cameras\""
-date: 2024-05-30 16:57:34
-updated: 2024-06-01 11:16:22
+date: 2024-05-31T12:42:54.105Z
+updated: 2024-06-01T12:42:54.105Z
 tags:
   - ai video
   - ai youtube
@@ -1126,3 +1126,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

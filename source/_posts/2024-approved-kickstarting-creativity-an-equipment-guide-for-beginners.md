@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Kickstarting Creativity  An Equipment Guide for Beginners\""
-date: 2024-05-25 16:55:11
-updated: 2024-05-28 12:26:15
+date: 2024-05-31T12:46:03.849Z
+updated: 2024-06-01T12:46:03.849Z
 tags:
   - ai video
   - ai youtube
@@ -774,3 +774,4 @@ The greatest takeaway from this guide should be that you must be patient and hav
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

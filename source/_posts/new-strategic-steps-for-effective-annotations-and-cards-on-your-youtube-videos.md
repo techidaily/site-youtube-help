@@ -1,7 +1,7 @@
 ---
 title: "[New] Strategic Steps for Effective Annotations & Cards on Your YouTube Videos"
-date: 2024-05-28 18:18:41
-updated: 2024-05-30 12:40:48
+date: 2024-05-31T12:47:28.780Z
+updated: 2024-06-01T12:47:28.780Z
 tags:
   - ai video
   - ai youtube
@@ -754,3 +754,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

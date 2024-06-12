@@ -1,7 +1,7 @@
 ---
 title: "Net Worth of Kids Celebrity Reaches New Heights for 2024"
-date: 2024-05-28 13:45:22
-updated: 2024-05-29 12:38:56
+date: 2024-05-31T12:46:30.999Z
+updated: 2024-06-01T12:46:30.999Z
 tags:
   - ai video
   - ai youtube
@@ -850,3 +850,4 @@ No doubt, Mr. Beast has become a leading artist on this platform and made a trem
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

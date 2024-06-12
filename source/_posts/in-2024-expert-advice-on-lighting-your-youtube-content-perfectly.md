@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Expert Advice on Lighting Your YouTube Content Perfectly"
-date: 2024-05-24 13:44:48
-updated: 2024-05-26 11:34:17
+date: 2024-05-31T12:46:17.264Z
+updated: 2024-06-01T12:46:17.264Z
 tags:
   - ai video
   - ai youtube
@@ -1042,3 +1042,4 @@ What are some of your favorite unboxing videos? Comment down below!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

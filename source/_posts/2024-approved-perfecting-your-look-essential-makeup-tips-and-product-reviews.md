@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfecting Your Look  Essential Makeup Tips & Product Reviews\""
-date: 2024-05-28 15:15:38
-updated: 2024-05-29 10:24:34
+date: 2024-05-31T12:47:10.219Z
+updated: 2024-06-01T12:47:10.219Z
 tags:
   - ai video
   - ai youtube
@@ -1482,3 +1482,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

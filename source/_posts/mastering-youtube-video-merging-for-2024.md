@@ -1,7 +1,7 @@
 ---
 title: "Mastering YouTube Video Merging for 2024"
-date: 2024-05-27 19:28:18
-updated: 2024-05-28 11:36:37
+date: 2024-05-31T12:42:50.157Z
+updated: 2024-06-01T12:42:50.157Z
 tags:
   - ai video
   - ai youtube
@@ -814,3 +814,4 @@ Finally, there are a few things you should be aware of:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

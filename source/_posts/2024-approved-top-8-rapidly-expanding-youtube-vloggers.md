@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 8 Rapidly Expanding YouTube Vloggers\""
-date: 2024-05-28 22:24:37
-updated: 2024-05-31 12:20:45
+date: 2024-05-31T12:42:34.225Z
+updated: 2024-06-01T12:42:34.225Z
 tags:
   - ai video
   - ai youtube
@@ -1082,3 +1082,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "Guide to Consolidating Your YouTube Video Collection for 2024"
-date: 2024-05-25 22:49:53
-updated: 2024-05-27 12:37:41
+date: 2024-05-31T12:44:46.065Z
+updated: 2024-06-01T12:44:46.065Z
 tags:
   - ai video
   - ai youtube
@@ -718,3 +718,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

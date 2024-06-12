@@ -1,7 +1,7 @@
 ---
 title: "Maintaining Morale Amidst Online Adversity for 2024"
-date: 2024-05-25 21:14:17
-updated: 2024-05-28 10:35:50
+date: 2024-05-31T12:46:56.392Z
+updated: 2024-06-01T12:46:56.392Z
 tags:
   - ai video
   - ai youtube
@@ -698,3 +698,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

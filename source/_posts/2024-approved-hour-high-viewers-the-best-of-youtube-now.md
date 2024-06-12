@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Hour-High Viewers  The Best of YouTube Now\""
-date: 2024-05-26 22:18:16
-updated: 2024-05-27 12:21:58
+date: 2024-05-31T12:41:30.117Z
+updated: 2024-06-01T12:41:30.117Z
 tags:
   - ai video
   - ai youtube
@@ -1182,3 +1182,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

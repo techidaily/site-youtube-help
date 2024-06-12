@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Roadmap to Wealth  Sourav Joshi and YouTube Earning\""
-date: 2024-05-29 23:20:36
-updated: 2024-05-31 12:51:28
+date: 2024-05-31T12:47:25.824Z
+updated: 2024-06-01T12:47:25.824Z
 tags:
   - ai video
   - ai youtube
@@ -728,3 +728,4 @@ If you want your videos to be even more awesome, you can use a cool tool called 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

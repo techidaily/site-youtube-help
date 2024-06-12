@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Complete WM Maker Playbook for YouTube Clips Perfection"
-date: 2024-05-30 17:25:28
-updated: 2024-05-31 11:17:32
+date: 2024-05-31T12:42:23.421Z
+updated: 2024-06-01T12:42:23.421Z
 tags:
   - ai video
   - ai youtube
@@ -1310,3 +1310,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

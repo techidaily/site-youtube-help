@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking YouTube Success  Mastering the Art of Shorts Thumbnails\""
-date: 2024-05-30 21:43:26
-updated: 2024-06-01 12:42:51
+date: 2024-05-31T12:45:02.464Z
+updated: 2024-06-01T12:45:02.464Z
 tags:
   - ai video
   - ai youtube
@@ -796,3 +796,4 @@ With 720,000 hours of video being uploaded every day to YouTube, getting your vi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

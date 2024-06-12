@@ -1,7 +1,7 @@
 ---
 title: "\"Free Guide  Perfecting Your YouTube Audio-to-Text Conversion for 2024\""
-date: 2024-05-25 12:41:40
-updated: 2024-05-27 12:43:57
+date: 2024-05-31T12:46:43.724Z
+updated: 2024-06-01T12:46:43.724Z
 tags:
   - ai video
   - ai youtube
@@ -1126,3 +1126,4 @@ Hopefully, the information in this guide will be useful when you’re looking fo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

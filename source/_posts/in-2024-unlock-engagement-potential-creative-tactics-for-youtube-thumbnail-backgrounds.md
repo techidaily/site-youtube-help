@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unlock Engagement Potential  Creative Tactics for YouTube Thumbnail Backgrounds\""
-date: 2024-05-31 19:41:15
-updated: 2024-06-01 11:41:37
+date: 2024-05-31T12:43:06.479Z
+updated: 2024-06-01T12:43:06.479Z
 tags:
   - ai video
   - ai youtube
@@ -1109,3 +1109,4 @@ Despite all the reasons to subscribe to YouTube Premium, it still needs a minor 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

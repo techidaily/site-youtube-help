@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Embed YouTube in Google Slides Presentations"
-date: 2024-05-25 14:44:11
-updated: 2024-05-27 12:47:53
+date: 2024-05-31T12:47:43.657Z
+updated: 2024-06-01T12:47:43.657Z
 tags:
   - ai video
   - ai youtube
@@ -950,3 +950,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

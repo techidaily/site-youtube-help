@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Essential Yoda of YouTube Analytics  Deciphering Earnings & Viewer Counts\""
-date: 2024-05-28 18:24:33
-updated: 2024-05-31 10:34:54
+date: 2024-05-31T12:44:37.399Z
+updated: 2024-06-01T12:44:37.399Z
 tags:
   - ai video
   - ai youtube
@@ -1002,3 +1002,4 @@ I firmly believe that at this point, understanding how to create a YouTube chann
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

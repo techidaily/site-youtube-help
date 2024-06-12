@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Simple Steps to Great Videos  Crafting 10 Basic Concepts Easily\""
-date: 2024-05-27 21:22:56
-updated: 2024-05-30 11:37:55
+date: 2024-05-31T12:38:43.564Z
+updated: 2024-06-01T12:38:43.564Z
 tags:
   - ai video
   - ai youtube
@@ -778,3 +778,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

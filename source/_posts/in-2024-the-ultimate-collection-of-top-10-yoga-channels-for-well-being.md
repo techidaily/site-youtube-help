@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Ultimate Collection of Top 10 Yoga Channels for Well-Being\""
-date: 2024-05-29 19:55:43
-updated: 2024-05-31 12:35:49
+date: 2024-05-31T12:44:39.481Z
+updated: 2024-06-01T12:44:39.481Z
 tags:
   - ai video
   - ai youtube
@@ -840,3 +840,4 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Scripting Your Story's Visual Heartbeat at Home\""
-date: 2024-05-27 22:43:14
-updated: 2024-05-29 12:20:30
+date: 2024-05-31T12:39:07.619Z
+updated: 2024-06-01T12:39:07.619Z
 tags:
   - ai video
   - ai youtube
@@ -862,3 +862,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

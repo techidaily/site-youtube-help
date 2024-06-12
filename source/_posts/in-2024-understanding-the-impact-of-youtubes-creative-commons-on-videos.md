@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Understanding the Impact of YouTube's Creative Commons on Videos"
-date: 2024-05-29 16:51:32
-updated: 2024-06-01 12:15:11
+date: 2024-05-31T12:47:41.722Z
+updated: 2024-06-01T12:47:41.722Z
 tags:
   - ai video
   - ai youtube
@@ -550,3 +550,4 @@ YouTube Short’s revenue-sharing programs offer a great opportunity for creator
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pro Video Essentials  Selecting Superior Camera Lenses\""
-date: 2024-05-28 22:49:28
-updated: 2024-05-29 12:17:17
+date: 2024-05-31T12:40:02.846Z
+updated: 2024-06-01T12:40:02.846Z
 tags:
   - ai video
   - ai youtube
@@ -802,3 +802,4 @@ Also, you can slow down a tutorial or the video you are watching if you feel the
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

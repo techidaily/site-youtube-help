@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Personalized URLs for Your YouTube Autosub Feature\""
-date: 2024-05-26 16:40:35
-updated: 2024-05-29 10:50:56
+date: 2024-05-31T12:44:56.890Z
+updated: 2024-06-01T12:44:56.890Z
 tags:
   - ai video
   - ai youtube
@@ -854,3 +854,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

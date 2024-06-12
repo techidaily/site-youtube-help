@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Make Fortnite Thumbnail for Free and Easy\""
-date: 2024-05-24 23:10:17
-updated: 2024-05-27 11:21:28
+date: 2024-05-31T12:42:00.770Z
+updated: 2024-06-01T12:42:00.770Z
 tags:
   - ai video
   - ai youtube
@@ -870,3 +870,4 @@ Stylish effects like overlays and transitions can give you a compelling piece of
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

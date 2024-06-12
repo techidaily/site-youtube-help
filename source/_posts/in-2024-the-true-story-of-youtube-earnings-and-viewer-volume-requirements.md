@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The True Story of YouTube Earnings and Viewer Volume Requirements"
-date: 2024-05-28 10:36:43
-updated: 2024-05-31 11:51:44
+date: 2024-05-31T12:41:27.536Z
+updated: 2024-06-01T12:41:27.536Z
 tags:
   - ai video
   - ai youtube
@@ -606,3 +606,4 @@ Enjoy!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

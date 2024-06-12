@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Leveraging Social Media for Increased Video Engagement on YouTube"
-date: 2024-05-27 14:25:48
-updated: 2024-05-28 11:19:59
+date: 2024-05-31T12:43:32.788Z
+updated: 2024-06-01T12:43:32.788Z
 tags:
   - ai video
   - ai youtube
@@ -662,3 +662,4 @@ Running a YouTube Channel is lucrative. Although it may take time to build a fol
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

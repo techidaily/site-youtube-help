@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Perfecting Your YouTube Presence  A Video Upload Manual\""
-date: 2024-05-28 17:30:41
-updated: 2024-05-29 11:49:44
+date: 2024-05-31T12:45:37.458Z
+updated: 2024-06-01T12:45:37.458Z
 tags:
   - ai video
   - ai youtube
@@ -694,3 +694,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

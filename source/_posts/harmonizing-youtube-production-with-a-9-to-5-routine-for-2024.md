@@ -1,7 +1,7 @@
 ---
 title: "\"Harmonizing YouTube Production with a 9-to-5 Routine for 2024\""
-date: 2024-05-24 16:16:20
-updated: 2024-05-27 10:12:49
+date: 2024-05-31T12:43:57.004Z
+updated: 2024-06-01T12:43:57.004Z
 tags:
   - ai video
   - ai youtube
@@ -1110,3 +1110,4 @@ Follow @Marion Dubois
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

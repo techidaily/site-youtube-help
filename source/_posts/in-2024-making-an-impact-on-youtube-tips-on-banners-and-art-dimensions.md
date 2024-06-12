@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Making an Impact on YouTube  Tips on Banners and Art Dimensions\""
-date: 2024-05-25 18:48:28
-updated: 2024-05-28 12:24:13
+date: 2024-05-31T12:48:40.630Z
+updated: 2024-06-01T12:48:40.630Z
 tags:
   - ai video
   - ai youtube
@@ -874,3 +874,4 @@ YouTube's music library is relatively small. The songs include both traditional 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

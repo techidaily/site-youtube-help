@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Investing Right  Choosing the Best Camera and Gear\""
-date: 2024-05-27 12:49:34
-updated: 2024-05-28 12:12:20
+date: 2024-05-31T12:47:37.244Z
+updated: 2024-06-01T12:47:37.244Z
 tags:
   - ai video
   - ai youtube
@@ -818,3 +818,4 @@ Finally, there are a few things you should be aware of:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Masterclass in Effortless Video Acquisition\""
-date: 2024-05-25 19:22:28
-updated: 2024-05-28 12:33:28
+date: 2024-05-31T12:39:27.403Z
+updated: 2024-06-01T12:39:27.403Z
 tags:
   - ai video
   - ai youtube
@@ -1626,3 +1626,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

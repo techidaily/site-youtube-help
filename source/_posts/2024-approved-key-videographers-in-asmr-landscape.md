@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Key Videographers in ASMR Landscape\""
-date: 2024-05-25 10:53:10
-updated: 2024-05-28 11:32:23
+date: 2024-05-31T12:38:57.603Z
+updated: 2024-06-01T12:38:57.603Z
 tags:
   - ai video
   - ai youtube
@@ -717,3 +717,4 @@ We hope you've enjoyed reading this article and can now use the right hashtags f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

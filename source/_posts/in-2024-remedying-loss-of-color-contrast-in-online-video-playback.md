@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Remedying Loss of Color Contrast in Online Video Playback"
-date: 2024-05-27 17:53:49
-updated: 2024-05-29 10:27:20
+date: 2024-05-31T12:45:31.849Z
+updated: 2024-06-01T12:45:31.849Z
 tags:
   - ai video
   - ai youtube
@@ -1026,3 +1026,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

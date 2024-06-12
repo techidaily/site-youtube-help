@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Audio to Words on YouTube  A Comprehensible Free Guide\""
-date: 2024-05-26 16:20:18
-updated: 2024-05-27 11:32:31
+date: 2024-05-31T12:40:22.748Z
+updated: 2024-06-01T12:40:22.748Z
 tags:
   - ai video
   - ai youtube
@@ -1666,3 +1666,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

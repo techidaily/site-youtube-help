@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Micro Vids Unpacked  What's the Score?\""
-date: 2024-05-25 11:32:14
-updated: 2024-05-28 12:32:45
+date: 2024-05-31T12:42:04.480Z
+updated: 2024-06-01T12:42:04.480Z
 tags:
   - ai video
   - ai youtube
@@ -682,3 +682,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

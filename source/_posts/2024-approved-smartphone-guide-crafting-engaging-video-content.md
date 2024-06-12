@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Smartphone Guide  Crafting Engaging Video Content\""
-date: 2024-05-29 13:22:25
-updated: 2024-05-30 11:23:52
+date: 2024-05-31T12:39:20.804Z
+updated: 2024-06-01T12:39:20.804Z
 tags:
   - ai video
   - ai youtube
@@ -634,3 +634,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

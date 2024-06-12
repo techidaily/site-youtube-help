@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unlocking the Secrets to High Clickthrough Rates in Thumbnails"
-date: 2024-05-29 19:53:16
-updated: 2024-06-01 10:19:34
+date: 2024-05-31T12:42:42.302Z
+updated: 2024-06-01T12:42:42.302Z
 tags:
   - ai video
   - ai youtube
@@ -986,3 +986,4 @@ Sometimes it might help your mental health if you can take out time to watch som
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

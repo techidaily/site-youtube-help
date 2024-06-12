@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering YouTube Thumbnails  Essential Dimensions Explored for 2024\""
-date: 2024-05-26 13:32:23
-updated: 2024-05-28 12:55:18
+date: 2024-05-31T12:42:04.837Z
+updated: 2024-06-01T12:42:04.837Z
 tags:
   - ai video
   - ai youtube
@@ -804,3 +804,4 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

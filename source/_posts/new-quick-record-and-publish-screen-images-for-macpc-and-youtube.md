@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quick Record & Publish  Screen Images for Mac/PC and YouTube\""
-date: 2024-05-27 13:18:50
-updated: 2024-05-29 12:30:45
+date: 2024-05-31T12:43:55.459Z
+updated: 2024-06-01T12:43:55.459Z
 tags:
   - ai video
   - ai youtube
@@ -1138,3 +1138,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

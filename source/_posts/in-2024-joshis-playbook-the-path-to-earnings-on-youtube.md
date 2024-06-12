@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Joshi's Playbook  The Path to Earnings on Youtube\""
-date: 2024-05-26 20:38:51
-updated: 2024-05-28 12:20:51
+date: 2024-05-31T12:39:50.974Z
+updated: 2024-06-01T12:39:50.974Z
 tags:
   - ai video
   - ai youtube
@@ -898,3 +898,4 @@ Finally, there are a few things you should be aware of:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

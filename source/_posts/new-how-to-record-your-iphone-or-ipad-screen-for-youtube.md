@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Record Your iPhone or iPad Screen for YouTube"
-date: 2024-05-26 16:27:27
-updated: 2024-05-29 10:29:15
+date: 2024-05-31T12:46:15.317Z
+updated: 2024-06-01T12:46:15.317Z
 tags:
   - ai video
   - ai youtube
@@ -1038,3 +1038,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

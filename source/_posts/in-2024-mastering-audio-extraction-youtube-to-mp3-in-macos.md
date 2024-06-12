@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering Audio Extraction  YouTube to MP3 in MacOS\""
-date: 2024-05-27 22:25:12
-updated: 2024-05-28 10:32:57
+date: 2024-05-31T12:45:40.333Z
+updated: 2024-06-01T12:45:40.333Z
 tags:
   - ai video
   - ai youtube
@@ -578,3 +578,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

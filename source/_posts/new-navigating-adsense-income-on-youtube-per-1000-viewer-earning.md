@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating AdSense Income on YouTube  Per 1,000 Viewer Earning\""
-date: 2024-05-25 15:21:55
-updated: 2024-05-28 12:47:55
+date: 2024-05-31T12:47:26.588Z
+updated: 2024-06-01T12:47:26.588Z
 tags:
   - ai video
   - ai youtube
@@ -789,3 +789,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

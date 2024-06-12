@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Complete Guide to Earnings via Video Ads on YouTube\""
-date: 2024-05-28 10:24:21
-updated: 2024-05-31 10:10:51
+date: 2024-05-31T12:43:46.818Z
+updated: 2024-06-01T12:43:46.818Z
 tags:
   - ai video
   - ai youtube
@@ -998,3 +998,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

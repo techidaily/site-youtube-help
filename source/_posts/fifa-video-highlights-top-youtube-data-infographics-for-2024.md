@@ -1,7 +1,7 @@
 ---
 title: "\"FIFA Video Highlights  Top YouTube Data Infographics for 2024\""
-date: 2024-05-24 15:37:47
-updated: 2024-05-26 10:44:18
+date: 2024-05-31T12:47:43.400Z
+updated: 2024-06-01T12:47:43.400Z
 tags:
   - ai video
   - ai youtube
@@ -599,3 +599,4 @@ A hazy or pixelated thumbnail could discourage the viewer from clicking on your 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

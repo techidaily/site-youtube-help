@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Masterclass in Time  The Top 10 YouTube Channels For History Students\""
-date: 2024-05-25 15:50:20
-updated: 2024-05-28 10:32:58
+date: 2024-05-31T12:42:11.097Z
+updated: 2024-06-01T12:42:11.097Z
 tags:
   - ai video
   - ai youtube
@@ -899,3 +899,4 @@ Thanks for reading, folks.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

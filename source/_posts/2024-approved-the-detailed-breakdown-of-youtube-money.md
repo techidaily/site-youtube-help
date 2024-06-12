@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Detailed Breakdown of YouTube Money\""
-date: 2024-05-28 11:58:35
-updated: 2024-05-31 10:15:29
+date: 2024-05-31T12:44:10.131Z
+updated: 2024-06-01T12:44:10.131Z
 tags:
   - ai video
   - ai youtube
@@ -908,3 +908,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

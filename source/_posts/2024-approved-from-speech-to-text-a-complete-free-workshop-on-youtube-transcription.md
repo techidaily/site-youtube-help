@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Speech to Text  A Complete, FREE Workshop on YouTube Transcription\""
-date: 2024-05-25 18:42:52
-updated: 2024-05-27 11:39:33
+date: 2024-05-31T12:43:31.260Z
+updated: 2024-06-01T12:43:31.260Z
 tags:
   - ai video
   - ai youtube
@@ -1382,3 +1382,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] Simplifying Complexities in YouTube Shorts"
-date: 2024-05-29 18:59:51
-updated: 2024-05-30 12:13:15
+date: 2024-05-31T12:46:52.262Z
+updated: 2024-06-01T12:46:52.262Z
 tags:
   - ai video
   - ai youtube
@@ -750,3 +750,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

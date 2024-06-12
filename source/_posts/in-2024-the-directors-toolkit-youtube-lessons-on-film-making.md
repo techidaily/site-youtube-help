@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Director's Toolkit  YouTube Lessons on Film Making\""
-date: 2024-05-30 10:30:25
-updated: 2024-05-31 11:51:55
+date: 2024-05-31T12:46:18.474Z
+updated: 2024-06-01T12:46:18.474Z
 tags:
   - ai video
   - ai youtube
@@ -874,3 +874,4 @@ Do you share your computer with other fellows? The chances are that someone hit 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

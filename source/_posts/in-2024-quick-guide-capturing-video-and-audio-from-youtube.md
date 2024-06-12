@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Quick Guide  Capturing Video & Audio From YouTube\""
-date: 2024-05-27 10:15:46
-updated: 2024-05-29 10:57:30
+date: 2024-05-31T12:46:52.893Z
+updated: 2024-06-01T12:46:52.893Z
 tags:
   - ai video
   - ai youtube
@@ -732,3 +732,4 @@ YouTube Shorts have become immensely popular. They tend to have a higher ROI and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

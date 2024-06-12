@@ -1,7 +1,7 @@
 ---
 title: "\"Green Walls in Grey Buildings  A Step Towards Eco-Cities for 2024\""
-date: 2024-05-25 19:58:21
-updated: 2024-05-27 10:50:43
+date: 2024-05-31T12:42:02.279Z
+updated: 2024-06-01T12:42:02.279Z
 tags:
   - ai video
   - ai youtube
@@ -694,3 +694,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Smartphone Cinematography  Crafting Perfect YouTube Thumbnails\""
-date: 2024-05-28 20:49:50
-updated: 2024-05-30 11:47:26
+date: 2024-05-31T12:48:38.050Z
+updated: 2024-06-01T12:48:38.050Z
 tags:
   - ai video
   - ai youtube
@@ -787,3 +787,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

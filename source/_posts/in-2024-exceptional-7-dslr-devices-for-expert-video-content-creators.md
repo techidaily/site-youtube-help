@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Exceptional 7 DSLR Devices For Expert Video Content Creators"
-date: 2024-05-25 11:50:35
-updated: 2024-05-26 11:45:11
+date: 2024-05-31T12:47:43.588Z
+updated: 2024-06-01T12:47:43.588Z
 tags:
   - ai video
   - ai youtube
@@ -718,3 +718,4 @@ Detailed tutorials provided by the official channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

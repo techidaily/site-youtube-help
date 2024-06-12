@@ -1,7 +1,7 @@
 ---
 title: "How to Extract Thumbnails From Youtube on Windows/Mac and Browsers for 2024"
-date: 2024-05-24 10:36:43
-updated: 2024-05-27 11:16:42
+date: 2024-05-31T12:47:06.183Z
+updated: 2024-06-01T12:47:06.183Z
 tags:
   - ai video
   - ai youtube
@@ -793,3 +793,4 @@ If you already have a YouTube channel and a certain number of views, you can tak
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

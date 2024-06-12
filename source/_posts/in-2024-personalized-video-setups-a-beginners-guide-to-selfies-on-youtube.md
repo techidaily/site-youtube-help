@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Personalized Video Setups  A Beginner's Guide to Selfies on YouTube\""
-date: 2024-05-27 17:44:30
-updated: 2024-05-29 12:56:32
+date: 2024-05-31T12:41:36.062Z
+updated: 2024-06-01T12:41:36.062Z
 tags:
   - ai video
   - ai youtube
@@ -926,3 +926,4 @@ Of course not! What you pull from your YouTube channel is the kind of video that
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

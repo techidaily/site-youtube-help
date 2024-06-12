@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Economics of T-Series  A Deep Dive Into YouTube Earnings\""
-date: 2024-05-28 12:14:19
-updated: 2024-05-31 11:49:58
+date: 2024-05-31T12:41:12.733Z
+updated: 2024-06-01T12:41:12.733Z
 tags:
   - ai video
   - ai youtube
@@ -840,3 +840,4 @@ No. After a service provider has sent out the likes, they don't have a way to ta
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

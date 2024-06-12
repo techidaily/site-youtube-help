@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Lasting Way to Disconnect From YouTube Shorts"
-date: 2024-05-30 14:19:35
-updated: 2024-05-31 11:29:13
+date: 2024-05-31T12:42:23.489Z
+updated: 2024-06-01T12:42:23.489Z
 tags:
   - ai video
   - ai youtube
@@ -1274,3 +1274,4 @@ You are not limited to using any video file format. Several reasons may also com
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Leveraging Video Features  Annotations & Cards\""
-date: 2024-05-26 19:27:46
-updated: 2024-05-28 12:18:51
+date: 2024-05-31T12:44:21.768Z
+updated: 2024-06-01T12:44:21.768Z
 tags:
   - ai video
   - ai youtube
@@ -791,3 +791,4 @@ A hazy or pixelated thumbnail could discourage the viewer from clicking on your 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

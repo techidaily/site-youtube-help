@@ -1,7 +1,7 @@
 ---
 title: "[New] Free Online Video Editors for YouTube"
-date: 2024-05-24 23:22:50
-updated: 2024-05-27 10:34:59
+date: 2024-05-31T12:44:37.488Z
+updated: 2024-06-01T12:44:37.488Z
 tags:
   - ai video
   - ai youtube
@@ -934,3 +934,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

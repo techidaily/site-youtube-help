@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  QuickClip Artisan\""
-date: 2024-05-28 23:47:56
-updated: 2024-05-29 12:19:53
+date: 2024-05-31T12:41:57.581Z
+updated: 2024-06-01T12:41:57.581Z
 tags:
   - ai video
   - ai youtube
@@ -1038,3 +1038,4 @@ Do you share your computer with other fellows? The chances are that someone hit 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

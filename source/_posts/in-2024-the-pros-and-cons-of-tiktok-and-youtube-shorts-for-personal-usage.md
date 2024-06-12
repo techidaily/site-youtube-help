@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Pros & Cons of TikTok and YouTube Shorts for Personal Usage"
-date: 2024-05-28 21:32:58
-updated: 2024-05-31 11:48:24
+date: 2024-05-31T12:41:07.427Z
+updated: 2024-06-01T12:41:07.427Z
 tags:
   - ai video
   - ai youtube
@@ -706,3 +706,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

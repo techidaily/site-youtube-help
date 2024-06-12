@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Haute Couture at Home  Makeup, Tools & Techniques\""
-date: 2024-05-25 23:23:32
-updated: 2024-05-27 12:50:12
+date: 2024-05-31T12:41:06.706Z
+updated: 2024-06-01T12:41:06.706Z
 tags:
   - ai video
   - ai youtube
@@ -1438,3 +1438,4 @@ Hopefully, you've found this article helpful and can now access the unlisted vid
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

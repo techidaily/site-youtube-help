@@ -1,7 +1,7 @@
 ---
 title: "Mapping Social Interest to Video Idea Generation with Google for 2024"
-date: 2024-05-26 10:31:49
-updated: 2024-05-28 12:41:59
+date: 2024-05-31T12:43:01.103Z
+updated: 2024-06-01T12:43:01.103Z
 tags:
   - ai video
   - ai youtube
@@ -982,3 +982,4 @@ Good luck with your endeavors as a content creator, musician, comedian, or whate
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

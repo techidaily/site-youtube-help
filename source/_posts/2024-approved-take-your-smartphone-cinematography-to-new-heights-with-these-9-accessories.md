@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Take Your Smartphone Cinematography to New Heights with These 9 Accessories\""
-date: 2024-05-28 19:46:58
-updated: 2024-05-30 10:11:16
+date: 2024-05-31T12:45:49.097Z
+updated: 2024-06-01T12:45:49.097Z
 tags:
   - ai video
   - ai youtube
@@ -830,3 +830,4 @@ Now that you have notable information about the YouTube movie maker tool, you ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

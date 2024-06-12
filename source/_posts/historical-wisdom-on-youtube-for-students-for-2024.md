@@ -1,7 +1,7 @@
 ---
 title: "Historical Wisdom on YouTube for Students for 2024"
-date: 2024-05-24 22:47:24
-updated: 2024-05-27 11:12:57
+date: 2024-05-31T12:43:18.343Z
+updated: 2024-06-01T12:43:18.343Z
 tags:
   - ai video
   - ai youtube
@@ -938,3 +938,4 @@ Pre-recorded videos are also a great way to present your content with perfection
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

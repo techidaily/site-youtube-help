@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Meditative Movement  YouTube's Finest Yogis\""
-date: 2024-05-27 22:20:10
-updated: 2024-05-28 11:26:47
+date: 2024-05-31T12:44:54.866Z
+updated: 2024-06-01T12:44:54.866Z
 tags:
   - ai video
   - ai youtube
@@ -954,3 +954,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

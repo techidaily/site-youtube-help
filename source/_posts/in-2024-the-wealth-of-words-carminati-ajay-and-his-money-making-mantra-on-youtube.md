@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Wealth of Words  Carminati (Ajay) and His Money-Making Mantra on Youtube\""
-date: 2024-05-30 11:43:57
-updated: 2024-05-31 10:27:39
+date: 2024-05-31T12:40:39.953Z
+updated: 2024-06-01T12:40:39.953Z
 tags:
   - ai video
   - ai youtube
@@ -1005,3 +1005,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

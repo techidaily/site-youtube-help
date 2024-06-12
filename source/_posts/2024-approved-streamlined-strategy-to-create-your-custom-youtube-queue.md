@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Streamlined Strategy to Create Your Custom YouTube Queue\""
-date: 2024-05-29 18:51:51
-updated: 2024-05-30 10:29:25
+date: 2024-05-31T12:42:20.805Z
+updated: 2024-06-01T12:42:20.805Z
 tags:
   - ai video
   - ai youtube
@@ -438,3 +438,4 @@ Yet, it would help if you didn't forget the most important thing: the video itse
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Handheld Shots  No Tripod Necessary for 2024\""
-date: 2024-05-27 19:10:47
-updated: 2024-05-28 12:20:25
+date: 2024-05-31T12:41:55.001Z
+updated: 2024-06-01T12:41:55.001Z
 tags:
   - ai video
   - ai youtube
@@ -660,3 +660,4 @@ This article explored four methods for resizing YouTube thumbnails: using the Wi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

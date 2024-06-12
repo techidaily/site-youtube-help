@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pursuing Well-Being  Top 10 Yoga Channel Recommendations\""
-date: 2024-05-26 12:46:30
-updated: 2024-05-29 11:18:18
+date: 2024-05-31T12:45:49.845Z
+updated: 2024-06-01T12:45:49.845Z
 tags:
   - ai video
   - ai youtube
@@ -867,3 +867,4 @@ A hazy or pixelated thumbnail could discourage the viewer from clicking on your 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

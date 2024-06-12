@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Glam up Video Images  Integrating Shimmering Neons\""
-date: 2024-05-24 13:23:29
-updated: 2024-05-27 10:20:43
+date: 2024-05-31T12:48:00.925Z
+updated: 2024-06-01T12:48:00.925Z
 tags:
   - ai video
   - ai youtube
@@ -974,3 +974,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

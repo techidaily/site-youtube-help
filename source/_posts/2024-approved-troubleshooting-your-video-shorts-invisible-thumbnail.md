@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Troubleshooting  Your Video Short's Invisible Thumbnail\""
-date: 2024-05-30 15:28:52
-updated: 2024-06-01 10:29:51
+date: 2024-05-31T12:47:24.672Z
+updated: 2024-06-01T12:47:24.672Z
 tags:
   - ai video
   - ai youtube
@@ -715,3 +715,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

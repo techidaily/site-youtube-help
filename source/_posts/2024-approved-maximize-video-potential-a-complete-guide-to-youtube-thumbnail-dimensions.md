@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Maximize Video Potential  A Complete Guide to YouTube Thumbnail Dimensions\""
-date: 2024-05-25 21:22:57
-updated: 2024-05-28 12:23:26
+date: 2024-05-31T12:40:54.650Z
+updated: 2024-06-01T12:40:54.650Z
 tags:
   - ai video
   - ai youtube
@@ -1410,3 +1410,4 @@ Numerous programs will swiftly upload and trim your tiny movies, ideal for folks
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

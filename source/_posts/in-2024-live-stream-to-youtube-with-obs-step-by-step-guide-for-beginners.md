@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Live Stream to Youtube with OBS Step by Step Guide for Beginners"
-date: 2024-05-25 22:13:28
-updated: 2024-05-28 10:30:54
+date: 2024-05-31T12:45:59.077Z
+updated: 2024-06-01T12:45:59.077Z
 tags:
   - ai video
   - ai youtube
@@ -1482,3 +1482,4 @@ Numerous programs will swiftly upload and trim your tiny movies, ideal for folks
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

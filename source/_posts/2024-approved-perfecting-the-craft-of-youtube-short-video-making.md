@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfecting the Craft of YouTube Short Video Making\""
-date: 2024-05-28 11:47:24
-updated: 2024-05-29 12:31:34
+date: 2024-05-31T12:38:58.798Z
+updated: 2024-06-01T12:38:58.798Z
 tags:
   - ai video
   - ai youtube
@@ -1282,3 +1282,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

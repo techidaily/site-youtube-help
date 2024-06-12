@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Leading 8 Software for Linux Video Editors\""
-date: 2024-05-26 20:55:22
-updated: 2024-05-28 12:53:43
+date: 2024-05-31T12:46:52.384Z
+updated: 2024-06-01T12:46:52.384Z
 tags:
   - ai video
   - ai youtube
@@ -766,3 +766,4 @@ Follow @Marion Dubois
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

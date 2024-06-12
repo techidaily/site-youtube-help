@@ -1,7 +1,7 @@
 ---
 title: "\"Million-Viewer Milestones  YouTube's Pay Structure for 2024\""
-date: 2024-05-26 19:13:11
-updated: 2024-05-28 11:21:16
+date: 2024-05-31T12:48:24.223Z
+updated: 2024-06-01T12:48:24.223Z
 tags:
   - ai video
   - ai youtube
@@ -584,3 +584,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

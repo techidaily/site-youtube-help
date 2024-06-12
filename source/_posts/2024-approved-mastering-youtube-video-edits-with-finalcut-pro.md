@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering YouTube Video Edits with FinalCut Pro\""
-date: 2024-05-25 22:28:22
-updated: 2024-05-28 10:12:19
+date: 2024-05-31T12:42:21.680Z
+updated: 2024-06-01T12:42:21.680Z
 tags:
   - ai video
   - ai youtube
@@ -810,3 +810,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

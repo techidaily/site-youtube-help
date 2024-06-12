@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Skyrocket Your YouTube Traffic with Effective Outros"
-date: 2024-05-28 16:32:31
-updated: 2024-05-30 11:43:41
+date: 2024-05-31T12:45:16.145Z
+updated: 2024-06-01T12:45:16.145Z
 tags:
   - ai video
   - ai youtube
@@ -910,3 +910,4 @@ Now that you know the importance of YouTube keyword research and how to perform 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

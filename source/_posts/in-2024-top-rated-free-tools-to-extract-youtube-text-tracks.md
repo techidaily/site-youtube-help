@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top-Rated Free Tools to Extract YouTube Text Tracks\""
-date: 2024-05-29 18:19:50
-updated: 2024-05-31 11:43:14
+date: 2024-05-31T12:39:48.067Z
+updated: 2024-06-01T12:39:48.067Z
 tags:
   - ai video
   - ai youtube
@@ -692,3 +692,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Graphic Gaze  Decoding YouTube's Factful '17 Narrative\""
-date: 2024-05-29 23:15:18
-updated: 2024-05-31 11:54:40
+date: 2024-05-31T12:39:33.512Z
+updated: 2024-06-01T12:39:33.512Z
 tags:
   - ai video
   - ai youtube
@@ -702,3 +702,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

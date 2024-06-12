@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultimate Recording Gear for Social Media Stars\""
-date: 2024-05-29 17:46:16
-updated: 2024-06-01 12:40:51
+date: 2024-05-31T12:43:48.021Z
+updated: 2024-06-01T12:43:48.021Z
 tags:
   - ai video
   - ai youtube
@@ -1410,3 +1410,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

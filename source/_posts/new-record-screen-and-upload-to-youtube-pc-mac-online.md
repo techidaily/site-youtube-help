@@ -1,7 +1,7 @@
 ---
 title: "[New] Record Screen and Upload to YouTube [PC, Mac, Online]"
-date: 2024-05-27 11:37:41
-updated: 2024-05-29 11:10:26
+date: 2024-05-31T12:45:09.891Z
+updated: 2024-06-01T12:45:09.891Z
 tags:
   - ai video
   - ai youtube
@@ -1210,3 +1210,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

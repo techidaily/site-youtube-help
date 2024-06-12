@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Guide  YouTube Soundtracks to MP3 for MacOS 2Shift\""
-date: 2024-05-28 20:20:37
-updated: 2024-05-29 12:31:37
+date: 2024-05-31T12:43:14.768Z
+updated: 2024-06-01T12:43:14.768Z
 tags:
   - ai video
   - ai youtube
@@ -1130,3 +1130,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

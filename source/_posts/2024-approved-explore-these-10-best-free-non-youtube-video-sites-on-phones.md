@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Explore These 10 Best Free Non-YouTube Video Sites on Phones\""
-date: 2024-05-23 16:24:33
-updated: 2024-05-26 10:39:22
+date: 2024-05-31T12:43:16.873Z
+updated: 2024-06-01T12:43:16.873Z
 tags:
   - ai video
   - ai youtube
@@ -2010,3 +2010,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

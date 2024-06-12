@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlock the Power of Referrals  How to Build Effective YouTube Links\""
-date: 2024-05-30 22:58:48
-updated: 2024-06-01 12:48:13
+date: 2024-05-31T12:38:38.129Z
+updated: 2024-06-01T12:38:38.129Z
 tags:
   - ai video
   - ai youtube
@@ -1036,3 +1036,4 @@ No. After a service provider has sent out the likes, they don't have a way to ta
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

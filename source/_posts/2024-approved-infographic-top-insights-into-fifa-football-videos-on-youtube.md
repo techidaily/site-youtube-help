@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Infographic - Top Insights Into FIFA Football Videos On YouTube\""
-date: 2024-05-28 13:59:51
-updated: 2024-05-31 10:17:13
+date: 2024-05-31T12:47:05.760Z
+updated: 2024-06-01T12:47:05.760Z
 tags:
   - ai video
   - ai youtube
@@ -894,3 +894,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

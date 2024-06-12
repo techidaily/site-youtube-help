@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Setting Up Success  Crafting Your First YouTube Channel\""
-date: 2024-05-28 22:37:20
-updated: 2024-05-30 10:15:51
+date: 2024-05-31T12:48:36.535Z
+updated: 2024-06-01T12:48:36.535Z
 tags:
   - ai video
   - ai youtube
@@ -2022,3 +2022,4 @@ Pre-recorded videos are also a great way to present your content with perfection
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

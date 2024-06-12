@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Premium Cut Tools  The Top 8 Linux Apps\""
-date: 2024-05-26 13:38:53
-updated: 2024-05-29 11:45:32
+date: 2024-05-31T12:40:08.131Z
+updated: 2024-06-01T12:40:08.131Z
 tags:
   - ai video
   - ai youtube
@@ -1258,3 +1258,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

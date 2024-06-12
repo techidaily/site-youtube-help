@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Clicks to Cash  The Journey of YouTube's Ajay Nagar\""
-date: 2024-05-24 11:44:39
-updated: 2024-05-27 10:53:11
+date: 2024-05-31T12:46:45.446Z
+updated: 2024-06-01T12:46:45.446Z
 tags:
   - ai video
   - ai youtube
@@ -677,3 +677,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

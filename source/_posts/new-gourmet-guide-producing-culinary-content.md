@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Gourmet Guide  Producing Culinary Content\""
-date: 2024-05-26 11:28:25
-updated: 2024-05-27 10:26:52
+date: 2024-05-31T12:42:30.277Z
+updated: 2024-06-01T12:42:30.277Z
 tags:
   - ai video
   - ai youtube
@@ -974,3 +974,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

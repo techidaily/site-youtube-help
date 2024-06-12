@@ -1,7 +1,7 @@
 ---
 title: "[New] Fixing Obscured Content on YouTube Platform"
-date: 2024-05-26 22:46:54
-updated: 2024-05-27 10:17:33
+date: 2024-05-31T12:44:38.531Z
+updated: 2024-06-01T12:44:38.531Z
 tags:
   - ai video
   - ai youtube
@@ -807,3 +807,4 @@ Hopefully, this article helped resolve your query, and you can now use the right
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

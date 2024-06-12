@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unifying Social Media Video Practices\""
-date: 2024-05-29 16:49:52
-updated: 2024-06-01 10:49:30
+date: 2024-05-31T12:39:30.963Z
+updated: 2024-06-01T12:39:30.963Z
 tags:
   - ai video
   - ai youtube
@@ -1118,3 +1118,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

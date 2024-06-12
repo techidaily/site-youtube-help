@@ -1,7 +1,7 @@
 ---
 title: "\"Leaders in Education  Top 15 Sci-YT Innovators for 2024\""
-date: 2024-05-26 15:43:34
-updated: 2024-05-28 12:42:24
+date: 2024-05-31T12:44:44.159Z
+updated: 2024-06-01T12:44:44.159Z
 tags:
   - ai video
   - ai youtube
@@ -1208,3 +1208,4 @@ YouTube video ads can be a great way to reach as many people as you can with you
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

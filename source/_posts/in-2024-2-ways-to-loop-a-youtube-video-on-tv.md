@@ -1,7 +1,7 @@
 ---
 title: "In 2024, 2 Ways to Loop a YouTube Video On TV"
-date: 2024-05-28 21:30:33
-updated: 2024-05-29 12:11:27
+date: 2024-05-31T12:47:10.549Z
+updated: 2024-06-01T12:47:10.549Z
 tags:
   - ai video
   - ai youtube
@@ -512,3 +512,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

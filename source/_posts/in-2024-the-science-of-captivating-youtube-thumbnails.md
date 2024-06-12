@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Science of Captivating YouTube Thumbnails"
-date: 2024-05-28 23:42:18
-updated: 2024-05-31 12:39:44
+date: 2024-05-31T12:40:11.356Z
+updated: 2024-06-01T12:40:11.356Z
 tags:
   - ai video
   - ai youtube
@@ -1178,3 +1178,4 @@ Now you have the top 7 voice changers for YouTubers, select one of them and use 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

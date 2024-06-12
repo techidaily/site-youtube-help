@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Giggle Galore  Curating the Funniest 10 Short-Form Web Series Ideas\""
-date: 2024-05-26 14:16:48
-updated: 2024-05-27 12:11:27
+date: 2024-05-31T12:42:16.140Z
+updated: 2024-06-01T12:42:16.140Z
 tags:
   - ai video
   - ai youtube
@@ -1250,3 +1250,4 @@ Do you share your computer with other fellows? The chances are that someone hit 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

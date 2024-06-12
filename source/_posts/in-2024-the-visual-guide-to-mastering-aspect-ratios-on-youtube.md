@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Visual Guide to Mastering Aspect Ratios on YOUTUBE"
-date: 2024-05-28 13:28:10
-updated: 2024-05-31 11:31:12
+date: 2024-05-31T12:40:38.835Z
+updated: 2024-06-01T12:40:38.835Z
 tags:
   - ai video
   - ai youtube
@@ -968,3 +968,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

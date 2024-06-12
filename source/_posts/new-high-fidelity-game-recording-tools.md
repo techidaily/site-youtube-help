@@ -1,7 +1,7 @@
 ---
 title: "[New] High Fidelity Game Recording Tools"
-date: 2024-05-26 13:24:52
-updated: 2024-05-27 12:10:32
+date: 2024-05-31T12:46:58.875Z
+updated: 2024-06-01T12:46:58.875Z
 tags:
   - ai video
   - ai youtube
@@ -2774,3 +2774,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

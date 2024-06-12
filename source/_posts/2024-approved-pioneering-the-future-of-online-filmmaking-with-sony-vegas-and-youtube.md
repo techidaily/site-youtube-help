@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pioneering the Future of Online Filmmaking with Sony Vegas and YouTube\""
-date: 2024-05-28 10:15:11
-updated: 2024-05-29 12:42:20
+date: 2024-05-31T12:43:34.761Z
+updated: 2024-06-01T12:43:34.761Z
 tags:
   - ai video
   - ai youtube
@@ -890,3 +890,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

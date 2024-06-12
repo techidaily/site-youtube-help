@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Manipulate Sound Rate in YouTube Playback\""
-date: 2024-05-25 20:22:27
-updated: 2024-05-28 10:14:37
+date: 2024-05-31T12:44:48.848Z
+updated: 2024-06-01T12:44:48.848Z
 tags:
   - ai video
   - ai youtube
@@ -1022,3 +1022,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, First Steps in YouTube Tech  A Comprehensive List\""
-date: 2024-05-25 16:24:21
-updated: 2024-05-27 12:53:48
+date: 2024-05-31T12:48:41.585Z
+updated: 2024-06-01T12:48:41.585Z
 tags:
   - ai video
   - ai youtube
@@ -1310,3 +1310,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

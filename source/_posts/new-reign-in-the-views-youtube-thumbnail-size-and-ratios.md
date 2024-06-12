@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Reign in the Views  Youtube Thumbnail Size & Ratios\""
-date: 2024-05-28 11:11:16
-updated: 2024-05-29 12:23:34
+date: 2024-05-31T12:41:14.470Z
+updated: 2024-06-01T12:41:14.470Z
 tags:
   - ai video
   - ai youtube
@@ -740,3 +740,4 @@ In this day and age, many people are shifting to freelancing or creating compani
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Journey Through the Stars with These Innovative Science YouTubers\""
-date: 2024-05-27 22:25:32
-updated: 2024-05-28 10:28:58
+date: 2024-05-31T12:46:44.602Z
+updated: 2024-06-01T12:46:44.602Z
 tags:
   - ai video
   - ai youtube
@@ -1110,3 +1110,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Guide to Banner & Art Design for Your YouTube Channel"
-date: 2024-05-29 14:46:57
-updated: 2024-05-31 11:39:48
+date: 2024-05-31T12:41:13.164Z
+updated: 2024-06-01T12:41:13.164Z
 tags:
   - ai video
   - ai youtube
@@ -746,3 +746,4 @@ The new YouTube monetization policy 2023 has created more opportunities for crea
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveiling Mr. Beast's Economic Status\""
-date: 2024-05-31 19:11:30
-updated: 2024-06-01 10:41:21
+date: 2024-05-31T12:43:59.105Z
+updated: 2024-06-01T12:43:59.105Z
 tags:
   - ai video
   - ai youtube
@@ -1116,3 +1116,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

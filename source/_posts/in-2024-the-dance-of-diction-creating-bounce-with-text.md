@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Dance of Diction  Creating Bounce with Text\""
-date: 2024-05-28 21:52:36
-updated: 2024-05-31 12:37:12
+date: 2024-05-31T12:39:14.808Z
+updated: 2024-06-01T12:39:14.808Z
 tags:
   - ai video
   - ai youtube
@@ -894,3 +894,4 @@ Detailed tutorials provided by the official channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

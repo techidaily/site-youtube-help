@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Getting Real  Broadcast Your Life on Youtube Using OBS\""
-date: 2024-05-24 22:19:43
-updated: 2024-05-27 11:26:57
+date: 2024-05-31T12:47:39.802Z
+updated: 2024-06-01T12:47:39.802Z
 tags:
   - ai video
   - ai youtube
@@ -1026,3 +1026,4 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

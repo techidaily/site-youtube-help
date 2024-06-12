@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Next-Gen Viral Gems  YouTube Hits Exceeding 100 Million Views By '24\""
-date: 2024-05-28 14:37:52
-updated: 2024-05-29 11:18:14
+date: 2024-05-31T12:48:32.207Z
+updated: 2024-06-01T12:48:32.207Z
 tags:
   - ai video
   - ai youtube
@@ -1146,3 +1146,4 @@ Finding the best prank channels on YouTube to crack your rib during your boring 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

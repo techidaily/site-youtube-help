@@ -1,7 +1,7 @@
 ---
 title: "[New] Quantifying the Fortune of Mr. Beast"
-date: 2024-05-26 20:26:20
-updated: 2024-05-29 10:39:37
+date: 2024-05-31T12:39:15.015Z
+updated: 2024-06-01T12:39:15.015Z
 tags:
   - ai video
   - ai youtube
@@ -816,3 +816,4 @@ Hopefully, the information in this guide will be useful when you’re looking fo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

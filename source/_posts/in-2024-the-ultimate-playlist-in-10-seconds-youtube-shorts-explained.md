@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Ultimate Playlist in 10 Seconds  YouTube Shorts Explained\""
-date: 2024-05-28 21:45:58
-updated: 2024-05-31 10:45:45
+date: 2024-05-31T12:47:55.233Z
+updated: 2024-06-01T12:47:55.233Z
 tags:
   - ai video
   - ai youtube
@@ -1318,3 +1318,4 @@ What are some of your favorite unboxing videos? Comment down below!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

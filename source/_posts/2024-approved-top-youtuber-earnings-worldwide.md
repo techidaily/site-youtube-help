@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top Youtuber Earnings Worldwide\""
-date: 2024-05-30 21:27:36
-updated: 2024-05-31 11:50:46
+date: 2024-05-31T12:41:34.656Z
+updated: 2024-06-01T12:41:34.656Z
 tags:
   - ai video
   - ai youtube
@@ -1551,3 +1551,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Enhance Your Vlog's Pacing Using Jump Cuts"
-date: 2024-05-24 16:10:46
-updated: 2024-05-27 12:43:16
+date: 2024-05-31T12:40:21.562Z
+updated: 2024-06-01T12:40:21.562Z
 tags:
   - ai video
   - ai youtube
@@ -722,3 +722,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

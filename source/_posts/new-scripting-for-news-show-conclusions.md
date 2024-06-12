@@ -1,7 +1,7 @@
 ---
 title: "[New] Scripting for News Show Conclusions"
-date: 2024-05-27 19:59:31
-updated: 2024-05-29 10:25:37
+date: 2024-05-31T12:40:50.036Z
+updated: 2024-06-01T12:40:50.036Z
 tags:
   - ai video
   - ai youtube
@@ -530,3 +530,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

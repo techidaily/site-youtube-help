@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Understanding YouTube Shorts Earnings for Maker Income"
-date: 2024-05-31 16:34:59
-updated: 2024-06-01 11:36:24
+date: 2024-05-31T12:45:20.817Z
+updated: 2024-06-01T12:45:20.817Z
 tags:
   - ai video
   - ai youtube
@@ -653,3 +653,4 @@ If you already have a YouTube channel and a certain number of views, you can tak
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

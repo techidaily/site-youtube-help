@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Essential Guide to Aspect Ratio Standards on YT"
-date: 2024-05-29 14:13:57
-updated: 2024-05-31 11:10:44
+date: 2024-05-31T12:41:39.425Z
+updated: 2024-06-01T12:41:39.425Z
 tags:
   - ai video
   - ai youtube
@@ -828,3 +828,4 @@ Follow @Marion Dubois
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

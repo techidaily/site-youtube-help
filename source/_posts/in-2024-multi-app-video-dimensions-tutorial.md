@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Multi-App Video Dimensions Tutorial\""
-date: 2024-05-27 11:56:37
-updated: 2024-05-28 12:36:46
+date: 2024-05-31T12:46:20.645Z
+updated: 2024-06-01T12:46:20.645Z
 tags:
   - ai video
   - ai youtube
@@ -1302,3 +1302,4 @@ You can try creating a video for YouTube. And use Filmora to make your videos im
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

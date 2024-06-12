@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Green Tactics for Easy YouTube CTA Conversions"
-date: 2024-05-25 11:16:59
-updated: 2024-05-27 12:53:46
+date: 2024-05-31T12:41:04.122Z
+updated: 2024-06-01T12:41:04.122Z
 tags:
   - ai video
   - ai youtube
@@ -1458,3 +1458,4 @@ Numerous programs will swiftly upload and trim your tiny movies, ideal for folks
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

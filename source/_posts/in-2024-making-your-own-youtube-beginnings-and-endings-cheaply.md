@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Making Your Own YouTube Beginnings & Endings Cheaply"
-date: 2024-05-27 22:22:32
-updated: 2024-05-28 12:22:34
+date: 2024-05-31T12:47:10.594Z
+updated: 2024-06-01T12:47:10.594Z
 tags:
   - ai video
   - ai youtube
@@ -634,3 +634,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

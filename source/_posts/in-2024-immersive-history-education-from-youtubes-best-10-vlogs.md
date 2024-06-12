@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Immersive History Education From YouTube's Best 10 Vlogs"
-date: 2024-05-25 13:51:59
-updated: 2024-05-27 11:39:24
+date: 2024-05-31T12:40:47.270Z
+updated: 2024-06-01T12:40:47.270Z
 tags:
   - ai video
   - ai youtube
@@ -574,3 +574,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

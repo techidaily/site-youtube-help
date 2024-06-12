@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Phones as Cameras  A Comprehensive Guide to Mobile Video Production\""
-date: 2024-05-27 21:24:45
-updated: 2024-05-29 10:15:50
+date: 2024-05-31T12:40:04.669Z
+updated: 2024-06-01T12:40:04.669Z
 tags:
   - ai video
   - ai youtube
@@ -718,3 +718,4 @@ Link: <https://www.youtube.com/user/zeenews/videos>
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

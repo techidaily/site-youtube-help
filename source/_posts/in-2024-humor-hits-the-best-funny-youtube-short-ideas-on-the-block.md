@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Humor Hits  The Best Funny YouTube Short Ideas on the Block\""
-date: 2024-05-26 19:44:24
-updated: 2024-05-27 11:14:33
+date: 2024-05-31T12:40:42.983Z
+updated: 2024-06-01T12:40:42.983Z
 tags:
   - ai video
   - ai youtube
@@ -934,3 +934,4 @@ YouTube Short’s revenue-sharing programs offer a great opportunity for creator
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

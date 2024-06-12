@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Make Awesome YouTube Channel Art [Ultimate Guide ]"
-date: 2024-05-25 16:32:24
-updated: 2024-05-28 12:23:13
+date: 2024-05-31T12:45:12.745Z
+updated: 2024-06-01T12:45:12.745Z
 tags:
   - ai video
   - ai youtube
@@ -2102,3 +2102,4 @@ As you can tell, video dimensions significantly influence your media resolution 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unveil the Secrets to Excellent YouTube Thumbnails"
-date: 2024-05-31 10:46:49
-updated: 2024-06-01 10:23:10
+date: 2024-05-31T12:40:50.868Z
+updated: 2024-06-01T12:40:50.868Z
 tags:
   - ai video
   - ai youtube
@@ -818,3 +818,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

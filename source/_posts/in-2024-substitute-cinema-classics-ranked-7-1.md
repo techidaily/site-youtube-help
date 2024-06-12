@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Substitute Cinema Classics, Ranked #7-1\""
-date: 2024-05-29 16:38:19
-updated: 2024-05-30 12:35:53
+date: 2024-05-31T12:48:09.599Z
+updated: 2024-06-01T12:48:09.599Z
 tags:
   - ai video
   - ai youtube
@@ -942,3 +942,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

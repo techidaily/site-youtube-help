@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Going Pro with GS Effects  Exclusive Free Lessons From 4 Premier Video Channels\""
-date: 2024-05-25 19:12:29
-updated: 2024-05-27 10:21:21
+date: 2024-05-31T12:38:40.118Z
+updated: 2024-06-01T12:38:40.118Z
 tags:
   - ai video
   - ai youtube
@@ -702,3 +702,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Flipping the Script  Mobile Filmmaking & YouTube Thumbnail Tricks\""
-date: 2024-05-25 17:34:24
-updated: 2024-05-27 11:12:49
+date: 2024-05-31T12:44:20.791Z
+updated: 2024-06-01T12:44:20.791Z
 tags:
   - ai video
   - ai youtube
@@ -851,3 +851,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

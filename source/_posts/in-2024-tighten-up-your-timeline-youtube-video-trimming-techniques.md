@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Tighten Up Your Timeline  YouTube Video Trimming Techniques\""
-date: 2024-05-30 18:17:52
-updated: 2024-05-31 10:40:17
+date: 2024-05-31T12:43:32.083Z
+updated: 2024-06-01T12:43:32.083Z
 tags:
   - ai video
   - ai youtube
@@ -874,3 +874,4 @@ You can make a great milestone with **YouTube Shorts music** than if you didn’
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

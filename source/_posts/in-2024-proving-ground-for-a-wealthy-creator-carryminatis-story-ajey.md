@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Proving Ground for a Wealthy Creator  CarryMinati's Story (Ajey)\""
-date: 2024-05-27 13:27:18
-updated: 2024-05-29 12:25:48
+date: 2024-05-31T12:47:59.547Z
+updated: 2024-06-01T12:47:59.547Z
 tags:
   - ai video
   - ai youtube
@@ -729,3 +729,4 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

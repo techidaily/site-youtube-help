@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Simplified Design Guide  Add Your Own Style to Your Video Shorts\""
-date: 2024-05-27 19:27:24
-updated: 2024-05-30 10:47:46
+date: 2024-05-31T12:41:17.073Z
+updated: 2024-06-01T12:41:17.073Z
 tags:
   - ai video
   - ai youtube
@@ -400,3 +400,4 @@ Record screen and webcam as well
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

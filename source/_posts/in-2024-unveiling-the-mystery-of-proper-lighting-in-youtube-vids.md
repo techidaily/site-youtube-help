@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unveiling the Mystery of Proper Lighting in YouTube Vids"
-date: 2024-05-29 12:19:40
-updated: 2024-06-01 11:22:47
+date: 2024-05-31T12:38:50.869Z
+updated: 2024-06-01T12:38:50.869Z
 tags:
   - ai video
   - ai youtube
@@ -644,3 +644,4 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

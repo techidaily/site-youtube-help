@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering the Basics  A Comprehensive Guide to YT Shorts\""
-date: 2024-05-25 10:30:13
-updated: 2024-05-28 12:27:22
+date: 2024-05-31T12:46:37.214Z
+updated: 2024-06-01T12:46:37.214Z
 tags:
   - ai video
   - ai youtube
@@ -716,3 +716,4 @@ Thus, this article has valuable insights into the width and height of YouTube Th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

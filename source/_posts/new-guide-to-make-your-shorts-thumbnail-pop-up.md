@@ -1,7 +1,7 @@
 ---
 title: "[New] Guide to Make Your Shorts' Thumbnail Pop Up"
-date: 2024-05-24 19:48:53
-updated: 2024-05-27 12:55:54
+date: 2024-05-31T12:39:55.818Z
+updated: 2024-06-01T12:39:55.818Z
 tags:
   - ai video
   - ai youtube
@@ -651,3 +651,4 @@ This portion of VTubing isn't all that dissimilar from creating regular video ma
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

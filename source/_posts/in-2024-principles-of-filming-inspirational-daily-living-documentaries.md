@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Principles of Filming Inspirational Daily Living Documentaries"
-date: 2024-05-26 11:47:22
-updated: 2024-05-29 12:44:56
+date: 2024-05-31T12:43:46.104Z
+updated: 2024-06-01T12:43:46.104Z
 tags:
   - ai video
   - ai youtube
@@ -780,3 +780,4 @@ For creating YouTube thumbnails, you can use Wondershare Filmora. It's a video e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

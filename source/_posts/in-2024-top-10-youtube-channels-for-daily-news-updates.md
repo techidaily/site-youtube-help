@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 10 YouTube Channels for Daily News Updates"
-date: 2024-05-29 10:21:28
-updated: 2024-05-31 12:59:14
+date: 2024-05-31T12:45:26.205Z
+updated: 2024-06-01T12:45:26.205Z
 tags:
   - ai video
   - ai youtube
@@ -818,3 +818,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

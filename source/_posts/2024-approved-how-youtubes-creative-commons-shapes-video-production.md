@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How YouTube's Creative Commons Shapes Video Production\""
-date: 2024-05-25 23:34:19
-updated: 2024-05-27 12:34:32
+date: 2024-05-31T12:39:25.158Z
+updated: 2024-06-01T12:39:25.158Z
 tags:
   - ai video
   - ai youtube
@@ -718,3 +718,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

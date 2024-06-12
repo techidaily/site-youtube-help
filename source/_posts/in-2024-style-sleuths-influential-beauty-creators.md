@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Style Sleuths  Influential Beauty Creators\""
-date: 2024-05-28 13:55:46
-updated: 2024-05-30 11:36:49
+date: 2024-05-31T12:39:26.957Z
+updated: 2024-06-01T12:39:26.957Z
 tags:
   - ai video
   - ai youtube
@@ -818,3 +818,4 @@ Also, you can slow down a tutorial or the video you are watching if you feel the
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Slapstick Suggestions  A Guide to Hilarious Short-Form Videography\""
-date: 2024-05-28 18:33:21
-updated: 2024-05-30 11:59:42
+date: 2024-05-31T12:39:58.068Z
+updated: 2024-06-01T12:39:58.068Z
 tags:
   - ai video
   - ai youtube
@@ -910,3 +910,4 @@ Sometimes it might help your mental health if you can take out time to watch som
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

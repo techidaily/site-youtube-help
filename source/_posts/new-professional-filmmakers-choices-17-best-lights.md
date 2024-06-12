@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Professional Filmmakers' Choices  #17 Best Lights\""
-date: 2024-05-28 21:47:23
-updated: 2024-05-29 11:55:59
+date: 2024-05-31T12:44:42.072Z
+updated: 2024-06-01T12:44:42.072Z
 tags:
   - ai video
   - ai youtube
@@ -1366,3 +1366,4 @@ However, ad overlay is for content creators with Google AdWords enabled on their
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

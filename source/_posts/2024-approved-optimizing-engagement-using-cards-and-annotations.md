@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Optimizing Engagement  Using Cards and Annotations\""
-date: 2024-05-26 17:59:40
-updated: 2024-05-29 12:59:23
+date: 2024-05-31T12:41:38.762Z
+updated: 2024-06-01T12:41:38.762Z
 tags:
   - ai video
   - ai youtube
@@ -632,3 +632,4 @@ The YouTube Shorts Fund offers an exceptional for creators to make additional in
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

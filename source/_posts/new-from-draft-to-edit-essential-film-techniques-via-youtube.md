@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Draft to Edit  Essential Film Techniques via YouTube\""
-date: 2024-05-25 17:55:49
-updated: 2024-05-27 12:58:56
+date: 2024-05-31T12:44:16.276Z
+updated: 2024-06-01T12:44:16.276Z
 tags:
   - ai video
   - ai youtube
@@ -846,3 +846,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

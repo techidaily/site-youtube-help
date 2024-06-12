@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Ignite Your Creative Spark  Scriptwriting Tips for YouTube Mastery\""
-date: 2024-05-24 16:27:39
-updated: 2024-05-27 11:13:41
+date: 2024-05-31T12:43:20.017Z
+updated: 2024-06-01T12:43:20.017Z
 tags:
   - ai video
   - ai youtube
@@ -646,3 +646,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

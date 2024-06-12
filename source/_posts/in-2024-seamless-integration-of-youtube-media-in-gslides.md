@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Seamless Integration of YouTube Media in GSlides"
-date: 2024-05-29 13:37:26
-updated: 2024-05-30 11:43:20
+date: 2024-05-31T12:38:30.884Z
+updated: 2024-06-01T12:38:30.884Z
 tags:
   - ai video
   - ai youtube
@@ -1150,3 +1150,4 @@ It is important to know that the default resolution of a YouTube thumbnail is 12
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] Expert Advice on Leveraging YouTube's Video Editor"
-date: 2024-05-24 18:45:16
-updated: 2024-05-26 10:48:37
+date: 2024-05-31T12:38:38.644Z
+updated: 2024-06-01T12:38:38.644Z
 tags:
   - ai video
   - ai youtube
@@ -851,3 +851,4 @@ Whether you create your thumbnails on your mobile device or your computer, use a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Make YouTube Banners and Thumbnails"
-date: 2024-05-24 22:22:44
-updated: 2024-05-27 12:47:30
+date: 2024-05-31T12:43:40.508Z
+updated: 2024-06-01T12:43:40.508Z
 tags:
   - ai video
   - ai youtube
@@ -1114,3 +1114,4 @@ As you can tell, video dimensions significantly influence your media resolution 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

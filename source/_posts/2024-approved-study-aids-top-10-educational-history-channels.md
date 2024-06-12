@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Study Aids  Top 10 Educational History Channels\""
-date: 2024-05-29 20:25:33
-updated: 2024-05-30 12:47:34
+date: 2024-05-31T12:48:31.099Z
+updated: 2024-06-01T12:48:31.099Z
 tags:
   - ai video
   - ai youtube
@@ -822,3 +822,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

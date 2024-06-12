@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlock Your Potential  Mastering the Art of YouTube Edits\""
-date: 2024-05-29 19:20:59
-updated: 2024-06-01 11:54:50
+date: 2024-05-31T12:45:34.606Z
+updated: 2024-06-01T12:45:34.606Z
 tags:
   - ai video
   - ai youtube
@@ -1022,3 +1022,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

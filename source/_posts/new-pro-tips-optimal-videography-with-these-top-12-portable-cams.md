@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pro Tips  Optimal Videography with These Top 12 Portable Cams\""
-date: 2024-05-28 19:54:51
-updated: 2024-05-29 11:12:51
+date: 2024-05-31T12:40:29.186Z
+updated: 2024-06-01T12:40:29.186Z
 tags:
   - ai video
   - ai youtube
@@ -770,3 +770,4 @@ Now that you know the importance of YouTube keyword research and how to perform 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

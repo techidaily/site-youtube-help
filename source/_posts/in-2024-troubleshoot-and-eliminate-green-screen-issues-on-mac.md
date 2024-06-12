@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Troubleshoot and Eliminate Green Screen Issues on Mac"
-date: 2024-05-30 12:56:21
-updated: 2024-06-01 11:59:41
+date: 2024-05-31T12:48:35.141Z
+updated: 2024-06-01T12:48:35.141Z
 tags:
   - ai video
   - ai youtube
@@ -1189,3 +1189,4 @@ The video editor Wondershare Filmora even allows you to browse for some within t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

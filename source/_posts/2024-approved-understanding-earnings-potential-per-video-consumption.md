@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Understanding Earnings Potential per Video Consumption\""
-date: 2024-05-29 16:40:29
-updated: 2024-06-01 12:33:53
+date: 2024-05-31T12:40:47.130Z
+updated: 2024-06-01T12:40:47.130Z
 tags:
   - ai video
   - ai youtube
@@ -798,3 +798,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

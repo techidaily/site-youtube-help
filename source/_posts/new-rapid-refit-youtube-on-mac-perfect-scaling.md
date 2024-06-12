@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Rapid Refit  Youtube on Mac Perfect Scaling\""
-date: 2024-05-27 15:22:19
-updated: 2024-05-29 12:35:59
+date: 2024-05-31T12:42:50.283Z
+updated: 2024-06-01T12:42:50.283Z
 tags:
   - ai video
   - ai youtube
@@ -1250,3 +1250,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

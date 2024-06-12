@@ -1,7 +1,7 @@
 ---
 title: "\"[New] How to Produce Eye-Catching and Informative Videos for Education Channels\""
-date: 2024-05-25 19:27:54
-updated: 2024-05-27 10:55:41
+date: 2024-05-31T12:41:35.237Z
+updated: 2024-06-01T12:41:35.237Z
 tags:
   - ai video
   - ai youtube
@@ -601,3 +601,4 @@ To save and access your live streaming sessions later, you can try the screen re
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

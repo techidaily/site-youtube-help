@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 5 Video & Photography Mobile Apps for iPhone/Android Users\""
-date: 2024-05-29 19:22:11
-updated: 2024-05-31 11:37:15
+date: 2024-05-31T12:44:11.285Z
+updated: 2024-06-01T12:44:11.285Z
 tags:
   - ai video
   - ai youtube
@@ -1046,3 +1046,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

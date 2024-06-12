@@ -1,7 +1,7 @@
 ---
 title: "Learn the Art of Crafting Short YouTube Videos for 2024"
-date: 2024-05-26 13:39:27
-updated: 2024-05-28 10:17:10
+date: 2024-05-31T12:48:36.234Z
+updated: 2024-06-01T12:48:36.234Z
 tags:
   - ai video
   - ai youtube
@@ -746,3 +746,4 @@ YouTube's music library is relatively small. The songs include both traditional 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

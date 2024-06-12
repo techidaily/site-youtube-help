@@ -1,7 +1,7 @@
 ---
 title: "[New] Indulge in the Best YouTube Binge Spots for Anime Enthusiasts"
-date: 2024-05-26 20:15:58
-updated: 2024-05-27 12:50:21
+date: 2024-05-31T12:38:32.217Z
+updated: 2024-06-01T12:38:32.217Z
 tags:
   - ai video
   - ai youtube
@@ -1318,3 +1318,4 @@ Their basic software package is available for free download and includes a wide 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

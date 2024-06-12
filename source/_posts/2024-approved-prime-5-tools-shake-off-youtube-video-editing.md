@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Prime 5 Tools  Shake Off Youtube Video Editing\""
-date: 2024-05-28 15:59:52
-updated: 2024-05-29 12:30:41
+date: 2024-05-31T12:43:04.800Z
+updated: 2024-06-01T12:43:04.800Z
 tags:
   - ai video
   - ai youtube
@@ -698,3 +698,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

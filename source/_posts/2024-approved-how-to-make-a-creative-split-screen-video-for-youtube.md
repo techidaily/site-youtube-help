@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Make a Creative Split-Screen Video for YouTube?\""
-date: 2024-05-27 16:20:22
-updated: 2024-05-28 12:13:11
+date: 2024-05-31T12:41:39.874Z
+updated: 2024-06-01T12:41:39.874Z
 tags:
   - ai video
   - ai youtube
@@ -1222,3 +1222,4 @@ Thus, finding the best YouTube channel to watch anime during your free or boring
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

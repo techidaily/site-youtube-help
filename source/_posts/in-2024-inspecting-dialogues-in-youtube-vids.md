@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Inspecting Dialogues in YouTube Vids"
-date: 2024-05-26 17:22:19
-updated: 2024-05-28 10:35:46
+date: 2024-05-31T12:40:25.372Z
+updated: 2024-06-01T12:40:25.372Z
 tags:
   - ai video
   - ai youtube
@@ -1078,3 +1078,4 @@ Captions are a great way to get users to engage with your videos. Studies have s
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

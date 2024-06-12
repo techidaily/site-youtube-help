@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, From Audio to Words on YouTube  A Comprehensible Free Guide\""
-date: 2024-05-26 21:17:31
-updated: 2024-05-27 10:25:46
+date: 2024-05-31T12:45:53.631Z
+updated: 2024-06-01T12:45:53.631Z
 tags:
   - ai video
   - ai youtube
@@ -1518,3 +1518,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

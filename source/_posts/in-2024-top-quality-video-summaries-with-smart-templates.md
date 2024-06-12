@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top-Quality Video Summaries with Smart Templates\""
-date: 2024-05-29 18:14:44
-updated: 2024-05-31 10:20:13
+date: 2024-05-31T12:47:58.432Z
+updated: 2024-06-01T12:47:58.432Z
 tags:
   - ai video
   - ai youtube
@@ -682,3 +682,4 @@ I firmly believe that at this point, understanding how to create a YouTube chann
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

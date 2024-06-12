@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Prevent Thumbnail Absence in Shorts Uploads"
-date: 2024-05-25 23:20:16
-updated: 2024-05-27 10:16:28
+date: 2024-05-31T12:48:48.401Z
+updated: 2024-06-01T12:48:48.401Z
 tags:
   - ai video
   - ai youtube
@@ -527,3 +527,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

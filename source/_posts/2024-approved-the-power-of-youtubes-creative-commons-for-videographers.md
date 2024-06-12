@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Power of YouTube's Creative Commons for Videographers\""
-date: 2024-05-29 23:32:40
-updated: 2024-05-31 10:11:44
+date: 2024-05-31T12:46:13.696Z
+updated: 2024-06-01T12:46:13.696Z
 tags:
   - ai video
   - ai youtube
@@ -834,3 +834,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

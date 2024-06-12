@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Cozy Cinematography  Top 5 Winter Scenes\""
-date: 2024-05-27 17:48:28
-updated: 2024-05-30 12:11:29
+date: 2024-05-31T12:40:39.435Z
+updated: 2024-06-01T12:40:39.435Z
 tags:
   - ai video
   - ai youtube
@@ -958,3 +958,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

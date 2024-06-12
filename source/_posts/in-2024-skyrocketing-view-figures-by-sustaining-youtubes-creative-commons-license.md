@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Skyrocketing View Figures by Sustaining YouTube's Creative Commons License"
-date: 2024-05-27 16:53:59
-updated: 2024-05-30 10:57:42
+date: 2024-05-31T12:43:00.830Z
+updated: 2024-06-01T12:43:00.830Z
 tags:
   - ai video
   - ai youtube
@@ -830,3 +830,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

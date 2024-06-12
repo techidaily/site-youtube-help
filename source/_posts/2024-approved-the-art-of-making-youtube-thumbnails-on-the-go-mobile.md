@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Making YouTube Thumbnails on the Go (Mobile)\""
-date: 2024-05-29 17:30:57
-updated: 2024-05-30 12:45:21
+date: 2024-05-31T12:47:05.945Z
+updated: 2024-06-01T12:47:05.945Z
 tags:
   - ai video
   - ai youtube
@@ -563,3 +563,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

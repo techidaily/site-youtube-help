@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unboxing the Secrets to Stunning Shorts Thumbnails"
-date: 2024-05-29 10:19:28
-updated: 2024-06-01 12:46:42
+date: 2024-05-31T12:43:33.134Z
+updated: 2024-06-01T12:43:33.134Z
 tags:
   - ai video
   - ai youtube
@@ -1092,3 +1092,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

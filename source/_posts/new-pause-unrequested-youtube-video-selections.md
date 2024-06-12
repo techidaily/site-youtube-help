@@ -1,7 +1,7 @@
 ---
 title: "[New] Pause Unrequested YouTube Video Selections"
-date: 2024-05-28 18:16:11
-updated: 2024-05-29 10:59:15
+date: 2024-05-31T12:47:00.034Z
+updated: 2024-06-01T12:47:00.034Z
 tags:
   - ai video
   - ai youtube
@@ -782,3 +782,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Attraction  Top 20 Fonts for Impactful YouTube Thumbnails\""
-date: 2024-05-29 20:14:55
-updated: 2024-05-30 12:31:59
+date: 2024-05-31T12:44:13.417Z
+updated: 2024-06-01T12:44:13.417Z
 tags:
   - ai video
   - ai youtube
@@ -777,3 +777,4 @@ But, while starting, your funding will be less. It would help if you handled the
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

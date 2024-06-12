@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unveiling Profits  How Much Do Creators Earn From Each Ad?\""
-date: 2024-05-31 19:26:15
-updated: 2024-06-01 12:14:22
+date: 2024-05-31T12:43:48.390Z
+updated: 2024-06-01T12:43:48.390Z
 tags:
   - ai video
   - ai youtube
@@ -1450,3 +1450,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

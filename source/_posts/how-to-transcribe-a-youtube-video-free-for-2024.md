@@ -1,7 +1,7 @@
 ---
 title: "How to Transcribe a YouTube Video [FREE] for 2024"
-date: 2024-05-29 10:58:12
-updated: 2024-06-01 10:33:51
+date: 2024-05-31T12:47:13.621Z
+updated: 2024-06-01T12:47:13.621Z
 tags:
   - ai video
   - ai youtube
@@ -1282,3 +1282,4 @@ Using these YouTube SEO tips will ensure that your videos rank on top search res
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

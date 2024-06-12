@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Shaping Viewers’ Attention  Employing Jump Cuts in Video Editing\""
-date: 2024-05-28 17:57:29
-updated: 2024-05-30 10:59:22
+date: 2024-05-31T12:47:17.685Z
+updated: 2024-06-01T12:47:17.685Z
 tags:
   - ai video
   - ai youtube
@@ -634,3 +634,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

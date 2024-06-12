@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Editor's Playbook  Essential Strategies for Youtube Video Crafting\""
-date: 2024-05-29 18:35:37
-updated: 2024-05-31 10:28:35
+date: 2024-05-31T12:44:01.308Z
+updated: 2024-06-01T12:44:01.308Z
 tags:
   - ai video
   - ai youtube
@@ -970,3 +970,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

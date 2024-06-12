@@ -1,7 +1,7 @@
 ---
 title: "[New] How Big Should a Good Thumbnail Be? YouTube's Ultimate Guide"
-date: 2024-05-25 15:26:59
-updated: 2024-05-27 12:26:52
+date: 2024-05-31T12:48:31.865Z
+updated: 2024-06-01T12:48:31.865Z
 tags:
   - ai video
   - ai youtube
@@ -1238,3 +1238,4 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

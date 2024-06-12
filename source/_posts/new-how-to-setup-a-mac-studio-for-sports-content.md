@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Setup a Mac Studio for Sports Content"
-date: 2024-05-25 14:56:21
-updated: 2024-05-27 10:11:15
+date: 2024-05-31T12:40:31.367Z
+updated: 2024-06-01T12:40:31.367Z
 tags:
   - ai video
   - ai youtube
@@ -879,3 +879,4 @@ Now you know what to do and what not to do when it comes to recording and editin
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

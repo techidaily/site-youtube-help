@@ -1,7 +1,7 @@
 ---
 title: "How to Tailor YouTube Thumbnails for Maximum Impact for 2024"
-date: 2024-05-24 21:43:25
-updated: 2024-05-27 11:31:36
+date: 2024-05-31T12:47:04.833Z
+updated: 2024-06-01T12:47:04.833Z
 tags:
   - ai video
   - ai youtube
@@ -908,3 +908,4 @@ Finding the best prank channels on YouTube to crack your rib during your boring 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

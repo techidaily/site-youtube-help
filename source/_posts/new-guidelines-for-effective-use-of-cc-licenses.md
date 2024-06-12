@@ -1,7 +1,7 @@
 ---
 title: "[New] Guidelines for Effective Use of CC Licenses"
-date: 2024-05-24 17:40:21
-updated: 2024-05-27 12:57:21
+date: 2024-05-31T12:47:40.847Z
+updated: 2024-06-01T12:47:40.847Z
 tags:
   - ai video
   - ai youtube
@@ -843,3 +843,4 @@ Filmora templates are fully customizable, meaning you can change the text, image
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

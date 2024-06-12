@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Songwriting in Action  A Guide to Creating Content with Musicians\""
-date: 2024-05-27 10:56:53
-updated: 2024-05-30 12:16:10
+date: 2024-05-31T12:48:06.900Z
+updated: 2024-06-01T12:48:06.900Z
 tags:
   - ai video
   - ai youtube
@@ -698,3 +698,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

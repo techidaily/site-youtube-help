@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Simplify Your Videos - Discover the Top 10 Online Trimmers\""
-date: 2024-05-27 20:18:26
-updated: 2024-05-30 11:32:11
+date: 2024-05-31T12:43:21.852Z
+updated: 2024-06-01T12:43:21.852Z
 tags:
   - ai video
   - ai youtube
@@ -1350,3 +1350,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

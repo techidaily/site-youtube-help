@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Future of Development  Understanding the Impact of Next-Gen Frameworks\""
-date: 2024-05-29 11:16:46
-updated: 2024-05-31 12:47:32
+date: 2024-05-31T12:41:38.909Z
+updated: 2024-06-01T12:41:38.909Z
 tags:
   - ai video
   - ai youtube
@@ -400,3 +400,4 @@ This guide was informative enough to answer most of your queries, and after read
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

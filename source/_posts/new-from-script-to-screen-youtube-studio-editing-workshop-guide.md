@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Script to Screen  YouTube Studio Editing Workshop Guide\""
-date: 2024-05-26 21:35:58
-updated: 2024-05-27 10:49:46
+date: 2024-05-31T12:41:05.573Z
+updated: 2024-06-01T12:41:05.573Z
 tags:
   - ai video
   - ai youtube
@@ -1522,3 +1522,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

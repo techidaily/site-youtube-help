@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Harmonizing YouTube Production with a 9-to-5 Routine\""
-date: 2024-05-24 16:23:52
-updated: 2024-05-27 11:45:53
+date: 2024-05-31T12:44:01.002Z
+updated: 2024-06-01T12:44:01.002Z
 tags:
   - ai video
   - ai youtube
@@ -546,3 +546,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

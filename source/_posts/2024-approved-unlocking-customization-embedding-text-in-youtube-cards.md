@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking Customization  Embedding Text in YouTube Cards\""
-date: 2024-05-29 16:50:28
-updated: 2024-06-01 10:18:13
+date: 2024-05-31T12:44:16.652Z
+updated: 2024-06-01T12:44:16.652Z
 tags:
   - ai video
   - ai youtube
@@ -1066,3 +1066,4 @@ Do you share your computer with other fellows? The chances are that someone hit 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

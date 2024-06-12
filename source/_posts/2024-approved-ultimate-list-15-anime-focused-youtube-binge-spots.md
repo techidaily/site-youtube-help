@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultimate List  15 Anime-Focused YouTube Binge Spots\""
-date: 2024-05-29 14:15:41
-updated: 2024-06-01 10:22:10
+date: 2024-05-31T12:42:30.700Z
+updated: 2024-06-01T12:42:30.700Z
 tags:
   - ai video
   - ai youtube
@@ -1100,3 +1100,4 @@ Yet, it would help if you didn't forget the most important thing: the video itse
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

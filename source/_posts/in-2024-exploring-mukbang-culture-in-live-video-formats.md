@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Exploring Mukbang Culture in Live Video Formats"
-date: 2024-05-25 17:21:47
-updated: 2024-05-26 12:36:20
+date: 2024-05-31T12:47:19.242Z
+updated: 2024-06-01T12:47:19.242Z
 tags:
   - ai video
   - ai youtube
@@ -878,3 +878,4 @@ YouTube's music library is relatively small. The songs include both traditional 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

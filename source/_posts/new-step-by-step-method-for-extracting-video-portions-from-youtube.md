@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Method for Extracting Video Portions From YouTube\""
-date: 2024-05-29 10:16:46
-updated: 2024-05-30 12:53:49
+date: 2024-05-31T12:44:47.707Z
+updated: 2024-06-01T12:44:47.707Z
 tags:
   - ai video
   - ai youtube
@@ -1110,3 +1110,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

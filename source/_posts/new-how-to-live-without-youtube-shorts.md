@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Live Without YouTube Shorts"
-date: 2024-05-24 21:32:24
-updated: 2024-05-27 12:49:59
+date: 2024-05-31T12:44:23.117Z
+updated: 2024-06-01T12:44:23.117Z
 tags:
   - ai video
   - ai youtube
@@ -1094,3 +1094,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

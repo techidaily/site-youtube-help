@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Payout Patterns  AdSense Earnings From YouTube for Every Thousand Viewers\""
-date: 2024-05-27 16:36:25
-updated: 2024-05-29 10:34:45
+date: 2024-05-31T12:45:38.522Z
+updated: 2024-06-01T12:45:38.522Z
 tags:
   - ai video
   - ai youtube
@@ -802,3 +802,4 @@ Filmora templates are fully customizable, meaning you can change the text, image
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

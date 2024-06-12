@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering YT Video Tweaks with Windows Movie Maker\""
-date: 2024-05-25 19:21:34
-updated: 2024-05-28 11:19:34
+date: 2024-05-31T12:41:48.721Z
+updated: 2024-06-01T12:41:48.721Z
 tags:
   - ai video
   - ai youtube
@@ -802,3 +802,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

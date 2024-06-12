@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Beginner's Guide to Video Equipment Selection"
-date: 2024-05-28 22:38:19
-updated: 2024-05-31 10:20:46
+date: 2024-05-31T12:47:29.616Z
+updated: 2024-06-01T12:47:29.616Z
 tags:
   - ai video
   - ai youtube
@@ -926,3 +926,4 @@ You are not limited to using any video file format. Several reasons may also com
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

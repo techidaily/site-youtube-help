@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Handbook for Optimal YouTube Banners & Art Sizes\""
-date: 2024-05-29 22:20:55
-updated: 2024-05-31 10:16:11
+date: 2024-05-31T12:43:51.374Z
+updated: 2024-06-01T12:43:51.374Z
 tags:
   - ai video
   - ai youtube
@@ -794,3 +794,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

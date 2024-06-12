@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 7 DSLR Gear For Professional Influencers' Live Demonstrations"
-date: 2024-05-30 18:58:24
-updated: 2024-05-31 12:24:34
+date: 2024-05-31T12:42:59.880Z
+updated: 2024-06-01T12:42:59.880Z
 tags:
   - ai video
   - ai youtube
@@ -1054,3 +1054,4 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

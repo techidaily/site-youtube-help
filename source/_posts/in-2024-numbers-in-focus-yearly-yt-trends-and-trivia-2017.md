@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Numbers in Focus! Yearly YT Trends & Trivia (2017)"
-date: 2024-05-27 16:12:36
-updated: 2024-05-29 11:41:23
+date: 2024-05-31T12:40:11.241Z
+updated: 2024-06-01T12:40:11.241Z
 tags:
   - ai video
   - ai youtube
@@ -1062,3 +1062,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

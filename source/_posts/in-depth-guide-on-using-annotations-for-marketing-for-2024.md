@@ -1,7 +1,7 @@
 ---
 title: "\"In-Depth Guide on Using Annotations for Marketing for 2024\""
-date: 2024-05-25 23:59:52
-updated: 2024-05-27 10:44:50
+date: 2024-05-31T12:44:22.979Z
+updated: 2024-06-01T12:44:22.979Z
 tags:
   - ai video
   - ai youtube
@@ -666,3 +666,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

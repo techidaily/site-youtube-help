@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Protecting Your Work  YouTube Copyright Essentials Explained\""
-date: 2024-05-27 14:18:49
-updated: 2024-05-29 12:41:26
+date: 2024-05-31T12:45:07.659Z
+updated: 2024-06-01T12:45:07.659Z
 tags:
   - ai video
   - ai youtube
@@ -1126,3 +1126,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

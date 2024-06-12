@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Peak Playtime Power  YT's Top 10 by View Count\""
-date: 2024-05-26 19:17:44
-updated: 2024-05-29 10:20:47
+date: 2024-05-31T12:45:38.270Z
+updated: 2024-06-01T12:45:38.270Z
 tags:
   - ai video
   - ai youtube
@@ -788,3 +788,4 @@ The YouTube Creator Studio allows you to manage your channel and content in a ce
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

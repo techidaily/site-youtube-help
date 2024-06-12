@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking Green Screen Magic  Video Production Tips\""
-date: 2024-05-29 13:52:57
-updated: 2024-06-01 11:14:57
+date: 2024-05-31T12:47:42.310Z
+updated: 2024-06-01T12:47:42.310Z
 tags:
   - ai video
   - ai youtube
@@ -662,3 +662,4 @@ There are 60.8 million subscribers. Vlad and Niki maintain the popularity of chi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

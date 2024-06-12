@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top Thumbnails  The Ultimate Guide to Optimal YouTube Sizes\""
-date: 2024-05-30 12:55:29
-updated: 2024-05-31 12:53:30
+date: 2024-05-31T12:45:21.884Z
+updated: 2024-06-01T12:45:21.884Z
 tags:
   - ai video
   - ai youtube
@@ -994,3 +994,4 @@ You can now sync audio and create a realistic moment as if you are sitting among
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

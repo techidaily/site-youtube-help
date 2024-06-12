@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Making a Splash with YouTube Ad Banners & Thumbnails"
-date: 2024-05-25 23:49:54
-updated: 2024-05-28 12:47:18
+date: 2024-05-31T12:38:50.570Z
+updated: 2024-06-01T12:38:50.570Z
 tags:
   - ai video
   - ai youtube
@@ -486,3 +486,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

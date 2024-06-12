@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Legal Limits of Capturing YouTube Video Footage"
-date: 2024-05-30 19:11:52
-updated: 2024-05-31 10:13:59
+date: 2024-05-31T12:42:50.067Z
+updated: 2024-06-01T12:42:50.067Z
 tags:
   - ai video
   - ai youtube
@@ -871,3 +871,4 @@ Good luck with your endeavors as a content creator, musician, comedian, or whate
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"Leaders in Learning  Select Sci-YT Channels for 2024\""
-date: 2024-05-25 19:12:18
-updated: 2024-05-28 10:40:52
+date: 2024-05-31T12:40:12.582Z
+updated: 2024-06-01T12:40:12.582Z
 tags:
   - ai video
   - ai youtube
@@ -1702,3 +1702,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

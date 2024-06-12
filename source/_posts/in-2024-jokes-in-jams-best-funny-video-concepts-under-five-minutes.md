@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Jokes in Jams  Best Funny Video Concepts Under Five Minutes\""
-date: 2024-05-25 17:17:48
-updated: 2024-05-28 10:15:32
+date: 2024-05-31T12:43:40.544Z
+updated: 2024-06-01T12:43:40.544Z
 tags:
   - ai video
   - ai youtube
@@ -974,3 +974,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

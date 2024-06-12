@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Master Class in Music Production  DJ Video Samples Galore\""
-date: 2024-05-27 17:58:53
-updated: 2024-05-28 10:24:50
+date: 2024-05-31T12:40:49.075Z
+updated: 2024-06-01T12:40:49.075Z
 tags:
   - ai video
   - ai youtube
@@ -866,3 +866,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

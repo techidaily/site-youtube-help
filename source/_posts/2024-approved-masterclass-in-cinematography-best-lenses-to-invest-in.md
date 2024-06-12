@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Masterclass in Cinematography  Best Lenses to Invest In\""
-date: 2024-05-26 18:47:47
-updated: 2024-05-28 12:44:42
+date: 2024-05-31T12:47:36.796Z
+updated: 2024-06-01T12:47:36.796Z
 tags:
   - ai video
   - ai youtube
@@ -685,3 +685,4 @@ To save and access your live streaming sessions later, you can try the screen re
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Seamless Transitions  Smooth Editing Techniques for YouTube Content\""
-date: 2024-05-28 11:12:45
-updated: 2024-05-30 10:12:47
+date: 2024-05-31T12:40:38.317Z
+updated: 2024-06-01T12:40:38.317Z
 tags:
   - ai video
   - ai youtube
@@ -810,3 +810,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

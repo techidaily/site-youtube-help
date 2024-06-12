@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mirthful Media  YouTube's Top 20 for a Chuckle\""
-date: 2024-05-27 19:38:58
-updated: 2024-05-28 11:46:31
+date: 2024-05-31T12:41:59.782Z
+updated: 2024-06-01T12:41:59.782Z
 tags:
   - ai video
   - ai youtube
@@ -1138,3 +1138,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

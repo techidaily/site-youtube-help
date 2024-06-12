@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Future of Advertising on YouTube Shorts\""
-date: 2024-05-30 23:41:42
-updated: 2024-05-31 11:41:36
+date: 2024-05-31T12:38:22.901Z
+updated: 2024-06-01T12:38:22.901Z
 tags:
   - ai video
   - ai youtube
@@ -814,3 +814,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

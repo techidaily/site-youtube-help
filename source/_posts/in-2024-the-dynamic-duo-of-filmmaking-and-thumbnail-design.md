@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Dynamic Duo of Filmmaking and Thumbnail Design"
-date: 2024-05-28 20:26:16
-updated: 2024-05-31 11:43:55
+date: 2024-05-31T12:42:18.959Z
+updated: 2024-06-01T12:42:18.959Z
 tags:
   - ai video
   - ai youtube
@@ -847,3 +847,4 @@ The best science YouTube channels have one thing in common- high-quality content
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

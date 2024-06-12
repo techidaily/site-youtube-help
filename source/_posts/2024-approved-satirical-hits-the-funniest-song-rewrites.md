@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Satirical Hits  The Funniest Song Rewrites\""
-date: 2024-05-28 16:27:43
-updated: 2024-05-29 11:52:11
+date: 2024-05-31T12:48:44.797Z
+updated: 2024-06-01T12:48:44.797Z
 tags:
   - ai video
   - ai youtube
@@ -1074,3 +1074,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

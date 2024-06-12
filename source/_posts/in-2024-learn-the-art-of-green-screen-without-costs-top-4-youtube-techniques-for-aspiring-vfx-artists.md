@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Learn the Art of Green Screen Without Costs  Top 4 YouTube Techniques for Aspiring VFX Artists\""
-date: 2024-05-26 16:56:35
-updated: 2024-05-28 11:53:13
+date: 2024-05-31T12:45:22.695Z
+updated: 2024-06-01T12:45:22.695Z
 tags:
   - ai video
   - ai youtube
@@ -566,3 +566,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

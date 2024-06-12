@@ -1,7 +1,7 @@
 ---
 title: "10 Best Yoga YouTube Channel to Help You Stay Fit for 2024"
-date: 2024-05-29 20:56:53
-updated: 2024-05-31 12:49:35
+date: 2024-05-31T12:43:10.239Z
+updated: 2024-06-01T12:43:10.239Z
 tags:
   - ai video
   - ai youtube
@@ -1003,3 +1003,4 @@ Filmora templates are fully customizable, meaning you can change the text, image
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

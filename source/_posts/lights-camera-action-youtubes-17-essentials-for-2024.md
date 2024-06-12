@@ -1,7 +1,7 @@
 ---
 title: "\"Lights, Camera, Action! - YouTube's #17 Essentials for 2024\""
-date: 2024-05-27 11:33:11
-updated: 2024-05-28 12:41:20
+date: 2024-05-31T12:39:19.087Z
+updated: 2024-06-01T12:39:19.087Z
 tags:
   - ai video
   - ai youtube
@@ -942,3 +942,4 @@ Hopefully, you've found this article helpful and can now locate your YouTube Mus
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Premier 10 Sound Scaling Options  PCs & Phones\""
-date: 2024-05-28 21:41:53
-updated: 2024-05-29 10:26:47
+date: 2024-05-31T12:48:52.323Z
+updated: 2024-06-01T12:48:52.323Z
 tags:
   - ai video
   - ai youtube
@@ -1030,3 +1030,4 @@ Of course not! What you pull from your YouTube channel is the kind of video that
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

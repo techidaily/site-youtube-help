@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering YouTube Video Composition Techniques"
-date: 2024-05-26 16:45:31
-updated: 2024-05-28 11:51:58
+date: 2024-05-31T12:41:01.817Z
+updated: 2024-06-01T12:41:01.817Z
 tags:
   - ai video
   - ai youtube
@@ -1070,3 +1070,4 @@ What are some of your favorite unboxing videos? Comment down below!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

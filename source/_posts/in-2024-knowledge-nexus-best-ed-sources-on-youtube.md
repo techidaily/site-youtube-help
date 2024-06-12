@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Knowledge Nexus  Best Ed Sources on YouTube\""
-date: 2024-05-27 21:30:12
-updated: 2024-05-28 12:36:24
+date: 2024-05-31T12:47:49.393Z
+updated: 2024-06-01T12:47:49.393Z
 tags:
   - ai video
   - ai youtube
@@ -854,3 +854,4 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

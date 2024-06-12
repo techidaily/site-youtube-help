@@ -1,7 +1,7 @@
 ---
 title: "11 Fitness YouTube Video Ideas to Keep You and Your Viewers Moving for 2024"
-date: 2024-05-24 12:15:56
-updated: 2024-05-27 10:28:30
+date: 2024-05-31T12:47:21.069Z
+updated: 2024-06-01T12:47:21.069Z
 tags:
   - ai video
   - ai youtube
@@ -934,3 +934,4 @@ Stylish effects like overlays and transitions can give you a compelling piece of
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

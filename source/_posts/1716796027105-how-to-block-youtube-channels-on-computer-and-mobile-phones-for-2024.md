@@ -1,7 +1,7 @@
 ---
 title: "How to Block Youtube Channels on Computer and Mobile Phones for 2024"
-date: 2024-05-25 14:36:41
-updated: 2024-05-27 11:40:56
+date: 2024-05-31T12:47:38.807Z
+updated: 2024-06-01T12:47:38.807Z
 tags:
   - ai video
   - ai youtube
@@ -1002,3 +1002,4 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+

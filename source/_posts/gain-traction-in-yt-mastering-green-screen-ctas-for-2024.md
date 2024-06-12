@@ -1,7 +1,7 @@
 ---
 title: "\"Gain Traction in YT  Mastering Green Screen CTAs for 2024\""
-date: 2024-05-26 23:21:43
-updated: 2024-05-27 12:26:23
+date: 2024-05-31T12:41:07.240Z
+updated: 2024-06-01T12:41:07.240Z
 tags:
   - ai video
   - ai youtube
@@ -898,3 +898,4 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
