@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Passive to Active  A 3-Step Framework to Evaluate Your YouTube Financials\""
-date: 2024-05-31T12:42:41.340Z
-updated: 2024-06-01T12:42:41.340Z
+date: 2024-06-20T02:52:23.276Z
+updated: 2024-06-21T02:52:23.276Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "\"This Article Describes [New] From Passive to Active: A 3-Step Framework to Evaluate Your YouTube Financials\""
 excerpt: "\"This Article Describes [New] From Passive to Active: A 3-Step Framework to Evaluate Your YouTube Financials\""
 keywords: "Youtube Financial Growth,Channel Revenue Analysis,Video Profitability Review,Content Monetization Strategy,Ad Engagement Metrics,YouTube Income Optimization,Earnings Framework for Streamers"
-thumbnail: https://www.lifewire.com/thmb/B5Rf1LEJVXTJDXtQFV2DWw9iDoM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-827891530-5bbe624446e0fb0026c95aad.jpg
+thumbnail: https://thmb.techidaily.com/58f32787f189e5c81c275c54898b5f9f19257cc09edc660acfbd429a0158f5b0.jpg
 ---
 
 ## From Passive to Active: A 3-Step Framework to Evaluate Your YouTube Financials
@@ -561,15 +561,15 @@ You can use softboxes, LED panels, clamp lights, household lamps, or any other l
 
 ####  
 
-#### 1\. [**Neewer Dimmable Fluorescent Ring Light**](https://www.amazon.com/Neewer-Camera-Photo-Video-Lighting/dp/B01LXDNNBW/ref=sr%5F1%5F1%5Fsspa?s=electronics&ie=UTF8&qid=1530136282&sr=1-1-spons&keywords=neewer+dimmable+ring+light&psc=1) **\- $110**
+#### 1\. **Neewer Dimmable Fluorescent Ring Light**
 
 One cool feature of the Neewer Ring Light is that you can choose between daylight and a more orange-tinted light depending on which of the included filters you use. In almost all situations you’ll want to use white light/daylight because the orange light will make you look orange, but if you ever wanted to create a warmer image to achieve a particular effect you’d have that option with this light.
 
-![Neewer Ring Light ](https://images.wondershare.com/filmora/article-images/neewer-ring-light5.jpg)
+![Neewer Ring Light](https://images.wondershare.com/filmora/article-images/neewer-ring-light5.jpg)
 
 This light is dimmable and can be adjusted to the angle that suits your shot. That’s true of our number 2 pick too, and the second place light actually has a slight edge over the Neewer light because its color temperature is 5400K which is slightly closer to daylight than Neewer’s 5500K, but that’s honestly not super important for YouTube. They’re close enough that you won’t be able to tell the difference, and this light is over $100 more affordable.
 
-#### 2\. [**Prismatic Halo Ring Light**](https://www.amazon.com/Prismatic-Halo-Ring-Light-Stand/dp/B015NJ2YHY/ref=sr%5F1%5F3?s=electronics&ie=UTF8&qid=1530135663&sr=1-3&keywords=prismatic+18%22+halo+ring+light) **\- $260**
+#### 2\. **Prismatic Halo Ring Light**
 
 This lightweight ring light is easy to transport, set up, and mount your phone or camera to. It’s a fluorescent ‘daylight’ (5400K) light, so the colors in your videos will look natural.
 
@@ -824,15 +824,15 @@ You can use softboxes, LED panels, clamp lights, household lamps, or any other l
 
 ####  
 
-#### 1\. [**Neewer Dimmable Fluorescent Ring Light**](https://www.amazon.com/Neewer-Camera-Photo-Video-Lighting/dp/B01LXDNNBW/ref=sr%5F1%5F1%5Fsspa?s=electronics&ie=UTF8&qid=1530136282&sr=1-1-spons&keywords=neewer+dimmable+ring+light&psc=1) **\- $110**
+#### 1\. **Neewer Dimmable Fluorescent Ring Light**
 
 One cool feature of the Neewer Ring Light is that you can choose between daylight and a more orange-tinted light depending on which of the included filters you use. In almost all situations you’ll want to use white light/daylight because the orange light will make you look orange, but if you ever wanted to create a warmer image to achieve a particular effect you’d have that option with this light.
 
-![Neewer Ring Light ](https://images.wondershare.com/filmora/article-images/neewer-ring-light5.jpg)
+![Neewer Ring Light](https://images.wondershare.com/filmora/article-images/neewer-ring-light5.jpg)
 
 This light is dimmable and can be adjusted to the angle that suits your shot. That’s true of our number 2 pick too, and the second place light actually has a slight edge over the Neewer light because its color temperature is 5400K which is slightly closer to daylight than Neewer’s 5500K, but that’s honestly not super important for YouTube. They’re close enough that you won’t be able to tell the difference, and this light is over $100 more affordable.
 
-#### 2\. [**Prismatic Halo Ring Light**](https://www.amazon.com/Prismatic-Halo-Ring-Light-Stand/dp/B015NJ2YHY/ref=sr%5F1%5F3?s=electronics&ie=UTF8&qid=1530135663&sr=1-3&keywords=prismatic+18%22+halo+ring+light) **\- $260**
+#### 2\. **Prismatic Halo Ring Light**
 
 This lightweight ring light is easy to transport, set up, and mount your phone or camera to. It’s a fluorescent ‘daylight’ (5400K) light, so the colors in your videos will look natural.
 
@@ -1087,15 +1087,15 @@ You can use softboxes, LED panels, clamp lights, household lamps, or any other l
 
 ####  
 
-#### 1\. [**Neewer Dimmable Fluorescent Ring Light**](https://www.amazon.com/Neewer-Camera-Photo-Video-Lighting/dp/B01LXDNNBW/ref=sr%5F1%5F1%5Fsspa?s=electronics&ie=UTF8&qid=1530136282&sr=1-1-spons&keywords=neewer+dimmable+ring+light&psc=1) **\- $110**
+#### 1\. **Neewer Dimmable Fluorescent Ring Light**
 
 One cool feature of the Neewer Ring Light is that you can choose between daylight and a more orange-tinted light depending on which of the included filters you use. In almost all situations you’ll want to use white light/daylight because the orange light will make you look orange, but if you ever wanted to create a warmer image to achieve a particular effect you’d have that option with this light.
 
-![Neewer Ring Light ](https://images.wondershare.com/filmora/article-images/neewer-ring-light5.jpg)
+![Neewer Ring Light](https://images.wondershare.com/filmora/article-images/neewer-ring-light5.jpg)
 
 This light is dimmable and can be adjusted to the angle that suits your shot. That’s true of our number 2 pick too, and the second place light actually has a slight edge over the Neewer light because its color temperature is 5400K which is slightly closer to daylight than Neewer’s 5500K, but that’s honestly not super important for YouTube. They’re close enough that you won’t be able to tell the difference, and this light is over $100 more affordable.
 
-#### 2\. [**Prismatic Halo Ring Light**](https://www.amazon.com/Prismatic-Halo-Ring-Light-Stand/dp/B015NJ2YHY/ref=sr%5F1%5F3?s=electronics&ie=UTF8&qid=1530135663&sr=1-3&keywords=prismatic+18%22+halo+ring+light) **\- $260**
+#### 2\. **Prismatic Halo Ring Light**
 
 This lightweight ring light is easy to transport, set up, and mount your phone or camera to. It’s a fluorescent ‘daylight’ (5400K) light, so the colors in your videos will look natural.
 
@@ -1350,15 +1350,15 @@ You can use softboxes, LED panels, clamp lights, household lamps, or any other l
 
 ####  
 
-#### 1\. [**Neewer Dimmable Fluorescent Ring Light**](https://www.amazon.com/Neewer-Camera-Photo-Video-Lighting/dp/B01LXDNNBW/ref=sr%5F1%5F1%5Fsspa?s=electronics&ie=UTF8&qid=1530136282&sr=1-1-spons&keywords=neewer+dimmable+ring+light&psc=1) **\- $110**
+#### 1\. **Neewer Dimmable Fluorescent Ring Light**
 
 One cool feature of the Neewer Ring Light is that you can choose between daylight and a more orange-tinted light depending on which of the included filters you use. In almost all situations you’ll want to use white light/daylight because the orange light will make you look orange, but if you ever wanted to create a warmer image to achieve a particular effect you’d have that option with this light.
 
-![Neewer Ring Light ](https://images.wondershare.com/filmora/article-images/neewer-ring-light5.jpg)
+![Neewer Ring Light](https://images.wondershare.com/filmora/article-images/neewer-ring-light5.jpg)
 
 This light is dimmable and can be adjusted to the angle that suits your shot. That’s true of our number 2 pick too, and the second place light actually has a slight edge over the Neewer light because its color temperature is 5400K which is slightly closer to daylight than Neewer’s 5500K, but that’s honestly not super important for YouTube. They’re close enough that you won’t be able to tell the difference, and this light is over $100 more affordable.
 
-#### 2\. [**Prismatic Halo Ring Light**](https://www.amazon.com/Prismatic-Halo-Ring-Light-Stand/dp/B015NJ2YHY/ref=sr%5F1%5F3?s=electronics&ie=UTF8&qid=1530135663&sr=1-3&keywords=prismatic+18%22+halo+ring+light) **\- $260**
+#### 2\. **Prismatic Halo Ring Light**
 
 This lightweight ring light is easy to transport, set up, and mount your phone or camera to. It’s a fluorescent ‘daylight’ (5400K) light, so the colors in your videos will look natural.
 
@@ -1445,3 +1445,26 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-fostering-relationships-not-just-viewers-a-guide-to-subscriptions/"><u>2024 Approved  Fostering Relationships, Not Just Viewers  A Guide to Subscriptions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-uncovering-the-truth-behind-4-second-youtube-subscriptions/"><u>In 2024, Uncovering the Truth Behind 4-Second YouTube Subscriptions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-key-elements-impacting-youtube-content-visibility/"><u>In 2024, Key Elements Impacting YouTube Content Visibility</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-skyrocket-viewer-count-the-most-proven-ways-to-enhance-views/"><u>In 2024, Skyrocket Viewer Count  The Most Proven Ways to Enhance Views</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-new-buzzwords-for-vlogger-dialogues/"><u>In 2024, New Buzzwords for Vlogger Dialogues</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-shortcut-to-go-to-tags-maximizing-your-youtube-impact/"><u>[New] Shortcut to Go-To Tags  Maximizing Your YouTube Impact</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-quick-recap-of-chromakey-and-green-screen-processes/"><u>[New] Quick Recap of Chromakey and Green Screen Processes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-make-a-youtube-reaction-video/"><u>In 2024, How to Make a YouTube Reaction Video?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-youtubes-featured-slot-a-detailed-explanimation-for-2024/"><u>Navigating YouTube's Featured Slot  A Detailed Explanimation for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-a2-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi A2 To Phone | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-quick-guide-to-finding-exceptional-pexels-visuals/"><u>[New] Quick Guide to Finding Exceptional Pexels Visuals</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-cream-of-the-crop-top-premiere-pro-transition-plugins/"><u>New The Cream of the Crop Top Premiere Pro Transition Plugins</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-premier-discord-font-makers-seamless-online-and-portable-use/"><u>[New] In 2024, Premier Discord Font Makers - Seamless Online & Portable Use</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-oppo-a38-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Oppo A38 Phones with/without a PC</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-budget-cameras-for-creating-quality-vlogs/"><u>[New] 2024 Approved  Best Budget Cameras for Creating Quality Vlogs</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-how-to-download-soundcloud-songs-as-mp3-files/"><u>Updated 2024 Approved How to Download Soundcloud Songs as MP3 Files</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-how-to-record-screen-and-video-on-android-in-2024/"><u>[New] How to Record Screen and Video on Android, In 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-itel-p40plus-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Itel P40+ Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For ZTE Blade A73 5G | Dr.fone</u></a></li>
+</ul></div>
