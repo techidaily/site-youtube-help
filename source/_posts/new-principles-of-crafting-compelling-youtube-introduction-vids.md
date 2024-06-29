@@ -1,7 +1,7 @@
 ---
 title: "[New] Principles of Crafting Compelling YouTube Introduction Vids"
-date: 2024-05-31T12:42:47.004Z
-updated: 2024-06-01T12:42:47.004Z
+date: 2024-06-28T04:38:30.200Z
+updated: 2024-06-29T04:38:30.200Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "This Article Describes [New] Principles of Crafting Compelling YouTube Introduction Vids"
 excerpt: "This Article Describes [New] Principles of Crafting Compelling YouTube Introduction Vids"
 keywords: "YouTube Intro Vids Basics,Engaging Video Beginnings,Crafting Video Openings,Captivating Vid Startups,Introduction Vid Techniques,Compelling Vid Debuts,Effective Video Hooks"
-thumbnail: https://www.lifewire.com/thmb/huwSbK2d3evbFLZP84WrnC3KCxM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Board-Game-25eaf89cd79e445ebe7ce23aeb8a892a.jpg
+thumbnail: https://thmb.techidaily.com/b65c1700fc3be6103fe73469bcdff9ebd5593034f3622d27aea03408c9719ceb.jpg
 ---
 
 ## Principles of Crafting Compelling YouTube Introduction Vids
@@ -32,7 +32,7 @@ In other words, a YouTube trailer is necessary for your channel. It will give th
 
 ## Part 2\. Don't know where to start?
 
-So you want to create a trailer and need help figuring out where to start? What if there are templates that will help you make your trailer and simplifies your work? Yes! [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) will make your way easy and give you unlimited effects.
+So you want to create a trailer and need help figuring out where to start? What if there are templates that will help you make your trailer and simplifies your work? Yes ![Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) will make your way easy and give you unlimited effects.
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
@@ -122,7 +122,7 @@ Alright! Following the steps mentioned above, you will be able to create a good 
 
 ## Part 2\. Don't know where to start?
 
-So you want to create a trailer and need help figuring out where to start? What if there are templates that will help you make your trailer and simplifies your work? Yes! [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) will make your way easy and give you unlimited effects.
+So you want to create a trailer and need help figuring out where to start? What if there are templates that will help you make your trailer and simplifies your work? Yes ![Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) will make your way easy and give you unlimited effects.
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
@@ -254,21 +254,21 @@ In this post, we’re going to kick things up a bit. Here is a list of places wh
 
  All of these resources will teach Adobe After Effects, or a similar paid software. If you do not have access to Adobe After Effects, you might want to check out our post on [affordable animation software for video creators](https://www.filmora.io/community-blog/free-or-cheap-animation-software-for-video-creators-122.html).
 
-## **[Mt. Mograph](https://www.youtube.com/channel/UCSUSgx9qc%5FNydrOL59xbJIA)**
+## ** Mt. Mograph
 
 On this YouTube channel, motion graphics specialist Matt offers free animation tutorials using a variety of programs including Adobe After Effects and Cinema 4D. His lessons are for a range of skill levels, from beginner to advanced. If you are just starting out then Mt.Mograph is a great resource.
 
-## **[Richard Harrington on Lynda](https://www.lynda.com/Rich-Harrington/120-1.html)**
+## ** Richard Harrington on Lynda
 
 Lynda isn’t free, but the 10-day free trial period is definitely long enough for you to watch this two-hour course.
 
 What’s great about this course is that it assumes you have no animation experience, and it walks you through the main thing a lot of YouTubers want to learn animation for – creating an animated logo.
 
-## **[Bloop Animation](https://www.bloopanimation.com/)**
+## ** Bloop Animation
 
  Most of the video animation courses on this site are paid, but they have a lot of cool free tutorials as well. The focus is more on animating figures/cartoons than video effects, but if you have any interest in animation more generally then this is a great place to start learning. They even have a free ebook you can download which is targeted at beginners.
 
-## **[Video Copilot](http://www.videocopilot.net/)**
+## ** Video Copilot
 
 This site has a huge number of free After Effects tutorials. There are basic introductory lessons, and really advanced classes on creating custom cinematic FX, like explosions. There’s even a playlist on title design, which will be useful for anyone looking to create an intro sequence for their videos.
 
@@ -306,21 +306,21 @@ In this post, we’re going to kick things up a bit. Here is a list of places wh
 
  All of these resources will teach Adobe After Effects, or a similar paid software. If you do not have access to Adobe After Effects, you might want to check out our post on [affordable animation software for video creators](https://www.filmora.io/community-blog/free-or-cheap-animation-software-for-video-creators-122.html).
 
-## **[Mt. Mograph](https://www.youtube.com/channel/UCSUSgx9qc%5FNydrOL59xbJIA)**
+## ** Mt. Mograph
 
 On this YouTube channel, motion graphics specialist Matt offers free animation tutorials using a variety of programs including Adobe After Effects and Cinema 4D. His lessons are for a range of skill levels, from beginner to advanced. If you are just starting out then Mt.Mograph is a great resource.
 
-## **[Richard Harrington on Lynda](https://www.lynda.com/Rich-Harrington/120-1.html)**
+## ** Richard Harrington on Lynda
 
 Lynda isn’t free, but the 10-day free trial period is definitely long enough for you to watch this two-hour course.
 
 What’s great about this course is that it assumes you have no animation experience, and it walks you through the main thing a lot of YouTubers want to learn animation for – creating an animated logo.
 
-## **[Bloop Animation](https://www.bloopanimation.com/)**
+## ** Bloop Animation
 
  Most of the video animation courses on this site are paid, but they have a lot of cool free tutorials as well. The focus is more on animating figures/cartoons than video effects, but if you have any interest in animation more generally then this is a great place to start learning. They even have a free ebook you can download which is targeted at beginners.
 
-## **[Video Copilot](http://www.videocopilot.net/)**
+## ** Video Copilot
 
 This site has a huge number of free After Effects tutorials. There are basic introductory lessons, and really advanced classes on creating custom cinematic FX, like explosions. There’s even a playlist on title design, which will be useful for anyone looking to create an intro sequence for their videos.
 
@@ -358,21 +358,21 @@ In this post, we’re going to kick things up a bit. Here is a list of places wh
 
  All of these resources will teach Adobe After Effects, or a similar paid software. If you do not have access to Adobe After Effects, you might want to check out our post on [affordable animation software for video creators](https://www.filmora.io/community-blog/free-or-cheap-animation-software-for-video-creators-122.html).
 
-## **[Mt. Mograph](https://www.youtube.com/channel/UCSUSgx9qc%5FNydrOL59xbJIA)**
+## ** Mt. Mograph
 
 On this YouTube channel, motion graphics specialist Matt offers free animation tutorials using a variety of programs including Adobe After Effects and Cinema 4D. His lessons are for a range of skill levels, from beginner to advanced. If you are just starting out then Mt.Mograph is a great resource.
 
-## **[Richard Harrington on Lynda](https://www.lynda.com/Rich-Harrington/120-1.html)**
+## ** Richard Harrington on Lynda
 
 Lynda isn’t free, but the 10-day free trial period is definitely long enough for you to watch this two-hour course.
 
 What’s great about this course is that it assumes you have no animation experience, and it walks you through the main thing a lot of YouTubers want to learn animation for – creating an animated logo.
 
-## **[Bloop Animation](https://www.bloopanimation.com/)**
+## ** Bloop Animation
 
  Most of the video animation courses on this site are paid, but they have a lot of cool free tutorials as well. The focus is more on animating figures/cartoons than video effects, but if you have any interest in animation more generally then this is a great place to start learning. They even have a free ebook you can download which is targeted at beginners.
 
-## **[Video Copilot](http://www.videocopilot.net/)**
+## ** Video Copilot
 
 This site has a huge number of free After Effects tutorials. There are basic introductory lessons, and really advanced classes on creating custom cinematic FX, like explosions. There’s even a playlist on title design, which will be useful for anyone looking to create an intro sequence for their videos.
 
@@ -410,21 +410,21 @@ In this post, we’re going to kick things up a bit. Here is a list of places wh
 
  All of these resources will teach Adobe After Effects, or a similar paid software. If you do not have access to Adobe After Effects, you might want to check out our post on [affordable animation software for video creators](https://www.filmora.io/community-blog/free-or-cheap-animation-software-for-video-creators-122.html).
 
-## **[Mt. Mograph](https://www.youtube.com/channel/UCSUSgx9qc%5FNydrOL59xbJIA)**
+## ** Mt. Mograph
 
 On this YouTube channel, motion graphics specialist Matt offers free animation tutorials using a variety of programs including Adobe After Effects and Cinema 4D. His lessons are for a range of skill levels, from beginner to advanced. If you are just starting out then Mt.Mograph is a great resource.
 
-## **[Richard Harrington on Lynda](https://www.lynda.com/Rich-Harrington/120-1.html)**
+## ** Richard Harrington on Lynda
 
 Lynda isn’t free, but the 10-day free trial period is definitely long enough for you to watch this two-hour course.
 
 What’s great about this course is that it assumes you have no animation experience, and it walks you through the main thing a lot of YouTubers want to learn animation for – creating an animated logo.
 
-## **[Bloop Animation](https://www.bloopanimation.com/)**
+## ** Bloop Animation
 
  Most of the video animation courses on this site are paid, but they have a lot of cool free tutorials as well. The focus is more on animating figures/cartoons than video effects, but if you have any interest in animation more generally then this is a great place to start learning. They even have a free ebook you can download which is targeted at beginners.
 
-## **[Video Copilot](http://www.videocopilot.net/)**
+## ** Video Copilot
 
 This site has a huge number of free After Effects tutorials. There are basic introductory lessons, and really advanced classes on creating custom cinematic FX, like explosions. There’s even a playlist on title design, which will be useful for anyone looking to create an intro sequence for their videos.
 
@@ -449,3 +449,26 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-premier-of-popularity-worldwide-top-subscribed-creators/"><u>2024 Approved  The Premier of Popularity  Worldwide Top Subscribed Creators</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-expert-recommendations-for-efficient-gif-makers/"><u>2024 Approved  Expert Recommendations for Efficient GIF Makers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-pranks-and-puns-playbook-7-clever-gags-for-video-virtuosos/"><u>2024 Approved  Pranks & Puns Playbook  7 Clever Gags for Video Virtuosos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-the-art-of-youtube-micro-clips/"><u>In 2024, Mastering the Art of YouTube Micro Clips</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-step-by-step-guide-creating-engaging-tech-product-videos/"><u>2024 Approved  Step-by-Step Guide  Creating Engaging Tech Product Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unlock-premium-image-quality-through-youtubes-av1-settings/"><u>2024 Approved  Unlock Premium Image Quality Through YouTube's AV1 Settings</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-making-the-leap-set-up-a-sports-vlog-on-macos/"><u>2024 Approved  Making the Leap  Set Up a Sports Vlog on macOS</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-incorporating-jump-cuts-for-smoother-edits/"><u>In 2024, Incorporating Jump Cuts for Smoother Edits</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mastering-recording-secrets-for-top-notch-audio-for-2024/"><u>Mastering Recording  Secrets for Top-Notch Audio for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-7-affordable-4k-mirrorless-cameras-(1000/"><u>[Updated] Top 7 Affordable 4K Mirrorless Cameras <$1,000</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/improve-auditory-experience-through-crossfade-adjustments-for-2024/"><u>Improve Auditory Experience Through Crossfade Adjustments for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-strategic-endings-keeping-viewers-engaged-on-yt/"><u>[New] Strategic Endings  Keeping Viewers Engaged on YT</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/secure-increase-in-your-tiktok-clout/"><u>Secure Increase in Your TikTok Clout</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/stunning-iphone-macro-photos-made-simple/"><u>Stunning iPhone Macro Photos Made Simple</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-ultimate-guide-to-adding-text-on-images/"><u>In 2024, Ultimate Guide to Adding Text on Images</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-become-a-pro-at-setting-up-vrecorder-fast/"><u>[New] Become a Pro at Setting Up VRecorder Fast</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-tickling-your-sense-of-humor-tiktoks-20-joke-highlights/"><u>2024 Approved  Tickling Your Sense of Humor  TikTok's 20 Joke Highlights</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-ultimate-guide-to-ipados-screen-capture/"><u>2024 Approved  Ultimate Guide to iPadOS Screen Capture</u></a></li>
+</ul></div>
