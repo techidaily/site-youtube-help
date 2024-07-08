@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Gentle Request for a Greater, Genuine Community\""
-date: 2024-05-31T12:39:46.073Z
-updated: 2024-06-01T12:39:46.073Z
+date: 2024-07-07T20:27:28.215Z
+updated: 2024-07-08T20:27:28.215Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Gentle Request for a Greater, Genuine Community\""
 excerpt: "\"This Article Describes 2024 Approved: Gentle Request for a Greater, Genuine Community\""
 keywords: "Gentle Community Building,Genuine Neighborhoods,Inclusive Communities,Wholehearted Connection,Authentic Bonds Strengthening,Sincere Group Uniting,Heartfelt Community Welfare"
-thumbnail: https://www.lifewire.com/thmb/jevn_ZQZhYjRiW3CTTFu74aAcbY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/why-car-battery-keeps-dying-4125506-a2fbb3e180be4fcfb8bdf42bd8ae1bb6.png
+thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0107a7a0c827d88713775503.png
 ---
 
 ## Gentle Request for a Greater, Genuine Community
@@ -52,7 +52,7 @@ Collins Key is one YouTuber who has mastered asking for subscribers early on, an
 
 As you can see, the video starts with a ‘flash forward’ to one of the twins saying the heater is on fire and then a reminder of what’s going to happen later – the heater catching fire – is written in the top left of the screen so it stays on the viewers' mind. This is one way in which the viewer is immediately hooked.
 
-![ how to ask people to subscribe](https://images.wondershare.com/filmora/article-images/ask-people-to-subscribe-by-hook.jpg)
+![how to ask people to subscribe](https://images.wondershare.com/filmora/article-images/ask-people-to-subscribe-by-hook.jpg)
 
 #### Step 2: Get to The Point Quickly
 
@@ -62,7 +62,7 @@ Shortly after, while still in the first 30 seconds of the video, Collins gets ri
 
 It’s only after hooking the viewer in and reiterating the promise of the title that Collins asks viewers to subscribe. The really clever thing about how he asks is that he carves out time in the video for the viewer to comply with his request. He gives 5 seconds and does a countdown.
 
-![ how to ask people to subscribe](https://images.wondershare.com/filmora/article-images/ask-people-to-subscribe-in-perfect-moment.jpg)
+![how to ask people to subscribe](https://images.wondershare.com/filmora/article-images/ask-people-to-subscribe-in-perfect-moment.jpg)
 
 Collins Key has been one of the fastest-growing channels on YouTube. He does not implement this strategy in every video, but it’s not a stretch to think it’s had something to do with his success. Instead of simply asking you to subscribe at the end of the video, he creates a part of the video early on – before people who don’t watch until the end will have clicked away – where you feel as if you’re ‘supposed to’ subscribe.
 
@@ -118,7 +118,7 @@ Collins Key is one YouTuber who has mastered asking for subscribers early on, an
 
 As you can see, the video starts with a ‘flash forward’ to one of the twins saying the heater is on fire and then a reminder of what’s going to happen later – the heater catching fire – is written in the top left of the screen so it stays on the viewers' mind. This is one way in which the viewer is immediately hooked.
 
-![ how to ask people to subscribe](https://images.wondershare.com/filmora/article-images/ask-people-to-subscribe-by-hook.jpg)
+![how to ask people to subscribe](https://images.wondershare.com/filmora/article-images/ask-people-to-subscribe-by-hook.jpg)
 
 #### Step 2: Get to The Point Quickly
 
@@ -128,7 +128,7 @@ Shortly after, while still in the first 30 seconds of the video, Collins gets ri
 
 It’s only after hooking the viewer in and reiterating the promise of the title that Collins asks viewers to subscribe. The really clever thing about how he asks is that he carves out time in the video for the viewer to comply with his request. He gives 5 seconds and does a countdown.
 
-![ how to ask people to subscribe](https://images.wondershare.com/filmora/article-images/ask-people-to-subscribe-in-perfect-moment.jpg)
+![how to ask people to subscribe](https://images.wondershare.com/filmora/article-images/ask-people-to-subscribe-in-perfect-moment.jpg)
 
 Collins Key has been one of the fastest-growing channels on YouTube. He does not implement this strategy in every video, but it’s not a stretch to think it’s had something to do with his success. Instead of simply asking you to subscribe at the end of the video, he creates a part of the video early on – before people who don’t watch until the end will have clicked away – where you feel as if you’re ‘supposed to’ subscribe.
 
@@ -184,7 +184,7 @@ Collins Key is one YouTuber who has mastered asking for subscribers early on, an
 
 As you can see, the video starts with a ‘flash forward’ to one of the twins saying the heater is on fire and then a reminder of what’s going to happen later – the heater catching fire – is written in the top left of the screen so it stays on the viewers' mind. This is one way in which the viewer is immediately hooked.
 
-![ how to ask people to subscribe](https://images.wondershare.com/filmora/article-images/ask-people-to-subscribe-by-hook.jpg)
+![how to ask people to subscribe](https://images.wondershare.com/filmora/article-images/ask-people-to-subscribe-by-hook.jpg)
 
 #### Step 2: Get to The Point Quickly
 
@@ -194,7 +194,7 @@ Shortly after, while still in the first 30 seconds of the video, Collins gets ri
 
 It’s only after hooking the viewer in and reiterating the promise of the title that Collins asks viewers to subscribe. The really clever thing about how he asks is that he carves out time in the video for the viewer to comply with his request. He gives 5 seconds and does a countdown.
 
-![ how to ask people to subscribe](https://images.wondershare.com/filmora/article-images/ask-people-to-subscribe-in-perfect-moment.jpg)
+![how to ask people to subscribe](https://images.wondershare.com/filmora/article-images/ask-people-to-subscribe-in-perfect-moment.jpg)
 
 Collins Key has been one of the fastest-growing channels on YouTube. He does not implement this strategy in every video, but it’s not a stretch to think it’s had something to do with his success. Instead of simply asking you to subscribe at the end of the video, he creates a part of the video early on – before people who don’t watch until the end will have clicked away – where you feel as if you’re ‘supposed to’ subscribe.
 
@@ -250,7 +250,7 @@ Collins Key is one YouTuber who has mastered asking for subscribers early on, an
 
 As you can see, the video starts with a ‘flash forward’ to one of the twins saying the heater is on fire and then a reminder of what’s going to happen later – the heater catching fire – is written in the top left of the screen so it stays on the viewers' mind. This is one way in which the viewer is immediately hooked.
 
-![ how to ask people to subscribe](https://images.wondershare.com/filmora/article-images/ask-people-to-subscribe-by-hook.jpg)
+![how to ask people to subscribe](https://images.wondershare.com/filmora/article-images/ask-people-to-subscribe-by-hook.jpg)
 
 #### Step 2: Get to The Point Quickly
 
@@ -260,7 +260,7 @@ Shortly after, while still in the first 30 seconds of the video, Collins gets ri
 
 It’s only after hooking the viewer in and reiterating the promise of the title that Collins asks viewers to subscribe. The really clever thing about how he asks is that he carves out time in the video for the viewer to comply with his request. He gives 5 seconds and does a countdown.
 
-![ how to ask people to subscribe](https://images.wondershare.com/filmora/article-images/ask-people-to-subscribe-in-perfect-moment.jpg)
+![how to ask people to subscribe](https://images.wondershare.com/filmora/article-images/ask-people-to-subscribe-in-perfect-moment.jpg)
 
 Collins Key has been one of the fastest-growing channels on YouTube. He does not implement this strategy in every video, but it’s not a stretch to think it’s had something to do with his success. Instead of simply asking you to subscribe at the end of the video, he creates a part of the video early on – before people who don’t watch until the end will have clicked away – where you feel as if you’re ‘supposed to’ subscribe.
 
@@ -571,3 +571,46 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-earner-youtube-star-global-leader/"><u>2024 Approved  Top Earner YouTube Star - Global Leader</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-harmonizing-visuals-and-soundtracks-with-youtubes-video-editor/"><u>[New] Harmonizing Visuals & Soundtracks with YouTube's Video Editor</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-maximizing-engagement-how-to-pick-perfect-youtube-collaborators/"><u>2024 Approved  Maximizing Engagement  How to Pick Perfect YouTube Collaborators</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-pictorial-word-constructor/"><u>In 2024, Pictorial Word Constructor</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-into-the-world-of-youtube-transcription-a-comprehensive-no-fee-guide/"><u>In 2024, Step Into the World of YouTube Transcription  A Comprehensive No-Fee Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-stepwise-discovery-of-covert-youtube-archives/"><u>[New] Stepwise Discovery of Covert YouTube Archives</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-pioneering-profitability-your-videos-vs-competitors-success-stories/"><u>2024 Approved  Pioneering Profitability  Your Videos Vs. Competitors' Success Stories</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-youtube-brand-visuals-the-ultimate-creation-guide/"><u>2024 Approved  Mastering YouTube Brand Visuals  The Ultimate Creation Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-optimizing-youtube-content-for-top-views/"><u>2024 Approved  Optimizing YouTube Content for Top Views</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-prime-listening-guide-to-youtube-standards/"><u>In 2024, The Prime Listening Guide to YouTube Standards</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/micro-moments-of-fame-do-youtubes-shorts-or-tiktoks-get-the-edge-in-2024/"><u>Micro-Moments of Fame  Do YouTubes Shorts or TikToks Get the Edge, In 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-tag-your-way-to-the-top-youtubes-viral-power-players/"><u>In 2024, Tag Your Way to the Top  YouTube's Viral Power Players</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-trek-through-the-territory-of-talkative-thoughts/"><u>In 2024, Trek Through the Territory of Talkative Thoughts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-creativity-in-youtube-video-splitting/"><u>In 2024, Unlocking Creativity in YouTube Video Splitting</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-free-to-profit-reaching-the-new-500-sub-total/"><u>2024 Approved  Free to Profit  Reaching the New 500 Sub Total</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-overcome-vanished-youtube-minute-media/"><u>In 2024, Overcome  Vanished YouTube Minute Media</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-rising-tide-of-infographics-for-social-insights/"><u>2024 Approved  The Rising Tide of Infographics for Social Insights</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-media-meld-space/"><u>2024 Approved  Media Meld Space</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-quick-gain-techniques-to-expand-your-channels-audience/"><u>[New] Quick-Gain Techniques to Expand Your Channel's Audience</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unleashing-potential-the-art-of-youtube-seo-keywords/"><u>In 2024, Unleashing Potential  The Art of YouTube SEO Keywords</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/join-the-monetized-majority-with-500-subscribers-for-2024/"><u>Join the Monetized Majority with 500 Subscribers for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-complete-guide-to-creating-memorable-youtube-outros/"><u>2024 Approved  The Complete Guide to Creating Memorable YouTube Outros</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-scrutinizing-success-discovering-the-top-10-youtube-stars-in-massive-subscriber-count/"><u>2024 Approved  Scrutinizing Success  Discovering the Top 10 YouTube Stars in Massive Subscriber Count</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-prime-7-dslr-options-elevating-professional-social-media-coverage/"><u>In 2024, Prime 7 DSLR Options Elevating Professional Social Media Coverage</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-camera-buff-writers-choice-the-ultimate-list-of-5-low-frame-rate-cams/"><u>In 2024, Camera Buff' Writers Choice  The Ultimate List of 5 Low Frame Rate Cams</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-explore-the-difference-basic-plus-and-pro-in-vimeo-services/"><u>[New] 2024 Approved  Explore The Difference  Basic, Plus & Pro in Vimeo Services</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-vivo-y100i-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Vivo Y100i Phone that is Locked?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/simple-guide-youtube-to-mp3-on-mac/"><u>Simple Guide  YouTube to MP3 on Mac</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-infinix-smart-8-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Infinix Smart 8? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pc-videography-leveraging-windows-hdr/"><u>[New] PC Videography  Leveraging Windows HDR</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-online-selections-for-glossy-typography-in-3d-for-2024/"><u>Prime Online Selections for Glossy Typography in 3D for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-a-social-storytellers-playbook-maximizing-video-impact-on-fb/"><u>In 2024, A Social Storyteller’s Playbook  Maximizing Video Impact on FB</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/best-7-first-person-shooters-of-the-year-for-2024/"><u>Best 7 First-Person Shooters of the Year for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-efficient-screenshot-with-audio-layered-for-2024/"><u>[New] Efficient Screenshot  With Audio Layered for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-best-music-video-makers-from-photos-top-14/"><u>2024 Approved Best Music Video Makers From Photos (Top 14)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-best-choice-10-open-source-screencasting-programs/"><u>[Updated] Best Choice  10 Open Source Screencasting Programs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-achieve-fluent-fb-video-posting-windows-linux-ios-and-android-tips/"><u>[New] Achieve Fluent FB Video Posting  Windows, Linux, iOS & Android Tips</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-ultimate-guide-to-transforming-fast-action-into-slow-motion-ig-treasures-for-2024/"><u>The Ultimate Guide to Transforming Fast Action Into Slow Motion IG Treasures for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-mastering-audio-downloads-a-guide-to-collecting-podcast-episodes-on-pc/"><u>New In 2024, Mastering Audio Downloads A Guide to Collecting Podcast Episodes on PC</u></a></li>
+</ul></div>
