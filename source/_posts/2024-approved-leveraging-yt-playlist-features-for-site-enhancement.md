@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Leveraging YT Playlist Features for Site Enhancement\""
-date: 2024-05-31T12:40:42.513Z
-updated: 2024-06-01T12:40:42.513Z
+date: 2024-07-29T18:59:37.939Z
+updated: 2024-07-30T18:59:37.939Z
 tags:
   - ai video
   - ai youtube
@@ -11,7 +11,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Leveraging YT Playlist Features for Site Enhancement\""
 excerpt: "\"This Article Describes 2024 Approved: Leveraging YT Playlist Features for Site Enhancement\""
 keywords: "YouTube Playlist SEO,Boost Site with YT Lists,Enhancing Websites with YT,YT Playlists for Sites,Youtube List Optimization,Improve Site via YT Plays,Site Upgrade via YouTube Plays"
-thumbnail: https://www.lifewire.com/thmb/MI2FFnaSexiUT9Nj9bWHeRdzSm4=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-664646935-5c1da2dc46e0fb00019ebbbb.jpg
+thumbnail: https://thmb.techidaily.com/3609177e3560fa8effb2d59f8677c6110107a707b47535bc397c5818cfbe880e.jpg
 ---
 
 ## Leveraging YT Playlist Features for Site Enhancement
@@ -30,6 +30,15 @@ If you want to embed and display a YouTube playlist on your website, we'll give 
 
 Here's **how to embed a YouTube playlist on a Website:**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ### Embedding a YouTube Playlist on Website Using WordPress Plugin
 
 The plugin is the simplest way to add a YouTube Playlist to your WordPress website. This will help you get this done in no time without having to write any code for the process.
@@ -54,6 +63,10 @@ Step4 You need to [create your YouTube API Key](https://developers.google.com/yo
 
 Step5 Select the Playlist you want to display on your WordPress website and take its **ID**. Paste that in the next pop-up window and click **"Next"** to continue the process.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![adding playlist id to embed in website](https://images.wondershare.com/filmora/article-images/2023/03/adding-playlist-id-to-embed-in-website.png)
 
 Your YouTube playlist will be connected to your WordPress website. To further customize it, select the template you want and click **"Next."** You can also configure the **Feed Layout** and **Color Scheme.**
@@ -62,6 +75,9 @@ Your YouTube playlist will be connected to your WordPress website. To further cu
 
 Step6 Once you are done with customization, click the **"Embed"** option on the top-right side of the screen, and a pop-up window will appear. Next, click **"Add to a Page,"** and a list of pages on your website will be displayed.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![adding playlist to website page](https://images.wondershare.com/filmora/article-images/2023/03/adding-playlist-to-website-page.png)
 
 Choose your page and click **"Add"** at the bottom of the pop-up window. You'll be directed to a new page where you can embed the feed. Click the **"Plus"** icon at the top-left of the screen, search for **YouTube Feed** and choose the **Feeds for YouTube** block to embed and add your playlist.
@@ -94,6 +110,14 @@ Step2 Now, head to the YouTube playlist you want to embed, click the **"Share"**
 
 Step3 Choose the **"Embed"** option, and a new lightbox pop-up will appear, having your playlist's embed code. Click **"Copy"** to save the code on your clipboard.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![embedding youtube playlist in website using iframe code](https://images.wondershare.com/filmora/article-images/2023/03/embedding-youtube-playlist-in-website-using-iframe-code.png)
 
 Step4 Log in to your WordPress dashboard and open the page/post editor where you want to embed the playlist. Click the **"Plus"** icon, search for **"custom HTML,"** and select **"Custom HTML block"** to add to the page/post.
@@ -162,6 +186,9 @@ We hope you've found this article informative and can now display your YouTube p
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stand Alone, Hold Tight: Camera Stability Techniques
 
 # DIY Tripods| How to Stabilize Your Camera without Buying a Tripod
@@ -180,6 +207,9 @@ When you’re trying to grow a channel on YouTube it can feel like equipment is 
 
 Wondershare Filmora has the best video stabilization tool is your videos have a bad frame or were recorded in dim lights. If a video is shot in bad weather or unfriendly situation where you don’t have all the equipment required for a quality recording, Wondershare Filmora can help you in the background to edit your videos like a pro. And it has all the relevant tools like effects, transitions, background removal, overlays, and background music that could turn your normal video to a professional one.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Here are 3 of our favorite DIY tripods.
@@ -196,10 +226,16 @@ Hold your phone in landscape mode (horizontally, so it’s long rather than tall
 
 Here it is with binder clips:
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![binder clips](https://images.wondershare.com/filmora/article-images/binder-clips.jpg)
 
 And here it is with hair clips:
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hair clips](https://images.wondershare.com/filmora/article-images/hair-clips.jpg)
 
 Now you can set your smartphone upon any stable surface, like a table or a stack of books.
@@ -229,6 +265,9 @@ Gorillapod’s are cool because you can use them like normal tripods, carry them
 
 Your wire should be fairly stiff and you’ll need three pieces the same length, which should be at least 10 inches. Old clothes hangers work well. This needs to be something strong enough to support the weight of your camera, but soft enough that it’s not impossible for you to bend.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  ![wire and type](https://images.wondershare.com/filmora/article-images/wire-and-type.jpg)
 
 _All of your supplies plus the finished product._
@@ -271,6 +310,9 @@ When you’re trying to grow a channel on YouTube it can feel like equipment is 
 
 Wondershare Filmora has the best video stabilization tool is your videos have a bad frame or were recorded in dim lights. If a video is shot in bad weather or unfriendly situation where you don’t have all the equipment required for a quality recording, Wondershare Filmora can help you in the background to edit your videos like a pro. And it has all the relevant tools like effects, transitions, background removal, overlays, and background music that could turn your normal video to a professional one.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Here are 3 of our favorite DIY tripods.
@@ -297,6 +339,9 @@ Now you can set your smartphone upon any stable surface, like a table or a stack
 
  _Here are some more cool ideas!_
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### **DIY adjustable tripod using books and a towel**
 
 You’ve probably heard a million times that you can stabilize your camera by sitting it down on any stable surface – on your desk, on a stack of books, up in a tree, etc. This is very true!
@@ -314,12 +359,125 @@ To get similar functions from the ‘any stable surface’ solution you can use 
 
 Now if your camera isn’t up high enough, or is too high, you can adjust it just by adding or taking away books. If you want to move it closer or farther away from you, just pull the towel forwards or backward.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### **DIY gripping ‘Gorillapod’ using wire and tape**
 
 Gorillapod’s are cool because you can use them like normal tripods, carry them around like selfie sticks, or attach them to things like fences and posts. Here’s how you can make something similar using **wire**, **electrical tape** or **duct tape**, and a **1/4 bolt**.
 
 Your wire should be fairly stiff and you’ll need three pieces the same length, which should be at least 10 inches. Old clothes hangers work well. This needs to be something strong enough to support the weight of your camera, but soft enough that it’s not impossible for you to bend.
 
+ ![wire and type](https://images.wondershare.com/filmora/article-images/wire-and-type.jpg)
+
+_All of your supplies plus the finished product._
+
+**Readying your legs**
+
+**_Step 1:_** Bend 2 inches at one end of each wire into a ‘U’ shape. You will probably need pliers for this.
+
+**_Step 2:_** Pick up one of your pieces of wire and wrap one end with electrical tape. Go around 5-10 times (to prevent it from coming undone at the end) and then, without cutting your tape, start moving up and wrapping the rest of your wire. Stop before your ‘U’ section.
+
+Repeat this with the other two wires.
+
+ **Attaching your legs**
+
+_**Step 1:**_ Place the ‘U’ section of a leg against your bolt. The bolt’s threading should be pointing away from the leg. Now, use your tape to attach them. Wind it around 2 or 3 times, then repeat the process with both of the other legs individually.
+
+_**Step 2:**_ After all the legs are attached, wrap some more tape around all 3 as tightly as you can.
+
+ Your camera will mount onto the bolt! You’ll be able to use this as a normal table-top tripod or use the flexible legs to grab onto different things like a Gorillapod. _Read more at_ [_Instructables_.](http://www.instructables.com/id/Pocket-Tripod/)
+
+_Note: make sure the bolt is a fit for your camera before you get too far into this process._
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+When you’re trying to grow a channel on YouTube it can feel like equipment is a barrier, but it shouldn’t be. If you can’t afford a high-end tripod, for example, there are loads of ways to get by without one.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### DIY Your Video with Wondershare Filmora
+
+Wondershare Filmora has the best video stabilization tool is your videos have a bad frame or were recorded in dim lights. If a video is shot in bad weather or unfriendly situation where you don’t have all the equipment required for a quality recording, Wondershare Filmora can help you in the background to edit your videos like a pro. And it has all the relevant tools like effects, transitions, background removal, overlays, and background music that could turn your normal video to a professional one.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Here are 3 of our favorite DIY tripods.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### **DIY smartphone tripod using binder clips or hair clips**
+
+You’re a solo operation and your best camera is on your phone. That’s pretty common.
+
+If you have a DSLR then you can set it down on any stable surface while filming yourself, but your phone can’t stand up by itself. It needs something or someone to hold it. Do you just accept that and shoot everything as a selfie?
+
+No. No, you don’t, because there are common household items that can help you out of this problem. For this DIY tripod, you need either **2 binder clips** or **2 ‘claw clips’** (also called ‘hair jaws’).
+
+Hold your phone in landscape mode (horizontally, so it’s long rather than tall) and attach clips to the bottom corners. If you are worried about scratching your screen, fold up some paper to place between your clip and your phone.
+
+Here it is with binder clips:
+
+![binder clips](https://images.wondershare.com/filmora/article-images/binder-clips.jpg)
+
+And here it is with hair clips:
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+![hair clips](https://images.wondershare.com/filmora/article-images/hair-clips.jpg)
+
+Now you can set your smartphone upon any stable surface, like a table or a stack of books.
+
+ _Here are some more cool ideas!_
+
+### **DIY adjustable tripod using books and a towel**
+
+You’ve probably heard a million times that you can stabilize your camera by sitting it down on any stable surface – on your desk, on a stack of books, up in a tree, etc. This is very true!
+
+But if you can use any stable surface, why do people buy tripods?
+
+Because it isn’t convenient to rearrange your furniture whenever you want to make a video, and also because tripods are adjustable. You can change their height, you can use them to pan or tilt, and it’s pretty easy to move them a bit forwards or backward while you’re setting up your shot.
+
+To get similar functions from the ‘any stable surface’ solution you can use a **table**, a **stack of books**, and a **towel**.
+
+1. Set up the area where you’re going to sit while you’re filming on one end of the table.
+2. Put the towel down over the approximate spot you want your camera to be.
+3. Stack your books on top of the towel.
+4. Put your camera on top of the books.
+
+Now if your camera isn’t up high enough, or is too high, you can adjust it just by adding or taking away books. If you want to move it closer or farther away from you, just pull the towel forwards or backward.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+### **DIY gripping ‘Gorillapod’ using wire and tape**
+
+Gorillapod’s are cool because you can use them like normal tripods, carry them around like selfie sticks, or attach them to things like fences and posts. Here’s how you can make something similar using **wire**, **electrical tape** or **duct tape**, and a **1/4 bolt**.
+
+Your wire should be fairly stiff and you’ll need three pieces the same length, which should be at least 10 inches. Old clothes hangers work well. This needs to be something strong enough to support the weight of your camera, but soft enough that it’s not impossible for you to bend.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  ![wire and type](https://images.wondershare.com/filmora/article-images/wire-and-type.jpg)
 
 _All of your supplies plus the finished product._
@@ -362,6 +520,9 @@ When you’re trying to grow a channel on YouTube it can feel like equipment is 
 
 Wondershare Filmora has the best video stabilization tool is your videos have a bad frame or were recorded in dim lights. If a video is shot in bad weather or unfriendly situation where you don’t have all the equipment required for a quality recording, Wondershare Filmora can help you in the background to edit your videos like a pro. And it has all the relevant tools like effects, transitions, background removal, overlays, and background music that could turn your normal video to a professional one.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Here are 3 of our favorite DIY tripods.
@@ -382,12 +543,18 @@ Here it is with binder clips:
 
 And here it is with hair clips:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hair clips](https://images.wondershare.com/filmora/article-images/hair-clips.jpg)
 
 Now you can set your smartphone upon any stable surface, like a table or a stack of books.
 
  _Here are some more cool ideas!_
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ### **DIY adjustable tripod using books and a towel**
 
 You’ve probably heard a million times that you can stabilize your camera by sitting it down on any stable surface – on your desk, on a stack of books, up in a tree, etc. This is very true!
@@ -405,6 +572,9 @@ To get similar functions from the ‘any stable surface’ solution you can use 
 
 Now if your camera isn’t up high enough, or is too high, you can adjust it just by adding or taking away books. If you want to move it closer or farther away from you, just pull the towel forwards or backward.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **DIY gripping ‘Gorillapod’ using wire and tape**
 
 Gorillapod’s are cool because you can use them like normal tripods, carry them around like selfie sticks, or attach them to things like fences and posts. Here’s how you can make something similar using **wire**, **electrical tape** or **duct tape**, and a **1/4 bolt**.
@@ -433,97 +603,9 @@ _**Step 2:**_ After all the legs are attached, wrap some more tape around all 3 
 
 _Note: make sure the bolt is a fit for your camera before you get too far into this process._
 
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-When you’re trying to grow a channel on YouTube it can feel like equipment is a barrier, but it shouldn’t be. If you can’t afford a high-end tripod, for example, there are loads of ways to get by without one.
-
-### DIY Your Video with Wondershare Filmora
-
-Wondershare Filmora has the best video stabilization tool is your videos have a bad frame or were recorded in dim lights. If a video is shot in bad weather or unfriendly situation where you don’t have all the equipment required for a quality recording, Wondershare Filmora can help you in the background to edit your videos like a pro. And it has all the relevant tools like effects, transitions, background removal, overlays, and background music that could turn your normal video to a professional one.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Here are 3 of our favorite DIY tripods.
-
-### **DIY smartphone tripod using binder clips or hair clips**
-
-You’re a solo operation and your best camera is on your phone. That’s pretty common.
-
-If you have a DSLR then you can set it down on any stable surface while filming yourself, but your phone can’t stand up by itself. It needs something or someone to hold it. Do you just accept that and shoot everything as a selfie?
-
-No. No, you don’t, because there are common household items that can help you out of this problem. For this DIY tripod, you need either **2 binder clips** or **2 ‘claw clips’** (also called ‘hair jaws’).
-
-Hold your phone in landscape mode (horizontally, so it’s long rather than tall) and attach clips to the bottom corners. If you are worried about scratching your screen, fold up some paper to place between your clip and your phone.
-
-Here it is with binder clips:
-
-![binder clips](https://images.wondershare.com/filmora/article-images/binder-clips.jpg)
-
-And here it is with hair clips:
-
-![hair clips](https://images.wondershare.com/filmora/article-images/hair-clips.jpg)
-
-Now you can set your smartphone upon any stable surface, like a table or a stack of books.
-
- _Here are some more cool ideas!_
-
-### **DIY adjustable tripod using books and a towel**
-
-You’ve probably heard a million times that you can stabilize your camera by sitting it down on any stable surface – on your desk, on a stack of books, up in a tree, etc. This is very true!
-
-But if you can use any stable surface, why do people buy tripods?
-
-Because it isn’t convenient to rearrange your furniture whenever you want to make a video, and also because tripods are adjustable. You can change their height, you can use them to pan or tilt, and it’s pretty easy to move them a bit forwards or backward while you’re setting up your shot.
-
-To get similar functions from the ‘any stable surface’ solution you can use a **table**, a **stack of books**, and a **towel**.
-
-1. Set up the area where you’re going to sit while you’re filming on one end of the table.
-2. Put the towel down over the approximate spot you want your camera to be.
-3. Stack your books on top of the towel.
-4. Put your camera on top of the books.
-
-Now if your camera isn’t up high enough, or is too high, you can adjust it just by adding or taking away books. If you want to move it closer or farther away from you, just pull the towel forwards or backward.
-
-### **DIY gripping ‘Gorillapod’ using wire and tape**
-
-Gorillapod’s are cool because you can use them like normal tripods, carry them around like selfie sticks, or attach them to things like fences and posts. Here’s how you can make something similar using **wire**, **electrical tape** or **duct tape**, and a **1/4 bolt**.
-
-Your wire should be fairly stiff and you’ll need three pieces the same length, which should be at least 10 inches. Old clothes hangers work well. This needs to be something strong enough to support the weight of your camera, but soft enough that it’s not impossible for you to bend.
-
- ![wire and type](https://images.wondershare.com/filmora/article-images/wire-and-type.jpg)
-
-_All of your supplies plus the finished product._
-
-**Readying your legs**
-
-**_Step 1:_** Bend 2 inches at one end of each wire into a ‘U’ shape. You will probably need pliers for this.
-
-**_Step 2:_** Pick up one of your pieces of wire and wrap one end with electrical tape. Go around 5-10 times (to prevent it from coming undone at the end) and then, without cutting your tape, start moving up and wrapping the rest of your wire. Stop before your ‘U’ section.
-
-Repeat this with the other two wires.
-
- **Attaching your legs**
-
-_**Step 1:**_ Place the ‘U’ section of a leg against your bolt. The bolt’s threading should be pointing away from the leg. Now, use your tape to attach them. Wind it around 2 or 3 times, then repeat the process with both of the other legs individually.
-
-_**Step 2:**_ After all the legs are attached, wrap some more tape around all 3 as tightly as you can.
-
- Your camera will mount onto the bolt! You’ll be able to use this as a normal table-top tripod or use the flexible legs to grab onto different things like a Gorillapod. _Read more at_ [_Instructables_.](http://www.instructables.com/id/Pocket-Tripod/)
-
-_Note: make sure the bolt is a fit for your camera before you get too far into this process._
-
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -545,3 +627,65 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-priority-picks-high-rated-graphics-cards-for-seamless-playback/"><u>[New] 2024 Approved  Priority Picks  High-Rated Graphics Cards for Seamless Playback</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-accelerated-mp4-to-facebook-video-conversion-for-2024/"><u>[New] Accelerated MP4-to-Facebook Video Conversion for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-videography-secrets-leveraging-strikethrough-for-impactful-edits/"><u>[New] In 2024, Videography Secrets  Leveraging Strikethrough for Impactful Edits</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-memetic-magic-unlock-with-kapwing-creator/"><u>[New] Memetic Magic – Unlock with Kapwing Creator</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-achieving-excellence-in-recorded-gaming-experiences-for-2024/"><u>[Updated] Achieving Excellence in Recorded Gaming Experiences for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-capture-memories-safely-explore-all-inclusive-free-and-charged-cloud-storage-solutions/"><u>[Updated] Capture Memories Safely  Explore All-Inclusive Free and Charged Cloud Storage Solutions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-discover-instagram-stories-in-private-mode/"><u>[Updated] In 2024, Discover Instagram Stories In Private Mode</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-dispelling-dark-pixels-youtube-solution-guide/"><u>[Updated] In 2024, Dispelling Dark Pixels  YouTube Solution Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-step-by-step-inserting-chapters-in-vimeo-videos/"><u>[Updated] In 2024, Step-by-Step  Inserting Chapters in Vimeo Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-stepwise-guide-to-optimal-zoom-audio-recording-for-2024/"><u>[Updated] Stepwise Guide to Optimal Zoom Audio Recording for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-harmonic-hits-top-rated-dj-template-downloads/"><u>2024 Approved  Harmonic Hits  Top-Rated DJ Template Downloads</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-get-people-to-subscribe-by-asking-the-right-way/"><u>2024 Approved  How to Get People to Subscribe by Asking the Right Way</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-identifying-and-tapping-into-youtubes-hidden-niches/"><u>2024 Approved  Identifying and Tapping Into Youtube's Hidden Niches</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-leading-videographers-best-editor-picks/"><u>2024 Approved  Leading Videographers' Best Editor Picks</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-love-in-full-bloom-top-7-premium-marriage-films-from-youtube-and-vimeo/"><u>2024 Approved  Love in Full Bloom  Top 7 Premium Marriage Films From YouTube and Vimeo</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-maximize-your-youtube-income-with-effective-mobile-device-strategies/"><u>2024 Approved  Maximize Your YouTube Income with Effective Mobile Device Strategies</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-micro-enterprises-guide-to-viral-video-promotion/"><u>2024 Approved  Micro-Enterprises' Guide to Viral Video Promotion</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-optimal-tag-selection-elevate-your-videos-online-presence/"><u>2024 Approved  Optimal Tag Selection  Elevate Your Video's Online Presence</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-surviving-youtubes-copyright-enforcement-hurdles/"><u>2024 Approved  Surviving YouTube's Copyright Enforcement Hurdles</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-guide-how-to-record-and-save-youtube-videos-without-spending-a-penny/"><u>2024 Approved  The Ultimate Guide  How To Record and Save YouTube Videos without Spending a Penny</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-triumph-in-the-digital-arena-discovering-youtubes-top-five-tactics/"><u>2024 Approved  Triumph in the Digital Arena - Discovering YouTube’s Top Five Tactics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-magixs-image-organizer-insights/"><u>2024 Approved  Unveiling MAGIX's Image Organizer Insights</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-uploading-tunes-a-guide-to-posting-on-youtube/"><u>2024 Approved  Uploading Tunes  A Guide to Posting on YouTube</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-13-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 13 and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-xiaomi-redmi-note-12-pro-4g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Xiaomi Redmi Note 12 Pro 4G</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/a-step-by-step-guide-to-mastering-magix-video-pro-x/"><u>A Step-by-Step Guide to Mastering Magix Video Pro X</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-captivating-windows-11-visual-themes/"><u>Crafting Captivating Windows 11 Visual Themes</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-realme-12-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Realme 12 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/fast-and-fun-the-quick-guide-to-taking-screenshots-on-chromebook-for-2024/"><u>Fast & Fun  The Quick Guide to Taking Screenshots on Chromebook for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-find-a-niche-market-on-youtube-for-2024/"><u>How to Find A Niche Market on YouTube for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-samsung-galaxy-s23-tactical-edition-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Samsung Galaxy S23 Tactical Edition Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-make-thumbnails-for-youtube-with-mobile-phones-for-2024/"><u>How to Make Thumbnails for YouTube With Mobile Phones for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-expertise-in-action-leading-youtube-text-to-video-devices/"><u>In 2024, Expertise in Action  Leading Youtube Text-to-Video Devices</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-add-featured-channels-on-youtube-a-complete-guide/"><u>In 2024, How to Add Featured Channels on YouTube  A Complete Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-safely-extract-youtube-audio-a-study-of-3-techniques/"><u>In 2024, How to Safely Extract YouTube Audio  A Study of 3 Techniques</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-imagemorph-magic/"><u>In 2024, ImageMorph Magic</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-key-facts-on-youtube-lives-visual-identity/"><u>In 2024, Key Facts on YouTube Live's Visual Identity</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-lightning-loop-transferring-youtube-playlists-fast/"><u>In 2024, Lightning Loop  Transferring YouTube Playlists Fast</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mac-users-mastering-mp3-conversion-from-youtube/"><u>In 2024, Mac Users  Mastering MP3 Conversion From YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-overcoming-shadows-in-indoor-vlogging-environments/"><u>In 2024, Overcoming Shadows in Indoor Vlogging Environments</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-positive-interaction-not-pressure-a-subscription-success-story/"><u>In 2024, Positive Interaction, Not Pressure  A Subscription Success Story</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-guide-to-crafting-striking-youtube-thumbnails-mac-edition/"><u>In 2024, Step by Step Guide to Crafting Striking YouTube Thumbnails - Mac Edition</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-steps-for-confirming-youtube-identity/"><u>In 2024, Steps for Confirming YouTube Identity</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-xiaomi-redmi-k70-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Xiaomi Redmi K70? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-comparison-game-youtube-against-dailymention/"><u>In 2024, The Comparison Game  YouTube Against DailyMention</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-full-course-on-becoming-a-yt-creator-expert/"><u>In 2024, The Full Course on Becoming a YT Creator Expert</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-the-strategic-approach-to-changing-your-tiktok-handle-seamlessly/"><u>In 2024, The Strategic Approach to Changing Your TikTok Handle Seamlessly</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-top-platform-trio-which-one-triumphs-vimeo-youtube-dailymotion/"><u>In 2024, The Top Platform Trio  Which One Triumphs – Vimeo, YouTube, Dailymotion?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-video-color-correction-for-youtube-beauty/"><u>In 2024, Video Color Correction for YouTube Beauty</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/monetizing-content-how-much-adsense-pays-you-per-thousand-video-hits-for-2024/"><u>Monetizing Content  How Much AdSense Pays You Per Thousand Video Hits for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-to-submillion-territory-on-youtube-for-2024/"><u>Navigating to Submillion Territory on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-youtube-membership-options-wisely-for-2024/"><u>Navigating YouTube Membership Options Wisely for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premier-editing-software-perfect-for-dev-screens-for-2024/"><u>Premier Editing Software  Perfect for Dev Screens for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/transform-your-content-strategy-with-tubebuddy/"><u>Transform Your Content Strategy with TubeBuddy</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-xboxs-game-fairness-system/"><u>Understanding Xbox's Game Fairness System</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-samsung-galaxy-m34-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Samsung Galaxy M34 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+</ul></div>

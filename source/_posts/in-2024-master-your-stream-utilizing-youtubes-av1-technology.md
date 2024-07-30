@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Master Your Stream  Utilizing YouTube's AV1 Technology\""
-date: 2024-05-31T12:45:25.984Z
-updated: 2024-06-01T12:45:25.984Z
+date: 2024-07-29T19:48:41.591Z
+updated: 2024-07-30T19:48:41.591Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://www.lifewire.com/thmb/n6oJS18dvYUfj-b728wyznTKcd4=/540x405/fi
 
 Do you notice that many YouTube videos have been streamed in AV1? **YouTube AV1** just happened suddenly a few years ago. This article will inform you about all the things you want to know about **AV1 Youtube** settings. I will let you know the tutorial to turn in AV1 settings on YouTube and the reason why should choose AV1 along with the others, and some more things about AV1.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![av1 logo](https://images.wondershare.com/filmora/article-images/2022/11/av1-settings-on-youtube-1.jpg)
 
 ## Part 1: How to turn on AV1 settings on YouTube?
@@ -26,6 +29,9 @@ Do you wonder how to turn on **AV1 settings on YouTube**? For your information, 
 
 ##### Step1Go to playback and performance
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![youtube settings](https://images.wondershare.com/filmora/article-images/2022/11/av1-settings-on-youtube-2.jpg)
 
 * To turn on the AV1 settings, go to your YouTube account, after that click "Playback and Performance".
@@ -34,6 +40,9 @@ Do you wonder how to turn on **AV1 settings on YouTube**? For your information, 
 
 ##### Step2Test if the AV1 settings are already enabled in your video
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![av1 settings](https://images.wondershare.com/filmora/article-images/2022/11/av1-settings-on-youtube-3.jpg)
 
 You may ask how to confirm your YouTube videos are playing with AV1 Codec. Well, you can search playlist on YouTube with the keywords "[4K, 5K, and 8K videos with the new AV1 Codec](https://www.youtube.com/playlist?list=PLRJRxnLlXbB0ETtMprpLypZs68duRS1t1)". You can test it by playing one of the videos. You have to right-click on the media player and then select "Stats for nerd". If it shows the av01 codec there, then the AV1 settings are enabled already.
@@ -60,6 +69,9 @@ When it comes to the group that will ask for the royalty, MPEG is not the only o
 
 It is said that the AV1 codec is 30% more efficient. According to the tests conducted by Moscow State University, AV1 can outperform AV1 by about 28% in the efficiency of encoding and decoding. As per the performance graph from the Graphics & Media Lab Video Group, MSU below, AV1 can offer the exactly same quality as X264 at 55% of the average bitrate.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![av1 benefit](https://images.wondershare.com/filmora/article-images/2022/11/av1-settings-on-youtube-6.jpg)
 
 AV1 is designed so exclusively to function better than all the other codecs in the market. It is an open-sourced codec with simple patent licensing, and the integration manages to save, as mentioned, up to 30% of the bandwidth for the exactly same image quality. In other words, with AV1, distributors can send streams much faster and cheaper and we can enjoy higher definitions in the same bandwidth.
@@ -74,6 +86,9 @@ There are also three essential improvements, which are simplifying the existing 
 
 When we talk about YouTube, it feels incomplete if we don't talk about the video editor. So, what is the best video editing software for YouTubers with AV1 format? Yes, it is [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). It is such a great video editing software that allows you to import and edit many video file formats. Filmora also allows users to export AV1 MP4 format video and then can directly upload it to YouTube.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora logo](https://images.wondershare.com/filmora/article-images/2022/11/av1-settings-on-youtube-7.jpg)
 
 [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) gives some ways to export your videos. Here are the five ways. You can also customize the export settings then you can save them to reuse the same settings next time. The first is you can export your project file and video to the local computer. It supports export as MP4, AVI, WMV, AV1, MOV, GoPro Cineform, F4V, MKV, TS, and 3GP.
@@ -84,6 +99,9 @@ After that, you can export your video to any device you want, such as iPhone, iP
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4: FAQ: Does YouTube use AV1 or VP9?
 
 For today, YouTube encodes all the videos with the VP9 codec, but for some reason displays for low view count videos. AV1 usage also had been pushed to very low view counts. When it comes to cost or quality tradeoffs, AV1 took about 18 times longer to encode than x264.
@@ -106,18 +124,28 @@ For today, YouTube encodes all the videos with the VP9 codec, but for some reaso
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Captivate Viewers: Designing Engaging YouTube Trailers with Filmora
 
 Do you want to know how to get more subscribers? Do you want your channel to be popular among those YouTube stars? Ok, we got you!
 
 The most efficient and easy way to do this is by making a YouTube trailer. It will help to attract a new audience and give your channel a more artistic and pleasing approach. Scroll more to get secret tips!
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. What is a YouTube trailer?
 
 A YouTube trailer is a short intro video for your channel. What do you do? What is your content? It is a brief video that helps the new audience understand your channel.
 
 In other words, a YouTube trailer is necessary for your channel. It will give the audience a better understanding of yourself and what to expect from your YouTube channel.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** also, the trailer will be visible for non-subscribed viewers who come to your channel for the first time. So as first impressions matter, they need to be creative and engaging.
@@ -154,10 +182,16 @@ The trick here is to get the viewers' attention within 5 seconds, so they're int
 
 Make a short intro, depending on the content and your presence on the screen. Again, developing a friendly relationship between the viewers and yourself is beneficial.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![self-introduction example](https://images.wondershare.com/filmora/article-images/2022/12/youtube-trailer-2.gif)
 
 You can add a quick introduction about yourself and your backstory. It will create a sense of personal attachment to the channel and help you engage better with the audience.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** keep in mind to make a short intro. Please don't spend too much time on it. And remember, it's all about the audience.
@@ -172,6 +206,9 @@ One of the easiest ways is to use perfect music. So if you want to know how to s
 
 Here, you should explain to your audience the purpose of your channel and what they can expect from you. At this stage, new potential viewers can get you, whether your goal is to entertain them, teach something specific, or discuss certain topics and how you intend to achieve them.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![an example of a creative trailer](https://images.wondershare.com/filmora/article-images/2022/12/youtube-trailer-3.jpg)
 
 **Determine the style of your video**
@@ -212,6 +249,9 @@ All the details have been shared on creating an ideal trailer for your YouTube c
 
 Alright! Following the steps mentioned above, you will be able to create a good YouTube trailer that will not only attract more subscribers to your channel. It will also allow them to stay hooked on your new and upcoming content. If you know more tips, share them with us.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. Don't know where to start?
 
 So you want to create a trailer and need help figuring out where to start? What if there are templates that will help you make your trailer and simplifies your work? Yes! [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) will make your way easy and give you unlimited effects.
@@ -248,6 +288,9 @@ Make a short intro, depending on the content and your presence on the screen. Ag
 
 You can add a quick introduction about yourself and your backstory. It will create a sense of personal attachment to the channel and help you engage better with the audience.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** keep in mind to make a short intro. Please don't spend too much time on it. And remember, it's all about the audience.
@@ -315,3 +358,55 @@ Alright! Following the steps mentioned above, you will be able to create a good 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-framemorph-editor/"><u>[New] FrameMorph Editor</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-hot-yt-videos-best-music-dance-and-responses-23/"><u>[New] Hot YT Videos  Best Music Dance & Responses '23</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-instabeats-intellectual-property-overview/"><u>[New] InstaBeats  Intellectual Property Overview</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-parody-basics-tips-for-entertaining-mocks/"><u>[New] Parody Basics  Tips for Entertaining Mocks</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-protecting-data-while-transforming-youtube-videos-into-mp3-files/"><u>[New] Protecting Data While Transforming YouTube Videos Into MP3 Files</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-science-spheres-top-15-youtube-insights/"><u>[New] Science Sphere's Top 15 YouTube Insights</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-elevating-your-podcast-remote-recording-done-right/"><u>[Updated] Elevating Your Podcast  Remote Recording Done Right</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-gold-class-8-unseen-media-extractors/"><u>[Updated] In 2024, Gold-Class 8 Unseen Media Extractors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-rated-desktops-for-peak-performance/"><u>[Updated] Top-Rated Desktops for Peak Performance</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-chromes-favorite-video-clippers-from-facebook/"><u>2024 Approved  Chromes' Favorite Video Clippers From Facebook</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-erase-live-video-on-facebook-windows-android-tactics/"><u>2024 Approved  Erase Live Video on Facebook  Windows, Android Tactics</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-fresh-alternative-films-to-dive-into-7-favorites/"><u>2024 Approved  Fresh Alternative Films to Dive Into, #7 Favorites</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-how-to-harness-the-power-of-obs-on-android-gadgets/"><u>2024 Approved  How to Harness the Power of OBS on Android Gadgets</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-youtube-determines-your-true-view-count/"><u>2024 Approved  How YouTube Determines Your True View Count</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-masterful-approach-to-creating-attractive-yt-summaries/"><u>2024 Approved  Masterful Approach to Creating Attractive YT Summaries</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-mobile-media-the-art-of-filming-with-a-smartphone/"><u>2024 Approved  Mastering Mobile Media  The Art of Filming with a Smartphone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-maximize-your-seo-top-7-budget-friendly-youtube-tags-extractors-reviewed/"><u>2024 Approved  Maximize Your SEO  Top 7 Budget-Friendly Youtube Tags Extractors Reviewed</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigate-your-way-to-partner-status-via-a-quick-10k-view-achievement/"><u>2024 Approved  Navigate Your Way to Partner Status via a Quick 10K View Achievement</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-plunge-into-the-magic-9-premium-full-length-christmas-movies-for-free/"><u>2024 Approved  Plunge Into the Magic  9 Premium Full-Length Christmas Movies for Free</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-strategies-for-maximizing-youtube-view-counts-through-regular-uploads/"><u>2024 Approved  Strategies for Maximizing YouTube View Counts Through Regular Uploads</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-art-of-digital-library-step-by-step-guide-for-your-youtube-saved-playlist/"><u>2024 Approved  The Art of Digital Library  Step-by-Step Guide for Your YouTube Saved Playlist</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-audiovisual-enhancements-for-video-producers/"><u>2024 Approved  Top Audiovisual Enhancements for Video Producers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-creative-potential-with-our-customized-outro-scenes-free/"><u>2024 Approved  Unlock Creative Potential with Our Customized Outro Scenes (Free!)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-xiaomi-redmi-12-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Xiaomi Redmi 12 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/anime-based-short-clips-top-20-ideas-on-tiktok/"><u>Anime-Based Short Clips  Top 20 Ideas on TikTok</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/effortless-digital-preservation-how-to-record-live-tv-shows-for-2024/"><u>Effortless Digital Preservation  How To Record Live TV Shows for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exclusive-list-top-5-affordable-screen-recorders-for-windows-for-2024/"><u>Exclusive List  Top 5 Affordable Screen Recorders for Windows for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/global-scoreboard-the-premier-six-of-video-downloads-for-2024/"><u>Global Scoreboard  The Premier Six of Video Downloads for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/guide-to-getting-1000-subscribers-for-your-youtube-channel-for-2024/"><u>Guide to Getting 1000 Subscribers for Your YouTube Channel for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-find-my-playlist-on-youtube-for-2024/"><u>How to Find My Playlist on YouTube for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-se-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone SE Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-frame-by-frame-mastery-in-youtube-no-cost-required/"><u>In 2024, Frame by Frame Mastery in YouTube - No Cost Required</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-samsung-galaxy-f15-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Samsung Galaxy F15 5G FRP</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-harmonizing-hues-in-online-beauty-videos/"><u>In 2024, Harmonizing Hues in Online Beauty Videos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-realme-narzo-60-pro-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Realme Narzo 60 Pro 5G Is Unlocked</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-asus-rog-phone-7-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Asus ROG Phone 7 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-sonic-gold-standard-10-ways-to-elevate-home-recordings/"><u>In 2024, Sonic Gold Standard  10 Ways to Elevate Home Recordings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-superior-storytellers-sanctuary/"><u>In 2024, Superior Storyteller's Sanctuary</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-roadmap-how-youtube-is-cultivating-a-flourishing-short-form-video-culture/"><u>In 2024, The Roadmap  How YouTube Is Cultivating a Flourishing Short-Form Video Culture</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-turbocharge-your-youtube-videos-swift-render-and-transfer-strategies/"><u>In 2024, Turbocharge Your YouTube Videos  Swift Render & Transfer Strategies</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-superior-sound-recordings-minus-the-mic/"><u>In 2024, Unlocking Superior Sound Recordings  Minus the Mic</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-visual-magic-diy-animation-and-fx-crafts/"><u>In 2024, Unlocking Visual Magic  DIY Animation and FX Crafts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/innovative-chroma-techniques-for-stunning-visual-storytelling-for-2024/"><u>Innovative Chroma Techniques for Stunning Visual Storytelling for 2024</u></a></li>
+<li><a href="https://techidaily.com/is-your-tecno-pova-5-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Tecno Pova 5 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/masterful-video-chats-best-webcams-for-zoom-6/"><u>Masterful Video Chats  Best Webcams for Zoom #6</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-with-more-people-using-iphone-as-video-cameras-one-of-the-bigger-issues-is-not-noticing-the-proper-orientation-of-the-video-here-we-provide-a-li/"><u>New In 2024, With More People Using iPhone as Video Cameras, One of the Bigger Issues Is Not Noticing the Proper Orientation of the Video. Here We Provide a List of Free Tools that You Can Easily Correct the Orien</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/step-by-step-guide-to-compliant-twitter-media-posts-for-2024/"><u>Step-by-Step Guide to Compliant Twitter Media Posts for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/storing-your-musical-memories-a-threefold-approach/"><u>Storing Your Musical Memories  A Threefold Approach</u></a></li>
+</ul></div>

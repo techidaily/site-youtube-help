@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Self-Filmed Brilliance  Secrets for YouTube Success\""
-date: 2024-06-28T04:38:26.057Z
-updated: 2024-06-29T04:38:26.057Z
+date: 2024-07-29T18:54:02.916Z
+updated: 2024-07-30T18:54:02.916Z
 tags:
   - ai video
   - ai youtube
@@ -31,14 +31,27 @@ A big part of being a YouTuber involves talking to the camera. How you set up yo
 | Table of Contents [1\. Close Quarters Wide-Angle Vlog Set-Up](#Close-Quarters-Wide-Angle-Vlog-Set-Up)[2\. Medium Vlog Set-Up](#Medium-Vlog-Set-Up)[3\. Two Person Vlog Set-Up](#Two-Person-Vlog-Set-Up)[4\. Long Teleprompter Vlog Set-Up](#Long-Teleprompter-Vlog-Set-Up) |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## How to Set Up Your Talking Heads Shots for YouTube Video \[Infographic\]
 
 We’ve summarized the key points about setting up talking head style video shots with the Infographic below. It is welcomed to share on social media.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![Setting up Talking Heads Video Shots for YouTube](https://images.wondershare.com/filmora/article-images/talking-heads-youtube-video-shots-set-up.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## How to Set Up Your Talking-Head Shots for YouTube \[4 Ways\]
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ### 1.  Close Quarters Wide-Angle Vlog Set-Up
 
 Don’t have a lot of space to set up your camera and lighting equipment? No problem! You can be within an arm’s length away from your camera with a close quarters wide-angle vlog set-up.
@@ -91,12 +104,19 @@ It is difficult to know whether the movement in his eyes is caused by not being 
 
 Looking to find the right lights for your video recording set? Check out our [Top 17 Video Lighting Equipment For YouTubers](https://www.filmora.io/community-blog/top-17-video-lighting-equipment-for-youtubers-440.html).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Tips for Making a Talking Head Video Better
 
 To make a talking-head video more interesting, you can add some background music to the video, apply some interesting texts or elements. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) has built-in royalty-free music tracks and sound effects as well as [text templates](https://tools.techidaily.com/wondershare/filmora/download/), filters and motivating elements. Download the free trial version below and release your creativity.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -113,3 +133,48 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-creative-commons-soothing-scenes-for-2024/"><u>[New] Creative Commons Soothing Scenes for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-expert-advice-for-embedding-youtube-playlists-with-ease/"><u>[New] Expert Advice for Embedding YouTube Playlists with Ease</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-seamlessly-integrate-your-switch-pro-into-steam-gaming/"><u>[New] In 2024, Seamlessly Integrate Your Switch Pro Into Steam Gaming</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-income-investigation-the-streamlined-3-part-method-to-assess-your-youtube-income-levels/"><u>[New] Income Investigation  The Streamlined 3-Part Method to Assess Your YouTube Income Levels</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-maximizing-content-impact-bypassing-virtual-onlookers/"><u>[New] Maximizing Content Impact  Bypassing Virtual Onlookers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-step-by-step-guide-to-captivating-youtube-live-thumbnails/"><u>[New] Step-By-Step Guide to Captivating YouTube Live Thumbnails</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-ultimate-record-keeper-thorough-az-audits-for-2024/"><u>[New] Ultimate Record Keeper - Thorough AZ Audits for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-mastering-tiktok-a-mac-users-quickstart-list/"><u>[Updated] 2024 Approved  Mastering TikTok  A Mac User's Quickstart List</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-from-recordings-to-live-streaming-on-youtube-and-twitch-with-obs/"><u>[Updated] From Recordings to Live  Streaming on YouTube & Twitch with OBS</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-flipping-the-script-mobile-filmmaking-and-youtube-thumbnail-tricks/"><u>2024 Approved  Flipping the Script  Mobile Filmmaking & YouTube Thumbnail Tricks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pun-picture-studio-chucklecrafts/"><u>2024 Approved  Pun Picture Studio  ChuckleCrafts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-shrink-it-down-youtubes-video-trimming-process/"><u>2024 Approved  Shrink It Down  YouTube's Video Trimming Process</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-streamers-guide-validating-your-channels-income/"><u>2024 Approved  Streamer's Guide  Validating Your Channel's Income</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-ranked-screen-recorder-for-seamless-youtubing/"><u>2024 Approved  Top-Ranked Screen Recorder for Seamless YouTubing</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-transforming-raw-audio-into-high-quality-youtube-videos/"><u>2024 Approved  Transforming Raw Audio Into High-Quality YouTube Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-understanding-youtube-lives-image-language/"><u>2024 Approved  Understanding YouTube Live's Image Language</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/figures-unveiled-exploring-youtubes-curious-numbers-2017-for-2024/"><u>Figures Unveiled! Exploring YouTube's Curious Numbers (2017) for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/full-vision-media-the-smart-mcn-selection-process-for-2024/"><u>Full Vision Media  The Smart MCN Selection Process for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/harnessing-the-power-of-filmora-for-youtube-video-promotions-for-2024/"><u>Harnessing the Power of Filmora for YouTube Video Promotions for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-xiaomi-14-ultra-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Xiaomi 14 Ultra Quickly? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-innovating-your-image-tips-for-crafting-irresistible-youtube-live-graphics/"><u>In 2024, Innovating Your Image  Tips for Crafting Irresistible YouTube Live Graphics</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-juggling-jargons-an-experts-guide-to-multiple-youtube-views/"><u>In 2024, Juggling Jargons  An Expert's Guide to Multiple YouTube Views</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-key-conduct-criteria-in-the-youtube-sphere/"><u>In 2024, Key Conduct Criteria in the YouTube Sphere</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-microvid-viewer-analysis-and-comparison-tools/"><u>In 2024, MicroVid Viewer Analysis & Comparison Tools</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mix-masters-ideal-dj-videos-to-download/"><u>In 2024, Mix Masters  Ideal DJ Videos to Download</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-start-your-affordable-webinar-journey-with-youtube/"><u>In 2024, Start Your Affordable Webinar Journey with YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-wirecast-livestream-on-youtube/"><u>In 2024, Step-by-Step  WireCast Livestream on YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-guide-youtube-downloads-for-ios-devices/"><u>In 2024, Step-by-Step Guide  YouTube Downloads for iOS Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-essence-of-whatsapp-call-conversations/"><u>In 2024, The Essence of WhatsApp Call Conversations</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-tinyvid-masterpiece/"><u>In 2024, TinyVid Masterpiece</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-excellent-video-keywords-on-youtube/"><u>In 2024, Unveiling Excellent Video Keywords on YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/infographic-efficient-video-marketing-for-smalls-for-2024/"><u>Infographic  Efficient Video Marketing for Smalls for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instantaneous-transcription-experience-with-whisper-desktop/"><u>Instantaneous Transcription Experience with Whisper Desktop</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/loop-friendly-tv-setups-integrating-youtube-videos-for-2024/"><u>Loop-Friendly TV Setups  Integrating YouTube Videos for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/masterpiece-moments-top-15-musician-behind-the-scenes-vlogs-for-2024/"><u>Masterpiece Moments  Top 15 Musician Behind-the-Scenes Vlogs for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-through-the-ultimate-guide-to-top-9-free-logos-for-2024/"><u>Navigating Through The Ultimate Guide to Top 9 Free Logos for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/one-minute-a-day-mastering-bangla/"><u>One Minute a Day, Mastering Bangla</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/snappy-zoom-calls-for-improved-engagement-for-2024/"><u>Snappy Zoom Calls for Improved Engagement for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-science-of-naming-your-podcast-for-success/"><u>The Science of Naming Your Podcast for Success</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-vivo-v30-pro-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo V30 Pro Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlock-photo-harmony-with-picshots-tools/"><u>Unlock Photo Harmony with Picshot’s Tools</u></a></li>
+</ul></div>

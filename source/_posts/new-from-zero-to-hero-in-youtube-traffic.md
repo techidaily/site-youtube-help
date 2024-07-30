@@ -1,7 +1,7 @@
 ---
 title: "[New] From Zero to Hero in YouTube Traffic"
-date: 2024-06-28T04:37:36.855Z
-updated: 2024-06-29T04:37:36.855Z
+date: 2024-07-29T20:25:15.527Z
+updated: 2024-07-30T20:25:15.527Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/50cbd8d07e0873a4343caac1afaca4ba3bdd492ab
 
 # The 12-step YouTube SEO Guide for Beginners Who Want More Views
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -38,6 +41,10 @@ Ready?
 
 Let’s Go!
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## Part 1: Research Your Topic and Competitors
 
 [Come up with a video idea](https://tools.techidaily.com/wondershare/filmora/download/). Can’t come up with one? Let me help. I heard you can make a mean scrambled egg, why don’t you show the world how you do it?
@@ -56,6 +63,9 @@ Uh oh… your video will be competing against celebrities like Gordon Ramsay and
 
 Okay, don’t panic! There is a fantastic quote, credited to bestselling author, [Jon Acuff](https://acuff.me/), that goes:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![fantastic quote](https://images.wondershare.com/filmora/article-images/fantastic-quote-do-not-compare-beginning-to-middle.jpg)
 
 While researching your competition, you will feel overwhelmed, but remember, you are at the beginning, and Gordon Ramsay and Jamie Oliver are not even at their middle, they are way passed the finish line. You still have a long journey to go, so don’t get discouraged, get inspired!
@@ -82,6 +92,9 @@ Come up with as many relevant keywords as you can. Start by entering a keyword i
 
 Once you have an idea of what people are searching for related to your topic, you’ll want to find more relevant keywords. I like to use the free app, [Ubersuggest](https://neilpatel.com/ubersuggest/) to do that.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![Find Keywords with Ubersuggest](https://images.wondershare.com/filmora/article-images/keyword-seo-tool-ubersuggest.jpg)
 
 This app gives you a whole list of long-tail keywords, which are 3-4-word phrases which is specific to what your video is about.
@@ -188,6 +201,9 @@ The best way to get engagement from your audience is to encourage them to like a
 
 For example, in this scrambled egg video you are making, at the end you can ask, “So what do you think, is this better than Gordon Ramsay?”
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Encourage Viewers to Engage in Video](https://images.wondershare.com/filmora/article-images/encourage-viewers-to-engage-min.gif)
 
 Who knows, who will respond.
@@ -198,6 +214,9 @@ You could have made a brilliant video, but if you have a poor quality thumbnail 
 
 Your viewers will absolutely judge your video by its cover so it’s important to put some thought into it and not solely rely on the three random thumbnail choices that YouTube picks for you.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![Design a Thumbnail](https://images.wondershare.com/filmora/article-images/design-youtube-video-thumbnail.jpg)
 
 Take a look at your competition. If they all look the same, do something different. Add text or a human face (preferably yours) to evoke emotion, as viewers are more likely to click into a video if they see an expressive image.
@@ -248,6 +267,9 @@ Besides considering YouTube SEO, you should make a good YouTube video as well. F
 
 Do you have any questions about SEO? Please leave us a comment below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -264,3 +286,45 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-capturing-gaming-moments-look-beyond-xboxs-game-bar-for-2024/"><u>[New] Capturing Gaming Moments  Look Beyond Xbox's Game Bar for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-script-to-splendor-animating-effects-unbound/"><u>[New] From Script to Splendor  Animating Effects Unbound</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-harnessing-the-power-of-filmora-for-youtube-video-promotions/"><u>[New] Harnessing the Power of Filmora for YouTube Video Promotions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-navigating-the-new-streaming-landscape-with-youtube-premium/"><u>[New] Navigating the New Streaming Landscape with YouTube Premium</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-perfecting-yt-aesthetics-in-depth-guide-to-banner-and-art-sizing/"><u>[New] Perfecting YT Aesthetics  In-Depth Guide to Banner & Art Sizing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-the-seamless-transition-of-tweeted-vids-to-snappy-ends/"><u>[New] The Seamless Transition of Tweeted Vids to Snappy Ends</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-advanced-techniques-for-sharing-srt-data-on-vimeo-and-linkedin/"><u>[Updated] Advanced Techniques for Sharing SRT Data on Vimeo and LinkedIn</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-visual-storytelling-instaslides/"><u>[Updated] In 2024, Visual Storytelling  InstaSlides</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quintessential-play-by-radio-stories/"><u>[Updated] Quintessential Play-by-Radio Stories</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-comparing-sns-hdrs-capabilities-with-competitor-software/"><u>2024 Approved  Comparing SNS HDR's Capabilities with Competitor Software</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-guide-clearing-up-youtube-watchlater-stored-list/"><u>2024 Approved  Guide  Clearing Up YouTube Watchlater Stored List</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-integrating-youtube-into-your-tiktok-journey-a-complete-manual/"><u>2024 Approved  Integrating YouTube Into Your TikTok Journey  A Complete Manual</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-maintaining-morale-amidst-online-adversity/"><u>2024 Approved  Maintaining Morale Amidst Online Adversity</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-seamlessly-share-videos-linking-youtube-to-the-tiktok-world/"><u>2024 Approved  Seamlessly Share Videos  Linking YouTube to the TikTok World</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-streamlining-presentations-how-to-add-youtube-videos-to-ppt/"><u>2024 Approved  Streamlining Presentations  How to Add YouTube Videos to PPT</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-pinnacle-of-youtube-ad-design-industrys-top-talents/"><u>2024 Approved  The Pinnacle of YouTube Ad Design  Industry's Top Talents</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-turning-youtube-shorts-into-a-money-machine-essentials-and-earnings-prospects/"><u>2024 Approved  Turning YouTube Shorts Into a Money Machine  Essentials and Earnings Prospects</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-dvd-copies-of-your-videos-a-step-by-step-guide-for-windows-and-mac-for-2024/"><u>Create DVD Copies of Your Videos A Step-by-Step Guide for Windows and Mac for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-a-broken-facial-recognition-top-14-tips-for-reactivating-iphones-face-id/"><u>Fixing a Broken Facial Recognition: Top 14 Tips for Reactivating iPhone's Face ID</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/from-audio-to-action-mp3-to-youtube-conversion-journey-for-2024/"><u>From Audio to Action  MP3-to-YouTube Conversion Journey for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-realme-gt-5-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Realme GT 5? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-execute-a-budget-friendly-youtube-seminar-for-2024/"><u>How to Execute a Budget-Friendly Youtube Seminar for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-14-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 14 Pro Max Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-7-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone 7 to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-how-to-shoot-underwater-video-easily-with-7-tips/"><u>In 2024, How to Shoot Underwater Video Easily (with 7 Tips)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-humorhub-quick-and-quirky-images/"><u>In 2024, HumorHub  Quick & Quirky Images</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-visual-enhancements-in-tiktok/"><u>In 2024, Mastering Visual Enhancements in TikTok</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-perfect-your-youtube-presence-learn-to-create-engaging-ads-and-thumbnails/"><u>In 2024, Perfect Your YouTube Presence  Learn to Create Engaging Ads & Thumbnails</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-premier-content-creators-colloquy/"><u>In 2024, Premier Content Creators Colloquy</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your iPhone 14 Pro Max</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streaming-success-choose-the-right-stabilizer-brand/"><u>In 2024, Streaming Success  Choose the Right Stabilizer Brand</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-subtitles-made-simple-top-10-zero-cost-downloaders/"><u>In 2024, Subtitles Made Simple  Top 10 Zero-Cost Downloaders</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-best-funny-fictional-frequencies/"><u>In 2024, The Best Funny Fictional Frequencies</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-oppo-reno-10-proplus-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Oppo Reno 10 Pro+ 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-youtube-studio-editing-handbook/"><u>In 2024, The Ultimate YouTube Studio Editing Handbook</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/investing-5-yields-hundreds-of-new-viewers-now-for-2024/"><u>Investing $5 Yields Hundreds of New Viewers Now for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/maximizing-visibility-a-comprehensive-guide-to-yt-gaming-hashes-for-2024/"><u>Maximizing Visibility  A Comprehensive Guide to YT Gaming Hashes for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-free-floating-vr-without-nausea/"><u>Navigating Free-Floating VR without Nausea</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-honor-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Honor FRP</u></a></li>
+</ul></div>

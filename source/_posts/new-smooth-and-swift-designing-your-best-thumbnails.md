@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Smooth & Swift  Designing Your Best Thumbnails\""
-date: 2024-07-07T20:37:17.188Z
-updated: 2024-07-08T20:37:17.188Z
+date: 2024-07-29T20:29:46.911Z
+updated: 2024-07-30T20:29:46.911Z
 tags:
   - ai video
   - ai youtube
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
 
 # How to Make a Thumbnail for Your YouTube Free Easily
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -41,14 +44,23 @@ With time, Filmora brings new and advanced features for its users to equip them 
 
 **Step 01:** Open Filmora X. If it is not already installed on your computer, download and install its latest version from [here](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ai-portrait-thumbnail-step1](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step1.png)
 
 **Step 02:** Make sure that the aspect ratio of your project is 16:9\. To do that, click on a screen-shaped icon below the preview screen and select "Change Project Aspect Ratio."
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ai-portrait-thumbnail-step2](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step2.png)
 
 **Step 03:** Change the Aspect Ratio to 16:9 if it is not set to it already. 16:9 aspect ratio is the standard size of Youtube thumbnails that represents the best possible results.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ai-portrait-thumbnail-step3](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step4.png)
 
 **Step 04:** Choose a background of your choice for your thumbnail. You can choose a background from the sample colors provided by Filmora.
@@ -61,6 +73,9 @@ With time, Filmora brings new and advanced features for its users to equip them 
 
 **Step 06:** Import your video the same way into the media folder of Filmora and drag it into the timeline and place it above your background.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ai-portrait-thumbnail-step6](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step6.png)
 
 **Step 07:** Select your footage, go to the Effects tab and click on AI Portraits. It will open up all the effects related to AI Portraits. These AI Portrait features help you separate the human from a background without using a green screen or anything else.
@@ -69,10 +84,16 @@ With time, Filmora brings new and advanced features for its users to equip them 
 
 **Step 08:** Double click on any of these effects to see how they will look like on your footage.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ai-portrait-thumbnail-step8](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step8.png)
 
 **Step 09:** To make a thumbnail for your Youtube, we have to remove the background of your footage first. To do that we have to apply Human Segmentation to the footage first. It will separate the human from the footage. Drag and drop the Human Segmentation effect into the footage in the timeline. Once you drop it into the footage, it will ask you to purchase this feature to export the footage. Since we are not trying to export the footage, we are only creating a thumbnail, click on "Try It". Once the background is removed, you can add other effects as well. Drag and drop the "Human Border" into the footage. It creates an outline around the human in your footage.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![ai-portrait-thumbnail-step9](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step9.png)
 
 **Step 10:** The effect will be applied to the footage. Now the background has been removed from the footage and ready to be used on your custom background. You can adjust the human accordingly where it looks perfect.
@@ -85,6 +106,10 @@ With time, Filmora brings new and advanced features for its users to equip them 
 
 **Step 12:** Once you are satisfied with the final results, click on the Camera icon below the preview screen or press "Ctrl+Alt+S" to take the screenshot.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![ai-portrait-thumbnail-step12](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step12.png)
 
 #### Conclusion
@@ -111,3 +136,46 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-cutting-edge-computing-select-the-optimal-device-for-video-editing-for-2024/"><u>[New] Cutting Edge Computing  Select the Optimal Device for Video Editing for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-extracting-youtube-images-online-desktop-tools-and-terminal-tactics/"><u>[New] Extracting YouTube Images  Online, Desktop Tools & Terminal Tactics</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-passion-to-prominence-the-creators-quest/"><u>[New] From Passion to Prominence  The Creator's Quest</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-optimal-6-crafted-urban-home-concepts/"><u>[New] In 2024, Optimal 6 Crafted Urban Home Concepts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-navigating-and-adapting-youtubes-evolving-policy-landscape/"><u>[New] Navigating and Adapting  YouTube's Evolving Policy Landscape</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-securing-a-stable-stream-of-earnings-on-youtube/"><u>[New] Securing a Stable Stream of Earnings on YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-strategies-for-sustainable-income-via-product-based-videos/"><u>[New] Strategies for Sustainable Income via Product-Based Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-revolutionize-your-photo-taking-experience-a-guide-to-snapchats-editing-tools/"><u>[Updated] 2024 Approved  Revolutionize Your Photo-Taking Experience  A Guide to Snapchat's Editing Tools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-crafting-engaging-narratives-a-compreehensive-guide-to-adding-emojis-to-instagram-stories/"><u>[Updated] Crafting Engaging Narratives  A Compreehensive Guide to Adding Emojis to Instagram Stories</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-virality-to-value-ajays-playbook-for-profitable-content-creation/"><u>[Updated] In 2024, From Virality to Value  Ajay’s Playbook for Profitable Content Creation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovative-flight-stability-best-gimbals/"><u>[Updated] Innovative Flight Stability  Best Gimbals</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-insiders-look-at-macos-11-big-sur-journey/"><u>[Updated] Insider's Look at macOS 11 Big Sur Journey</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-elevate-your-video-edits-ken-burns-in-camtasia/"><u>2024 Approved  Elevate Your Video Edits  Ken Burns in Camtasia</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-exclusive-mcb-logo-designs-and-templates/"><u>2024 Approved  Exclusive MCB Logo Designs and Templates</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-financial-forecasting-in-the-world-of-youtube-snippet-creation/"><u>2024 Approved  Financial Forecasting in the World of YouTube Snippet Creation</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-is-it-lawful-to-screen-capture-youtube-content/"><u>2024 Approved  Is It Lawful to Screen-Capture YouTube Content?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-learn-to-save-youtube-playback-as-a-free-screencast/"><u>2024 Approved  Learn to Save YouTube Playback as a Free Screencast</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mapping-out-the-next-wave-of-social-media-graphs/"><u>2024 Approved  Mapping Out the Next Wave of Social Media Graphs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-phantom-camera-pause-tips/"><u>2024 Approved  Phantom Camera Pause Tips</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-time-traveling-through-retro-filmmaking-techniques/"><u>2024 Approved  Time Traveling Through Retro Filmmaking Techniques</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-twice-as-nice-sequential-video-playback-via-television-setup/"><u>2024 Approved  Twice as Nice  Sequential Video Playback via Television Setup</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-oppo-a56s-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Oppo A56s 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-tecno-spark-10-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Tecno Spark 10 5G Device SIM</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-your-reading-journey-top-5-ai-enhanced-book-platforms/"><u>Enhance Your Reading Journey - Top 5 AI-Enhanced Book Platforms</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/from-free-to-fortune-the-500-sub-club-for-2024/"><u>From Free to Fortune  The 500-Sub Club for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-xiaomi-redmi-note-12-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Xiaomi Redmi Note 12 5G FRP</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/harmony-through-communication-multilingual-relationship-guide/"><u>Harmony Through Communication: Multilingual Relationship Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-xiaomi-redmi-note-13-5g-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-convert-youtubes-audios-to-mp3-safely-step-by-step-guide/"><u>In 2024, How To Convert YouTube's Audios to MP3 Safely - Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-key-10-acoustic-amplifiers-for-android-ios/"><u>In 2024, Key 10 Acoustic Amplifiers for Android, iOS</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-leaders-shaping-the-marvel-online-experience/"><u>In 2024, Leaders Shaping the Marvel Online Experience</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-prime-video-strategies-selecting-perfect-format-for-youtube/"><u>In 2024, Prime Video Strategies – Selecting Perfect Format for YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamlining-quality-youtubes-best-video-improvement-strategies/"><u>In 2024, Streamlining Quality  YouTube's Best Video Improvement Strategies</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-art-of-imitation-crafting-parody-videos/"><u>In 2024, The Art of Imitation  Crafting Parody Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-dangers-of-buying-fake-youtube-subscribers/"><u>In 2024, The Dangers of Buying Fake YouTube Subscribers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-top-7-video-streaming-innovations-excel-on-youtube-with-iphonesandroid-os/"><u>In 2024, Top 7 Video Streaming Innovations  Excel on YouTube with iPhones/Android OS</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-infinix-gt-10-pro-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Infinix GT 10 Pro Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unparalleled-production-choosing-the-top-webcam-for-podcasts-for-2024/"><u>Unparalleled Production  Choosing the Top Webcam for Podcasts for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-elevating-audio-excellence-adjusting-pitch-in-audacity-without-compromising-quality/"><u>Updated 2024 Approved Elevating Audio Excellence Adjusting Pitch in Audacity without Compromising Quality</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Effortlessly Eradicate Unwanted YouTube Feedback\""
-date: 2024-06-28T04:35:15.042Z
-updated: 2024-06-29T04:35:15.042Z
+date: 2024-07-29T18:46:31.076Z
+updated: 2024-07-30T18:46:31.076Z
 tags:
   - ai video
   - ai youtube
@@ -47,6 +47,9 @@ In this section, we will tell you how you can do it from your desktop.
 
 You also have the option to report the comment or [hide the user from your channel](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Delete All YouTube Comments from Mobile?
 
 The steps to deleting someone else’s YouTube comments from your mobile are similar to those from your desktop.
@@ -57,6 +60,9 @@ The steps to deleting someone else’s YouTube comments from your mobile are sim
 4. Once you reach the target comment, click on the three vertical dots at the bottom corner. There should be an option called Remove. Tap on it.
 5. This will create another dialog box on the mobile app where you have to click on Remove again to delete the comment.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ## How Do You Delete Your Comments from YouTube?
 
 Have you accidentally posted something on a YouTuber’s channel? Are you anxious because you cannot find the comment and delete it?
@@ -83,6 +89,9 @@ If it is your video where the comment to be removed is, you can go to My Channel
 1. Once you locate the video, you need to find the comment you want to delete. On the YouTube app, you may need to scroll down for a while to do this.
 2. When you reach it, click on the three vertical dots at the bottom corner of your comment. You should see an option called Delete. Click on that. You need to confirm once more that you want to delete it, and the process will be complete.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Delete Other People’s Comments on Others’ Channels
 
 Did you see a hate comment on your favorite creator’s video? Sadly, you cannot delete the comment. But, you can report it, and YouTube will hide or take it down.
@@ -118,14 +127,23 @@ You can also delete all comments you ever posted on any YouTube video by hiding 
 
 1. Scroll down and select Delete Channel. Clicking it will not delete your account. When you click on Delete Channel, you will get two choices – ‘I want to hide my channel’ and ‘I want to permanently delete my content’. Select the first.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![YouTube Settings](https://images.wondershare.com/filmora/article-images/remove-youtube-content.jpg)
 
 1. YouTube will now show you what will happen when you hide your channel. Check all the boxes to confirm that you understand, and then tap on Hide My Channel. YouTube will now delete all comments made by your account.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ### Final Thoughts
 
 YouTube can be an unsafe place with unwanted comments everywhere. In this blog, we tried to show how you can get rid of comments on your and on others’ YouTube accounts. The next time you see an offensive comment or post something mistakenly, don’t forget to try our tips and make YouTube a safe platform again.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -142,3 +160,37 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-master-video-cutting-and-splicing-with-vimeo-for-free/"><u>[New] 2024 Approved  Master Video Cutting & Splicing with Vimeo, for Free</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-quintessential-new-wave-of-facebook-updates/"><u>[New] 2024 Approved  The Quintessential New Wave of Facebook Updates</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-mastering-video-trailers-on-youtube-via-filmora-tools/"><u>[New] Mastering Video Trailers on YouTube via Filmora Tools</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-prowl-without-interrups-find-the-best-7-android-adblock-tools/"><u>[New] Prowl Without Interrups  Find the Best 7 Android AdBlock Tools</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-simple-path-your-guide-to-convert-youtube-audio-on-mac/"><u>[New] Simple Path  Your Guide to Convert YouTube Audio on Mac</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-delving-deep-a-sincere-examination-of-recordcast/"><u>2024 Approved  Delving Deep  A Sincere Examination of RecordCast</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-flexible-cam-balancer-toolkit/"><u>2024 Approved  Flexible Cam Balancer Toolkit</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-youtube-monetization-a-cpm-perspective/"><u>2024 Approved  Mastering YouTube Monetization  A CPM Perspective</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-maximize-engagement-and-impact-premier-tracking-applications-for-content-creators/"><u>2024 Approved  Maximize Engagement and Impact  Premier Tracking Applications for Content Creators</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-the-world-of-youtube-building-strong-partner-relationships/"><u>2024 Approved  Navigating the World of YouTube  Building Strong Partner Relationships</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-your-path-as-a-first-time-youtuber-sidestep-these-8-common-mistakes/"><u>2024 Approved  Navigating Your Path as a First-Time YouTuber  Sidestep These 8 Common Mistakes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-techniques-for-discarding-backlogged-youtube-videos/"><u>2024 Approved  Techniques for Discarding Backlogged YouTube Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/from-ordinary-to-outstanding-crafting-unique-shorts-thumbnails-for-2024/"><u>From Ordinary to Outstanding  Crafting Unique Shorts Thumbnails for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/from-penniless-to-partnered-a-small-channels-journey-for-2024/"><u>From Penniless to Partnered  A Small Channel's Journey for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-increase-youtube-traffic-by-a-million-safely-done-for-2024/"><u>How to Increase YouTube Traffic by a Million  Safely Done for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-samsung-galaxy-m14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-finding-the-perfect-phrases-for-gamers-videos/"><u>In 2024, Finding the Perfect Phrases for Gamers' Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-full-guide-to-adobe-cloud-storage-and-best-alternatives/"><u>In 2024, Full Guide to Adobe Cloud Storage and Best Alternatives</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-rediscover-the-past-watching-youtubes-lost-footage/"><u>In 2024, How to Rediscover the Past  Watching Youtube's Lost Footage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ignite-passion-a-selection-of-10-invigorating-films/"><u>In 2024, Ignite Passion  A Selection of 10 Invigorating Films</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-nubia-red-magic-8s-pro-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Nubia Red Magic 8S Pro Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-master-the-art-of-eye-catching-short-videos/"><u>In 2024, Master the Art of Eye-Catching Short Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-personal-content-management-building-a-structured-watch-later-list/"><u>In 2024, Mastering Personal Content Management  Building a Structured 'Watch Later' List</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-maximize-engagement-and-impact-premier-tracking-applications-for-content-creators/"><u>In 2024, Maximize Engagement and Impact  Premier Tracking Applications for Content Creators</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-safe-mp3-extraction-three-methods-for-youtube-audio-conversion/"><u>In 2024, Safe MP3 Extraction  Three Methods for YouTube Audio Conversion</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-hash-list-boosting-youtube-views-to-6000plus/"><u>In 2024, The Ultimate Hash List  Boosting Youtube Views to $6,000+</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/less-is-more-the-best-video-url-reducers-revealed-for-2024/"><u>Less Is More  The Best Video URL Reducers Revealed for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/maximizing-traffic-with-effective-youtube-titles-for-2024/"><u>Maximizing Traffic with Effective YouTube Titles for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/narrating-your-journey-channeling-authenticity-online-for-2024/"><u>Narrating Your Journey  Channeling Authenticity Online for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/tech-equality-checked-expert-analysis/"><u>Tech Equality Checked  Expert Analysis</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-pathway-to-free-final-cut-pro/"><u>The Pathway to Free Final Cut Pro</u></a></li>
+</ul></div>
