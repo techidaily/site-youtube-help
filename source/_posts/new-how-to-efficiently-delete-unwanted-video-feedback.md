@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Efficiently Delete Unwanted Video Feedback"
-date: 2024-09-10T11:21:44.727Z
-updated: 2024-09-11T11:21:44.727Z
+date: 2024-09-15T16:09:58.636Z
+updated: 2024-09-16T16:42:11.099Z
 tags:
   - ai video
   - ai youtube
@@ -20,20 +20,6 @@ thumbnail: https://thmb.techidaily.com/704c497d76ce3443a342fa34e8883ce74ed2e3eea
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##### Richard Bennett
 
  Mar 27, 2024• Proven solutions
@@ -49,20 +35,6 @@ So how do you delete all YouTube comments? In this how-to blog, we will show you
 * [Part 3: How to Delete Your Comments from YouTube?](#part3)
 * [part 4: Delete Other People's Comments on Others' Channels](#part4)
 * [Part 5: Delete All Your Posted YouTube Comments](#part5)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to Delete YouTube Comments from Desktop?
 
@@ -84,20 +56,6 @@ The steps to deleting someone else’s YouTube comments from your mobile are sim
 3. Select the video from where you want to delete a comment. Scroll down to reach the desired comment.
 4. Once you reach the target comment, click on the three vertical dots at the bottom corner. There should be an option called Remove. Tap on it.
 5. This will create another dialog box on the mobile app where you have to click on Remove again to delete the comment.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How Do You Delete Your Comments from YouTube?
 
@@ -145,19 +103,18 @@ To find your History from your desktop, you need to click on the three horizonta
 
 ![Report YouTube comments](https://images.wondershare.com/filmora/article-images/report-youtube-comment.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## How to Delete All Your Posted YouTube Comments?
 
@@ -168,63 +125,41 @@ You can also delete all comments you ever posted on any YouTube video by hiding 
 
 ![YouTube Settings](https://images.wondershare.com/filmora/article-images/two-ways-settings-youtube-channel.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 1. YouTube will direct you to the Settings page of your account. Choose Advanced Settings from the list on your left. You can also access it from [here](https://www.youtube.com/account%5Fadvanced).
 
 ![YouTube Advanced  Settings](https://images.wondershare.com/filmora/article-images/youtube-advanced-settings.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 1. Scroll down and select Delete Channel. Clicking it will not delete your account. When you click on Delete Channel, you will get two choices – ‘I want to hide my channel’ and ‘I want to permanently delete my content’. Select the first.
 
 ![YouTube Settings](https://images.wondershare.com/filmora/article-images/remove-youtube-content.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
-
 1. YouTube will now show you what will happen when you hide your channel. Check all the boxes to confirm that you understand, and then tap on Hide My Channel. YouTube will now delete all comments made by your account.
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Final Thoughts
 
@@ -238,48 +173,25 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-crafting-conversational-mastery-step-by-step-guide-to-free-voice-modification-tools/"><u>[New] Crafting Conversational Mastery  Step-by-Step Guide to Free Voice Modification Tools</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-elite-ipad-speech-recording-tools-3-for-2024/"><u>[New] Elite iPad Speech Recording Tools #3 for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-from-simple-to-sophisticated-mastering-zd-softs-video-recording-techniques-for-2024/"><u>[New] From Simple to Sophisticated  Mastering ZD Soft's Video Recording Techniques for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-getting-started-with-pro-level-youtube-tech/"><u>[New] Getting Started with Pro-Level YouTube Tech</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-iconic-gaming-themes-the-ultimate-template-collection/"><u>[New] Iconic Gaming Themes  The Ultimate Template Collection</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-ranking-of-top-10-budget-friendly-video-calls-iphoneandroid/"><u>[New] In 2024, Ranking of Top 10 Budget-Friendly Video Calls (iPhone/Android)</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-peak-creativity-youtube-fellowship/"><u>[New] Peak Creativity  YouTube Fellowship</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-perfected-approaches-to-capturing-remote-training-sessions-for-2024/"><u>[New] Perfected Approaches to Capturing Remote Training Sessions for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-raise-the-bar-pivotal-youtube-seo-enhancers/"><u>[New] Raise the Bar  Pivotal YouTube SEO Enhancers</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-twitter-to-whatsapp-sharing-videos-simplified/"><u>[Updated] Twitter to WhatsApp  Sharing Videos Simplified</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-infographic-social-video-marketing-tips-for-small-business/"><u>2024 Approved  [Infographic] Social Video Marketing Tips for Small Business</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-exploring-new-horizons-video-resources-for-dynamic-learning-spaces/"><u>2024 Approved  Exploring New Horizons  Video Resources for Dynamic Learning Spaces</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-future-fortunes-for-virtual-game-masters/"><u>2024 Approved  Future Fortunes for Virtual Game Masters</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-ridiculous-rhythms-satirical-song-stories/"><u>2024 Approved  Ridiculous Rhythms  Satirical Song Stories</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-skyrocket-your-channel-the-ultimate-guide-to-youtube-backlinks/"><u>2024 Approved  Skyrocket Your Channel  The Ultimate Guide to YouTube Backlinks</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-starting-strong-key-equipment-for-youtube-success/"><u>2024 Approved  Starting Strong  Key Equipment for YouTube Success</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-strategies-for-deleting-watch-later-items-on-youtube/"><u>2024 Approved  Strategies for Deleting Watch Later Items on YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-strategies-for-watching-multiple-youtube-videos/"><u>2024 Approved  Strategies for Watching Multiple YouTube Videos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-monetization-contest-dailymovement-vs-youtubes-earnings-battleground/"><u>2024 Approved  The Monetization Contest  DailyMovement vs Youtube's Earnings Battleground</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-guide-to-adobe-premiere-and-youtube-uploads/"><u>2024 Approved  The Ultimate Guide to Adobe Premiere and YouTube Uploads</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-list-of-best-hashtags-for-yt-view-spikes/"><u>2024 Approved  The Ultimate List of Best Hashtags for YT View Spikes</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enhance-w11-printer-response-times/"><u>Enhance W11 Printer Response Times</u></a></li>
-<li><a href="https://video-capture.techidaily.com/essential-strategies-for-capturing-starlit-self-portraits/"><u>Essential Strategies for Capturing Starlit Self-Portraits</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/exploring-alternatives-to-buying-views-for-authentic-audience-building-for-2024/"><u>Exploring Alternatives to Buying Views for Authentic Audience Building for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/globally-renowned-earning-content-creator-for-2024/"><u>Globally Renowned Earning Content Creator for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-adapting-spotify-playlists-into-a-youtube-music-format/"><u>In 2024, Adapting Spotify Playlists Into a YouTube Music Format</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-learn-the-art-of-green-screen-without-costs-top-4-youtube-techniques-for-aspiring-vfx-artists/"><u>In 2024, Learn the Art of Green Screen Without Costs  Top 4 YouTube Techniques for Aspiring VFX Artists</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-perfecting-your-youtube-video-blueprint/"><u>In 2024, Perfecting Your YouTube Video Blueprint</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unwind-with-laughter-curating-15-hilarious-youtube-masterpieces/"><u>In 2024, Unwind with Laughter  Curating 15 Hilarious YouTube Masterpieces</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/innovative-setup-essentials-for-game-streaming-for-2024/"><u>Innovative Setup Essentials for Game Streaming for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/instilling-windows-1011-tools-to-alert-on-new-software-versions/"><u>Instilling Windows 10/11 Tools to Alert on New Software Versions</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/live-google-meet-on-youtube-streaming-tutorial-for-beginners-for-2024/"><u>Live Google Meet on YouTube – Streaming Tutorial for Beginners for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/navigating-brand-growth-with-youtubes-essential-top-5-video-marketing-techniques-for-2024/"><u>Navigating Brand Growth with YouTube's Essential #Top 5 Video Marketing Techniques for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/your-passport-to-popularity-9-essential-instagram-secrets-for-success/"><u>Your Passport to Popularity  9 Essential Instagram Secrets for Success</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-crafting-memories-a-complete-guide-to-the-top-6-minecraft-recordings-techniques/"><u>[New] 2024 Approved Crafting Memories A Complete Guide to the Top 6 Minecraft Recordings Techniques</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-leveraging-technology-to-keep-your-snapchats-alive/"><u>[New] Leveraging Technology to Keep Your Snapchats Alive</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-snapshots-from-videos-within-windows-11-photos-app-for-2024/"><u>[New] Snapshots From Videos Within Windows 11 Photos App for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/amazfit-gts-unveiled-when-trendy-meets-treadmill-an-in-depth-analysis/"><u>Amazfit GTS Unveiled - When Trendy Meets Treadmill: An In-Depth Analysis</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/apowersoft-screen-recorder-2023-review-for-high-performance-pcs/"><u>Apowersoft Screen Recorder 2023 Review for High-Performance PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/cpu-elite-list-advanced-performance-testing-and-rank-order-analysis/"><u>CPU Elite List : Advanced Performance Testing and Rank Order Analysis</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/exploring-the-features-of-samsung-galaxy-tab-s6-in-depth-look-at-s-pen-and-dex-modes/"><u>Exploring the Features of Samsung Galaxy Tab S6 - In-Depth Look at S Pen & DeX Modes</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-realme-c53-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Realme C53 Lock Screen Password</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-top-sandbox-games-for-aspiring-explorers/"><u>In 2024, Top Sandbox Games for Aspiring Explorers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/thunder-tier-one-stability-fixes-a-comprehensive-strategy-for-uninterrupted-gameplay-on-pc/"><u>Thunder TIER One Stability Fixes: A Comprehensive Strategy for Uninterrupted Gameplay on PC</u></a></li>
 </ul></div>
+

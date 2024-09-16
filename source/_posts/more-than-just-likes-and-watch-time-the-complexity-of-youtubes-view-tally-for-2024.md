@@ -1,7 +1,7 @@
 ---
 title: "\"More than Just Likes and Watch Time  The Complexity of YouTube's View Tally for 2024\""
-date: 2024-09-10T11:21:43.946Z
-updated: 2024-09-11T11:21:43.946Z
+date: 2024-09-13T17:35:10.617Z
+updated: 2024-09-16T17:52:06.853Z
 tags:
   - ai video
   - ai youtube
@@ -14,39 +14,11 @@ keywords: "\"YouTube Engagement Beyond Metrics,Analyzing YouTube Viewer Behavior
 thumbnail: https://thmb.techidaily.com/c6fb0c53f67d408b9f1a8e71dd93d74b8d8f511c12090374117c9c8e1782192a.jpg
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## More than Just Likes and Watch Time: The Complexity of YouTube's View Tally
 
 # How Does YouTube Count Views? It's Not as Simple as You Think
 
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##### Richard Bennett
 
@@ -75,20 +47,6 @@ You can use Filmora to make YouTube videos with built-in royalty-free audio. Fil
 YouTube doesn’t provide a clear definition of what counts as a view, but we know that someone clicks on your video, and clicking right away doesn’t count. That’s how we know that watch time is a factor. Some studies conclude that a [full 30 seconds need to be viewed](https://buffer.com/library/social-video-metrics/#9) to register as one view, but there is no way to know for sure.
 
 ![how YouTube counts view](https://images.wondershare.com/filmora/article-images/how-youtube-count-view.JPG)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 2\. How Does YouTube Count Views?
 
@@ -125,43 +83,42 @@ One way that [YouTube might flag an account as a potential bot](https://support.
 
 Any bot-like action will result in an account’s views do not be added to your view count.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 5\. The Skip & Skim
 
 It’s not uncommon for viewers to watch a video for say five seconds, skip forwards a bit and watch for another ten seconds as they look for a specific part. It is hard to say whether skipping through a video, but watching a scattered 30 seconds, would count as a view or not.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## 6\. Frozen YouTube View Counts
 
 Sometimes YouTube will freeze a view count in order to check that it is accurate. When the count is unfrozen, the count may jump up as views are validated or it can go down if YouTube detects a problem.
 
 You can use [YouTube’s analytics reports](https://blog.hootsuite.com/youtube-analytics/) to monitor an estimate of your potential views, but there is no assurance that this data will completely match your official view count.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. The 301 Mark
 
@@ -171,20 +128,6 @@ This is why view counts are often frozen at 301\. The employees at YouTube then 
 
 During the period when the view count is frozen every legitimate view is still counted, just not added immediately. Once the YouTube team is sure that your videos are not getting fake traffic, your view count will be updated to include views that were registered during the frozen phase. However, [YouTube says](https://www.theverge.com/2015/8/5/9100759/youtube-301-view-count-freeze-going-away) it won't flag videos at 301 views anymore.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Conclusion
 
 In short, we know YouTube expects a viewer to watch a video for around 30 seconds before it counts a view, that views from suspicious accounts are not counted, and that YouTube can decide to freeze your view count while they review your views. They are protecting the site from becoming saturated with videos that only look popular because of bots. Ultimately, ‘how does YouTube count views’ isn’t a question anyone but YouTube can answer for sure, but we do know it isn’t as simple as ‘a view is someone clicking on your video’.
@@ -192,20 +135,6 @@ In short, we know YouTube expects a viewer to watch a video for around 30 second
 If you want to engage your audience with cool effects and Filmora is the best choice to make a split-screen and green screen video for YouTubers. Download it now to have a try!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -215,47 +144,25 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-from-hobby-to-hustle-making-money-with-videos/"><u>[New] From Hobby to Hustle  Making Money with Videos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-high-definition-hardware-unveiled-by-gamers/"><u>[New] High-Definition Hardware Unveiled by Gamers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-channel-up-your-earning-potential-with-youtube-shorts-strategy/"><u>[New] In 2024, Channel Up Your Earning Potential with YouTube Shorts Strategy</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-diving-into-the-essence-of-verified-instagramselfies/"><u>[New] In 2024, Diving Into the Essence of Verified Instagramselfies</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-navigate-through-creating-stellar-educational-video-content-for-online-platforms/"><u>[New] Navigate Through Creating Stellar Educational Video Content for Online Platforms</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-pulse-of-innovation-selecting-top-quality-dj-visual-downloads/"><u>[New] Pulse of Innovation  Selecting Top-Quality DJ Visual Downloads</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-quick-guide-youtube-videos-turned-into-engaging-animation-gifs/"><u>[New] Quick Guide  YouTube Videos Turned Into Engaging Animation Gifs</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-from-free-to-paid-the-transition-to-youtubes-elite-service/"><u>2024 Approved  From Free to Paid  The Transition to YouTube's Elite Service</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-gamers-path-to-earnings-on-youtube/"><u>2024 Approved  Gamer's Path to Earnings on YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-gearing-up-for-youtube-success-cross-platform-strategies/"><u>2024 Approved  Gearing Up for YouTube Success  Cross-Platform Strategies</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagram-stories-incorporating-natural-bokeh-effects/"><u>2024 Approved  Instagram Stories  Incorporating Natural Bokeh Effects</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-youtube-ad-removal-chrome-firefox-android-iphone-methods/"><u>2024 Approved  Mastering YouTube Ad Removal  Chrome, Firefox, Android, iPhone Methods</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-the-nuances-of-mukbang-filmmaking-techniques/"><u>2024 Approved  Navigating the Nuances of Mukbang Filmmaking Techniques</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-secrets-to-acquiring-free-audio-tracks-for-videos/"><u>2024 Approved  Secrets to Acquiring Free Audio Tracks for Videos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-step-by-step-launching-google-meet-on-youtube/"><u>2024 Approved  Step-by-Step  Launching Google Meet on YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-tug-of-war-youtube-licensing-versus-cc-principles/"><u>2024 Approved  The Tug-of-War  Youtube Licensing Versus CC Principles</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unveiling-the-ultimate-list-youtubes-premier-mp3-extractors/"><u>2024 Approved  Unveiling the Ultimate List  YouTube's Premier MP3 Extractors</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/a-guide-to-instagrams-video-duration-regulations-for-2024/"><u>A Guide to Instagram's Video Duration Regulations for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/first-steps-launching-a-youtube-channel-for-profit-for-2024/"><u>First Steps  Launching a YouTube Channel for Profit for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/hidden-echoes-to-silence-audacitys-technique-guide/"><u>Hidden Echoes to Silence  Audacity's Technique Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Infinix Smart 7? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-gaming-hits-with-powerful-hashtag-strategies/"><u>In 2024, Gaming Hits with Powerful Hashtag Strategies</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-interactive-lessons-expert-video-editing-for-classroom/"><u>In 2024, Interactive Lessons  Expert Video Editing for Classroom</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-navigating-the-best-the-ultimate-7-android-adblockers-guide/"><u>In 2024, Navigating the Best  The Ultimate 7 Android AdBlockers Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-insider-guide-to-youtube-live-video-thumbnails/"><u>In 2024, The Ultimate Insider Guide to YouTube Live Video Thumbnails</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-top-5-youtube-link-shortener-you-must-try/"><u>In 2024, Top 5 YouTube Link Shortener You Must Try</u></a></li>
-<li><a href="https://techidaily.com/is-your-nubia-red-magic-9-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Nubia Red Magic 9 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/juggling-jargons-an-experts-guide-to-multiple-youtube-views-for-2024/"><u>Juggling Jargons  An Expert's Guide to Multiple YouTube Views for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/mastering-subscription-the-art-of-positive-engagement-for-2024/"><u>Mastering Subscription  The Art of Positive Engagement for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/maximize-traffic-with-these-must-use-freefire-tags-for-videos-for-2024/"><u>Maximize Traffic with These Must-Use FreeFire Tags for Videos for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/maximizing-game-capture-with-bandicam-essentials-for-the-year-2023/"><u>Maximizing Game Capture with Bandicam - Essentials for the Year 2023</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-oppo-a59-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Oppo A59 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://article-tips.techidaily.com/streamlining-image-processes-with-polarrs-compreeved-tools-for-2024/"><u>Streamlining Image Processes with Polarr's Compreeved Tools for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-elite-puzzles-unlocked-discovering-best-escape-halls/"><u>[New] In 2024, Elite Puzzles Unlocked Discovering Best Escape Halls</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-stealthy-facebook-video-navigator/"><u>2024 Approved Stealthy Facebook Video Navigator</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-tecno-spark-10-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/emerging-design-amazons-latest-update-to-echo-dot-unveiled-in-review/"><u>Emerging Design: Amazon's Latest Update to Echo Dot Unveiled in Review</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/glion-dolly-electric-scooters-unveiled-the-epitome-of-style-and-velocity-for-your-wallet/"><u>Glion Dolly Electric Scooters Unveiled: The Epitome of Style and Velocity for Your Wallet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-11-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone 11 Pro Max | Stellar</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-m6-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Poco M6 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-f54-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy F54 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-the-art-of-instagram-filter-use-for-2024/"><u>Mastering the Art of Instagram Filter Use for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/solved-how-to-fix-the-stardew-valley-game-crash-issue/"><u>Solved! How to Fix the Stardew Valley Game Crash Issue</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/troubleshooting-and-improving-fps-issues-master-tips-for-a-better-outriders-experience/"><u>Troubleshooting and Improving FPS Issues: Master Tips for a Better Outriders Experience</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Investment Alert  Avoid the Trap of Artificial YouTube Engagement\""
-date: 2024-09-10T11:21:48.572Z
-updated: 2024-09-11T11:21:48.572Z
+date: 2024-09-12T17:40:41.242Z
+updated: 2024-09-16T16:58:25.496Z
 tags:
   - ai video
   - ai youtube
@@ -14,40 +14,12 @@ keywords: "Avoiding Fake Views,Authentic Content Strategy,Ethical Video Growth,R
 thumbnail: https://www.lifewire.com/thmb/xQxtXFkzyQiRGWQVpT33EdqXgyc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/2do-app-57caef685f9b5829f4001c4f.jpg
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Investment Alert: Avoid the Trap of Artificial YouTube Engagement
 
 # The Dangers of Buying Fake YouTube Subscribers
 
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##### Richard Bennett
 
  Oct 26, 2023• Proven solutions
@@ -61,26 +33,6 @@ There is an ongoing debate as to whether or not this is a legitimate method of p
 Before buying subscribers or views you first must make sure that the provider you’re considering doing business with is trustworthy. It may turn out that the service you purchased subscribers from is a scam designed to take your money. Besides being scammed, there are several other major concerns that make buying subscribers for your YouTube channel a questionable choice.
 
 Let's have a look at how buying subscribers may hurt your channel and ruin your chances of achieving YouTube success.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## The Odds of Getting Banned
 
@@ -109,20 +61,6 @@ As you probably already know, YouTube videos are monetized through AdSense, whic
 Buying fake views and subscribers to try and turn a profit involves a lot of risks, especially because the financial gain you will be able to make isn't significant. There are [other ways to make money on YouTube](https://tools.techidaily.com/wondershare/filmora/download/) than to get subscribers.
 
 The best advice for YouTube creators who want to buy views and subscribers is to go through official channels. The reason for buying real views isn’t technically against the rules is because Google could be said to sell views itself through its ad services. Paying Google for YouTube views is highly unlikely to backfire on you, while you can also consider hiring freelancers to get you legitimate subscribers and views, the quality of their services can range from excellent to terrible and it will be hard to find reliable reviews.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Other Risks of Buying Subscribers
 
@@ -167,20 +105,6 @@ Since YouTube is a video platform, your video is what attracts your subscribers.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -200,20 +124,6 @@ There is an ongoing debate as to whether or not this is a legitimate method of p
 Before buying subscribers or views you first must make sure that the provider you’re considering doing business with is trustworthy. It may turn out that the service you purchased subscribers from is a scam designed to take your money. Besides being scammed, there are several other major concerns that make buying subscribers for your YouTube channel a questionable choice.
 
 Let's have a look at how buying subscribers may hurt your channel and ruin your chances of achieving YouTube success.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## The Odds of Getting Banned
 
@@ -243,20 +153,6 @@ Buying fake views and subscribers to try and turn a profit involves a lot of ris
 
 The best advice for YouTube creators who want to buy views and subscribers is to go through official channels. The reason for buying real views isn’t technically against the rules is because Google could be said to sell views itself through its ad services. Paying Google for YouTube views is highly unlikely to backfire on you, while you can also consider hiring freelancers to get you legitimate subscribers and views, the quality of their services can range from excellent to terrible and it will be hard to find reliable reviews.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Other Risks of Buying Subscribers
 
 Besides getting into trouble with YouTube, there are other risks involved with buying subscribers.
@@ -285,19 +181,12 @@ Buying subscribers is unlikely to have a huge effect on the growth rate of your 
 
 In conclusion, we don't recommend that you buy fake YouTube subscribers.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Make Impressive YouTube Video with Filmora to Grow Your Subscriber
 
@@ -495,20 +384,6 @@ Since YouTube is a video platform, your video is what attracts your subscribers.
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Richard Bennett
 
@@ -527,20 +402,6 @@ Follow @Richard Bennett
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Unlock Your YouTube Potential: Expert Tips on Writing Video Outlines
 
@@ -548,20 +409,6 @@ Follow @Richard Bennett
 
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##### Richard Bennett
 
  Oct 26, 2023• Proven solutions
@@ -577,6 +424,13 @@ You have a great idea for a video, but you’re just not sure how to express it 
 3. [After Writing Your YouTube Video Script](#after)
 4. [Bonus Tip- Add Subtitles to Your YouTube Video with Wondershare Filmora](#bonus)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Before You Write Your YouTube Script
 
 Here are some things to do before you start writing your script for YouTube:
@@ -584,20 +438,6 @@ Here are some things to do before you start writing your script for YouTube:
 ### 1\. Collect Ideas
 
 Before you write the script, it’s a good idea to gather ideas. If you think of something, or if something funny happens, write it down right away. Keep a pen and notebook handy that way you will not forget about it.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### 2\. Find an area that is not distracting
 
@@ -611,532 +451,18 @@ Now that you're ready to sit down and write, here's what you do:
 
 The first step in writing a script is to develop an outline for the story. You might think that it is an unnecessary step, but it’s one of the most important steps to writing a script. The outline serves as a guide that will make the finished product better compared to when you just tried to wing it. One tip on how to write a script for a YouTube video is to have an outline for the beginning, middle, and ending of the video. Once you have all the elements of the story, then you can start with the first draft of the script.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-### 2\. Set the tone
-
-The tone you pick for the video will depend on your audience. It’s safe to assume that viewers want something that’s unique, informative, and engaging. In some cases, they look for a video that’s personal, and they can relate to it. Humor is also something that you should consider when writing a script.
-
-### 3\. Just keep writing
-
-When you start writing it is important that you keep on doing it no matter what happens. Just write down everything that comes into your mind. After that, read what you’ve written. If you think that something needs to be replaced, then replace it. If you get more inspiration and think that the script is lacking, then add to it.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-### 4\. Make sure that the script is well structured
-
-It’s important to learn how to write a script that is well structured. Divide the script into four parts: Opening, Primer, Body, and Closing.
-
-For the Opening part, ask a simple question that can be answered in the Body. Use the Primer section to inform viewers what they should expect from the video. The Body will contain the main content of the video. It should cover all the things that viewers need to know. Lastly, the closing wraps up the video by providing social media details and a teaser for the next video.
-
-Note:
-
-* **Keep It Concise**
-
-In a personal vlog-style video you might ramble and go off on amusing tangents, and that’s something viewers love within that genre. If you are trying to teach, however, your viewers will benefit more if you keep things concise and direct.
-
-Tell people up front what point you are trying to make before you jump into making it.
-
-* **Be Interactive**
-
-Talk to people, not at them.
-
-While you are scripting and focusing on the information you want to deliver, it’s easy to forget to be personal.
-
-Remember to refer to your audience as ‘you’, not ‘you guys’ (you are speaking to individual viewers, not a collective) and to include moments of engagement throughout your videos. Ask your viewers questions to keep their minds active, this also encourages them to leave comments.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-## After Writing your YouTube Video Script
-
-After writing the script, the next step is to invite a trusted friend or family member to look at the script. Ask them for their feedback and if they have any ideas to add. And don’t forget, be open-minded to feedback
-
-These are the tips to keep in mind when considering how to write a script for a YouTube video.
-
-## Add Subtitles to Your YouTube Video with Wondershare Filmora
-
-Creating subtitles with Wondershare Filmora is very easy and a newbie can easily add relevant texts to the video they are trying to edit with Filmora. You just simply need to launch Wondershare Filmora and import the video that you want to edit. Now, go to the Titles tab and select the template that you want to pick and drag it on the timeline and click Apply. This way you can easily start adding texts and titles to your videos and let the alphabets narrate your story.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-Thinking about how to write a script for a YouTube video?
-
-You have a great idea for a video, but you’re just not sure how to express it on camera. Are you looking for ways to make your video attractive and interesting? Well, one way to do so is to create a well-structured script. Whether it is a 30-second video or a full-length movie, a script will guide the video creation process. Below are some tips to keep in mind if you want to learn how to write a script for your YouTube video.
-
-1. [Before Write Your YouTube Script](#before)
-2. [Writing a Script for a YouTube Video](#writing)
-3. [After Writing Your YouTube Video Script](#after)
-4. [Bonus Tip- Add Subtitles to Your YouTube Video with Wondershare Filmora](#bonus)
-
-## Before You Write Your YouTube Script
-
-Here are some things to do before you start writing your script for YouTube:
-
-### 1\. Collect Ideas
-
-Before you write the script, it’s a good idea to gather ideas. If you think of something, or if something funny happens, write it down right away. Keep a pen and notebook handy that way you will not forget about it.
-
-### 2\. Find an area that is not distracting
-
-Once you have gathered enough ideas for the YouTube video, the next step is to find a place where you can write in peace and be inspired. Avoid any distractions to ensure that you will be able to put all your thoughts and ideas onto paper.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-## Writing a Script for a YouTube Video
-
-Now that you're ready to sit down and write, here's what you do:
-
-### 1\. Create an outline for your story
-
-The first step in writing a script is to develop an outline for the story. You might think that it is an unnecessary step, but it’s one of the most important steps to writing a script. The outline serves as a guide that will make the finished product better compared to when you just tried to wing it. One tip on how to write a script for a YouTube video is to have an outline for the beginning, middle, and ending of the video. Once you have all the elements of the story, then you can start with the first draft of the script.
-
-### 2\. Set the tone
-
-The tone you pick for the video will depend on your audience. It’s safe to assume that viewers want something that’s unique, informative, and engaging. In some cases, they look for a video that’s personal, and they can relate to it. Humor is also something that you should consider when writing a script.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-### 3\. Just keep writing
-
-When you start writing it is important that you keep on doing it no matter what happens. Just write down everything that comes into your mind. After that, read what you’ve written. If you think that something needs to be replaced, then replace it. If you get more inspiration and think that the script is lacking, then add to it.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-### 4\. Make sure that the script is well structured
-
-It’s important to learn how to write a script that is well structured. Divide the script into four parts: Opening, Primer, Body, and Closing.
-
-For the Opening part, ask a simple question that can be answered in the Body. Use the Primer section to inform viewers what they should expect from the video. The Body will contain the main content of the video. It should cover all the things that viewers need to know. Lastly, the closing wraps up the video by providing social media details and a teaser for the next video.
-
-Note:
-
-* **Keep It Concise**
-
-In a personal vlog-style video you might ramble and go off on amusing tangents, and that’s something viewers love within that genre. If you are trying to teach, however, your viewers will benefit more if you keep things concise and direct.
-
-Tell people up front what point you are trying to make before you jump into making it.
-
-* **Be Interactive**
-
-Talk to people, not at them.
-
-While you are scripting and focusing on the information you want to deliver, it’s easy to forget to be personal.
-
-Remember to refer to your audience as ‘you’, not ‘you guys’ (you are speaking to individual viewers, not a collective) and to include moments of engagement throughout your videos. Ask your viewers questions to keep their minds active, this also encourages them to leave comments.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-## After Writing your YouTube Video Script
-
-After writing the script, the next step is to invite a trusted friend or family member to look at the script. Ask them for their feedback and if they have any ideas to add. And don’t forget, be open-minded to feedback
-
-These are the tips to keep in mind when considering how to write a script for a YouTube video.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-## Add Subtitles to Your YouTube Video with Wondershare Filmora
-
-Creating subtitles with Wondershare Filmora is very easy and a newbie can easily add relevant texts to the video they are trying to edit with Filmora. You just simply need to launch Wondershare Filmora and import the video that you want to edit. Now, go to the Titles tab and select the template that you want to pick and drag it on the timeline and click Apply. This way you can easily start adding texts and titles to your videos and let the alphabets narrate your story.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-Thinking about how to write a script for a YouTube video?
-
-You have a great idea for a video, but you’re just not sure how to express it on camera. Are you looking for ways to make your video attractive and interesting? Well, one way to do so is to create a well-structured script. Whether it is a 30-second video or a full-length movie, a script will guide the video creation process. Below are some tips to keep in mind if you want to learn how to write a script for your YouTube video.
-
-1. [Before Write Your YouTube Script](#before)
-2. [Writing a Script for a YouTube Video](#writing)
-3. [After Writing Your YouTube Video Script](#after)
-4. [Bonus Tip- Add Subtitles to Your YouTube Video with Wondershare Filmora](#bonus)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-## Before You Write Your YouTube Script
-
-Here are some things to do before you start writing your script for YouTube:
-
-### 1\. Collect Ideas
-
-Before you write the script, it’s a good idea to gather ideas. If you think of something, or if something funny happens, write it down right away. Keep a pen and notebook handy that way you will not forget about it.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-### 2\. Find an area that is not distracting
-
-Once you have gathered enough ideas for the YouTube video, the next step is to find a place where you can write in peace and be inspired. Avoid any distractions to ensure that you will be able to put all your thoughts and ideas onto paper.
-
-## Writing a Script for a YouTube Video
-
-Now that you're ready to sit down and write, here's what you do:
-
-### 1\. Create an outline for your story
-
-The first step in writing a script is to develop an outline for the story. You might think that it is an unnecessary step, but it’s one of the most important steps to writing a script. The outline serves as a guide that will make the finished product better compared to when you just tried to wing it. One tip on how to write a script for a YouTube video is to have an outline for the beginning, middle, and ending of the video. Once you have all the elements of the story, then you can start with the first draft of the script.
-
-### 2\. Set the tone
-
-The tone you pick for the video will depend on your audience. It’s safe to assume that viewers want something that’s unique, informative, and engaging. In some cases, they look for a video that’s personal, and they can relate to it. Humor is also something that you should consider when writing a script.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-### 3\. Just keep writing
-
-When you start writing it is important that you keep on doing it no matter what happens. Just write down everything that comes into your mind. After that, read what you’ve written. If you think that something needs to be replaced, then replace it. If you get more inspiration and think that the script is lacking, then add to it.
-
-### 4\. Make sure that the script is well structured
-
-It’s important to learn how to write a script that is well structured. Divide the script into four parts: Opening, Primer, Body, and Closing.
-
-For the Opening part, ask a simple question that can be answered in the Body. Use the Primer section to inform viewers what they should expect from the video. The Body will contain the main content of the video. It should cover all the things that viewers need to know. Lastly, the closing wraps up the video by providing social media details and a teaser for the next video.
-
-Note:
-
-* **Keep It Concise**
-
-In a personal vlog-style video you might ramble and go off on amusing tangents, and that’s something viewers love within that genre. If you are trying to teach, however, your viewers will benefit more if you keep things concise and direct.
-
-Tell people up front what point you are trying to make before you jump into making it.
-
-* **Be Interactive**
-
-Talk to people, not at them.
-
-While you are scripting and focusing on the information you want to deliver, it’s easy to forget to be personal.
-
-Remember to refer to your audience as ‘you’, not ‘you guys’ (you are speaking to individual viewers, not a collective) and to include moments of engagement throughout your videos. Ask your viewers questions to keep their minds active, this also encourages them to leave comments.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-## After Writing your YouTube Video Script
-
-After writing the script, the next step is to invite a trusted friend or family member to look at the script. Ask them for their feedback and if they have any ideas to add. And don’t forget, be open-minded to feedback
-
-These are the tips to keep in mind when considering how to write a script for a YouTube video.
-
-## Add Subtitles to Your YouTube Video with Wondershare Filmora
-
-Creating subtitles with Wondershare Filmora is very easy and a newbie can easily add relevant texts to the video they are trying to edit with Filmora. You just simply need to launch Wondershare Filmora and import the video that you want to edit. Now, go to the Titles tab and select the template that you want to pick and drag it on the timeline and click Apply. This way you can easily start adding texts and titles to your videos and let the alphabets narrate your story.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-Thinking about how to write a script for a YouTube video?
-
-You have a great idea for a video, but you’re just not sure how to express it on camera. Are you looking for ways to make your video attractive and interesting? Well, one way to do so is to create a well-structured script. Whether it is a 30-second video or a full-length movie, a script will guide the video creation process. Below are some tips to keep in mind if you want to learn how to write a script for your YouTube video.
-
-1. [Before Write Your YouTube Script](#before)
-2. [Writing a Script for a YouTube Video](#writing)
-3. [After Writing Your YouTube Video Script](#after)
-4. [Bonus Tip- Add Subtitles to Your YouTube Video with Wondershare Filmora](#bonus)
-
-## Before You Write Your YouTube Script
-
-Here are some things to do before you start writing your script for YouTube:
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-### 1\. Collect Ideas
-
-Before you write the script, it’s a good idea to gather ideas. If you think of something, or if something funny happens, write it down right away. Keep a pen and notebook handy that way you will not forget about it.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-### 2\. Find an area that is not distracting
-
-Once you have gathered enough ideas for the YouTube video, the next step is to find a place where you can write in peace and be inspired. Avoid any distractions to ensure that you will be able to put all your thoughts and ideas onto paper.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-## Writing a Script for a YouTube Video
-
-Now that you're ready to sit down and write, here's what you do:
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982596">
+<span id="1982508">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
-### 1\. Create an outline for your story
-
-The first step in writing a script is to develop an outline for the story. You might think that it is an unnecessary step, but it’s one of the most important steps to writing a script. The outline serves as a guide that will make the finished product better compared to when you just tried to wing it. One tip on how to write a script for a YouTube video is to have an outline for the beginning, middle, and ending of the video. Once you have all the elements of the story, then you can start with the first draft of the script.
 
 ### 2\. Set the tone
 
@@ -1145,20 +471,6 @@ The tone you pick for the video will depend on your audience. It’s safe to ass
 ### 3\. Just keep writing
 
 When you start writing it is important that you keep on doing it no matter what happens. Just write down everything that comes into your mind. After that, read what you’ve written. If you think that something needs to be replaced, then replace it. If you get more inspiration and think that the script is lacking, then add to it.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### 4\. Make sure that the script is well structured
 
@@ -1188,19 +500,274 @@ After writing the script, the next step is to invite a trusted friend or family 
 
 These are the tips to keep in mind when considering how to write a script for a YouTube video.
 
+## Add Subtitles to Your YouTube Video with Wondershare Filmora
 
+Creating subtitles with Wondershare Filmora is very easy and a newbie can easily add relevant texts to the video they are trying to edit with Filmora. You just simply need to launch Wondershare Filmora and import the video that you want to edit. Now, go to the Titles tab and select the template that you want to pick and drag it on the timeline and click Apply. This way you can easily start adding texts and titles to your videos and let the alphabets narrate your story.
 
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+Thinking about how to write a script for a YouTube video?
+
+You have a great idea for a video, but you’re just not sure how to express it on camera. Are you looking for ways to make your video attractive and interesting? Well, one way to do so is to create a well-structured script. Whether it is a 30-second video or a full-length movie, a script will guide the video creation process. Below are some tips to keep in mind if you want to learn how to write a script for your YouTube video.
+
+1. [Before Write Your YouTube Script](#before)
+2. [Writing a Script for a YouTube Video](#writing)
+3. [After Writing Your YouTube Video Script](#after)
+4. [Bonus Tip- Add Subtitles to Your YouTube Video with Wondershare Filmora](#bonus)
+
+## Before You Write Your YouTube Script
+
+Here are some things to do before you start writing your script for YouTube:
+
+### 1\. Collect Ideas
+
+Before you write the script, it’s a good idea to gather ideas. If you think of something, or if something funny happens, write it down right away. Keep a pen and notebook handy that way you will not forget about it.
+
+### 2\. Find an area that is not distracting
+
+Once you have gathered enough ideas for the YouTube video, the next step is to find a place where you can write in peace and be inspired. Avoid any distractions to ensure that you will be able to put all your thoughts and ideas onto paper.
+
+## Writing a Script for a YouTube Video
+
+Now that you're ready to sit down and write, here's what you do:
+
+### 1\. Create an outline for your story
+
+The first step in writing a script is to develop an outline for the story. You might think that it is an unnecessary step, but it’s one of the most important steps to writing a script. The outline serves as a guide that will make the finished product better compared to when you just tried to wing it. One tip on how to write a script for a YouTube video is to have an outline for the beginning, middle, and ending of the video. Once you have all the elements of the story, then you can start with the first draft of the script.
+
+### 2\. Set the tone
+
+The tone you pick for the video will depend on your audience. It’s safe to assume that viewers want something that’s unique, informative, and engaging. In some cases, they look for a video that’s personal, and they can relate to it. Humor is also something that you should consider when writing a script.
+
+### 3\. Just keep writing
+
+When you start writing it is important that you keep on doing it no matter what happens. Just write down everything that comes into your mind. After that, read what you’ve written. If you think that something needs to be replaced, then replace it. If you get more inspiration and think that the script is lacking, then add to it.
+
+### 4\. Make sure that the script is well structured
+
+It’s important to learn how to write a script that is well structured. Divide the script into four parts: Opening, Primer, Body, and Closing.
+
+For the Opening part, ask a simple question that can be answered in the Body. Use the Primer section to inform viewers what they should expect from the video. The Body will contain the main content of the video. It should cover all the things that viewers need to know. Lastly, the closing wraps up the video by providing social media details and a teaser for the next video.
+
+Note:
+
+* **Keep It Concise**
+
+In a personal vlog-style video you might ramble and go off on amusing tangents, and that’s something viewers love within that genre. If you are trying to teach, however, your viewers will benefit more if you keep things concise and direct.
+
+Tell people up front what point you are trying to make before you jump into making it.
+
+* **Be Interactive**
+
+Talk to people, not at them.
+
+While you are scripting and focusing on the information you want to deliver, it’s easy to forget to be personal.
+
+Remember to refer to your audience as ‘you’, not ‘you guys’ (you are speaking to individual viewers, not a collective) and to include moments of engagement throughout your videos. Ask your viewers questions to keep their minds active, this also encourages them to leave comments.
+
+## After Writing your YouTube Video Script
+
+After writing the script, the next step is to invite a trusted friend or family member to look at the script. Ask them for their feedback and if they have any ideas to add. And don’t forget, be open-minded to feedback
+
+These are the tips to keep in mind when considering how to write a script for a YouTube video.
+
+## Add Subtitles to Your YouTube Video with Wondershare Filmora
+
+Creating subtitles with Wondershare Filmora is very easy and a newbie can easily add relevant texts to the video they are trying to edit with Filmora. You just simply need to launch Wondershare Filmora and import the video that you want to edit. Now, go to the Titles tab and select the template that you want to pick and drag it on the timeline and click Apply. This way you can easily start adding texts and titles to your videos and let the alphabets narrate your story.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+Thinking about how to write a script for a YouTube video?
+
+You have a great idea for a video, but you’re just not sure how to express it on camera. Are you looking for ways to make your video attractive and interesting? Well, one way to do so is to create a well-structured script. Whether it is a 30-second video or a full-length movie, a script will guide the video creation process. Below are some tips to keep in mind if you want to learn how to write a script for your YouTube video.
+
+1. [Before Write Your YouTube Script](#before)
+2. [Writing a Script for a YouTube Video](#writing)
+3. [After Writing Your YouTube Video Script](#after)
+4. [Bonus Tip- Add Subtitles to Your YouTube Video with Wondershare Filmora](#bonus)
+
+## Before You Write Your YouTube Script
+
+Here are some things to do before you start writing your script for YouTube:
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+### 1\. Collect Ideas
 
+Before you write the script, it’s a good idea to gather ideas. If you think of something, or if something funny happens, write it down right away. Keep a pen and notebook handy that way you will not forget about it.
 
+### 2\. Find an area that is not distracting
+
+Once you have gathered enough ideas for the YouTube video, the next step is to find a place where you can write in peace and be inspired. Avoid any distractions to ensure that you will be able to put all your thoughts and ideas onto paper.
+
+## Writing a Script for a YouTube Video
+
+Now that you're ready to sit down and write, here's what you do:
+
+### 1\. Create an outline for your story
+
+The first step in writing a script is to develop an outline for the story. You might think that it is an unnecessary step, but it’s one of the most important steps to writing a script. The outline serves as a guide that will make the finished product better compared to when you just tried to wing it. One tip on how to write a script for a YouTube video is to have an outline for the beginning, middle, and ending of the video. Once you have all the elements of the story, then you can start with the first draft of the script.
+
+### 2\. Set the tone
+
+The tone you pick for the video will depend on your audience. It’s safe to assume that viewers want something that’s unique, informative, and engaging. In some cases, they look for a video that’s personal, and they can relate to it. Humor is also something that you should consider when writing a script.
+
+### 3\. Just keep writing
+
+When you start writing it is important that you keep on doing it no matter what happens. Just write down everything that comes into your mind. After that, read what you’ve written. If you think that something needs to be replaced, then replace it. If you get more inspiration and think that the script is lacking, then add to it.
+
+### 4\. Make sure that the script is well structured
+
+It’s important to learn how to write a script that is well structured. Divide the script into four parts: Opening, Primer, Body, and Closing.
+
+For the Opening part, ask a simple question that can be answered in the Body. Use the Primer section to inform viewers what they should expect from the video. The Body will contain the main content of the video. It should cover all the things that viewers need to know. Lastly, the closing wraps up the video by providing social media details and a teaser for the next video.
+
+Note:
+
+* **Keep It Concise**
+
+In a personal vlog-style video you might ramble and go off on amusing tangents, and that’s something viewers love within that genre. If you are trying to teach, however, your viewers will benefit more if you keep things concise and direct.
+
+Tell people up front what point you are trying to make before you jump into making it.
+
+* **Be Interactive**
+
+Talk to people, not at them.
+
+While you are scripting and focusing on the information you want to deliver, it’s easy to forget to be personal.
+
+Remember to refer to your audience as ‘you’, not ‘you guys’ (you are speaking to individual viewers, not a collective) and to include moments of engagement throughout your videos. Ask your viewers questions to keep their minds active, this also encourages them to leave comments.
+
+## After Writing your YouTube Video Script
+
+After writing the script, the next step is to invite a trusted friend or family member to look at the script. Ask them for their feedback and if they have any ideas to add. And don’t forget, be open-minded to feedback
+
+These are the tips to keep in mind when considering how to write a script for a YouTube video.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Add Subtitles to Your YouTube Video with Wondershare Filmora
+
+Creating subtitles with Wondershare Filmora is very easy and a newbie can easily add relevant texts to the video they are trying to edit with Filmora. You just simply need to launch Wondershare Filmora and import the video that you want to edit. Now, go to the Titles tab and select the template that you want to pick and drag it on the timeline and click Apply. This way you can easily start adding texts and titles to your videos and let the alphabets narrate your story.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+Thinking about how to write a script for a YouTube video?
+
+You have a great idea for a video, but you’re just not sure how to express it on camera. Are you looking for ways to make your video attractive and interesting? Well, one way to do so is to create a well-structured script. Whether it is a 30-second video or a full-length movie, a script will guide the video creation process. Below are some tips to keep in mind if you want to learn how to write a script for your YouTube video.
+
+1. [Before Write Your YouTube Script](#before)
+2. [Writing a Script for a YouTube Video](#writing)
+3. [After Writing Your YouTube Video Script](#after)
+4. [Bonus Tip- Add Subtitles to Your YouTube Video with Wondershare Filmora](#bonus)
+
+## Before You Write Your YouTube Script
+
+Here are some things to do before you start writing your script for YouTube:
+
+### 1\. Collect Ideas
+
+Before you write the script, it’s a good idea to gather ideas. If you think of something, or if something funny happens, write it down right away. Keep a pen and notebook handy that way you will not forget about it.
+
+### 2\. Find an area that is not distracting
+
+Once you have gathered enough ideas for the YouTube video, the next step is to find a place where you can write in peace and be inspired. Avoid any distractions to ensure that you will be able to put all your thoughts and ideas onto paper.
+
+## Writing a Script for a YouTube Video
+
+Now that you're ready to sit down and write, here's what you do:
+
+### 1\. Create an outline for your story
+
+The first step in writing a script is to develop an outline for the story. You might think that it is an unnecessary step, but it’s one of the most important steps to writing a script. The outline serves as a guide that will make the finished product better compared to when you just tried to wing it. One tip on how to write a script for a YouTube video is to have an outline for the beginning, middle, and ending of the video. Once you have all the elements of the story, then you can start with the first draft of the script.
+
+### 2\. Set the tone
+
+The tone you pick for the video will depend on your audience. It’s safe to assume that viewers want something that’s unique, informative, and engaging. In some cases, they look for a video that’s personal, and they can relate to it. Humor is also something that you should consider when writing a script.
+
+### 3\. Just keep writing
+
+When you start writing it is important that you keep on doing it no matter what happens. Just write down everything that comes into your mind. After that, read what you’ve written. If you think that something needs to be replaced, then replace it. If you get more inspiration and think that the script is lacking, then add to it.
+
+### 4\. Make sure that the script is well structured
+
+It’s important to learn how to write a script that is well structured. Divide the script into four parts: Opening, Primer, Body, and Closing.
+
+For the Opening part, ask a simple question that can be answered in the Body. Use the Primer section to inform viewers what they should expect from the video. The Body will contain the main content of the video. It should cover all the things that viewers need to know. Lastly, the closing wraps up the video by providing social media details and a teaser for the next video.
+
+Note:
+
+* **Keep It Concise**
+
+In a personal vlog-style video you might ramble and go off on amusing tangents, and that’s something viewers love within that genre. If you are trying to teach, however, your viewers will benefit more if you keep things concise and direct.
+
+Tell people up front what point you are trying to make before you jump into making it.
+
+* **Be Interactive**
+
+Talk to people, not at them.
+
+While you are scripting and focusing on the information you want to deliver, it’s easy to forget to be personal.
+
+Remember to refer to your audience as ‘you’, not ‘you guys’ (you are speaking to individual viewers, not a collective) and to include moments of engagement throughout your videos. Ask your viewers questions to keep their minds active, this also encourages them to leave comments.
+
+## After Writing your YouTube Video Script
+
+After writing the script, the next step is to invite a trusted friend or family member to look at the script. Ask them for their feedback and if they have any ideas to add. And don’t forget, be open-minded to feedback
+
+These are the tips to keep in mind when considering how to write a script for a YouTube video.
 
 ## Add Subtitles to Your YouTube Video with Wondershare Filmora
 
@@ -1229,67 +796,22 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/local-labor-costs-the-availability-and-rates-of-skilled-electricians-in-the-area-can-affect-labor-costs-significantly-for-2024/"><u>__Local Labor Costs__  The Availability and Rates of Skilled Electricians in the Area Can Affect Labor Costs Significantly for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-engage-efficiently-leading-insta-filters/"><u>[New] Engage Efficiently  Leading Insta Filters</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-enhance-your-experience-with-mi-11-screen-capture-guide-for-2024/"><u>[New] Enhance Your Experience with Mi 11 Screen Capture Guide for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-fifas-favorite-footage-charted-on-youtube/"><u>[New] FIFA's Favorite Footage  Charted on YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-fresh-inspirations-for-streaming-topics/"><u>[New] Fresh Inspirations for Streaming Topics</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-from-selfie-to-sensation-vloggers-choice-of-top-9-camera-accessories/"><u>[New] From Selfie to Sensation  Vloggers' Choice of Top 9 Camera Accessories</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-go-global-quickly-optimal-tags-to-escalate-your-youtube-snippets/"><u>[New] Go Global Quickly  Optimal Tags to Escalate Your YouTube Snippets</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-how-to-estimate-income-from-youtube-video-snippets/"><u>[New] How to Estimate Income From YouTube Video Snippets</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-essential-techniques-in-capturing-live-sports-on-camera/"><u>[New] In 2024, Essential Techniques in Capturing Live Sports on Camera</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-reacting-to-self-viewer-errors-on-popular-social-networks/"><u>[New] In 2024, Reacting to Self-Viewer Errors on Popular Social Networks</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/1716069962827-new-in-2024-top-cycling-sims-worth-your-time/"><u>[New] In 2024, Top Cycling Sims Worth Your Time!</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-zest-up-social-feeds-create-meme-adobe-style/"><u>[New] In 2024, Zest Up Social Feeds  Create Meme Adobe-Style</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-mini-stories-decoded-whats-inside/"><u>[New] Mini Stories Decoded  What's Inside?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-push-past-a-thousand-views-in-minimal-time/"><u>[New] Push Past a Thousand Views in Minimal Time</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-seize-control-of-your-viewing-experience-these-top-6-free-youtube-short-downloaders/"><u>[New] Seize Control of Your Viewing Experience  These Top 6 Free YouTube Short Downloaders</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-step-up-your-stream-simultaneous-views-on-one-screen/"><u>[New] Step Up Your Stream  Simultaneous Views on One Screen</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-picks-essential-voice-transformers-for-vtuber-success/"><u>[New] Top Picks  Essential Voice Transformers for VTuber Success</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-elevate-your-profile-with-vimeo-on-instagram/"><u>[Updated] Elevate Your Profile with Vimeo on Instagram</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-navigating-the-world-of-instagram-posts-large-imagevideo-uploads/"><u>[Updated] In 2024, Navigating the World of Instagram Posts  Large Image/Video Uploads</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-smile-and-shine-enhance-photos-at-zero-cost-for-2024/"><u>[Updated] Smile & Shine  Enhance Photos at Zero Cost for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-strategy-for-organizing-a-zoom-event-on-your-phonetablet/"><u>[Updated] The Ultimate Strategy for Organizing a Zoom Event on Your Phone/Tablet</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-unleash-potential-the-best-instagram-hashtags-of-the-day-for-2024/"><u>[Updated] Unleash Potential  The Best Instagram Hashtags of the Day for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-expert-video-making-opt-for-studio-versus-beta-version/"><u>2024 Approved  Expert Video Making  Opt for Studio Versus Beta Version</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-highest-rated-20-public-domain-pubg-combos/"><u>2024 Approved  Highest-Rated 20 Public Domain PUBG Combos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-blur-techniques-in-visual-editing/"><u>2024 Approved  Master Blur Techniques in Visual Editing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-audio-integration-in-adobe-premiere-pro/"><u>2024 Approved  Mastering Audio Integration in Adobe Premiere Pro</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-youtube-thumbnails-with-ease/"><u>2024 Approved  Mastering YouTube Thumbnails with Ease</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-peering-into-payment-structures-for-maker-profit-in-video-shorts/"><u>2024 Approved  Peering Into Payment Structures for Maker Profit in Video Shorts</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-securecam-covers-top-10-picks-for-peace-of-mind/"><u>2024 Approved  SecureCam Covers  Top 10 Picks for Peace of Mind</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-tailoring-your-content-to-perfection-youtube-edits-in-sony-vegas-style/"><u>2024 Approved  Tailoring Your Content to Perfection  YouTube Edits in Sony Vegas Style</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-pulse-of-printed-words-2-methods-of-bouncing-text/"><u>2024 Approved  The Pulse of Printed Words  2 Methods of Bouncing Text</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-smart-approach-to-video-marketing-for-smbs/"><u>2024 Approved  The SMART Approach to Video Marketing for SMBs</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-ultimate-guide-prime-video-stabilizers/"><u>2024 Approved  Ultimate Guide  Prime Video Stabilizers</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unleash-creativity-pro-guide-for-youtube-studio-editing/"><u>2024 Approved  Unleash Creativity  Pro Guide for YouTube Studio Editing</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unlock-the-value-of-viewership-a-clear-concise-guide-to-evaluating-youtube-earnings/"><u>2024 Approved  Unlock the Value of Viewership  A Clear, Concise Guide to Evaluating YouTube Earnings</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/free-minecraft-youtube-banners-with-templates-for-2024/"><u>Free Minecraft YouTube Banners with Templates for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fullscreen-not-showing-problem-with-monitor-and-win11/"><u>Fullscreen Not Showing, Problem with Monitor & Win11?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-14-plus-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your iPhone 14 Plus</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/how-to-use-io-screen-recorder-for-2024/"><u>How to Use IO Screen Recorder for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-expert-advice-at-your-screen-the-finest-15-stock-channels/"><u>In 2024, Expert Advice at Your Screen  The Finest 15 Stock Channels</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-flawless-playlist-integration-techniques-in-web-development/"><u>In 2024, Flawless Playlist Integration Techniques in Web Development</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-foremost-haptic-feedback-devices-providers/"><u>In 2024, Foremost Haptic Feedback Devices Providers</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-from-novice-to-expert-setting-up-a-sports-channel-on-mac/"><u>In 2024, From Novice to Expert  Setting up a Sports Channel on Mac</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-how-often-do-youtubers-receive-income/"><u>In 2024, How Often Do YouTubers Receive Income?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Samsung Galaxy F15 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-youtube-clips-beginnings-and-conclusions-on-a-budget/"><u>In 2024, Mastering YouTube Clips  Beginnings & Conclusions on a Budget</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-maximize-lenovos-recording-features-now/"><u>In 2024, Maximize Lenovo's Recording Features Now</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-sourav-joshis-roadmap-to-financial-freedom-via-youtube/"><u>In 2024, Sourav Joshi's Roadmap to Financial Freedom via YouTube</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-state-of-the-art-gaming-capture-systems-not-just-fbx-files/"><u>In 2024, State-of-the-Art Gaming Capture Systems, Not Just FBX Files</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-game-changer-implementing-custom-gaming-banners/"><u>In 2024, The Game Changer  Implementing Custom Gaming Banners</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-transform-your-feed-a-comprehensive-guide-to-videos/"><u>In 2024, Transform Your Feed  A Comprehensive Guide to Videos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-traps-in-the-web-avoiding-the-snare-of-buying-non-existent-supporters/"><u>In 2024, Traps in the Web  Avoiding the Snare of Buying Non-Existent Supporters</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unlock-youtube-numbers-for-enhanced-performance/"><u>In 2024, Unlock YouTube Numbers for Enhanced Performance</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/mastering-the-art-of-clearing-youtubes-stored-videos-for-2024/"><u>Mastering the Art of Clearing YouTube's Stored Videos for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/maximizing-online-exposure-on-youtube-by-keeping-up-creative-commons-usage-for-2024/"><u>Maximizing Online Exposure on YouTube by Keeping Up Creative Commons Usage for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/mirrorless-vs-dslr-cameras-which-is-better-for-videos-in-2024/"><u>Mirrorless Vs. DSLR Cameras  Which Is Better for Videos, In 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/navigate-the-digital-landsncape-efficiently-powered-by-innovative-cookiebot-tools/"><u>Navigate the Digital Landsncape Efficiently Powered by Innovative Cookiebot Tools</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/navigating-the-crossroads-of-full-time-work-and-youtube-for-2024/"><u>Navigating the Crossroads of Full-Time Work & YouTube for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-metaphorical-realities-30plus-inspirational-vr-expressions/"><u>[New] In 2024, Metaphorical Realities 30+ Inspirational VR Expressions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-prime-8-edits-suites-on-linux-os/"><u>[New] Prime 8 Edits Suites on Linux OS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-guide-to-using-hashtags-for-youtube-gaming-videos/"><u>[New] The Ultimate Guide To Using Hashtags For YouTube Gaming Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-breakdown-of-streamlabs-obs-features-and-functions/"><u>[Updated] Breakdown of Streamlabs OBS Features and Functions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-framing-the-perfect-frame-talking-head-shot-essentials/"><u>2024 Approved Framing the Perfect Frame Talking-Head Shot Essentials</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-tailoring-tags-to-achieve-six-figures-in-views/"><u>2024 Approved Tailoring #Tags to Achieve Six Figures in Views</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-potential-of-chatgpts-personalized-command-system-uses-and-benefits/"><u>Exploring the Potential of ChatGPT's Personalized Command System: Uses & Benefits</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-much-could-you-make-on-youtube-snippets-in-2024/"><u>How Much Could You Make on YouTube Snippets, In 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-tecno-spark-20-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Tecno Spark 20 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-navigate-easily-through-youtube-channel-disabling-on-devices/"><u>In 2024, Navigate Easily Through YouTube Channel Disabling on Devices</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-top-tiktok-watermark-removal-tools-to-remove-logos-for-free/"><u>In 2024, Top TikTok Watermark Removal Tools to Remove Logos for Free</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-youtube-subscriber-boost4-simplest-tricks-to-grow-your-channel/"><u>In 2024, YouTube Subscriber Boost–4 Simplest Tricks to Grow Your Channel</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mr-beast-financial-evolution-analysis-for-2024/"><u>Mr. Beast Financial Evolution Analysis for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-for-implementing-bots-into-discord/"><u>The Ultimate Tutorial for Implementing Bots Into Discord</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Realme 12 5G | Dr.fone</u></a></li>
 </ul></div>
+

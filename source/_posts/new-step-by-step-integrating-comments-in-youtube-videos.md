@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step  Integrating Comments in YouTube Videos\""
-date: 2024-09-10T11:21:43.586Z
-updated: 2024-09-11T11:21:43.586Z
+date: 2024-09-14T17:23:49.429Z
+updated: 2024-09-16T17:35:10.781Z
 tags:
   - ai video
   - ai youtube
@@ -13,26 +13,6 @@ excerpt: "\"This Article Describes [New] Step-by-Step: Integrating Comments in Y
 keywords: "YouTubE Comment Integration,Adding Comments to Videos,YouTube Video Feedback,Video Engagement Tools,Embedding Comments YT,Enhance Viewer Interaction,Comments in Online Video"
 thumbnail: https://thmb.techidaily.com/61f98fc4d9e1af032d9fc6896b875fde870b9cc610ca573f8ea2783fc3752f47.jpg
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Step-by-Step: Integrating Comments in YouTube Videos
 
@@ -65,20 +45,6 @@ The main difference between annotation and cards is their outlook. Cards are mor
 * [Part 1: How to Add YouTube Cards](#part1)
 * [Part 2: How to Add YouTube Annotations](#part2)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## How to add YouTube Cards
 
 YouTube **Cards** are similar to annotations but more interactive. They allow the owner of the video to add images and other links. A small box appears, clicking on which will activate the cards.
@@ -87,38 +53,10 @@ YouTube **Cards** are similar to annotations but more interactive. They allow th
 
 ![](https://images.wondershare.com/filmora/article-images/video-manager-in-youtube.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 * Click "Edit" tab under the video screen shot you want to add the card on
 * Click on the "Cards" tab
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-cards01.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 * On the right panel click on "Add Card" drop down menu and select the type of card you want to add
 * Click on the create button which will open the corresponding video
@@ -138,20 +76,6 @@ YouTube Annotation is addition of a text layer, link or hotspots over your video
 * Click on the "End screen & Annotation" tab
 
 ![](https://images.wondershare.com/filmora/article-images/add-annotations-to-youtube-video.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 * On the right panel click on "+ Add Element" and select the kind of annotation you want to add
 * Adjust the position of Annotation, you can drag the rectangle to locate it at any position of the video, move the slide to set the start and end time of the annotation
@@ -196,27 +120,11 @@ No matter what kind of annotations you are using, you should never use more than
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -224,59 +132,32 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-essential-mac-tips-unlocking-your-srt-files/"><u>[New] Essential Mac Tips  Unlocking Your SRT Files</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-fixing-non-appearing-thumbnails-in-youtube-shorts/"><u>[New] Fixing Non-Appearing Thumbnails in YouTube Shorts</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-seize-visual-riches-from-four-premium-youtube-portals/"><u>[New] Seize Visual Riches From Four Premium YouTube Portals</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-social-media-showdown-comparing-igtv-and-youtubes-unique-aspects/"><u>[New] Social Media Showdown  Comparing IGTV and YouTube's Unique Aspects</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-stock-insights-unleashed-top-15-youtube-experts/"><u>[New] Stock Insights Unleashed  Top 15 YouTube Experts</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-time-your-instagram-content-for-max-engagement/"><u>[Updated] How to Time Your Instagram Content For Max Engagement</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-elevate-your-storytelling-skills-transforming-images-into-engaging-videos-with-pixiz/"><u>2024 Approved  Elevate Your Storytelling Skills  Transforming Images Into Engaging Videos with Pixiz</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-fixed-obs-audio-capture-issue/"><u>2024 Approved  Fixed OBS Audio Capture Issue</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-harnessing-viral-power-your-pathway-to-youtube-fame/"><u>2024 Approved  Harnessing Viral Power  Your Pathway to YouTube Fame</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-infographic-led-exploration-of-future-social-trends/"><u>2024 Approved  Infographic-Led Exploration of Future Social Trends</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-master-your-online-presence-the-ultimate-guide-to-effective-freefire-tags/"><u>2024 Approved  Master Your Online Presence  The Ultimate Guide to Effective FreeFire Tags</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-monetization-showdown-dailymotion-versus-youtube/"><u>2024 Approved  Monetization Showdown  Dailymotion Versus YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-stop-youtube-shorts-forever-a-step-by-step-guide/"><u>2024 Approved  Stop YouTube Shorts Forever  A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-commercial-viability-of-creative-video-content/"><u>2024 Approved  The Commercial Viability of Creative Video Content</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-link-between-video-views-and-youtube-earning-potential/"><u>2024 Approved  The Link Between Video Views and YouTube Earning Potential</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-tutorial-on-embedding-yt-playlists-online/"><u>2024 Approved  The Ultimate Tutorial on Embedding YT Playlists Online</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-transparency-in-tracking-youtube-viewers/"><u>2024 Approved  Transparency in Tracking YouTube Viewers</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unique-vlogging-conversation-pieces/"><u>2024 Approved  Unique Vlogging Conversation Pieces</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unpacking-the-power-of-engaging-titles-for-youtube-shorts/"><u>2024 Approved  Unpacking the Power of Engaging Titles for YouTube Shorts</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unveiling-the-best-3-video-hosts-post-youtube-era/"><u>2024 Approved  Unveiling the Best 3 Video Hosts Post-YouTube Era</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-xiaomi-mix-fold-3-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Xiaomi Mix Fold 3 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/beating-the-big-picture-breakdown-in-steam/"><u>Beating The Big Picture Breakdown in Steam</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elevate-your-mobile-photography-with-top-free-slo-motion-tools/"><u>Elevate Your Mobile Photography with Top Free Slo-Motion Tools</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/expressing-emotionally-using-emojis-for-yt-comments-for-2024/"><u>Expressing Emotionally  Using Emojis for YT Comments for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/global-viewer-count-triumphs-play-button-honors-for-2024/"><u>Global Viewer Count Triumphs  Play Button Honors for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidelines-for-constant-windows-printer-selection/"><u>Guidelines for Constant Windows Printer Selection</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-nubia-red-magic-8s-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Nubia Red Magic 8S Pro Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/how-to-make-fortnite-thumbnail-for-free-and-easy-for-2024/"><u>How to Make Fortnite Thumbnail for Free and Easy for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/how-to-make-youtube-banners-and-thumbnails-for-2024/"><u>How to Make YouTube Banners and Thumbnails for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-gender-diversity-in-streaming-celebrating-top-10-females/"><u>In 2024, Gender Diversity in Streaming  Celebrating Top 10 Females</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-sony-xperia-5-vmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Sony Xperia 5 VMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-infographic-top-insights-into-fifa-football-videos-on-youtube/"><u>In 2024, Infographic - Top Insights Into FIFA Football Videos On YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-insight-into-youtubes-latest-income-and-rewards/"><u>In 2024, Insight Into YouTube's Latest Income and Rewards</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-is-your-yt-channel-earning-as-it-should-tips-to-find-out/"><u>In 2024, Is Your YT Channel Earning as It Should? – Tips to Find Out</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-make-a-statement-pushing-thumbnail-visual-impact-with-fantasy-bgs/"><u>In 2024, Make a Statement  Pushing Thumbnail Visual Impact with Fantasy BGs</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-visual-effects-on-a-budget-essential-tutorials-and-techniques-from-4-vfx-experts-videos/"><u>In 2024, Mastering Visual Effects on a Budget  Essential Tutorials and Techniques From 4 VFX Experts' Videos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-maximize-engagement-discover-the-right-youtube-thumbnail-size/"><u>In 2024, Maximize Engagement  Discover the Right YouTube Thumbnail Size</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-navigating-the-waters-of-youtube-broadcasting-via-google-meet/"><u>In 2024, Navigating the Waters of Youtube Broadcasting via Google Meet</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-revolutionize-your-youtube-content-with-advanced-video-editing-in-sony-vegas/"><u>In 2024, Revolutionize Your YouTube Content with Advanced Video Editing in Sony Vegas</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-secrets-to-perfectly-lit-evening-portraits/"><u>In 2024, Secrets to Perfectly Lit Evening Portraits</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-skyrocketing-growth-top-strategies-to-increase-views-in-freefire-tagging/"><u>In 2024, Skyrocketing Growth  Top Strategies to Increase Views in FreeFire Tagging</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-smooth-path-to-crafting-unique-video-shorts-thumbnail-credits/"><u>In 2024, Smooth Path to Crafting Unique Video Shorts Thumbnail Credits</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-start-now-best-online-learning-for-new-youtubers/"><u>In 2024, Start Now  Best Online Learning for New YouTubers</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-process-embedding-internet-video-in-ppt-decks/"><u>In 2024, Step-By-Step Process  Embedding Internet Video in PPT Decks</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-potential-tubebuddy-and-channel-mastery/"><u>In 2024, Unlocking Potential  TubeBuddy & Channel Mastery</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/mastering-the-art-of-design-selecting-ideal-dimensions-for-yt-branding-for-2024/"><u>Mastering the Art of Design  Selecting Ideal Dimensions for YT Branding for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/mastering-the-art-of-hashtag-usage-a-primer-for-gamers-yt-for-2024/"><u>Mastering the Art of Hashtag Usage  A Primer for Gamers YT for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/mastering-the-art-of-video-production-initial-setup-for-2024/"><u>Mastering the Art of Video Production  Initial Setup for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/maximize-online-revenue-monetizing-on-youtube-with-500plus-viewers-for-2024/"><u>Maximize Online Revenue  Monetizing on Youtube with 500+ Viewers for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-script-synthesizer-for-2024/"><u>Media Script Synthesizer for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/monetization-assessment-creators-income-gauge-for-2024/"><u>Monetization Assessment  Creators’ Income Gauge for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/pioneering-the-future-top-tips-for-remotely-capturing-talent-for-2024/"><u>Pioneering the Future  Top Tips for Remotely Capturing Talent for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-color-grading-techniques-unraveling-the-mystery-of-luts/"><u>[Updated] Color Grading Techniques Unraveling the Mystery of LUTs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/benq-bl2711u-revealed-embracing-the-future-of-4k-technology-for-2024/"><u>BenQ BL2711U Revealed Embracing the Future of 4K Technology for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-and-simple-download-acme-bluetooth-drivers/"><u>Fast & Simple Download: Acme Bluetooth Drivers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-ensure-smooth-sailing-through-city-skylines-dealing-with-crashes-and-bugs/"><u>How to Ensure Smooth Sailing Through City Skylines - Dealing with Crashes and Bugs</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, iCloud Unlocker Download Unlock iCloud Lock for your Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-videography-and-photography-together-canon-sx70-hs/"><u>Mastering Videography and Photography Together - Canon SX70 HS</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/samsung-55-inch-ru7300-is-it-a-smart-choice-for-your-home-theater-in-depth-review-inside/"><u>Samsung 55-Inch RU7300: Is It a Smart Choice for Your Home Theater? In-Depth Review Inside</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/say-goodbye-to-lag-expert-advice-for-solving-fps-drops-in-valorant-updated-tips/"><u>Say Goodbye to Lag: Expert Advice for Solving FPS Drops in Valorant - Updated Tips</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/upgrade-path-to-better-gaming-updating-your-graphic-drivers-for-forza-horizon-5/"><u>Upgrade Path to Better Gaming: Updating Your Graphic Drivers for Forza Horizon 5</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/yakuza-3-overcoming-pc-performance-issues-and-stability-problems-improved/"><u>Yakuza 3 - Overcoming PC Performance Issues and Stability Problems ([IMPROVED])</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
