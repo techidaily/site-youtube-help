@@ -1,7 +1,7 @@
 ---
 title: Lost the Gunfire? Correcting No Sound Glitches in Battlefield 4 Now
-date: 2024-09-12T17:16:01.664Z
-updated: 2024-09-16T17:25:48.037Z
+date: 2024-09-20T16:38:55.414Z
+updated: 2024-09-21T18:01:23.069Z
 tags:
   - win11
   - win10
@@ -78,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
  Now launch your Battlefield 4 to check if the sound is coming back. If unfortunately not, don’t worry since we have a few more fixes for you to try.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3\. Check Windows Volume Mixer
@@ -97,19 +97,39 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 ![check battlefield 4 sound not working](https://images.drivereasy.com/wp-content/uploads/2021/09/mixer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Now you’ll need to go to the**Advanced Sound settings** . Press the**Windows logo** key +**I** at the same time, and select**System** .
 
 ![open system](https://images.drivereasy.com/wp-content/uploads/2021/09/system-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Select**Sound** from the left pane, and click**App volume and device preferences** under**Advanced sound options** .
 
 ![open advanced sound settings](https://images.drivereasy.com/wp-content/uploads/2021/09/soundsettings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Make sure you set the Output of Battlefield 4 to the system default device instead of “Game”.
 
@@ -127,25 +147,11 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 
 ![click domain network](https://images.drivereasy.com/wp-content/uploads/2021/09/domain.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Under**Microsoft Defender Firewall** , swap it to**Off** .
 
 ![toggle firewall to off](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall-off.jpg)
 
 Launch your Battlefield 4 and check if the sound is working now.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5\. Verify the game integrity
 
@@ -163,13 +169,6 @@ Launch your Battlefield 4 and check if the sound is working now.
 
  Play Battlefield 4 and test the sound issue. If the Battlefield 4 sound not working issue persists, it’s very likely caused by interference by your devices or other apps.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 6\. Rule out other interference
 
  First, unplug all of your external devices and make sure that no unnecessary devices are connected to your USB ports. Then disable Origin In-Game.
@@ -179,6 +178,13 @@ Launch your Battlefield 4 and check if the sound is working now.
 2) Click the Origin menu and select **Application Settings** .
 
 ![origin application settings](https://images.drivereasy.com/wp-content/uploads/2021/09/app.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Origin In-Game** tab. Toggle the **Off** switch to turn Origin In-Game off.
 
@@ -209,18 +215,16 @@ Launch your Battlefield 4 and check if the sound is working now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-cash-flow-estimator-apps/"><u>[New] In 2024, Free Cash Flow Estimator Apps</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-achieve-clear-communication-on-zoo-conferencing/"><u>[Updated] Achieve Clear Communication on Zoo Conferencing</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-expert-advice-on-archiving-sports-from-live-feeds/"><u>2024 Approved Expert Advice on Archiving Sports From Live Feeds</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/amazfit-gts-unveiled-when-trendy-meets-treadmill-an-in-depth-analysis/"><u>Amazfit GTS Unveiled - When Trendy Meets Treadmill: An In-Depth Analysis</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/exploring-the-features-of-samsung-galaxy-tab-s6-in-depth-look-at-s-pen-and-dex-modes/"><u>Exploring the Features of Samsung Galaxy Tab S6 - In-Depth Look at S Pen & DeX Modes</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-se-2020-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-prevent-and-fix-the-notorious-game-crash-bug-in-final-fantasy-xv-pc/"><u>How to Prevent and Fix the Notorious Game Crash Bug in Final Fantasy XV (PC)</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/mac-graphics-revolution-top-10-freeware-drawings/"><u>Mac Graphics Revolution Top 10 Freeware Drawings</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/mastering-stability-prevent-guardians-of-the-galaxy-from-collapsing-on-your-pc-with-our-tricks/"><u>Mastering Stability: Prevent Guardians of the Galaxy From Collapsing on Your PC with Our Tricks</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/resolved-troubleshooting-guide-preventing-risk-of-rain-2-game-crashes/"><u>Resolved: Troubleshooting Guide - Preventing Risk of Rain 2 Game Crashes</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/thunder-tier-one-stability-fixes-a-comprehensive-strategy-for-uninterrupted-gameplay-on-pc/"><u>Thunder TIER One Stability Fixes: A Comprehensive Strategy for Uninterrupted Gameplay on PC</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/unboxing-and-testing-the-lenovo-nook-9-inch-tablet-experience/"><u>Unboxing and Testing: The Lenovo Nook 9 Inch Tablet Experience</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-best-side-by-side-video-editors-for-ios-and-android-phones/"><u>Updated In 2024, Best Side-by-Side Video Editors for iOS and Android Phones</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-video-tales-in-reverse-perfecting-instagram-posts/"><u>[New] Video Tales in Reverse Perfecting Instagram Posts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-lowering-volume-steps-in-logic-pro-audio-editing/"><u>[Updated] Lowering Volume Steps in Logic Pro Audio Editing</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-duality-of-delivery-engaging-audiences-through-alternative-perspectives-for-reaction-videos/"><u>2024 Approved Duality of Delivery Engaging Audiences Through Alternative Perspectives for Reaction Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-no-cash-needed-try-these-free-youtube-subtitle-tools/"><u>2024 Approved No Cash Needed? Try These Free YouTube Subtitle Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-iphone-xs-max-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My iPhone XS Max After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-video-to-animation-easy-youtube-gif-creation-tips/"><u>In 2024, From Video to Animation Easy YouTube GIF Creation Tips</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-influencing-factors-for-popular-youtube-videos/"><u>In 2024, Influencing Factors for Popular YouTube Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-integrating-luts-into-film-colorwork/"><u>In 2024, Integrating Luts Into Film Colorwork</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-top-10-youtube-music-how-toes-2023-edition/"><u>In 2024, Top 10 YouTube Music How-Toes, 2023 Edition</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ize-video-publishing-timing-for-maximum-views-for-2024/"><u>Optimize Video Publishing Timing for Maximum Views for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-implementing-gpt-3-within-openais-interactive-environment/"><u>The Ultimate Guide to Implementing GPT-3 Within OpenAI’s Interactive Environment</u></a></li>
 </ul></div>
 

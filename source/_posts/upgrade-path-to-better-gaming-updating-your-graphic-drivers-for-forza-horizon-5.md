@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Path to Better Gaming: Updating Your Graphic Drivers for Forza Horizon 5"
-date: 2024-09-09T17:02:15.585Z
-updated: 2024-09-16T17:43:24.940Z
+date: 2024-09-17T18:02:06.056Z
+updated: 2024-09-21T16:44:19.317Z
 tags:
   - win11
   - win10
@@ -102,10 +102,10 @@ If you’re still seeing the message, continue to the next fix.
 Once done, restart Windows and try again in Minecraft.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Check your default GPU
@@ -121,10 +121,10 @@ Here’s how you can check the preferred GPU of Minecraft:
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
@@ -135,14 +135,14 @@ Here’s how you can check the preferred GPU of Minecraft:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-2.jpg)
 5. Click**High performance** and then**Save** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now you can restart Minecraft and check if the message is still there.
 
@@ -167,17 +167,16 @@ Now you can restart Minecraft and check if the message is still there.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-finding-affordable-no-cost-artistic-elements/"><u>[New] Finding Affordable, No-Cost Artistic Elements</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-uncovering-old-facebook-stories-with-ease/"><u>[New] Uncovering Old Facebook Stories with Ease</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/eaving-whirlwind-writings-for-2024/"><u>[New] Weaving Whirlwind Writings for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-toolwiz-photosapp-in-depth-review-2023/"><u>2024 Approved Exploring Toolwiz PhotosApp In-Depth Review, 2023</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/amazfit-gts-unveiled-when-trendy-meets-treadmill-an-in-depth-analysis/"><u>Amazfit GTS Unveiled - When Trendy Meets Treadmill: An In-Depth Analysis</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/exploring-the-features-of-samsung-galaxy-tab-s6-in-depth-look-at-s-pen-and-dex-modes/"><u>Exploring the Features of Samsung Galaxy Tab S6 - In-Depth Look at S Pen & DeX Modes</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-vivo-v30-lite-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Vivo V30 Lite 5G?</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-nixing-facebook-broadcasts-effortlessly/"><u>In 2024, Nixing Facebook Broadcasts Effortlessly</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/mastering-stability-prevent-guardians-of-the-galaxy-from-collapsing-on-your-pc-with-our-tricks/"><u>Mastering Stability: Prevent Guardians of the Galaxy From Collapsing on Your PC with Our Tricks</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-masterclass-turning-images-into-attention-grabbing-youtube-thumbnails/"><u>Speed Masterclass Turning Images Into Attention-Grabbing YouTube Thumbnails</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-honor-x9b-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Honor X9b Phones</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-when-your-windows-update-isnt-active/"><u>Troubleshooting Steps When Your Windows Update Isn't Active</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-audio-accentuation-tunes-for-visual-projects-for-2024/"><u>[New] Audio Accentuation Tunes for Visual Projects for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-discover-the-most-compelling-5-iphone-friendly-podcast-services-for-2024/"><u>[New] Discover the Most Compelling 5 iPhone-Friendly Podcast Services for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-harness-the-power-of-your-mobile-content-on-youtube-starting-now/"><u>[New] Harness the Power of Your Mobile Content on YouTube, Starting Now</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unveiling-instagram-reels-10-surprising-insights/"><u>[Updated] 2024 Approved Unveiling Instagram Reels 10 Surprising Insights</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-smooth-media-transfer-twitvideos-to-whatsapp-guide/"><u>[Updated] In 2024, Smooth Media Transfer TwitVideos to WhatsApp Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-step-by-step-guide-to-saving-google-meet-interactions/"><u>[Updated] Step-by-Step Guide to Saving Google Meet Interactions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-thriving-on-both-sides-work-and-youtubing-tips/"><u>2024 Approved Thriving on Both Sides Work and YouTubing Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-free-audio-to-text-conversion/"><u>In 2024, Free Audio to Text Conversion</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-immediate-sharing-from-twitter-vids-to-whatsapp/"><u>In 2024, Immediate Sharing From Twitter Vids to WhatsApp</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-maximizing-earnings-with-youtube-studio-monetization-on-any-device/"><u>In 2024, Maximizing Earnings with YouTube Studio Monetization on Any Device</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-seamless-channel-transitions-with-customized-end-screens/"><u>In 2024, Seamless Channel Transitions with Customized End Screens</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Navigating YouTube's Digital Canvas  Studio Essentials\""
-date: 2024-09-09T17:23:33.890Z
-updated: 2024-09-16T16:09:28.185Z
+date: 2024-09-16T17:55:16.864Z
+updated: 2024-09-21T16:32:47.281Z
 tags:
   - ai video
   - ai youtube
@@ -108,19 +108,6 @@ As one of the most versatile video editing software, Filmora offers various type
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -211,19 +198,6 @@ How many times a week do you check your stats in the YouTube Creator Studio?
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Edit YouTube Videos with Filmora
 
 As one of the most versatile video editing software, Filmora offers various types of templates and effects with an intuitive interface, which helps you custom your videos without hassle. Download the free trial version and get started now.
@@ -231,13 +205,6 @@ As one of the most versatile video editing software, Filmora offers various type
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -301,6 +268,19 @@ YouTube **Cards** are similar to annotations but more interactive. They allow th
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-cards01.png)
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * On the right panel click on "Add Card" drop down menu and select the type of card you want to add
 * Click on the create button which will open the corresponding video
 * Once you finish the subsequent information required click create card
@@ -309,6 +289,13 @@ YouTube **Cards** are similar to annotations but more interactive. They allow th
 ![](https://images.wondershare.com/filmora/article-images/add-cards-to-youtube-video.jpg)
 
 * Apply changes and exit
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to add YouTube annotations
 
@@ -395,10 +382,16 @@ The main difference between annotation and cards is their outlook. Cards are mor
 * [Part 2: How to Add YouTube Annotations](#part2)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to add YouTube Cards
@@ -582,6 +575,13 @@ No matter what kind of annotations you are using, you should never use more than
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -646,10 +646,10 @@ YouTube Annotation is addition of a text layer, link or hotspots over your video
 ![](https://images.wondershare.com/filmora/article-images/add-annotations-to-youtube-video.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * On the right panel click on "+ Add Element" and select the kind of annotation you want to add
@@ -716,20 +716,15 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-bridge-the-gap-to-your-friends-live-broadcast/"><u>[New] 2024 Approved Bridge the Gap to Your Friend's Live Broadcast</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-all-you-need-to-know-about-downloading-wm6/"><u>[New] All You Need to Know About Downloading WM6</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-navigating-the-world-of-insta-influencers-5-pivotal-moves-and-results/"><u>[New] In 2024, Navigating the World of Insta Influencers 5 Pivotal Moves and Results</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-mastering-ps3-gaming-capture-step-by-step-guide/"><u>[Updated] 2024 Approved Mastering PS3 Gaming Capture Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-fix-facebook-videos-not-playing-on-androidiphonechrome/"><u>[Updated] Fix Facebook Videos Not Playing on Android/iPhone/Chrome</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-smoothshot-stabilizing-technology-on-the-move/"><u>[Updated] SmoothShot Stabilizing Technology on the Move</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-the-ultimate-how-to-for-navigating-old-features-on-fb-mobilepc/"><u>[Updated] The Ultimate How-To for Navigating Old Features on FB, Mobile/PC</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-globes-biggest-video-content-mogul/"><u>2024 Approved Globe’s Biggest Video Content Mogul</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-premium-choices-in-video-capture-tools-for-websites/"><u>2024 Approved Premium Choices in Video Capture Tools for Websites</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-maximizing-short-form-video-popularity-on-youtube/"><u>In 2024, Maximizing Short Form Video Popularity on YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-optimal-paths-for-mobile-device-media-posting/"><u>In 2024, Optimal Paths for Mobile Device Media Posting</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-pathway-to-profitability-with-the-new-youtube-premium-program/"><u>In 2024, Pathway to Profitability with the New YouTube Premium Program</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-reclaiming-deleted-youtube-treasures-a-2-step-guide/"><u>In 2024, Reclaiming Deleted YouTube Treasures A 2-Step Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-art-of-video-polishing-with-youtube-studio-tools/"><u>In 2024, The Art of Video Polishing with YouTube Studio Tools</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-safeguarding-your-digital-footprint-on-youtube/"><u>[New] Safeguarding Your Digital Footprint on YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-share-smart-techniques-for-youtube-playlist-dispersal/"><u>[New] Share Smart Techniques for YouTube Playlist Dispersal</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-unleash-bright-potential-in-your-android-videos-for-2024/"><u>[New] Unleash Bright Potential in Your Android Videos for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-androids-animal-world-simulator-games-roundup/"><u>[Updated] Android's Animal World Simulator Games Roundup</u></a></li>
+<li><a href="https://solve-news.techidaily.com/cookiebot-enhanced-boost-your-sites-performance-with-advanced-tracking-solutions/"><u>Cookiebot-Enhanced: Boost Your Site's Performance with Advanced Tracking Solutions</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/fix-apple-iphone-14-pro-max-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>Fix Apple iPhone 14 Pro Max Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/fresh-takes-on-favorites-movie-alternate-list-for-2024/"><u>Fresh Takes on Favorites - Movie Alternate List for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/mastering-lyric-videos-lyric-video-maker-guide/"><u>Mastering Lyric Videos Lyric Video Maker Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-art-of-crafting-dynamic-luts/"><u>The Art of Crafting Dynamic LUTs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-comprehensive-guides-on-all-things-hardware/"><u>Tom's Tech Hub: Comprehensive Guides on All Things Hardware</u></a></li>
 </ul></div>
 

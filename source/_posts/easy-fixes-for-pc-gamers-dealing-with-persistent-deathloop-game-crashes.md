@@ -1,7 +1,7 @@
 ---
 title: "Easy Fixes for PC Gamers: Dealing with Persistent Deathloop Game Crashes"
-date: 2024-09-13T17:42:21.317Z
-updated: 2024-09-16T16:08:30.625Z
+date: 2024-09-14T18:04:38.668Z
+updated: 2024-09-21T17:02:27.635Z
 tags:
   - win11
   - win10
@@ -68,10 +68,10 @@ If the problem persists, take a look at the next fix below.
  If the latest graphics driver doesn’t give you luck, go ahead and try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Make sure your system is up to date
@@ -84,15 +84,16 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
@@ -104,10 +105,10 @@ Here’s how you can check for updates manually:
 If your system is already up to date, you can try the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Change in-game graphics settings
@@ -118,13 +119,6 @@ If your system is already up to date, you can try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-1.jpg)
 2. In the left pane, select**Visuals** . Then set**Object details** to**High** or lower.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now you can play and check if the crash stops.
 
@@ -142,18 +136,26 @@ Now you can play and check if the crash stops.
 3. In the pop-up window, navigate to the **Advanced**  tab. Under the **Virtual memory** section, click **Change…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
 4. Deselect the **Automatically manage paging file size for all drives** checkbox. Then select **Customize size** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/vritual-memory-set.jpg)
 5. Enter **Initial size** and **Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory (actual RAM) of my computer is 8 GB, so the **Initial size** for me here is **8 x 1024 x 1.5 = 12288 MB** , and the **Maximum size** should be **8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click **Set** , then click **OK**  to save the changes.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-set-02.jpg)
 6. Restart your computer and check if New World crashes again.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this trick doesn’t do the trick for you, take a look at the next solution.
 
@@ -189,18 +191,12 @@ Now you can play and check if the crash stops.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-ensure-video-perfection-before-sharing-on-instagram/"><u>[New] In 2024, Ensure Video Perfection Before Sharing on Instagram</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-expert-video-and-data-extractor-optimized-for-firefox/"><u>[Updated] Expert Video & Data Extractor - Optimized For Firefox</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-prime-methods-from-youtube-to-mpeg-encoding/"><u>[Updated] Prime Methods From YouTube to MPEG Encoding</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-identifying-creator-types-six-intriguing-youtube-categorization-tests/"><u>2024 Approved Identifying Creator Types Six Intriguing YouTube Categorization Tests</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/boosting-youtube-engagement-top-11-seo-strategies-revealed-for-2024/"><u>Boosting YouTube Engagement Top 11 SEO Strategies Revealed for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-next-gen-stabilizing-tools-for-youtube-videographers/"><u>In 2024, Next-Gen Stabilizing Tools for YouTube Videographers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/personalize-your-mobile-experience-with-inshot-for-2024/"><u>Personalize Your Mobile Experience with InShot for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/poweradd-pilot-pro2-reviewed-exceptional-capacity-to-keep-all-your-gadgets-juiced-up/"><u>POWERADD Pilot Pro2 Reviewed - Exceptional Capacity to Keep All Your Gadgets Juiced Up</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/samsung-55-inch-ru7300-is-it-a-smart-choice-for-your-home-theater-in-depth-review-inside/"><u>Samsung 55-Inch RU7300: Is It a Smart Choice for Your Home Theater? In-Depth Review Inside</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/say-goodbye-to-lag-expert-advice-for-solving-fps-drops-in-valorant-updated-tips/"><u>Say Goodbye to Lag: Expert Advice for Solving FPS Drops in Valorant - Updated Tips</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/step-by-step-solutions-to-logitech-g935-microphone-problems-in-microsofts-operating-system/"><u>Step-by-Step Solutions to Logitech G935 Microphone Problems in Microsoft's Operating System</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-common-issues-with-creative-pebble-bluetooth-speakers/"><u>Troubleshooting Guide: Fixing Common Issues with Creative Pebble Bluetooth Speakers</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/upgrade-path-to-better-gaming-updating-your-graphic-drivers-for-forza-horizon-5/"><u>Upgrade Path to Better Gaming: Updating Your Graphic Drivers for Forza Horizon 5</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-guide-to-affordable-vector-art-websites/"><u>[New] Ultimate Guide to Affordable Vector Art Websites</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-mastering-the-art-of-sounding-different-in-pubg/"><u>2024 Approved Mastering the Art of Sounding Different in PUBG</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-sharpen-content-edge-with-studios-advanced-features/"><u>2024 Approved Sharpen Content Edge with Studio's Advanced Features</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-sifting-through-the-sands-of-youtube-conversations/"><u>2024 Approved Sifting Through the Sands of YouTube Conversations</u></a></li>
+<li><a href="https://windows11.techidaily.com/cut-the-cord-joining-dualshock-to-pc/"><u>Cut the Cord: Joining DualShock to PC</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamlining-ad-revenue-post-monetization-yt-tips-and-tricks/"><u>In 2024, Streamlining Ad Revenue Post-Monetization YT Tips & Tricks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978670615-insignia-10100-mbps-ethernet-to-usb-adapter-driver-download-now/"><u>Insignia 10/100 Mbps Ethernet to USB Adapter Driver - Download Now</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Social Blade  The Comprehensive Guide to YouTube Performance Tracking\""
-date: 2024-09-12T16:20:27.726Z
-updated: 2024-09-16T17:48:07.603Z
+date: 2024-09-15T18:00:43.335Z
+updated: 2024-09-21T18:03:59.118Z
 tags:
   - ai video
   - ai youtube
@@ -96,64 +96,12 @@ While many of the stats you can find on Social Blade are also available right on
 
 ![Social Blade for YouTube Analytics](https://images.wondershare.com/filmora/article-images/social-blade-youtube-analytics.jpg)
 
-Social Blade is an excellent place to gauge the growth of your channel. It provides statistics on our subscribers, views, and estimated revenue.
-
-To start using Social Blade, type your channel name into the search bar.
-
-On the top section of the page, several stats will be clearly displayed.
-
-First, you will see the letter grade assigned to your channel by Social Blade. If it is not a very good one, keep in mind that channels with over 10, 000 might still only receive Cs. Only YouTube megastars are getting As and Bs.
-
-Next to your grade are your subscriber and video view ranks, as well as a rank assigned to you by Social Blade.
-
-On the second line, you will see the views and subscribers you got in the last 30 days and the percentage by which you are up or down. Simply searching for yourself and glancing at this line is the easiest way to see whether your channel is growing, even easier than in your YouTube Creator Studio.
-
-The final line of the first section will show you an estimate of your monthly revenue.
-
-If you scroll down to the second section you will be able to see your views, subscribers, and estimated earnings per day rather than per month. Growth is in green and loss is in red.
-
-By looking at this chart you can see which videos benefited your channel most after they were posted (your videos are not listed, but you can see based on the day you posted them). This will give you a good idea of what your audience wants to see.
-
-## Spying on Other Channels
-
-When you check your stats, you type your channel name into the search bar. If you want to use Social Blade to monitor somebody else’s stats, type their channel name instead.
-
-By looking up your direct competitors (channels about the same size as yours within your same genre) you will be able to see which of their videos are performing best for them when you combine the daily information Social Blade provides with your knowledge of what videos they posted when.
-
-Knowing what is working for your rivals will help you [design your content strategy](https://tools.techidaily.com/wondershare/filmora/download/).
-
-You can also use Social Blade to look up huge YouTube stars who you admire, just to see how well they are doing. Take their estimated revenue with a grain of salt, though – it’s just an estimate.
-
- That's how you can use Social Blade for YouTube - have you ever used it?
-
-## Make Your Videos Stand Out with Powerful Video Editor
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-Want to learn how to use **Social Blade** for YouTube? SocialBlade.com is a free-to-use website that displays your YouTube statistics – or the stats of any channel you are interested in – using an intuitive layout.
-
-While many of the stats you can find on Social Blade are also available right on YouTube, some people find it easier to read on Social Blade. YouTube provides you with a lot of information, and a lot of it might not be useful to all creators.
-
-1. [**Your YouTube Analytics**](#yourstats)
-2. [**Spying on Other Channels**](#spy)
-
-## Your YouTube Analytics
-
-![Social Blade for YouTube Analytics](https://images.wondershare.com/filmora/article-images/social-blade-youtube-analytics.jpg)
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Social Blade is an excellent place to gauge the growth of your channel. It provides statistics on our subscribers, views, and estimated revenue.
 
@@ -190,36 +138,95 @@ You can also use Social Blade to look up huge YouTube stars who you admire, just
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-Want to learn how to use **Social Blade** for YouTube? SocialBlade.com is a free-to-use website that displays your YouTube statistics – or the stats of any channel you are interested in – using an intuitive layout.
-
-While many of the stats you can find on Social Blade are also available right on YouTube, some people find it easier to read on Social Blade. YouTube provides you with a lot of information, and a lot of it might not be useful to all creators.
-
-1. [**Your YouTube Analytics**](#yourstats)
-2. [**Spying on Other Channels**](#spy)
-
-## Your YouTube Analytics
-
-![Social Blade for YouTube Analytics](https://images.wondershare.com/filmora/article-images/social-blade-youtube-analytics.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+Want to learn how to use **Social Blade** for YouTube? SocialBlade.com is a free-to-use website that displays your YouTube statistics – or the stats of any channel you are interested in – using an intuitive layout.
+
+While many of the stats you can find on Social Blade are also available right on YouTube, some people find it easier to read on Social Blade. YouTube provides you with a lot of information, and a lot of it might not be useful to all creators.
+
+1. [**Your YouTube Analytics**](#yourstats)
+2. [**Spying on Other Channels**](#spy)
+
+## Your YouTube Analytics
+
+![Social Blade for YouTube Analytics](https://images.wondershare.com/filmora/article-images/social-blade-youtube-analytics.jpg)
+
+Social Blade is an excellent place to gauge the growth of your channel. It provides statistics on our subscribers, views, and estimated revenue.
+
+To start using Social Blade, type your channel name into the search bar.
+
+On the top section of the page, several stats will be clearly displayed.
+
+First, you will see the letter grade assigned to your channel by Social Blade. If it is not a very good one, keep in mind that channels with over 10, 000 might still only receive Cs. Only YouTube megastars are getting As and Bs.
+
+Next to your grade are your subscriber and video view ranks, as well as a rank assigned to you by Social Blade.
+
+On the second line, you will see the views and subscribers you got in the last 30 days and the percentage by which you are up or down. Simply searching for yourself and glancing at this line is the easiest way to see whether your channel is growing, even easier than in your YouTube Creator Studio.
+
+The final line of the first section will show you an estimate of your monthly revenue.
+
+If you scroll down to the second section you will be able to see your views, subscribers, and estimated earnings per day rather than per month. Growth is in green and loss is in red.
+
+By looking at this chart you can see which videos benefited your channel most after they were posted (your videos are not listed, but you can see based on the day you posted them). This will give you a good idea of what your audience wants to see.
+
+## Spying on Other Channels
+
+When you check your stats, you type your channel name into the search bar. If you want to use Social Blade to monitor somebody else’s stats, type their channel name instead.
+
+By looking up your direct competitors (channels about the same size as yours within your same genre) you will be able to see which of their videos are performing best for them when you combine the daily information Social Blade provides with your knowledge of what videos they posted when.
+
+Knowing what is working for your rivals will help you [design your content strategy](https://tools.techidaily.com/wondershare/filmora/download/).
+
+You can also use Social Blade to look up huge YouTube stars who you admire, just to see how well they are doing. Take their estimated revenue with a grain of salt, though – it’s just an estimate.
+
+ That's how you can use Social Blade for YouTube - have you ever used it?
+
+## Make Your Videos Stand Out with Powerful Video Editor
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+Want to learn how to use **Social Blade** for YouTube? SocialBlade.com is a free-to-use website that displays your YouTube statistics – or the stats of any channel you are interested in – using an intuitive layout.
+
+While many of the stats you can find on Social Blade are also available right on YouTube, some people find it easier to read on Social Blade. YouTube provides you with a lot of information, and a lot of it might not be useful to all creators.
+
+1. [**Your YouTube Analytics**](#yourstats)
+2. [**Spying on Other Channels**](#spy)
+
+## Your YouTube Analytics
+
+![Social Blade for YouTube Analytics](https://images.wondershare.com/filmora/article-images/social-blade-youtube-analytics.jpg)
 
 Social Blade is an excellent place to gauge the growth of your channel. It provides statistics on our subscribers, views, and estimated revenue.
 
@@ -312,13 +319,6 @@ After getting an overview of who he is, the following article will reveal what m
 Mr. Beast is the second most known YouTuber in the world, in terms of the number of subscribers. He has established himself as a successful YouTube at such a young age by earning around $30 million yearly, which makes his bank accounts boil.
 
 ![mrbeast youtube channel](https://images.wondershare.com/filmora/article-images/2022/11/how-much-money-does-mr.-beast-make-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Mr. Beast’s YouTube income is around $3 Million per month, which mostly goes back into making the videos. Most of his income is generated through ads, sponsored posts, and brand deals.
 
@@ -437,19 +437,6 @@ Similarly, if you want to add more than one video together, you can carry out th
 
 ![speed and duration settings](https://images.wondershare.com/filmora/article-images/2022/11/how-much-money-does-mr.-beast-make-7.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step4 Adjust the size and positioning of the video
 
 You can also access the editing interface to adjust the position of the video on top. Simply drag the sliders on the interface to change the size, direction and position of the video.
@@ -480,6 +467,13 @@ Filmora also has the feature of applying masks to the video; these come in diffe
 
 ![video mask](https://images.wondershare.com/filmora/article-images/2022/11/how-much-money-does-mr.-beast-make-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step6 Add effects, stock video, elements, and transitions from Filmora's vast library
 
 Filmora has additional features like stock photos and video footage that can be added to enhance the beauty of the video content.
@@ -489,13 +483,6 @@ Filmora has additional features like stock photos and video footage that can be 
 Go to the top menu and click on effects; you can find many of them; they are categorized in the left vertical menu.
 
 ![filmora effects](https://images.wondershare.com/filmora/article-images/2022/11/how-much-money-does-mr.-beast-make-14.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Stock Videos:**
 
@@ -528,6 +515,13 @@ The presence of this library reduces the labor of finding images on the internet
 The video is saved by simply clicking ‘ Export.’ You can always share the video online or offline, either publish directly on social media or save it on your computer for later upload.
 
 ![export video](https://images.wondershare.com/filmora/article-images/2022/11/how-much-money-does-mr.-beast-make-18.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The quality content that you obtain from Filmora can now be used to inspire millions of viewers out there. You are just an upload away!
 
@@ -563,18 +557,18 @@ Here’s a quick biography of Mr. Beast.
 
 After getting an overview of who he is, the following article will reveal what makes Jimmy so famous on YouTube and how much money Mr. Beast makes from YouTube.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Mr. Beast YouTube Income
 
 Mr. Beast is the second most known YouTuber in the world, in terms of the number of subscribers. He has established himself as a successful YouTube at such a young age by earning around $30 million yearly, which makes his bank accounts boil.
 
 ![mrbeast youtube channel](https://images.wondershare.com/filmora/article-images/2022/11/how-much-money-does-mr.-beast-make-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Mr. Beast’s YouTube income is around $3 Million per month, which mostly goes back into making the videos. Most of his income is generated through ads, sponsored posts, and brand deals.
 
@@ -792,15 +786,20 @@ No doubt, Mr. Beast has become a leading artist on this platform and made a trem
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/aking-money-on-youtube-a-guide/"><u>[New] Making Money on YouTube A Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-melodic-matchups-finding-the-right-song-for-your-insta-story/"><u>[Updated] In 2024, Melodic Matchups Finding the Right Song for Your Insta Story</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-videographers-essentials-top-9-gear-upgrades-for-mobile-filming/"><u>[Updated] In 2024, The Videographer's Essentials - Top 9 Gear Upgrades for Mobile Filming</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-optimal-video-posting-frequency-for-increased-youtube-popularity/"><u>2024 Approved Optimal Video Posting Frequency for Increased YouTube Popularity</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-power-of-words-enhancing-viewer-count-with-impressive-description-templates/"><u>2024 Approved The Power of Words Enhancing Viewer Count with Impressive Description Templates</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-samsung-galaxy-a15-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Samsung Galaxy A15 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-instantaneous-downloads-the-ultimate-toolkit-compilation/"><u>In 2024, Instantaneous Downloads - The Ultimate Toolkit Compilation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/official-nvidia-rtx-3070-ti-windows-driver-update-for-windows-1187-systems/"><u>Official NVIDIA RTX 3070 Ti Windows Driver Update for Windows 11/8/7 Systems</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/reviewing-the-philips-hf3520-striking-a-balance-between-cost-and-performance-for-alarms/"><u>Reviewing the Philips HF3520: Striking a Balance Between Cost and Performance for Alarms</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-vivo-s18e-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Vivo S18e Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-step-by-step-guide-mp3-to-youtube-live-streaming-3-phases/"><u>[New] Step-By-Step Guide MP3 to YouTube Live Streaming [3 Phases]</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-5-ways-to-record-league-of-legends-lol-games/"><u>[Updated] 2024 Approved 5 Ways to Record League of Legends (LOL) Games</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-optimize-youtube-visibility-harness-the-potential-of-tags/"><u>2024 Approved Optimize YouTube Visibility Harness the Potential of Tags</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-secrets-to-the-top-6-free-and-online-shorts-collectors/"><u>2024 Approved Secrets to the Top 6 Free & Online Shorts Collectors</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-supercharge-your-content-consumption-these-best-free-online-video-downloaders-for-youtube-shorts/"><u>2024 Approved Supercharge Your Content Consumption These Best Free, Online Video Downloaders for YouTube Shorts</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-the-budget-friendly-and-trustworthy-rexing-v1-dash-cam/"><u>Comprehensive Review of the Budget-Friendly & Trustworthy Rexing V1 Dash Cam</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-strategies-for-implementing-chatgpt-in-cbt-practices/"><u>Effective Strategies for Implementing ChatGPT in CBT Practices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-oppo-a38-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Oppo A38 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-explore-sony-vegas-for-high-impact-video-editing-on-youtube/"><u>In 2024, Explore Sony Vegas for High-Impact Video Editing on YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-to-stellar-custom-shorts-thumbnails/"><u>In 2024, Step-by-Step to Stellar Custom Shorts Thumbnails</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-complete-wm-maker-playbook-for-youtube-clips-perfection/"><u>In 2024, The Complete WM Maker Playbook for YouTube Clips Perfection</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-7-devices-to-power-your-metaverse-experience/"><u>In 2024, Top 7 Devices to Power Your Metaverse Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/simple-tricks-for-resolving-typical-apple-pay-glitches-top-10-methods/"><u>Simple Tricks for Resolving Typical Apple Pay Glitches (Top 10 Methods)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlocking-video-potential-youtube-to-igtv-for-2024/"><u>Unlocking Video Potential YouTube to IGTV for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unveiling-monoprices-value-graphic-pen-display-quality-meets-affordability/"><u>Unveiling Monoprice's Value Graphic Pen Display – Quality Meets Affordability</u></a></li>
 </ul></div>
 

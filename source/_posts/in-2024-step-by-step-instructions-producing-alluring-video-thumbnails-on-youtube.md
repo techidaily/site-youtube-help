@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Step-by-Step Instructions  Producing Alluring Video Thumbnails on YouTube\""
-date: 2024-09-13T17:09:05.844Z
-updated: 2024-09-16T17:11:10.473Z
+date: 2024-09-19T16:15:31.559Z
+updated: 2024-09-21T17:42:04.476Z
 tags:
   - ai video
   - ai youtube
@@ -56,13 +56,6 @@ People feel automatically connected and drawn into images that make eye contact.
 
 Also, if somebody recognizes you in your thumbnail from a previous video of yours, that will go a long way towards making them click.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Use Graphics/Emojis that are On Topic
 
 Anybody can take a screenshot of themselves in their video and use it as a thumbnail. To make your thumbnails look polished, consider using small images (like emojis or hearts) to stand out. This will add color and personality to your thumbnail.
@@ -86,6 +79,13 @@ A good rule for text is to use only 1-3 words. That way they won’t clutter you
 Use these tips to make video thumbnails for YouTube, and tell us what kind of results you get!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -180,19 +180,6 @@ Here are 5 easy tips for creating thumbnails that get views.
 ## Edit Your Videos Before Creating Video Thumbnails
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Have a Consistent Layout
 
@@ -414,10 +401,16 @@ The money-making feature monetizes Shorts in exciting ways. To start monetizing 
 Monetizing YouTube Shorts has the potential to make decent earnings. Although the amount is not as much as a long-form videos, it is a great way of making money on YouTube quickly. Most YouTube Shorts creators agree that the revenue per thousand views (RPM) for short-form content is currently around $0.05 - $0.07\. This means that for a million Shorts views, you will make $50 - $70.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Factors** **That Influence Earnings**
@@ -428,13 +421,6 @@ The amount of money you make on YouTube Shorts is not fixed. It will depend on s
 * **Viewer engagement:** Viewer engagement brings in additional revenue through features like Super Thanks.
 * **Number of monetized Shorts:** Monetizing most of your short-form videos will increase the revenue generated.
 * **Shopping Revenue:** How well you promote your products and the set price point of the products will determine the shopping revenue generated.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Examples of Creators Who Have Earned from Shorts**
 
@@ -520,11 +506,25 @@ Can you monetize YouTube shorts? Yes, in more than one way. The easiest is throu
 
 ![youtube sign in](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-from-youtube-shorts-requirements-and-earning-potential-2.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 2Select YouTube Studio
 
 In the top right of the YouTube page, click on your profile picture. From the pop-up menu that appears, select **YouTube Studio**.
 
 ![youtube studio](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-from-youtube-shorts-requirements-and-earning-potential-3.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step 3In the left menu, Click on **Earn**
 
@@ -541,6 +541,19 @@ If you are eligible for the YPP, you will see an **Apply** Click on it to go to 
 Click **Start** to review and accept YouTube’s Base terms.
 
 ![youtube base terms](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-from-youtube-shorts-requirements-and-earning-potential-6.JPG)
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step 6
 
@@ -594,13 +607,6 @@ The choice of Filmora features you use on your editing projects will depend on y
 
 Before uploading a short-form video on YouTube, you want to make sure it is of the right resolution. The Auto Reframe feature on Filmora allows you to instantly resize your videos while keeping all the important details. You only need to record one video for all platforms, and edit to fit with auto reframe.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **2\.** **[Text to Speech](https://tools.techidaily.com/wondershare/filmora/download/)**
 
 Narration is an important aspect of YouTube Shorts. You can tell what is happening in the clip in the simplest way for your audience to understand. The Text to Speech (TTS) feature on Filmora allows you to convert your text files to voice-over. This makes your Shorts video more entertaining and enriched with more elements.
@@ -628,21 +634,19 @@ YouTube Shorts have become immensely popular. They tend to have a higher ROI and
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-game-enhancement-select-top-hdds-for-xbox-for-2024/"><u>[New] Game Enhancement Select Top HDDs for Xbox for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-ideal-microphones-for-social-media-influencers/"><u>[New] Ideal Microphones for Social Media Influencers</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solved-unable-to-update-the-minecraft-native-launcher/"><u>[Solved] Unable to Update The Minecraft Native Launcher</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-navigating-complex-projects-on-magix-video-pro-x/"><u>[Updated] In 2024, Navigating Complex Projects on Magix Video Pro X</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-heartfelt-cheers-access-to-free-and-paid-otu-ideas/"><u>2024 Approved Heartfelt Cheers Access to Free & Paid OTU Ideas</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-idevice-screen-recording-techniques-for-youtube/"><u>2024 Approved Mastering iDevice Screen Recording Techniques for YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-tailoring-trailers-for-virtual-broadcasts/"><u>2024 Approved Tailoring Trailers for Virtual Broadcasts</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-blur-background-of-your-youtube-video-2-easy-ways/"><u>In 2024, How to Blur Background of Your YouTube Video - 2 Easy Ways</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-guide-hashtags-that-work-in-gaming-vlogs/"><u>In 2024, The Ultimate Guide Hashtags That Work in Gaming Vlogs</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-ultimate-tutorial-simplifying-youtube-subscriptions/"><u>In 2024, Ultimate Tutorial Simplifying YouTube Subscriptions</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unlock-your-contents-potential-mastering-the-art-of-youtube-featured-listings/"><u>In 2024, Unlock Your Content's Potential Mastering the Art of YouTube Featured Listings</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movavi-transformer-vos-idees-en-multimedia-facilement-grace-a-ses-outils-logiciels-de-creation/"><u>Movavi - Transformer Vos Idées en Multimédia Facilement Grâce À Ses Outils Logiciels De Création</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Meizu 21 Pro? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-apple-iphone-7-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From Apple iPhone 7</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/44k344on44od44oi44kt44ol44o844oi44ks5l244gj44gf6ksh5pww5yuv55s757wq5zci5oml6acgic0g44k544og44o844k644gq5pig5yop44oe44or44ob44oh44oh44kj44ki5l2c5oiq/"><u>ショットキュートを使った複数動画結合手順 - スムーズな映像マルチメディア作成</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-best-secret-voice-recorder-apps-for-android-and-ios-for-2024/"><u>[New] Best Secret Voice Recorder Apps For Android and iOS for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-profitable-pathways-8-steps-for-youtube-earning/"><u>[New] Profitable Pathways 8 Steps for YouTube Earning</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-expert-review-top-5-webcams-for-ultimate-visual-and-auditory-experience/"><u>[Updated] Expert Review Top 5 Webcams for Ultimate Visual & Auditory Experience</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-4k-brilliance-top-tips-for-selecting-a-superior-monitor/"><u>2024 Approved 4K Brilliance Top Tips for Selecting a Superior Monitor</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-swift-strategies-randomize-your-video-playlist-quickly/"><u>2024 Approved Swift Strategies Randomize Your Video Playlist Quickly</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-guide-to-youtube-adsense-optimization/"><u>2024 Approved The Ultimate Guide to YouTube AdSense Optimization</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-6ipad-drfone-by-drfone-virtual-ios/"><u>5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 6/iPad | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-display-glitch-geforce-experience-x0001/"><u>Fixing Display Glitch: GeForce Experience X0001</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-will-new-laws-restrict-tech-supremacy/"><u>How Will New Laws Restrict Tech Supremacy?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-journey-through-youtubes-spectacular-vr-realms/"><u>In 2024, Journey Through YouTube's Spectacular VR Realms</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-pro-level-strategies-captioning-content-on-vimeo/"><u>In 2024, Pro-Level Strategies Captioning Content on Vimeo</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-the-secrets-of-youtube-music-curation/"><u>In 2024, Unveiling the Secrets of YouTube Music Curation</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-huawei-nova-y71-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Huawei Nova Y71 FRP Without Computer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/les-logiciels-genealogiques-numero-un-en-2024-notre-selection-des-9-meilleurs-selon-movavi/"><u>Les Logiciels Généalogiques Numéro Un en 2024: Notre Sélection Des 9 Meilleurs, Selon Movavi</u></a></li>
 </ul></div>
 

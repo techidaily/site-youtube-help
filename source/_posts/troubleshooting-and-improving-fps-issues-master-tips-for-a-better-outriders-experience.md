@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting and Improving FPS Issues: Master Tips for a Better Outriders Experience"
-date: 2024-09-14T17:06:20.242Z
-updated: 2024-09-16T16:23:13.741Z
+date: 2024-09-14T16:27:28.389Z
+updated: 2024-09-21T16:37:34.949Z
 tags:
   - win11
   - win10
@@ -52,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
  If your game stays up-to-date but you still run into error code leaf, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Configure your DNS settings
 
  When you use your ISP’s (Internet Service Provider) default DNS server, some possible issues like crowded cache could cause the server connection failure. What you can do is switching to a public DNS server to solve the problem. We’ll use the Google DNS server as an example. Here’s how:
@@ -69,31 +62,11 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -116,6 +89,13 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. I’m using a graphics driver as an example here, since updating your graphics driver could solve many game issues (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -123,10 +103,16 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
@@ -138,8 +124,23 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 3. When you’re prompted to exit the game, click**Cancel** to go back to the main page.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/exit-game.png)
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -164,19 +165,21 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-the-path-to-cross-media-popularity-via-television-and-fb-live/"><u>[New] The Path to Cross-Media Popularity via Television and FB Live</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/solved-warzone-20-keeps-crashing-on-pc/"><u>[SOLVED] Warzone 2.0 Keeps Crashing on PC</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-celebrating-the-best-ten-music-video-lives/"><u>2024 Approved Celebrating the Best Ten Music Video Lives</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-explore-the-best-15-youtube-sources-for-sci-education/"><u>2024 Approved Explore the Best 15 YouTube Sources for Sci-Education</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-swiftly-blur-your-iphone-shots-with-these-4-tricks/"><u>2024 Approved Swiftly Blur Your iPhone Shots with These 4 Tricks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-online-seminar-title-crafter/"><u>2024 Approved Ultimate Online Seminar Title Crafter</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-your-iphone-14-pro-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On your iPhone 14 Pro</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/expert-advice-overcoming-msi-afterburners-inability-to-detect-graphics-card-on-modern-windows-versions/"><u>Expert Advice: Overcoming MSI Afterburner's Inability to Detect Graphics Card on Modern Windows Versions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-pinnacle-of-innovation-an-insightful-review-of-the-iphone-xs-max-by-apple/"><u>Exploring the Pinnacle of Innovation: An Insightful Review of the iPhone XS Max by Apple</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-apple-iphone-15-pro-max-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 15 Pro Max Parental Restrictions With/Without Password | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/revolutionizing-vr-gaming-the-dual-benefits-of-battery-equipped-elite-straps-for-oculus-quest-2-with-secure-case-storage-solution/"><u>Revolutionizing VR Gaming: The Dual Benefits of Battery-Equipped Elite Straps for Oculus Quest 2 with Secure Case Storage Solution</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/streamline-your-presenting-skills-with-these-7-innovative-ai-tools-that-craft-impressive-slide-decks/"><u>Streamline Your Presenting Skills with These 7 Innovative AI Tools That Craft Impressive Slide Decks</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/unboxing-rotiboxs-wireless-headpiece-an-in-depth-review-of-its-plush-comfort-and-audio-performance/"><u>Unboxing Rotibox's Wireless Headpiece: An In-Depth Review of Its Plush Comfort and Audio Performance</u></a></li>
-<li><a href="https://app-tips.techidaily.com/understanding-the-primary-interface-of-copernic-software-an-in-depth-walkthrough/"><u>Understanding the Primary Interface of Copernic Software: An In-Depth Walkthrough</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-seamless-gamewatching-unlock-nba-livestream-top-15-hacks/"><u>[New] In 2024, Seamless Gamewatching Unlock NBA Livestream (Top 15 Hacks)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-rapid-training-image-transformation-for-dynamic-youtube-desktop-thumbnails/"><u>[New] Rapid Training Image Transformation for Dynamic YouTube Desktop Thumbnails</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-starting-stronger-must-have-tech-for-creators/"><u>[New] Starting Stronger Must-Have Tech for Creators</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-streamline-your-youtube-shorts-a-guide-to-effortless-thumbnail-integration/"><u>[New] Streamline Your YouTube Shorts A Guide to Effortless Thumbnail Integration</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-in-the-visionary-vanguard-high-subscribers/"><u>2024 Approved In the Visionary Vanguard High Subscribers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-the-intricacies-of-transferring-videos-to-youtube/"><u>2024 Approved Navigating the Intricacies of Transferring Videos to YouTube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-pcs-ultimate-guide-to-ps1-game-emulation-software/"><u>2024 Approved PC's Ultimate Guide to PS1 Game Emulation Software</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-privacy-filter-concealing-visual-details-in-media/"><u>2024 Approved The Privacy Filter Concealing Visual Details in Media</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unveiling-the-mystery-of-proper-lighting-in-youtube-vids/"><u>2024 Approved Unveiling the Mystery of Proper Lighting in YouTube Vids</u></a></li>
+<li><a href="https://win-answers.techidaily.com/png3/"><u>高品質PNGを動画形式に変換するための3つのコツとテクニック</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convertissez-ogm-vers-format-mkv-gratuitement-et-facilement-en-ligne-sur-videomaster/"><u>Convertissez OGM Vers Format MKV Gratuitement Et Facilement en Ligne Sur Videomaster</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-essential-insights-on-youtube-tvs-unique-features/"><u>In 2024, Essential Insights on YouTube TV's Unique Features</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-ultimate-6-devices-for-flawless-film-translation/"><u>In 2024, Ultimate 6 Devices for Flawless Film Translation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/loop-maker-assembly/"><u>Loop Maker Assembly</u></a></li>
+<li><a href="https://fox-info.techidaily.com/sparkle-with-style-animating-text-in-your-insta-stories-for-2024/"><u>Sparkle with Style Animating Text in Your Insta Stories for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-understanding-snappy-driver-installer-v113-performance/"><u>The Ultimate Guide to Understanding Snappy Driver Installer v1.13 Performance</u></a></li>
 </ul></div>
 

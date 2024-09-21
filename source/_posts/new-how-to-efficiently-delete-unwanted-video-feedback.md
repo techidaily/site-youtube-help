@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Efficiently Delete Unwanted Video Feedback"
-date: 2024-09-15T16:09:58.636Z
-updated: 2024-09-16T16:42:11.099Z
+date: 2024-09-17T16:59:49.501Z
+updated: 2024-09-21T16:34:37.033Z
 tags:
   - ai video
   - ai youtube
@@ -104,16 +104,17 @@ To find your History from your desktop, you need to click on the three horizonta
 ![Report YouTube comments](https://images.wondershare.com/filmora/article-images/report-youtube-comment.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Delete All Your Posted YouTube Comments?
@@ -133,32 +134,13 @@ You can also delete all comments you ever posted on any YouTube video by hiding 
 
 ![YouTube Settings](https://images.wondershare.com/filmora/article-images/remove-youtube-content.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. YouTube will now show you what will happen when you hide your channel. Check all the boxes to confirm that you understand, and then tap on Hide My Channel. YouTube will now delete all comments made by your account.
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Final Thoughts
@@ -182,16 +164,15 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-crafting-memories-a-complete-guide-to-the-top-6-minecraft-recordings-techniques/"><u>[New] 2024 Approved Crafting Memories A Complete Guide to the Top 6 Minecraft Recordings Techniques</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-leveraging-technology-to-keep-your-snapchats-alive/"><u>[New] Leveraging Technology to Keep Your Snapchats Alive</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-snapshots-from-videos-within-windows-11-photos-app-for-2024/"><u>[New] Snapshots From Videos Within Windows 11 Photos App for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/amazfit-gts-unveiled-when-trendy-meets-treadmill-an-in-depth-analysis/"><u>Amazfit GTS Unveiled - When Trendy Meets Treadmill: An In-Depth Analysis</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/apowersoft-screen-recorder-2023-review-for-high-performance-pcs/"><u>Apowersoft Screen Recorder 2023 Review for High-Performance PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/cpu-elite-list-advanced-performance-testing-and-rank-order-analysis/"><u>CPU Elite List : Advanced Performance Testing and Rank Order Analysis</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/exploring-the-features-of-samsung-galaxy-tab-s6-in-depth-look-at-s-pen-and-dex-modes/"><u>Exploring the Features of Samsung Galaxy Tab S6 - In-Depth Look at S Pen & DeX Modes</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-realme-c53-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Realme C53 Lock Screen Password</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-top-sandbox-games-for-aspiring-explorers/"><u>In 2024, Top Sandbox Games for Aspiring Explorers</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/thunder-tier-one-stability-fixes-a-comprehensive-strategy-for-uninterrupted-gameplay-on-pc/"><u>Thunder TIER One Stability Fixes: A Comprehensive Strategy for Uninterrupted Gameplay on PC</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-android-screencasting-methods-unveiled-for-2024/"><u>[New] Android Screencasting Methods Unveiled for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-10-memetic-engineering-techniques/"><u>2024 Approved 10 Memetic Engineering Techniques</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-deal-with-youtube-trolls-and-negative-comments/"><u>2024 Approved How To Deal with YouTube Trolls and Negative Comments</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-vr-for-the-on-the-move-top-10-headsets-reviewed/"><u>2024 Approved VR for the On-the-Move Top 10 Headsets Reviewed</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-sony-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Sony ?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-navigating-the-spotlight-how-to-optimize-content-visibility-on-youtube/"><u>In 2024, Navigating the Spotlight How to Optimize Content Visibility on Youtube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unleashing-the-potential-of-youtube-live-in-depth-insights-into-wirecast-streaming/"><u>In 2024, Unleashing the Potential of YouTube Live In-Depth Insights Into WireCast Streaming</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-lunapics-power-expert-tips-and-hacks/"><u>In 2024, Unlocking LunaPic's Power Expert Tips and Hacks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/overcome-compatibility-obstacles-fixing-startech-driver-troubles-in-windows-1187-guide/"><u>Overcome Compatibility Obstacles: Fixing StarTech Driver Troubles in Windows 11/8/7 [Guide]</u></a></li>
 </ul></div>
 

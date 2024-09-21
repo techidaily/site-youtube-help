@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Low Memory Issues: A Guide to Uninterrupted Gameplay on God of War"
-date: 2024-09-15T16:51:47.354Z
-updated: 2024-09-16T16:52:05.038Z
+date: 2024-09-16T16:16:29.030Z
+updated: 2024-09-21T17:34:59.302Z
 tags:
   - win11
   - win10
@@ -53,19 +53,6 @@ If this is happening to you, don’t panic. Try the fixes below.
 
  If that application fails, too, then you’ve found the core problem. Check **[this article](https://tools.techidaily.com/drivereasy/download/)**  to troubleshoot your network issue. If Discord is the only app that doesn’t work for you and the rest of your apps works just fine, read on and try the fix below.
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3\. Run Discord as Administrator
 
  Discord should run perfectly fine without admin access in most cases. But occasionally, you might come up against something that requires admin access. Just close Discord and then run the program as Administrator (Make sure you kill all running Discord processes when you’re doing this.).
@@ -80,10 +67,10 @@ If you’re not sure how to do it, follow the instructions below:
 3. Right-click the Discord icon on your desktop, then select**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/discord-properties.png)
@@ -106,15 +93,15 @@ To see if this is the core issue, try turning off Hardware Acceleration:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/discord-hardware-acceleration.png)
 3. Click**Okay** to move on.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/discord-confirm.png)
 4. Discord will relaunch automatically. See if this has resolved your issue.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If Discord still won’t load streams correctly, read on and try the next fix.
 
@@ -155,16 +142,10 @@ To see if this is the core issue, try turning off Hardware Acceleration:
 5. Press the **Del key** on your keyboard to delete all selected files.
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Relaunch Discord to check if this helped.
@@ -181,6 +162,13 @@ If your issue still exists, move on to the fix, below.
 
  You can easily go back to fullscreen mode in Discord by using the same keyboard shortcut, **Ctrl + Shift + F** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 8\. Use a VPN
 
  Streaming can take up a lot of bandwidth. To prevent network congestion, your internet service provider (ISP) may limit your connection speed to balance all connections – which can cause issues for you. In this case, a VPN (also known as Virtual Private Networks), such as[**NordVPN**](https://tools.techidaily.com/drivereasy/download/) can help you bypass network throttling easily!
@@ -196,16 +184,10 @@ If your issue still exists, move on to the fix, below.
 4. Open Discord to see if the issue still exists.
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 9\. Try Desktop App/Another Browser
@@ -250,21 +232,18 @@ If your issue still exists, move on to the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-from-zero-to-trendsetter-solo-podcast-success-story/"><u>[New] 2024 Approved From Zero to Trendsetter Solo Podcast Success Story</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-complete-guide-the-basics-of-google-podcasts-app/"><u>[New] Complete Guide The Basics of Google Podcasts App</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/solved-warzone-20-keeps-crashing-on-pc/"><u>[SOLVED] Warzone 2.0 Keeps Crashing on PC</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-tune-master-app-for-android/"><u>2024 Approved Ultimate Tune Master App for Android</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/essential-issues-with-the-latest-iphone-xs-what-every-user-should-be-aware-of/"><u>Essential Issues with the Latest iPhone XS: What Every User Should Be Aware Of</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/expert-advice-overcoming-msi-afterburners-inability-to-detect-graphics-card-on-modern-windows-versions/"><u>Expert Advice: Overcoming MSI Afterburner's Inability to Detect Graphics Card on Modern Windows Versions</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/fixing-turtle-beach-headphones-microphone-issues-a-comprehensive-guide/"><u>Fixing Turtle Beach Headphones Microphone Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-asus-rog-phone-7-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Asus ROG Phone 7?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-choruscheck-live-audio-critique/"><u>In 2024, ChorusCheck Live Audio Critique</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/score-amazing-deals-on-popular-apple-electronics-for-the-ultimate-prime-day-shopping-spree/"><u>Score Amazing Deals on Popular Apple Electronics for the Ultimate Prime Day Shopping Spree</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/streamline-your-presenting-skills-with-these-7-innovative-ai-tools-that-craft-impressive-slide-decks/"><u>Streamline Your Presenting Skills with These 7 Innovative AI Tools That Craft Impressive Slide Decks</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/unboxing-rotiboxs-wireless-headpiece-an-in-depth-review-of-its-plush-comfort-and-audio-performance/"><u>Unboxing Rotibox's Wireless Headpiece: An In-Depth Review of Its Plush Comfort and Audio Performance</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oppo-k11x-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-translate-videos-in-tamil-for-a-wider-reach/"><u>Updated How To Translate Videos in Tamil for a Wider Reach</u></a></li>
-<li><a href="https://program-issues.techidaily.com/warzone-matchmaking-woes-a-comprehensive-fix-guide-for-pc-players/"><u>Warzone Matchmaking Woes? A Comprehensive Fix Guide for PC Players</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/winning-the-battle-against-zoom-disruptions-on-windows-1110-update-your-troubleshooting-tactics-in-202n/"><u>Winning the Battle Against Zoom Disruptions on Windows 11/10 – Update Your Troubleshooting Tactics in 202N</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-flavorful-frames-stepwise-food-film-making/"><u>[New] Flavorful Frames Stepwise Food Film-Making</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-inside-the-core-of-xstream-studios-an-exhaustive-studio-guide/"><u>[New] In 2024, Inside the Core of XStream Studios – An Exhaustive Studio Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-rise-to-stardom-secrets-to-viral-video-success/"><u>[New] Rise to Stardom Secrets to Viral Video Success</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-keeping-content-copyright-compliant-with-instra-watermarking/"><u>[Updated] In 2024, Keeping Content Copyright-Compliant with Instra Watermarking</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-youtube-taping-permissibility-concerns-for-2024/"><u>[Updated] YouTube Taping Permissibility Concerns for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-8-techniques-for-grabbing-attention-in-yt-thumbnails/"><u>2024 Approved Top 8 Techniques for Grabbing Attention in YT Thumbnails</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unlock-vfx-magic-top-4-youtube-tutorials-for-no-cost-green-screen-techniques/"><u>2024 Approved Unlock VFX Magic Top 4 YouTube Tutorials for No-Cost Green Screen Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/address-the-empty-spaces-for-windows-11-image-tiles/"><u>Address the Empty Spaces for Windows 11 Image Tiles</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-a-mac-application-thats-not-opening/"><u>How to Fix a Mac Application That's Not Opening</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-in-depth-analysis-the-dynamics-of-v-tubers/"><u>In 2024, In-Depth Analysis The Dynamics of V-Tubers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-novel-vlog-talk-points-everyday/"><u>In 2024, Novel Vlog Talk Points Everyday</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-artisans-blueprint-achieving-3d-text-mastery/"><u>In 2024, The Artisan's Blueprint Achieving 3D Text Mastery</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-what-is-instagram-story-highlight/"><u>In 2024, What Is Instagram Story Highlight?</u></a></li>
 </ul></div>
 

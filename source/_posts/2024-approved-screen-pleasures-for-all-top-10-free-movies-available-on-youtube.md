@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Screen Pleasures for All – Top 10 Free Movies Available on YouTube\""
-date: 2024-09-09T17:32:59.539Z
-updated: 2024-09-16T17:44:42.120Z
+date: 2024-09-16T17:11:36.850Z
+updated: 2024-09-21T18:11:59.391Z
 tags:
   - ai video
   - ai youtube
@@ -202,6 +202,19 @@ In this immensely famous silent horror film, the intriguing Count Orlok (Max Sch
 
 ![best free movies on youtube - nosferatu](https://images.wondershare.com/filmora/article-images/2021/best-free-movie-on-youtube-4.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. THE NAVIGATOR
 
 The Navigator is one of the top free movies on YouTube for time killing 2021; the year of publication is 1924\. Buster Keaton and Donald Crisp are the directors. Moreover, Buster Keaton, Kathryn McGuire, and Fred Vroom are among the cast members. It is the best Silent and Comedy movie of 2021\. The IMDb RATING is 7.9/10.
@@ -211,13 +224,6 @@ The Navigator is one of the top free movies on YouTube for time killing 2021; th
 David (Joey Cramer), 12, and his family live in Fort Lauderdale, Florida, in this 1978 Disney adventure. When he recovers after being knocked out in the jungle near his home, he discovers that eight years have gone by. His family is happy to see him back, but they are as mystified as he is that he hasn't aged. When a NASA scientist (Howard Hesseman) detects a UFO nearby, David is allowed to solve the riddle and reclaim his life.
 
 ![best free movies on youtube - The navigator](https://images.wondershare.com/filmora/article-images/2021/best-free-movie-on-youtube-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. THE SCARECROW
 
@@ -249,6 +255,13 @@ Of course, Night of the Living Dead is a horror film designed to frighten viewer
 
 ![best free movies on youtube - Night of the Living Dead](https://images.wondershare.com/filmora/article-images/2021/best-free-movie-on-youtube-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. ZODIAC
 
 Zodiac is the best film, and it was released on February 28, 2007\. David Fincher is the film's director. The cast includes Jake Gyllenhaal, Mark Ruffalo, Robert Downey Jr., Brian Cox, and John Carroll Lynch. It is a thriller, horror, and mystery movie. The IMDb rating is 7.7/10.
@@ -258,13 +271,6 @@ Zodiac is the best film, and it was released on February 28, 2007\. David Finche
 Zodiac is a film about the allure of investigation and passion, as well as the terror of unpredictability. The movie's plot is, Fear pervades San Francisco in the late 1960s and early 1970s as a serial killer known as Zodiac pursues its residents. Detectives (Mark Ruffalo, Anthony Edwards) and reporters (Jake Gyllenhaal, Robert Downey Jr.) become obsessed with locating and prosecuting the perpetrator. Meanwhile, Zodiac continues to murder individuals while taunting cops with cryptic letters, cyphers, and threatening phone calls.
 
 ![best free movies on youtube - Zodiac](https://images.wondershare.com/filmora/article-images/2021/best-free-movie-on-youtube-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. THE LADY VANISHES
 
@@ -344,13 +350,6 @@ In this immensely famous silent horror film, the intriguing Count Orlok (Max Sch
 
 ![best free movies on youtube - nosferatu](https://images.wondershare.com/filmora/article-images/2021/best-free-movie-on-youtube-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. THE NAVIGATOR
 
 The Navigator is one of the top free movies on YouTube for time killing 2021; the year of publication is 1924\. Buster Keaton and Donald Crisp are the directors. Moreover, Buster Keaton, Kathryn McGuire, and Fred Vroom are among the cast members. It is the best Silent and Comedy movie of 2021\. The IMDb RATING is 7.9/10.
@@ -361,13 +360,6 @@ David (Joey Cramer), 12, and his family live in Fort Lauderdale, Florida, in thi
 
 ![best free movies on youtube - The navigator](https://images.wondershare.com/filmora/article-images/2021/best-free-movie-on-youtube-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. THE SCARECROW
 
 The Scarecrow is one of the best YouTube movies. The year of publishing is 1920, and the film's directors are Buster Keaton and Eddie Cline. Among the actors in this film are Buster Keaton, Joe Roberts, and Joe Keaton. This is a silent and funny film. On IMDb, the film has a 7.3/10 rating.
@@ -377,6 +369,13 @@ The Scarecrow is one of the best YouTube movies. The year of publishing is 1920,
 Two creative farmhands battle for the same girl's hand in marriage. She, on the other hand, is unimpressed with both of them. Farmhands Keaton and Roberts inhabit a cottage filled with mechanical equipment designed to make life easier. They're competing for the farmer's daughter. Disguised as a scarecrow, Keaton wreaks havoc on his adversary and the farmer. When Keaton stoops to tie his shoe, the girl accepts his kneeling proposition.
 
 ![best free movies on youtube - The Scarecrow](https://images.wondershare.com/filmora/article-images/2021/best-free-movie-on-youtube-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. THE KID
 
@@ -417,6 +416,13 @@ The Lady Vanishes is both comically dated and a by-the-numbers primer on constru
 Here's a film's plot. An avalanche delays a party of travelers on a train bound for England. Young Iris (Margaret Lockwood) befriends elderly Miss Froy while holed up in a hotel in a fictitious European country (Dame May Whitty). When the train resumes, Iris falls unconscious and awakens to find the older woman has vanished. When the other passengers ominously deny Miss Froy's existence, Iris goes on to investigate with another traveler (Michael Redgrave), and romantic sparks fly between the two sleuths.
 
 ![best free movies on youtube - The Lady Vanishes](https://images.wondershare.com/filmora/article-images/2021/best-free-movie-on-youtube-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Edit your YouTube video with Filmora
 
@@ -464,6 +470,13 @@ One of the most revered silent-era comedies, this picture depicts hapless Southe
 
 ![best free movies on youtube - The General](https://images.wondershare.com/filmora/article-images/2021/best-free-movie-on-youtube-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. SAFETY LAST
 
 On April 1, 1923, one of the best free movies on YouTube, safety last, was launched. The filmmakers of this picture are Sam Taylor and Fred C. Newmeyer. Harold Lloyd, Mildred Davis, and Bill Strother are among the cast members. It's a comedy/adventure silent film. The film is rated 8.1/10 on IMDb.
@@ -475,13 +488,6 @@ Safety Last! is a meditation on time and money, fame and misfortune that mirrors
 When he learns that a store manager is willing to give $1,000 to anyone who can get consumers into his store, he convinces his acquaintance, the "human fly" (Bill Strother), to help him climb the building and divide the profit with him. But when his friend gets into problems with the cops, he is forced to accomplish the insane stunt on his own.
 
 ![best free movies on youtube - Safety Last](https://images.wondershare.com/filmora/article-images/2021/best-free-movie-on-youtube-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. NOSFERATU
 
@@ -701,17 +707,20 @@ Hopefully, this article helped resolve your query, and you can now use the right
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-harnessing-tech-acquiring-fb-status-video-content-for-2024/"><u>[New] Harnessing Tech Acquiring FB Status Video Content for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-how-to-seamlessly-capture-igtv-5-windows-and-mac-downloading-tips/"><u>[New] In 2024, How to Seamlessly Capture IGTV 5 Windows & Mac Downloading Tips</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-starting-a-successful-vlog-and-earning-potential/"><u>[New] Starting a Successful Vlog and Earning Potential</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensive-insights-for-optimal-iphone-x-animoji-use/"><u>2024 Approved Comprehensive Insights for Optimal iPhone X Animoji Use</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-the-net-top-tags-for-eye-catching-gamer-content/"><u>2024 Approved Navigating the Net Top Tags for Eye-Catching Gamer Content</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-steps-towards-joining-filmoras-certified-creative-circle/"><u>2024 Approved Steps Towards Joining Filmora's Certified Creative Circle</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-huawei-nova-y91-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Huawei Nova Y91</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fix-chrome-freezing-windows-10-easily/"><u>Fix Chrome Freezing Windows 10 Easily</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-realme-narzo-60-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Realme Narzo 60 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-imaginative-imagery-the-art-of-altered-text-presentation/"><u>In 2024, Imaginative Imagery The Art of Altered Text Presentation</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/instantly-connecting-fans-how-to-take-your-fb-live-further-for-2024/"><u>Instantly Connecting Fans How to Take Your FB Live Further for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-visual-journey-samsungs-ue590-reviewed-for-2024/"><u>The Ultimate Visual Journey - Samsung's UE590 Reviewed for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-raw-footage-to-final-cut-youtube-edition/"><u>[New] From Raw Footage to Final Cut YouTube Edition</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-optimizing-chromebook-prime-zoom-features-for-2024/"><u>[New] Optimizing Chromebook Prime Zoom Features for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-best-webcams-for-streaming-elevate-your-viewer-experience-on-twitch/"><u>[Updated] Best Webcams for Streaming Elevate Your Viewer Experience on Twitch</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-navigating-instagrams-self-verification-maze-for-2024/"><u>[Updated] Navigating Instagram's Self-Verification Maze for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-framing-photos-and-videos-playing-with-text-deformation/"><u>2024 Approved Framing Photos & Videos Playing With Text Deformation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ev-performance-under-duress-navigating-extremely-hot-and-cold-temperatures/"><u>EV Performance Under Duress: Navigating Extremely Hot and Cold Temperatures</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-vivo-v27e-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-custom-your-youtube-channel-url-super-easy-for-2024/"><u>How to Custom Your YouTube Channel URL – Super Easy for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-comparing-video-storage-in-64128gb-drives/"><u>In 2024, Comparing Video Storage in 64/128GB Drives</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-pioneering-digital-storytelling-youtubes-filmmaking-pathway/"><u>In 2024, Pioneering Digital Storytelling YouTube's Filmmaking Pathway</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-proven-steps-for-effortless-creation-of-youtube-shorts-credits/"><u>In 2024, Proven Steps for Effortless Creation of YouTube Shorts Credits</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-transforming-your-videos-for-igtv-excellence-3-methods/"><u>In 2024, Transforming Your Videos for IGTV Excellence (3 Methods)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/inside-track-on-calculating-your-youtube-impact-and-income-for-2024/"><u>Inside Track on Calculating Your YouTube Impact and Income for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mastering-recording-secrets-for-top-notch-audio-for-2024/"><u>Mastering Recording Secrets for Top-Notch Audio for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting DirectX Drawing Issues: A Comprehensive Guide"
-date: 2024-09-10T17:16:38.685Z
-updated: 2024-09-16T16:09:34.252Z
+date: 2024-09-16T17:57:03.372Z
+updated: 2024-09-21T16:45:34.584Z
 tags:
   - win11
   - win10
@@ -53,6 +53,13 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 
 If Phasmophobia still crashes, move on to the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Delete corrupted game files
 
 Game crashing issues might happen when your game files are corrupted.
@@ -69,22 +76,22 @@ Game crashing issues might happen when your game files are corrupted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-44-34.png)
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) Relaunch the game to test the issue.
 
 If the game still crashes, try the next fix below.
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -130,13 +137,6 @@ If the crash still occurs, go ahead with the next fix.
 
  If you still experience crashing issues, then the issue is not with your game settings. You can change the settings back and try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Launch the game with DirectX 10
 
  Another workaround for some players is manually switching the game to DirectX 10\. Here’s how to do it:
@@ -154,22 +154,15 @@ If the crash still occurs, go ahead with the next fix.
 If Phasmophobia crashing issues persist, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Stop overlocking your GPU/CPU
 
  If you’ve manually overclocked your GPU or CPU, revert it to its default GPU/CPU clock. And if you are using overclocking software, such as MSI Afterburner, please also disable the software when running the game.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Disable fullscreen optimizations
 
@@ -182,10 +175,10 @@ If Phasmophobia crashing issues persist, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_14-53-17.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Apply > OK** .
@@ -206,6 +199,13 @@ If the problem still exists, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_15-19-31.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Hopefully, this article has solved your problem! Please feel free to leave a comment if you have any questions or suggestions.
 
 * [game crash](https://tools.techidaily.com/drivereasy/download/)
@@ -225,20 +225,18 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-leading-minds-in-online-creation/"><u>[New] 2024 Approved Leading Minds in Online Creation</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-whispers-from-the-past-secrets-unveiled-in-age-old-texts/"><u>[New] 2024 Approved Whispers From the Past Secrets Unveiled in Age-Old Texts</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-m1-pro-vs-m1-max-examining-the-advancements-in-apples-cpu-technology/"><u>[New] M1 Pro Vs. M1 Max Examining the Advancements in Apple's CPU Technology</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-shorts-success-error-free-techniques/"><u>[Updated] YouTube Shorts Success Error-Free Techniques</u></a></li>
-<li><a href="https://video-capture.techidaily.com/capture-every-moment-premium-no-cost-windowsmac-tools-for-2024/"><u>Capture Every Moment Premium, No-Cost Windows/Mac Tools for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/elite-online-collection-of-video-downloader-tools/"><u>Elite Online Collection of Video Downloader Tools</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/emerging-design-amazons-latest-update-to-echo-dot-unveiled-in-review/"><u>Emerging Design: Amazon's Latest Update to Echo Dot Unveiled in Review</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/glion-dolly-electric-scooters-unveiled-the-epitome-of-style-and-velocity-for-your-wallet/"><u>Glion Dolly Electric Scooters Unveiled: The Epitome of Style and Velocity for Your Wallet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-xr-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone XR System Issues? | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-best-affordable-pc-cases-and-accessories-under-100/"><u>In 2024, Best Affordable PC Cases & Accessories (Under $100)</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/1723016245911-lost-the-gunfire-correcting-no-sound-glitches-in-battlefield-4-now/"><u>Lost the Gunfire? Correcting No Sound Glitches in Battlefield 4 Now</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/mobvoi-ticwatch-pro-3-gps-review-dual-displays-extend-battery-life/"><u>Mobvoi TicWatch Pro 3 GPS Review: Dual Displays Extend Battery Life</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/solved-how-to-fix-the-stardew-valley-game-crash-issue/"><u>Solved! How to Fix the Stardew Valley Game Crash Issue</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/troubleshooting-and-improving-fps-issues-master-tips-for-a-better-outriders-experience/"><u>Troubleshooting and Improving FPS Issues: Master Tips for a Better Outriders Experience</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-oneplus-nord-n30-5g-by-drfone-android/"><u>Universal Unlock Pattern for OnePlus Nord N30 5G</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-high-performance-7-cameras-for-cutting-edge-vlogging-tech/"><u>[New] High-Performance 7 Cameras For Cutting-Edge Vlogging Tech</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-how-to-make-better-facebook-video-ads/"><u>[New] In 2024, How to Make Better Facebook Video Ads</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-power-of-perception-iconic-podcast-design-tips-for-2024/"><u>[Updated] The Power of Perception Iconic Podcast Design Tips for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-smooth-streaming-elite-stabilizers-reviewed/"><u>2024 Approved Smooth Streaming Elite Stabilizers Reviewed</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-guide-to-banner-and-art-design-for-your-youtube-channel/"><u>2024 Approved The Ultimate Guide to Banner & Art Design for Your YouTube Channel</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-zoomed-in-filming-with-precision-and-clarity/"><u>2024 Approved Zoomed In Filming with Precision and Clarity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-as-a-storyteller-7-strategies-to-harness-chatgpt-in-games/"><u>AI as a Storyteller: 7 Strategies to Harness ChatGPT in Games</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/filmmakers-choice-for-steady-videos-for-2024/"><u>Filmmaker's Choice for Steady Videos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-visibility-features-mastering-snapchats-star-for-2024/"><u>High-Visibility Features Mastering Snapchat's Star for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-bypass-a-youtube-strike-and-keep-creating-videos/"><u>In 2024, How to Bypass a YouTube Strike and Keep Creating Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-quick-fixes-how-to-shorten-youtube-videos-easily/"><u>In 2024, Quick Fixes How to Shorten YouTube Videos Easily</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-networks-experiment-with-engaging-information-posts/"><u>Social Networks: Experiment with Engaging Information Posts</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-xiaomi-redmi-k70-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Xiaomi Redmi K70 Phones</u></a></li>
 </ul></div>
 

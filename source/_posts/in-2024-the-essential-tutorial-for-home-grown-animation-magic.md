@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Essential Tutorial for Home-Grown Animation Magic\""
-date: 2024-09-13T17:53:11.794Z
-updated: 2024-09-16T17:31:29.997Z
+date: 2024-09-19T16:48:26.818Z
+updated: 2024-09-21T16:10:05.131Z
 tags:
   - ai video
   - ai youtube
@@ -61,10 +61,16 @@ What’s great about this course is that it assumes you have no animation experi
  Most of the video animation courses on this site are paid, but they have a lot of cool free tutorials as well. The focus is more on animating figures/cartoons than video effects, but if you have any interest in animation more generally then this is a great place to start learning. They even have a free ebook you can download which is targeted at beginners.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **[Video Copilot](http://www.videocopilot.net/)**
@@ -74,10 +80,10 @@ This site has a huge number of free After Effects tutorials. There are basic int
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -95,20 +101,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mastering-online-meetings-zoom-tips-for-chromebooks/"><u>[New] Mastering Online Meetings Zoom Tips for Chromebooks</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-minecraft-logo-designs-for-youtube-channels/"><u>[New] Minecraft Logo Designs for YouTube Channels</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-a-concise-guide-to-starting-an-inclusive-chat-room-in-skype-accessible-on-different-operating-systems/"><u>[Updated] 2024 Approved A Concise Guide to Starting an Inclusive Chat Room in Skype, Accessible on Different Operating Systems</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-become-a-viral-sensation-with-these-9-proven-instagram-tricks/"><u>[Updated] 2024 Approved Become a Viral Sensation with These 9 Proven Instagram Tricks</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-free-photo-frame-video-downloads/"><u>2024 Approved Mastering Free Photo Frame Video Downloads</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-stop-automated-youtube-content-rollouts/"><u>2024 Approved Stop Automated YouTube Content Rollouts</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-guide-to-charging-up-your-video-empire/"><u>2024 Approved The Ultimate Guide to Charging Up Your Video Empire</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-7-plus-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 7 Plus to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-deep-dive-into-the-android-specific-lightroom-app/"><u>In 2024, Deep Dive Into the Android-Specific Lightroom App</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-freefire-the-30-best-tag-strategies-to-increase-views/"><u>In 2024, Mastering FreeFire The 30 Best Tag Strategies to Increase Views</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-top-ten-entrepreneurial-youtube-outlets-and-tips/"><u>In 2024, Top Ten Entrepreneurial YouTube Outlets & Tips</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/infusing-vitality-into-text-an-animated-adventure-for-2024/"><u>Infusing Vitality Into Text An Animated Adventure for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/navigating-to-platforms-for-youtube-influencer-partnerships-for-2024/"><u>Navigating to Platforms for YouTube Influencer Partnerships for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-the-smartest-spots-to-download-trendy-whoosh-sounds-online/"><u>Updated 2024 Approved The Smartest Spots to Download Trendy Whoosh Sounds Online</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-brighter-days-with-five-winter-themed-backgrounds/"><u>[New] 2024 Approved Brighter Days with Five Winter-Themed Backgrounds</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-immortal-gameplay-highlights-of-android-samsungs/"><u>[New] 2024 Approved Immortal Gameplay Highlights of Android Samsungs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-easier-cinematography-perfecting-fade-effects/"><u>[New] Easier Cinematography Perfecting Fade Effects</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-elevate-your-gaming-experience-with-unique-sound-alteration-techniques-for-a-competitive-edge-no-cost-for-2024/"><u>[New] Elevate Your Gaming Experience with Unique Sound Alteration Techniques for a Competitive Edge (No Cost!) For 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-learn-more-top-education-streams-online/"><u>[New] In 2024, Learn More Top Education Streams Online</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-online-media-crafter/"><u>2024 Approved Online Media Crafter</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-rush-release-channeling-playlist-hits-online/"><u>2024 Approved Rush Release Channeling Playlist Hits Online</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-visual-marketing-on-youtube-with-banners-and-thumbnails/"><u>In 2024, Mastering Visual Marketing on YouTube with Banners & Thumbnails</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-speed-filled-guide-to-double-exposure-methods/"><u>In 2024, Speed-Filled Guide to Double Exposure Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-poco-x6-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Poco X6 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/quicktime-stall-capture-help/"><u>QuickTime Stall Capture Help</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-update-issues-how-to-fix-windows-11-freezing-during-installation/"><u>Resolving Update Issues: How to Fix Windows 11 Freezing During Installation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-advantages-of-using-the-chatgpt-desktop-app-a-step-above-the-online-version/"><u>The Advantages of Using the ChatGPT Desktop App: A Step Above the Online Version</u></a></li>
 </ul></div>
 

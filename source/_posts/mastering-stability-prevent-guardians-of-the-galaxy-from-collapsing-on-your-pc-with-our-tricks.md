@@ -1,7 +1,7 @@
 ---
 title: "Mastering Stability: Prevent Guardians of the Galaxy From Collapsing on Your PC with Our Tricks"
-date: 2024-09-13T16:57:07.521Z
-updated: 2024-09-16T16:06:23.636Z
+date: 2024-09-19T16:47:29.977Z
+updated: 2024-09-21T17:46:38.459Z
 tags:
   - win11
   - win10
@@ -71,10 +71,10 @@ Marvel’s Guardians of the Galaxy system requirements
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Verify the integrity of game files
@@ -88,18 +88,18 @@ Marvel’s Guardians of the Galaxy system requirements
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Launch Marvel’s Guardians of the Galaxy after the verifying process is complete. See if it crashes again.
 
 If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Install the latest game patch
 
@@ -119,14 +119,14 @@ If this issue persists, try the next fix, below.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
-![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
  If you’re using other apps with overlay features (e.g. Nvidia GeForce Experience, Discord, Twitch, etc.), make sure you’ve disabled the in-game overlay in those apps feature.
 
@@ -159,19 +159,19 @@ If this fix didn’t work, try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Wait for Fortect to scan your PC. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. After the scanning process is completed, Fortect will provide you with the PC scan summary.  
 
  If there’s any issue, then click the Start Repair button on the lower-right corner, and with just one click, Fortect will start to repair the Windows OS on your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Fortect-start-repair.png)  
  Note: This is a paid service with a 60-day Money-Back Guarantee, which means that you’ll need to buy the full version to start repair.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Perform a clean boot
 
@@ -183,6 +183,14 @@ If this fix didn’t work, try the next fix, below.
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
@@ -192,13 +200,6 @@ If this fix didn’t work, try the next fix, below.
 6. Click **Restart** to restart your PC.  
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Restart** your PC and launch Marvel’s Guardians of the Galaxy to check if the game crashes again. If not, open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
@@ -233,16 +234,18 @@ If this fix didn’t work, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-vinyl-virtuoso-access-to-premium-dj-video-samples/"><u>[New] In 2024, Vinyl Virtuoso Access to Premium DJ Video Samples</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-vivo-s17e-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/apple-ipad-air-2019-review/"><u>Apple iPad Air (2019) Review</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/easy-fixes-for-pc-gamers-dealing-with-persistent-deathloop-game-crashes/"><u>Easy Fixes for PC Gamers: Dealing with Persistent Deathloop Game Crashes</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-peak-performance-updating-your-canon-pixma-mx922-driver-for-windows-operating-systems/"><u>Ensure Peak Performance: Updating Your Canon PIXMA MX922 Driver for Windows Operating Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-the-infamous-error-5573-on-your-call-of-duty-vanguard-gameplay/"><u>How to Overcome the Infamous Error 5573 on Your Call of Duty Vanguard Gameplay</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/resolved-troubleshooting-guide-preventing-risk-of-rain-2-game-crashes/"><u>Resolved: Troubleshooting Guide - Preventing Risk of Rain 2 Game Crashes</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/step-by-step-solutions-to-logitech-g935-microphone-problems-in-microsofts-operating-system/"><u>Step-by-Step Solutions to Logitech G935 Microphone Problems in Microsoft's Operating System</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-insights-on-computer-hardware/"><u>Tom's Tech Review: Comprehensive Insights on Computer Hardware</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/troubleshooting-directx-drawing-issues-a-comprehensive-guide/"><u>Troubleshooting DirectX Drawing Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/unleash-potential-strategies-for-skyrocketing-your-fb-profile-status/"><u>Unleash Potential Strategies for Skyrocketing Your FB Profile Status</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-a-guide-to-high-quality-slow-motion-images-for-instagram-sharing/"><u>[New] In 2024, A Guide to High-Quality Slow Motion Images for Instagram Sharing</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-navigating-through-youtubes-adsense-revenue-understanding-payments-per-thousand-views/"><u>[New] Navigating Through Youtube’s AdSense Revenue Understanding Payments per Thousand Views</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-essential-steps-for-mp3-streams-on-youtube/"><u>[Updated] Essential Steps for MP3 Streams on Youtube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-keyword-kickstart-the-top-7-free-user-friendly-video-tag-extractors-analyzed/"><u>2024 Approved Keyword Kickstart The Top 7 Free, User-Friendly Video Tag Extractors Analyzed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/chronological-viewing-of-the-wizarding-worlds-harry-potter-series/"><u>Chronological Viewing of The Wizarding World's Harry Potter Series</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-a-simple-reset-can-solve-most-of-your-phones-issues/"><u>How a Simple Reset Can Solve Most of Your Phone's Issues</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-spark-10c-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Spark 10C in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-of-iphone-12-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-masterpiece-moments-top-15-musician-behind-the-scenes-vlogs/"><u>In 2024, Masterpiece Moments Top 15 Musician Behind-the-Scenes Vlogs</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-artisans-guide-to-animation-enchantment/"><u>In 2024, The Artisan's Guide to Animation Enchantment</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/legality-of-recording-on-youtube-platform-in-2024/"><u>Legality of Recording on YouTube Platform, In 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/maximizing-reach-strategies-from-seasoned-tubebuddy-experts-for-2024/"><u>Maximizing Reach Strategies From Seasoned TubeBuddy Experts for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/netgear-nighthawk-c70erw-labs-an-in-depth-analysis-and-assessment-of-this-exceptional-wireless-router/"><u>Netgear Nighthawk C70erw Labs: An In-Depth Analysis and Assessment of This Exceptional Wireless Router</u></a></li>
 </ul></div>
 

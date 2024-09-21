@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Your Camera  Essential Tactics for Hit YouTube Videos\""
-date: 2024-09-12T16:27:27.306Z
-updated: 2024-09-16T17:31:01.606Z
+date: 2024-09-19T17:01:50.496Z
+updated: 2024-09-21T17:57:01.135Z
 tags:
   - ai video
   - ai youtube
@@ -342,6 +342,13 @@ Follow @Richard Bennett
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Posting vertically oriented videos to your YouTube channel will make you look unprofessional because portrait mode is never used for capturing videos. YouTubers who record their videos with Smartphones are more likely to fall into this trap, but all you need to do to avoid this is remember to hold the device horizontally.
 
  By switching to portrait mode, you'll be cropping the frame in a way, so you might unknowingly end up removing parts of the shot you wanted to record.
@@ -426,208 +433,201 @@ A Better Alternative on How to Edit YouTube Video Length - [Wondershare Filmora]
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+For instance, the application is offering non-linear ripple video editing. This is going to allow you to combine multiple video clips and pin them together conveniently. What is more, you can also apply PIP and Green Screen professional effects with just a few clicks. Sure, the YouTube video editor is a perfect solution for those who don't want to achieve professional quality, but if you do, Wondershare Filmora is without a doubt the far better alternative. This is something that's going to enable you to edit and re-touch your videos as well as to size them appropriately. Instead of dragging two bars together, you will be able to touch every single frame and size it according to your own particular needs. This is going to result in flawless videos.
+
+---
+
+## How to Edit YouTube Video Length Using the built-in Video Editor
+
+The YouTube video editor is easy to use, and you can easily learn how to do all sorts of changes to your video. Let's see the things that you need to go through in order to edit the length.
+
+**Note:** From 20th September 2017 users will no longer be able to use the complimentary editing suite. Check the best [YouTube video editor alternatives](https://tools.techidaily.com/wondershare/filmora/download/) from this complete guide.
+
+#### Step 1 Get to the video editor
+
+![Locate YouTube Video Editor](https://images.wondershare.com/filmora/article-images/add-music-to-youtube-video-6.jpg)
+
+In order to do so, you would have to go ahead and login into your account. Then, go to the “My Channel” panel and select the video that you want to cut. Once you've done this, click on the “Video manager” option and click on the “create” tab which should be located on the right side for the page. There, you will be able to find the “Video Editor”. Of course, you can also add “/editor” to YouTube's URL, and you would be good to go.
+
+#### Step 2 Import Your Video
+
+Once you've done all of the above, you would have to drag your video in order to cut it's time. Keep in mind that the videos are made out of a maximum of 50 clips. The site is going to save every single video that you upload as a particular clip which could be properly combined with the rest in order to make one larger video. This is important.
+
+![drag video to YouTube timeline](https://images.wondershare.com/filmora/article-images/drag-video-to-youtube-timeline.jpg)
+
+#### Step 3 Edit the Length
+
+This is the part where you actually get to edit the length of your video. In order to do so effectively, you have to drag the bar at either end of your clip towards the other end in order to shorten the clip conveniently.
+
+![edit video length in youtube](https://images.wondershare.com/filmora/article-images/edit-video-length-in-youtube.jpg)
+
+What is more, if you want to increase the length, you have to drag the bar to the opposite end – outwards. There is going to be an indicator which is going to appear at the bottom of the clip, and it's going to show you the overall duration of the file, and it's going to adjust itself as you slide the bars accordingly.
+
+#### Step 4 Save the Clip
+
+Of course, you would have to save the clip in order for the changes to reflect. Even though this might seem like a particularly obvious thing to do, you would be surprise to find out that a lot of people get everything done and then discard the changes by forgetting to save them and their effort goes to waste.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+Apart from providing video hosting and sharing features, the YouTube platform also has an online editor which is going to provide you with the possibility to make changes and additions online without having to download any particular program. In this guide, we are going to show you how to make your video shorter or longer with YouTube online video editor.
+
+---
+
+A Better Alternative on How to Edit YouTube Video Length - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a perfect alternative to edit every single clip frame by frame. Not just to shorten or lengthen the video. It offers quite a lot of opportunities. Watch the video below to know more:
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+For instance, the application is offering non-linear ripple video editing. This is going to allow you to combine multiple video clips and pin them together conveniently. What is more, you can also apply PIP and Green Screen professional effects with just a few clicks. Sure, the YouTube video editor is a perfect solution for those who don't want to achieve professional quality, but if you do, Wondershare Filmora is without a doubt the far better alternative. This is something that's going to enable you to edit and re-touch your videos as well as to size them appropriately. Instead of dragging two bars together, you will be able to touch every single frame and size it according to your own particular needs. This is going to result in flawless videos.
+
+---
+
+## How to Edit YouTube Video Length Using the built-in Video Editor
+
+The YouTube video editor is easy to use, and you can easily learn how to do all sorts of changes to your video. Let's see the things that you need to go through in order to edit the length.
+
+**Note:** From 20th September 2017 users will no longer be able to use the complimentary editing suite. Check the best [YouTube video editor alternatives](https://tools.techidaily.com/wondershare/filmora/download/) from this complete guide.
+
+#### Step 1 Get to the video editor
+
+![Locate YouTube Video Editor](https://images.wondershare.com/filmora/article-images/add-music-to-youtube-video-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+In order to do so, you would have to go ahead and login into your account. Then, go to the “My Channel” panel and select the video that you want to cut. Once you've done this, click on the “Video manager” option and click on the “create” tab which should be located on the right side for the page. There, you will be able to find the “Video Editor”. Of course, you can also add “/editor” to YouTube's URL, and you would be good to go.
+
+#### Step 2 Import Your Video
+
+Once you've done all of the above, you would have to drag your video in order to cut it's time. Keep in mind that the videos are made out of a maximum of 50 clips. The site is going to save every single video that you upload as a particular clip which could be properly combined with the rest in order to make one larger video. This is important.
+
+![drag video to YouTube timeline](https://images.wondershare.com/filmora/article-images/drag-video-to-youtube-timeline.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+#### Step 3 Edit the Length
+
+This is the part where you actually get to edit the length of your video. In order to do so effectively, you have to drag the bar at either end of your clip towards the other end in order to shorten the clip conveniently.
+
+![edit video length in youtube](https://images.wondershare.com/filmora/article-images/edit-video-length-in-youtube.jpg)
+
+What is more, if you want to increase the length, you have to drag the bar to the opposite end – outwards. There is going to be an indicator which is going to appear at the bottom of the clip, and it's going to show you the overall duration of the file, and it's going to adjust itself as you slide the bars accordingly.
+
+#### Step 4 Save the Clip
+
+Of course, you would have to save the clip in order for the changes to reflect. Even though this might seem like a particularly obvious thing to do, you would be surprise to find out that a lot of people get everything done and then discard the changes by forgetting to save them and their effort goes to waste.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+Apart from providing video hosting and sharing features, the YouTube platform also has an online editor which is going to provide you with the possibility to make changes and additions online without having to download any particular program. In this guide, we are going to show you how to make your video shorter or longer with YouTube online video editor.
+
+---
+
+A Better Alternative on How to Edit YouTube Video Length - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a perfect alternative to edit every single clip frame by frame. Not just to shorten or lengthen the video. It offers quite a lot of opportunities. Watch the video below to know more:
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For instance, the application is offering non-linear ripple video editing. This is going to allow you to combine multiple video clips and pin them together conveniently. What is more, you can also apply PIP and Green Screen professional effects with just a few clicks. Sure, the YouTube video editor is a perfect solution for those who don't want to achieve professional quality, but if you do, Wondershare Filmora is without a doubt the far better alternative. This is something that's going to enable you to edit and re-touch your videos as well as to size them appropriately. Instead of dragging two bars together, you will be able to touch every single frame and size it according to your own particular needs. This is going to result in flawless videos.
+
+---
+
+## How to Edit YouTube Video Length Using the built-in Video Editor
+
+The YouTube video editor is easy to use, and you can easily learn how to do all sorts of changes to your video. Let's see the things that you need to go through in order to edit the length.
+
+**Note:** From 20th September 2017 users will no longer be able to use the complimentary editing suite. Check the best [YouTube video editor alternatives](https://tools.techidaily.com/wondershare/filmora/download/) from this complete guide.
+
+#### Step 1 Get to the video editor
+
+![Locate YouTube Video Editor](https://images.wondershare.com/filmora/article-images/add-music-to-youtube-video-6.jpg)
+
+In order to do so, you would have to go ahead and login into your account. Then, go to the “My Channel” panel and select the video that you want to cut. Once you've done this, click on the “Video manager” option and click on the “create” tab which should be located on the right side for the page. There, you will be able to find the “Video Editor”. Of course, you can also add “/editor” to YouTube's URL, and you would be good to go.
+
+#### Step 2 Import Your Video
+
+Once you've done all of the above, you would have to drag your video in order to cut it's time. Keep in mind that the videos are made out of a maximum of 50 clips. The site is going to save every single video that you upload as a particular clip which could be properly combined with the rest in order to make one larger video. This is important.
+
+![drag video to YouTube timeline](https://images.wondershare.com/filmora/article-images/drag-video-to-youtube-timeline.jpg)
+
+#### Step 3 Edit the Length
+
+This is the part where you actually get to edit the length of your video. In order to do so effectively, you have to drag the bar at either end of your clip towards the other end in order to shorten the clip conveniently.
+
+![edit video length in youtube](https://images.wondershare.com/filmora/article-images/edit-video-length-in-youtube.jpg)
+
+What is more, if you want to increase the length, you have to drag the bar to the opposite end – outwards. There is going to be an indicator which is going to appear at the bottom of the clip, and it's going to show you the overall duration of the file, and it's going to adjust itself as you slide the bars accordingly.
+
+#### Step 4 Save the Clip
+
+Of course, you would have to save the clip in order for the changes to reflect. Even though this might seem like a particularly obvious thing to do, you would be surprise to find out that a lot of people get everything done and then discard the changes by forgetting to save them and their effort goes to waste.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+Apart from providing video hosting and sharing features, the YouTube platform also has an online editor which is going to provide you with the possibility to make changes and additions online without having to download any particular program. In this guide, we are going to show you how to make your video shorter or longer with YouTube online video editor.
+
+---
+
+A Better Alternative on How to Edit YouTube Video Length - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a perfect alternative to edit every single clip frame by frame. Not just to shorten or lengthen the video. It offers quite a lot of opportunities. Watch the video below to know more:
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-For instance, the application is offering non-linear ripple video editing. This is going to allow you to combine multiple video clips and pin them together conveniently. What is more, you can also apply PIP and Green Screen professional effects with just a few clicks. Sure, the YouTube video editor is a perfect solution for those who don't want to achieve professional quality, but if you do, Wondershare Filmora is without a doubt the far better alternative. This is something that's going to enable you to edit and re-touch your videos as well as to size them appropriately. Instead of dragging two bars together, you will be able to touch every single frame and size it according to your own particular needs. This is going to result in flawless videos.
-
----
-
-## How to Edit YouTube Video Length Using the built-in Video Editor
-
-The YouTube video editor is easy to use, and you can easily learn how to do all sorts of changes to your video. Let's see the things that you need to go through in order to edit the length.
-
-**Note:** From 20th September 2017 users will no longer be able to use the complimentary editing suite. Check the best [YouTube video editor alternatives](https://tools.techidaily.com/wondershare/filmora/download/) from this complete guide.
-
-#### Step 1 Get to the video editor
-
-![Locate YouTube Video Editor](https://images.wondershare.com/filmora/article-images/add-music-to-youtube-video-6.jpg)
-
-In order to do so, you would have to go ahead and login into your account. Then, go to the “My Channel” panel and select the video that you want to cut. Once you've done this, click on the “Video manager” option and click on the “create” tab which should be located on the right side for the page. There, you will be able to find the “Video Editor”. Of course, you can also add “/editor” to YouTube's URL, and you would be good to go.
-
-#### Step 2 Import Your Video
-
-Once you've done all of the above, you would have to drag your video in order to cut it's time. Keep in mind that the videos are made out of a maximum of 50 clips. The site is going to save every single video that you upload as a particular clip which could be properly combined with the rest in order to make one larger video. This is important.
-
-![drag video to YouTube timeline](https://images.wondershare.com/filmora/article-images/drag-video-to-youtube-timeline.jpg)
-
-#### Step 3 Edit the Length
-
-This is the part where you actually get to edit the length of your video. In order to do so effectively, you have to drag the bar at either end of your clip towards the other end in order to shorten the clip conveniently.
-
-![edit video length in youtube](https://images.wondershare.com/filmora/article-images/edit-video-length-in-youtube.jpg)
-
-What is more, if you want to increase the length, you have to drag the bar to the opposite end – outwards. There is going to be an indicator which is going to appear at the bottom of the clip, and it's going to show you the overall duration of the file, and it's going to adjust itself as you slide the bars accordingly.
-
-#### Step 4 Save the Clip
-
-Of course, you would have to save the clip in order for the changes to reflect. Even though this might seem like a particularly obvious thing to do, you would be surprise to find out that a lot of people get everything done and then discard the changes by forgetting to save them and their effort goes to waste.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-Apart from providing video hosting and sharing features, the YouTube platform also has an online editor which is going to provide you with the possibility to make changes and additions online without having to download any particular program. In this guide, we are going to show you how to make your video shorter or longer with YouTube online video editor.
-
----
-
-A Better Alternative on How to Edit YouTube Video Length - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a perfect alternative to edit every single clip frame by frame. Not just to shorten or lengthen the video. It offers quite a lot of opportunities. Watch the video below to know more:
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-For instance, the application is offering non-linear ripple video editing. This is going to allow you to combine multiple video clips and pin them together conveniently. What is more, you can also apply PIP and Green Screen professional effects with just a few clicks. Sure, the YouTube video editor is a perfect solution for those who don't want to achieve professional quality, but if you do, Wondershare Filmora is without a doubt the far better alternative. This is something that's going to enable you to edit and re-touch your videos as well as to size them appropriately. Instead of dragging two bars together, you will be able to touch every single frame and size it according to your own particular needs. This is going to result in flawless videos.
-
----
-
-## How to Edit YouTube Video Length Using the built-in Video Editor
-
-The YouTube video editor is easy to use, and you can easily learn how to do all sorts of changes to your video. Let's see the things that you need to go through in order to edit the length.
-
-**Note:** From 20th September 2017 users will no longer be able to use the complimentary editing suite. Check the best [YouTube video editor alternatives](https://tools.techidaily.com/wondershare/filmora/download/) from this complete guide.
-
-#### Step 1 Get to the video editor
-
-![Locate YouTube Video Editor](https://images.wondershare.com/filmora/article-images/add-music-to-youtube-video-6.jpg)
-
-In order to do so, you would have to go ahead and login into your account. Then, go to the “My Channel” panel and select the video that you want to cut. Once you've done this, click on the “Video manager” option and click on the “create” tab which should be located on the right side for the page. There, you will be able to find the “Video Editor”. Of course, you can also add “/editor” to YouTube's URL, and you would be good to go.
-
-#### Step 2 Import Your Video
-
-Once you've done all of the above, you would have to drag your video in order to cut it's time. Keep in mind that the videos are made out of a maximum of 50 clips. The site is going to save every single video that you upload as a particular clip which could be properly combined with the rest in order to make one larger video. This is important.
-
-![drag video to YouTube timeline](https://images.wondershare.com/filmora/article-images/drag-video-to-youtube-timeline.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-#### Step 3 Edit the Length
-
-This is the part where you actually get to edit the length of your video. In order to do so effectively, you have to drag the bar at either end of your clip towards the other end in order to shorten the clip conveniently.
-
-![edit video length in youtube](https://images.wondershare.com/filmora/article-images/edit-video-length-in-youtube.jpg)
-
-What is more, if you want to increase the length, you have to drag the bar to the opposite end – outwards. There is going to be an indicator which is going to appear at the bottom of the clip, and it's going to show you the overall duration of the file, and it's going to adjust itself as you slide the bars accordingly.
-
-#### Step 4 Save the Clip
-
-Of course, you would have to save the clip in order for the changes to reflect. Even though this might seem like a particularly obvious thing to do, you would be surprise to find out that a lot of people get everything done and then discard the changes by forgetting to save them and their effort goes to waste.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-Apart from providing video hosting and sharing features, the YouTube platform also has an online editor which is going to provide you with the possibility to make changes and additions online without having to download any particular program. In this guide, we are going to show you how to make your video shorter or longer with YouTube online video editor.
-
----
-
-A Better Alternative on How to Edit YouTube Video Length - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a perfect alternative to edit every single clip frame by frame. Not just to shorten or lengthen the video. It offers quite a lot of opportunities. Watch the video below to know more:
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For instance, the application is offering non-linear ripple video editing. This is going to allow you to combine multiple video clips and pin them together conveniently. What is more, you can also apply PIP and Green Screen professional effects with just a few clicks. Sure, the YouTube video editor is a perfect solution for those who don't want to achieve professional quality, but if you do, Wondershare Filmora is without a doubt the far better alternative. This is something that's going to enable you to edit and re-touch your videos as well as to size them appropriately. Instead of dragging two bars together, you will be able to touch every single frame and size it according to your own particular needs. This is going to result in flawless videos.
-
----
-
-## How to Edit YouTube Video Length Using the built-in Video Editor
-
-The YouTube video editor is easy to use, and you can easily learn how to do all sorts of changes to your video. Let's see the things that you need to go through in order to edit the length.
-
-**Note:** From 20th September 2017 users will no longer be able to use the complimentary editing suite. Check the best [YouTube video editor alternatives](https://tools.techidaily.com/wondershare/filmora/download/) from this complete guide.
-
-#### Step 1 Get to the video editor
-
-![Locate YouTube Video Editor](https://images.wondershare.com/filmora/article-images/add-music-to-youtube-video-6.jpg)
-
-In order to do so, you would have to go ahead and login into your account. Then, go to the “My Channel” panel and select the video that you want to cut. Once you've done this, click on the “Video manager” option and click on the “create” tab which should be located on the right side for the page. There, you will be able to find the “Video Editor”. Of course, you can also add “/editor” to YouTube's URL, and you would be good to go.
-
-#### Step 2 Import Your Video
-
-Once you've done all of the above, you would have to drag your video in order to cut it's time. Keep in mind that the videos are made out of a maximum of 50 clips. The site is going to save every single video that you upload as a particular clip which could be properly combined with the rest in order to make one larger video. This is important.
-
-![drag video to YouTube timeline](https://images.wondershare.com/filmora/article-images/drag-video-to-youtube-timeline.jpg)
-
-#### Step 3 Edit the Length
-
-This is the part where you actually get to edit the length of your video. In order to do so effectively, you have to drag the bar at either end of your clip towards the other end in order to shorten the clip conveniently.
-
-![edit video length in youtube](https://images.wondershare.com/filmora/article-images/edit-video-length-in-youtube.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-What is more, if you want to increase the length, you have to drag the bar to the opposite end – outwards. There is going to be an indicator which is going to appear at the bottom of the clip, and it's going to show you the overall duration of the file, and it's going to adjust itself as you slide the bars accordingly.
-
-#### Step 4 Save the Clip
-
-Of course, you would have to save the clip in order for the changes to reflect. Even though this might seem like a particularly obvious thing to do, you would be surprise to find out that a lot of people get everything done and then discard the changes by forgetting to save them and their effort goes to waste.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-Apart from providing video hosting and sharing features, the YouTube platform also has an online editor which is going to provide you with the possibility to make changes and additions online without having to download any particular program. In this guide, we are going to show you how to make your video shorter or longer with YouTube online video editor.
-
----
-
-A Better Alternative on How to Edit YouTube Video Length - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a perfect alternative to edit every single clip frame by frame. Not just to shorten or lengthen the video. It offers quite a lot of opportunities. Watch the video below to know more:
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For instance, the application is offering non-linear ripple video editing. This is going to allow you to combine multiple video clips and pin them together conveniently. What is more, you can also apply PIP and Green Screen professional effects with just a few clicks. Sure, the YouTube video editor is a perfect solution for those who don't want to achieve professional quality, but if you do, Wondershare Filmora is without a doubt the far better alternative. This is something that's going to enable you to edit and re-touch your videos as well as to size them appropriately. Instead of dragging two bars together, you will be able to touch every single frame and size it according to your own particular needs. This is going to result in flawless videos.
 
@@ -686,17 +686,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-step-up-your-stream-simultaneous-views-on-one-screen/"><u>[New] Step Up Your Stream Simultaneous Views on One Screen</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-luminous-images-a-comprehensive-lightroom-guide/"><u>[New] Unlocking Luminous Images A Comprehensive Lightroom Guide</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-complete-blueprint-for-tracking-yt-viewsrevenue-for-2024/"><u>[Updated] Complete Blueprint for Tracking YT Views/Revenue for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-eliminate-imposter-face-effects-in-facebook-discussion-for-2024/"><u>[Updated] Eliminate Imposter Face Effects in Facebook Discussion for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-starting-off-smoothly-with-fast-forwarding-in-snapchat/"><u>[Updated] Starting Off Smoothly with Fast-Forwarding in Snapchat</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/explore-germanys-favorite-ways-to-show-appreciation/"><u>Explore Germany's Favorite Ways to Show Appreciation</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-oppo-k11-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Oppo K11 5G? Try These Fixes</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/guidelines-to-affirm-your-youtube-status-for-2024/"><u>Guidelines to Affirm Your YouTube Status for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-flawless-playlist-integration-techniques-in-web-development/"><u>In 2024, Flawless Playlist Integration Techniques in Web Development</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-how-often-do-youtubers-receive-income/"><u>In 2024, How Often Do YouTubers Receive Income?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-nt00000035-your-ultimate-solution-to-device-manager-code-41-notifier-problems-on-windows/"><u>Resolving nT!00000035 - Your Ultimate Solution to Device Manager Code 41 Notifier Problems on Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-tier-165hz-gamespeed-displays/"><u>Top-Tier 165Hz Gamespeed Displays</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-the-creative-entrepreneurs-handbook-in-design/"><u>[Updated] 2024 Approved The Creative Entrepreneur's Handbook in Design</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-perfectly-pitched-headlines-maker/"><u>[Updated] Perfectly Pitched Headlines Maker</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-strategies-for-using-youtube-to-boost-classroom-engagement/"><u>2024 Approved Strategies for Using YouTube to Boost Classroom Engagement</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-synchronize-your-surfing-master-multi-video-youtube-use/"><u>2024 Approved Synchronize Your Surfing Master Multi-Video YouTube Use</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-timing-and-regularity-key-factors-influencing-youtube-traffic/"><u>2024 Approved Timing and Regularity Key Factors Influencing YouTube Traffic</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-motorola-moto-g84-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722960497936-expert-advice-on-secure-downloading-of-sandisk-ssd-drivers-overcoming-common-hurdles/"><u>Expert Advice on Secure Downloading of Sandisk SSD Drivers - Overcoming Common Hurdles</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-elevate-your-digital-storytelling-on-tiktok-with-5-key-caption-approaches/"><u>In 2024, Elevate Your Digital Storytelling on TikTok With 5 Key Caption Approaches</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-legality-query-personal-savings-of-youtube-videos/"><u>In 2024, Legality Query Personal Savings of YouTube Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-optimizing-youtube-performance-crafting-perfect-titles-and-tags/"><u>In 2024, Optimizing YouTube Performance Crafting Perfect Titles and Tags</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-strategic-synergy-in-streams-dissecting-your-videos-from-rivals/"><u>In 2024, Strategic Synergy in Streams Dissecting Your Videos From Rivals'</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-msvcrtdll-file-missing-issues-on-your-pc-a-step-by-step-guide/"><u>Resolving MSVCRT.DLL File Missing Issues on Your PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/simplifying-your-dts-soundtrack-rewrites-with-advanced-techniques-in-the-dts-editor/"><u>Simplifying Your DTS Soundtrack Rewrites with Advanced Techniques in the DTS Editor</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-alomware-resource-for-windows-tweakers/"><u>The Ultimate AlomWare Resource for Windows Tweakers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/timeless-tunes-selecting-high-quality-ringtones-online-for-2024/"><u>Timeless Tunes Selecting High-Quality Ringtones Online for 2024</u></a></li>
 </ul></div>
 
