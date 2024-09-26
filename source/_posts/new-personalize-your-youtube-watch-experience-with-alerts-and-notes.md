@@ -1,7 +1,7 @@
 ---
 title: "[New] Personalize Your Youtube Watch Experience with Alerts & Notes"
-date: 2024-09-17T17:48:09.995Z
-updated: 2024-09-21T18:01:01.957Z
+date: 2024-09-24T18:15:02.256Z
+updated: 2024-09-26T17:23:12.628Z
 tags:
   - ai video
   - ai youtube
@@ -67,6 +67,13 @@ YouTube **Cards** are similar to annotations but more interactive. They allow th
 
 * Apply changes and exit
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to add YouTube annotations
 
 YouTube Annotation is addition of a text layer, link or hotspots over your video. They add interactive boxes which link to other websites or videos (any link you want).
@@ -77,10 +84,24 @@ YouTube Annotation is addition of a text layer, link or hotspots over your video
 
 ![](https://images.wondershare.com/filmora/article-images/add-annotations-to-youtube-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * On the right panel click on "+ Add Element" and select the kind of annotation you want to add
 * Adjust the position of Annotation, you can drag the rectangle to locate it at any position of the video, move the slide to set the start and end time of the annotation
 
 ![](https://images.wondershare.com/filmora/article-images/add-annotation-to-youtube-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Apply changes
 
@@ -120,6 +141,13 @@ No matter what kind of annotations you are using, you should never use more than
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -133,12 +161,19 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-essential-windows-tips-for-efficient-live-tv-saving/"><u>[New] Essential Windows Tips for Efficient Live TV Saving</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-art-of-matchmaking-in-the-youtube-collaboration-arena/"><u>[New] The Art of Matchmaking in the YouTube Collaboration Arena</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-resize-windows-11-display-issue/"><u>[SCREEN RESIZE] Windows 11 Display Issue</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-ultimate-instagram-live-mastering-video-chats/"><u>[Updated] Ultimate Instagram Live Mastering Video Chats</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-key-to-success-perfecting-your-online-yt-presence/"><u>2024 Approved The Key to Success Perfecting Your Online YT Presence</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-t2-pro-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo T2 Pro 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-learn-quickly-youtube-audio-to-high-quality-mp3-on-mac-os/"><u>In 2024, Learn Quickly YouTube Audio to High-Quality MP3 on Mac OS</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-learn-the-lingo-three-steps-to-deciphering-your-youtube-earning-statements/"><u>In 2024, Learn the Lingo Three Steps to Deciphering Your YouTube Earning Statements</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamlining-your-youtube-presence-with-best-video-formats/"><u>In 2024, Streamlining Your YouTube Presence with Best Video Formats</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-sound-design-for-captivating-canvas-clips/"><u>In 2024, The Art of Sound Design for Captivating Canvas Clips</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/invaluable-resource-for-zero-cost-video-and-photo-providers-for-2024/"><u>Invaluable Resource for Zero-Cost Video and Photo Providers for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-extracting-and-using-your-dvd-footage-in-imovie-on-macoswindows/"><u>Ultimate Guide to Extracting & Using Your DVD Footage in iMovie on macOS/Windows</u></a></li>
+</ul></div>
 

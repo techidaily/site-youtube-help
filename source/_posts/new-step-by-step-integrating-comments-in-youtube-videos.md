@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step  Integrating Comments in YouTube Videos\""
-date: 2024-09-20T17:15:41.305Z
-updated: 2024-09-21T16:07:21.339Z
+date: 2024-09-25T16:06:29.757Z
+updated: 2024-09-26T18:51:30.897Z
 tags:
   - ai video
   - ai youtube
@@ -67,6 +67,13 @@ YouTube **Cards** are similar to annotations but more interactive. They allow th
 
 * Apply changes and exit
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to add YouTube annotations
 
 YouTube Annotation is addition of a text layer, link or hotspots over your video. They add interactive boxes which link to other websites or videos (any link you want).
@@ -77,10 +84,24 @@ YouTube Annotation is addition of a text layer, link or hotspots over your video
 
 ![](https://images.wondershare.com/filmora/article-images/add-annotations-to-youtube-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * On the right panel click on "+ Add Element" and select the kind of annotation you want to add
 * Adjust the position of Annotation, you can drag the rectangle to locate it at any position of the video, move the slide to set the start and end time of the annotation
 
 ![](https://images.wondershare.com/filmora/article-images/add-annotation-to-youtube-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Apply changes
 
@@ -120,6 +141,13 @@ No matter what kind of annotations you are using, you should never use more than
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -133,12 +161,20 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-ideal-titles-and-sizes-maximizing-click-through-rates/"><u>[New] Ideal Titles & Sizes Maximizing Click Through Rates</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-video-views-to-vault-closure-income-insights-for-youtubers/"><u>2024 Approved From Video Views to Vault Closure Income Insights for Youtubers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-add-a-youtube-video-to-google-slides-for-2024/"><u>How to Add a YouTube Video to Google Slides for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-or-update-your-nvidia-rtx-t70-super-drivers-a-guide-for-windows-users/"><u>How to Install or Update Your Nvidia RTX T70 Super Drivers: A Guide for Windows Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-scripting-your-storys-visual-heartbeat-at-home/"><u>In 2024, Scripting Your Story's Visual Heartbeat at Home</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-scrutinizing-tseries-earnings-from-digital-viewership-on-youtube/"><u>In 2024, Scrutinizing TSeries’ Earnings From Digital Viewership on YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-transform-your-video-output-tubebuddys-methodology/"><u>In 2024, Transform Your Video Output - TubeBuddy's Methodology</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/incompatibility-with-hdcp-enabled-content-heres-how-to-fix-it/"><u>Incompatibility with HDCP-Enabled Content? Here's How to Fix It</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mpeg-files-into-mp4-format-quick-and-easy-conversion-freemium-service-by-movavi/"><u>MPEG Files Into MP4 Format: Quick & Easy Conversion - Freemium Service by Movavi</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/questing-quests-the-best-terrafirma-maps/"><u>Questing Quests The Best Terrafirma Maps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transforming-videos-with-ease-10-steps-from-youtube-to-mpeg-for-2024/"><u>Transforming Videos with Ease 10 Steps From YouTube to MPEG for 2024</u></a></li>
+</ul></div>
 

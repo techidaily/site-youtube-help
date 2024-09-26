@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Efficiently Delete Unwanted Video Feedback"
-date: 2024-09-17T16:59:49.501Z
-updated: 2024-09-21T16:34:37.033Z
+date: 2024-09-20T16:47:43.432Z
+updated: 2024-09-26T17:50:06.068Z
 tags:
   - ai video
   - ai youtube
@@ -47,6 +47,13 @@ In this section, we will tell you how you can do it from your desktop.
 
 You also have the option to report the comment or [hide the user from your channel](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Delete All YouTube Comments from Mobile?
 
 The steps to deleting someone else’s YouTube comments from your mobile are similar to those from your desktop.
@@ -83,6 +90,13 @@ If it is your video where the comment to be removed is, you can go to My Channel
 1. Once you locate the video, you need to find the comment you want to delete. On the YouTube app, you may need to scroll down for a while to do this.
 2. When you reach it, click on the three vertical dots at the bottom corner of your comment. You should see an option called Delete. Click on that. You need to confirm once more that you want to delete it, and the process will be complete.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Delete Other People’s Comments on Others’ Channels
 
 Did you see a hate comment on your favorite creator’s video? Sadly, you cannot delete the comment. But, you can report it, and YouTube will hide or take it down.
@@ -104,17 +118,10 @@ To find your History from your desktop, you need to click on the three horizonta
 ![Report YouTube comments](https://images.wondershare.com/filmora/article-images/report-youtube-comment.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Delete All Your Posted YouTube Comments?
@@ -136,18 +143,24 @@ You can also delete all comments you ever posted on any YouTube video by hiding 
 
 1. YouTube will now show you what will happen when you hide your channel. Check all the boxes to confirm that you understand, and then tap on Hide My Channel. YouTube will now delete all comments made by your account.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Final Thoughts
 
 YouTube can be an unsafe place with unwanted comments everywhere. In this blog, we tried to show how you can get rid of comments on your and on others’ YouTube accounts. The next time you see an offensive comment or post something mistakenly, don’t forget to try our tips and make YouTube a safe platform again.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -162,5 +175,22 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-self-designed-instagram-ringtone-creation-steps/"><u>[Updated] 2024 Approved Self-Designed Instagram Ringtone Creation Steps</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-strategic-approaches-to-youtube-short-glitches/"><u>2024 Approved Strategic Approaches to YouTube Short Glitches</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-microsoft-speaker-and-microphone-drivers-on-windows-fast-track-download/"><u>Find & Install Microsoft Speaker and Microphone Drivers on Windows - Fast Track Download</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-address-chromecast-audio-malfunctions-and-enjoy-uninterrupted-playback-again/"><u>How to Address Chromecast Audio Malfunctions and Enjoy Uninterrupted Playback Again</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-fast-fixed-ways-to-scramble-youtube-watchlist-content/"><u>In 2024, Fast Fixed Ways to Scramble YouTube Watchlist Content</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-youtubes-creative-commons-shapes-video-production/"><u>In 2024, How YouTube's Creative Commons Shapes Video Production</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-subscription-the-art-of-positive-engagement/"><u>In 2024, Mastering Subscription The Art of Positive Engagement</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-power-of-jump-cuts-in-engaging-videos/"><u>In 2024, The Power of Jump Cuts in Engaging Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-setup-for-championship-streaming/"><u>In 2024, The Ultimate Setup for Championship Streaming</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/maximize-youtube-income-insights-and-techniques-for-2024/"><u>Maximize Youtube Income Insights and Techniques for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-multi-app-sign-ins-the-case-for-and-against-using-facebook-login/"><u>Navigating Multi-App Sign-Ins: The Case for & Against Using Facebook Login</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-update-6-best-voice-changers-you-cant-miss-for-2024/"><u>New Update 6 Best Voice Changers You Cant Miss for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/speak-up-with-tech-how-to-activate-voice-assistant-features-in-chatgpt-for-android-devices/"><u>Speak Up with Tech: How to Activate Voice Assistant Features in ChatGPT for Android Devices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-insiders-guide-to-mastering-windows-10/"><u>The Insider's Guide to Mastering WINDOWS 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-to-the-latest-version-of-hp-scanjet-drivers-now-available-for-windows-users/"><u>Upgrade to the Latest Version of HP Scanjet Drivers Now Available for Windows Users</u></a></li>
+</ul></div>
 

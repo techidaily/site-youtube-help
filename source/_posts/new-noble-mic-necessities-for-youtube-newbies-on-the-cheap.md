@@ -1,7 +1,7 @@
 ---
 title: "[New] Noble Mic Necessities for YouTube Newbies on the Cheap"
-date: 2024-09-17T16:45:27.006Z
-updated: 2024-09-21T16:38:49.693Z
+date: 2024-09-20T17:00:23.523Z
+updated: 2024-09-26T17:12:55.204Z
 tags:
   - ai video
   - ai youtube
@@ -108,6 +108,13 @@ The [TAKSTAR SGC](https://www.amazon.com/TAKSTAR-SGC-598-Interview-Microphone-Ca
 
 ![takstar-sgc-598](https://images.wondershare.com/takstar-sgc-598.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Pro:** The camera-mounted microphone has a shock-resistant design that reduces noise when the camera is moved. The cardioid microphone will be able to pick up audio in the direction it is pointed in, reducing noise capturing from behind the camera. This is a good microphone for vlogging or interviews.
 
 **Con:** The TAKSTAR SGC requires one AA battery, so you’ll have to remember to carry a backup every time you film.
@@ -146,6 +153,13 @@ The [Marantz Professional MPM-1000U](https://www.amazon.com/Marantz-Professional
 
 ![marantz-professional-mpm-1000u](https://images.wondershare.com/marantz-professional-mpm-1000u.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Pro**: This budget microphone has excellent all-metal construction. It has a plug-and-play setup and doesn’t require any drivers or installations. It records great instrumentals and would recommend it to those who are recording music for YouTube.
 
 **Con**: May pick up extraneous noises if you are recording vocals while there are movements in your surrounding, but otherwise, this is an excellent microphone in its price range.
@@ -167,19 +181,19 @@ If you want to find a video editing solution that empowers your imagination and 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://download.wondershare.com/filmora9-mac%5Ffull718.zip)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -195,5 +209,18 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-from-unwatched-to-watched-top-10-reasons-and-solutions-for-no-views/"><u>[New] From Unwatched to Watched Top 10 Reasons & Solutions for No Views</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-precision-plays-premieres-audio-switching-for-2024/"><u>[Updated] Precision Plays Premiere’s Audio Switching for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-choices-animation-friendly-3d-model-tools/"><u>[Updated] Top Choices Animation-Friendly 3D Model Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-ultimate-platforms-for-animated-3d-creation-for-2024/"><u>[Updated] Ultimate Platforms for Animated 3D Creation for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-webcam-integration-for-flawless-gameplay-logs/"><u>[Updated] Webcam Integration for Flawless Gameplay Logs</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-partner-filmmaking-for-channel-expansion-and-engagement/"><u>2024 Approved Partner Filmmaking for Channel Expansion & Engagement</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-techniques-for-rapid-deletion-of-youtube-feedback/"><u>2024 Approved Techniques for Rapid Deletion of Youtube Feedback</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/down-under-dialect-100plus-australian-terms/"><u>Down Under Dialect: 100+ Australian Terms</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-iphone-12-pro-max-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your iPhone 12 Pro Max Apple ID and Apple Pay</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-precise-participation-the-key-to-zooming-in-on-google-meet-talks/"><u>In 2024, Precise Participation The Key to Zooming in on Google Meet Talks</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-pro-level-7-cameras-perfect-for-professional-broadcasting-vloggers/"><u>In 2024, Pro-Level 7 Cameras Perfect for Professional Broadcasting Vloggers</u></a></li>
+</ul></div>
 
