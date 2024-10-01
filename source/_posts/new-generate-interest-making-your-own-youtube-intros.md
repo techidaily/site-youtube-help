@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Generate Interest  Making Your Own YouTube Intros\""
-date: 2024-09-23T18:06:23.979Z
-updated: 2024-09-26T17:32:58.350Z
+date: 2024-09-28T16:01:22.143Z
+updated: 2024-10-01T21:54:19.944Z
 tags:
   - ai video
   - ai youtube
@@ -69,10 +69,10 @@ An intro makes sure that you get the recognition that you desire. It will also m
 It will make sure that the revenue bases, as well as the sales, are increased. The potential customers will only subscribe to your services and channel if your intro is relevant. Also, you need to keep it short and highly targeted.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Make Your Own Perfect YouTube Intro Using Filmora?
@@ -99,11 +99,25 @@ If you want to make intro using Filmora then it is advised to follow the steps a
 
 ![how to make an intro by Filmora step](https://images.wondershare.com/filmora/article-images/filmora-import-media-interface.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** Head over to “Title” and you can add them to you YouTube intro with ease:
 
 **Step 3:** To add opener you need to head to “Opener” under Titles and right-click the one you want to select. Click apply and it will be added to the timeline.
 
 ![how to make an intro by Filmora step](https://images.wondershare.com/filmora/article-images/how-to-make-intro-openers.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4:** You can also change the duration of the title effects. Drag its edge on the timeline you can also click the clock icon and enter new duration.
 
@@ -114,13 +128,6 @@ If you want to make intro using Filmora then it is advised to follow the steps a
 **Step 6:** To edit the intro, even more, click the “Advanced” button to access the advanced editing panel. Add text boxes, shapes and other effects from here.
 
 ![how to make an intro by Filmora step](https://images.wondershare.com/filmora/article-images/how-to-make-intro-step.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 7:** Under “Effects” you can access the filters and overlays to add to your project.
 
@@ -134,16 +141,16 @@ Step 8: The default length of the filter is 5 seconds that can be extended by dr
 
 ![how to make an intro by Filmora step](https://images.wondershare.com/filmora/article-images/filmora-export-mp4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 It's very easy right? Download Filmora and make a click-driven intro now!
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Key Takeaways to Create Great Attractive YouTube Intro
 
@@ -178,13 +185,6 @@ HD and the high quality intro is the key to your channel’s success. It is high
 **6\. Technically Sound**
 
 It is again important to note that technically the intro that has been made is sound and is to the point. From transitions to fade and from animations to PIP there are a lot of details that should be taken care of. It will make sure that you get the intro that is highly professional and specialized.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Popular YouTube Intro Styles and Templates
 
@@ -225,10 +225,16 @@ To get the best gaming intro you need to focus on the outcome on the gaming bran
 * [EPIC Dual](https://youtu.be/2ZigyDPmCAk)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -254,24 +260,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mac-users-seamlessly-setting-up-streamlabs-in-obs/"><u>[New] Mac Users Seamlessly Setting Up Streamlabs in OBS</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-quantifying-the-fortune-of-mr-beast/"><u>[New] Quantifying the Fortune of Mr. Beast</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-mastery-tips-for-producing-cutting-edge-videos/"><u>[New] YouTube Mastery Tips for Producing Cutting-Edge Videos</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-becoming-an-instagram-video-conversation-guru-your-ultimate-guide/"><u>[Updated] Becoming an Instagram Video Conversation Guru Your Ultimate Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-breaking-down-the-science-behind-green-screen-filmmaking-for-starters/"><u>2024 Approved Breaking Down the Science Behind Green Screen Filmmaking for Starters</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-from-free-to-focused-financial-goals-the-journey-of-ajays-youtube-success/"><u>2024 Approved From Free to Focused Financial Goals The Journey of Ajay’s Youtube Success</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-gain-ground-by-generating-earnings-on-your-youtube-channel-like-ajay/"><u>2024 Approved Gain Ground by Generating Earnings on Your Youtube Channel Like Ajay</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-graphicgrind-studio/"><u>2024 Approved GraphicGrind Studio</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-handling-haters-strategies-for-content-creators/"><u>2024 Approved Handling Haters Strategies for Content Creators</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-how-does-t-series-generate-revenue/"><u>2024 Approved How Does T-Series Generate Revenue?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-monetize-your-youtube-shorts-essentials-possible-income/"><u>2024 Approved Monetize Your Youtube Shorts Essentials, Possible Income</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-content-sharing-youtube-standards-vs-creative-commons/"><u>2024 Approved Navigating Content Sharing YouTube Standards Vs. Creative Commons</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-y27s-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo Y27s Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-honor-play-40c-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/does-chatgpt-impose-boundaries-on-response-size-and-vocabulary-usage/"><u>Does ChatGPT Impose Boundaries on Response Size and Vocabulary Usage?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/effortless-entry-to-entertainment-the-ifunny-app-experience-for-2024/"><u>Effortless Entry to Entertainment The iFunny App Experience for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-reactivate-audio-in-anthem-on-your-pc-running-windows-update/"><u>How to Reactivate Audio in 'Anthem' On Your PC Running Windows ^[Update]</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-perfect-phone-videos-your-diy-youtube-journey/"><u>In 2024, Perfect Phone Videos Your DIY YouTube Journey</u></a></li>
-<li><a href="https://facebook.techidaily.com/is-your-phones-algorithm-making-marketing-decisions-for-you/"><u>Is Your Phone's Algorithm Making Marketing Decisions For You?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-ultimate-ios-compatible-ps2-software/"><u>[New] In 2024, Ultimate iOS Compatible PS2 Software</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-polishing-audio-in-home-recordings-on-youtube/"><u>[New] Polishing Audio in Home Recordings on YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leading-websites-for-acoustic-phone-alerts/"><u>[Updated] Leading Websites for Acoustic Phone Alerts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-privacy-preservation-how-to-make-faces-invisible-online/"><u>2024 Approved Privacy Preservation How to Make Faces Invisible Online</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-three-ways-to-convert-youtube-music-tracks-safely-to-mp3-format/"><u>2024 Approved Three Ways to Convert YouTube Music Tracks Safely to MP3 Format</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-gpt-3-on-your-smartphone-or-tablet/"><u>Exploring GPT-3 on Your Smartphone or Tablet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/from-isolation-to-connection-pcplusheadphones-resume-talking/"><u>From Isolation to Connection: PC+Headphones Resume Talking</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-lava-yuva-3-pro-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Lava Yuva 3 Pro?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-leading-selection-of-10-free-video-subtitle-extractors/"><u>In 2024, Leading Selection of 10 Free Video Subtitle Extractors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-luts-for-adobe-lightroom/"><u>In 2024, Top 10 LUTs for Adobe LightRoom</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-transform-your-content-strategy-with-tubebuddy/"><u>In 2024, Transform Your Content Strategy with TubeBuddy</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/macdvd-dvdm4v/"><u>Mac上で高速DVDコンバーター: DVD再生からM4Vへの手っ取り早い変換ツール - フリーソフト提供しております</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-are-biometrics/"><u>What Are Biometrics?</u></a></li>
 </ul></div>
 

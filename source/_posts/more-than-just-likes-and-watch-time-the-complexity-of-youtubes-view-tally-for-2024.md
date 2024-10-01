@@ -1,7 +1,7 @@
 ---
 title: "\"More than Just Likes and Watch Time  The Complexity of YouTube's View Tally for 2024\""
-date: 2024-09-24T16:39:00.499Z
-updated: 2024-09-26T17:49:17.145Z
+date: 2024-09-29T17:24:00.010Z
+updated: 2024-10-01T16:21:42.358Z
 tags:
   - ai video
   - ai youtube
@@ -42,25 +42,11 @@ After you have created your YouTube channel, do you want to edit videos and uplo
 
 You can use Filmora to make YouTube videos with built-in royalty-free audio. Filmora also can help you make YouTube intros. It includes more than 500 templates, transitions, effects, and text resources.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Not Everyone Who Clicks Adds to Your View Count
 
 YouTube doesn’t provide a clear definition of what counts as a view, but we know that someone clicks on your video, and clicking right away doesn’t count. That’s how we know that watch time is a factor. Some studies conclude that a [full 30 seconds need to be viewed](https://buffer.com/library/social-video-metrics/#9) to register as one view, but there is no way to know for sure.
 
 ![how YouTube counts view](https://images.wondershare.com/filmora/article-images/how-youtube-count-view.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. How Does YouTube Count Views?
 
@@ -90,10 +76,16 @@ We are adding ‘likely’ here because, despite this 30-second rule which has b
 Try to watch the same video numerous times in a single day. You will find that the count will add up at first, but after some time it will stop. YouTube knows that a lot of times people replay some videos over and over when they really enjoy them, and so they want to factor replays into their algorithm because they suggest quality. However, to avoid spam views, the counter will stop after a certain point.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Account Tracking Factors - Some Viewers Don't Count
@@ -114,6 +106,13 @@ Sometimes YouTube will freeze a view count in order to check that it is accurate
 
 You can use [YouTube’s analytics reports](https://blog.hootsuite.com/youtube-analytics/) to monitor an estimate of your potential views, but there is no assurance that this data will completely match your official view count.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. The 301 Mark
 
 You may have seen a lot of videos that have a stagnant count of 301 views. The algorithm behind YouTube’s view counting system believes that any video which has fetched higher than 300 views has the ability to impact people’s perception of quality on YouTube. They do not want the homepage to be crowded with artificially popular videos.
@@ -121,13 +120,6 @@ You may have seen a lot of videos that have a stagnant count of 301 views. The a
 This is why view counts are often frozen at 301\. The employees at YouTube then manually verify whether the views obtained so far are legitimate or fake. Once the employees are sure that the views are legit, the counter is unfrozen and you will see an upward swing.
 
 During the period when the view count is frozen every legitimate view is still counted, just not added immediately. Once the YouTube team is sure that your videos are not getting fake traffic, your view count will be updated to include views that were registered during the frozen phase. However, [YouTube says](https://www.theverge.com/2015/8/5/9100759/youtube-301-view-count-freeze-going-away) it won't flag videos at 301 views anymore.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -137,7 +129,27 @@ If you want to engage your audience with cool effects and Filmora is the best ch
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -154,24 +166,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-unpacking-magix-video-editor-features/"><u>[New] 2024 Approved Unpacking MAGIX Video Editor Features</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-expert-techniques-for-uploading-youtubes-on-dailymotion-for-2024/"><u>[New] Expert Techniques for Uploading YouTubes on Dailymotion for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-green-screen-mastery-essential-free-lessons-from-youtubes-best-4-channels/"><u>[New] Green Screen Mastery Essential Free Lessons From YouTube's Best 4 Channels</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-how-to-streamline-the-integration-of-youtube-playlists-into-a-sites-layout/"><u>[New] How To Streamline the Integration of YouTube Playlists Into a Site's Layout</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-top-8-youtube-to-avi-convertors-explained/"><u>[New] Top 8 YouTube-to-AVI Convertors Explained</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-remedy-screen-disruptions-during-live-streams-for-2024/"><u>[Updated] Remedy Screen Disruptions During Live Streams for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-youtube-partnership-reaching-10k-views-quickly/"><u>2024 Approved Mastering YouTube Partnership Reaching 10K Views Quickly</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/audio-alternatives-weighing-the-pros-of-podcasts-and-youtube/"><u>Audio Alternatives Weighing the Pros of Podcasts and YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/imagesplitter-pro-for-2024/"><u>ImageSplitter Pro for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-elevate-your-virtual-meetings-mastering-zoom-filter-tech/"><u>In 2024, Elevate Your Virtual Meetings Mastering Zoom Filter Tech</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-from-zero-to-hero-steps-to-construct-your-channels-backlinks/"><u>In 2024, From Zero to Hero Steps to Construct Your Channel's Backlinks</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-halt-autoplay-youtube-recommendations/"><u>In 2024, Halt Autoplay YouTube Recommendations</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-hasty-methods-for-mixed-up-youtube-playback-sequence/"><u>In 2024, Hasty Methods for Mixed-Up YouTube Playback Sequence</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nokia-c22-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nokia C22 to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-jumpstart-success-with-top-30-youtube-intra-designers-insights/"><u>In 2024, Jumpstart Success with Top 30 YouTube Intra Designers' Insights</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unpacking-youtubes-income-distribution-from-1m-viewers/"><u>In 2024, Unpacking YouTube's Income Distribution From 1M Viewers</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-purging-partitions-on-your-win-os/"><u>Mastering the Art of Purging Partitions on Your Win OS</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/released-fix-for-unsupported-overwatch-graphics/"><u>Released Fix for Unsupported Overwatch Graphics</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/winx-dvd-ripper-platine-32x-plus-vitesse-pour-copier-et-extraire-des-dvd-proteges-sous-windows-11/"><u>WinX DVD Ripper Platine 32X Plus Vitesse Pour Copier Et Extraire Des DVD Protégés Sous Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-budget-friendly-ball-games-watch-and-edit-on-the-go/"><u>[New] Budget-Friendly Ball Games Watch & Edit on the Go</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-giggles-in-a-gigabyte-10-hilarious-video-concepts-to-share-online/"><u>[Updated] In 2024, Giggles in a Gigabyte 10 Hilarious Video Concepts to Share Online</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-identifying-your-individual-song-collection-on-youtube/"><u>2024 Approved Identifying Your Individual Song Collection on YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-precision-convert-guide-unbeatable-on-line-ytvideos-translation/"><u>2024 Approved Precision Convert Guide Unbeatable On-Line YTVideos Translation</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-step-into-editing-excellence-with-youtube-studio-toolset/"><u>2024 Approved Step Into Editing Excellence with YouTube Studio Toolset</u></a></li>
+<li><a href="https://extra-information.techidaily.com/5-key-strategies-for-impactful-titles-today-for-2024/"><u>5 Key Strategies for Impactful Titles Today for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-examining-youtubes-copyright-stance-versus-cc-approach/"><u>In 2024, Examining Youtube's Copyright Stance Versus CC Approach</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-from-clicks-to-cash-the-systematic-triple-pathway-for-youtube-revenue-tracking/"><u>In 2024, From Clicks to Cash The Systematic Triple Pathway for YouTube Revenue Tracking</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-maximize-content-impact-with-youtubes-movie-maker-tools/"><u>In 2024, Maximize Content Impact with YouTube's Movie Maker Tools</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-creative-summit-top-talent-junction/"><u>In 2024, The Creative Summit Top Talent Junction</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/izing-youtube-experience-through-a-subscription/"><u>Maximizing YouTube Experience Through a Subscription</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-4k-video-editing-made-easy-top-proxy-editing-tools/"><u>New 4K Video Editing Made Easy Top Proxy Editing Tools</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-motorola-moto-g14-by-fonelab-android-recover-data/"><u>Undelete lost data from Motorola Moto G14</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unleash-your-youtube-channels-full-potential-with-profitable-trailers/"><u>Unleash Your YouTube Channels' Full Potential with Profitable Trailers</u></a></li>
 </ul></div>
 

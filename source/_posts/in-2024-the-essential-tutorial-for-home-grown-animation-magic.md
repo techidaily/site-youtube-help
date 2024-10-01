@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Essential Tutorial for Home-Grown Animation Magic\""
-date: 2024-09-24T17:08:49.504Z
-updated: 2024-09-26T16:36:36.373Z
+date: 2024-09-29T20:38:19.878Z
+updated: 2024-10-01T19:38:18.323Z
 tags:
   - ai video
   - ai youtube
@@ -51,16 +51,16 @@ In this post, we’re going to kick things up a bit. Here is a list of places wh
 On this YouTube channel, motion graphics specialist Matt offers free animation tutorials using a variety of programs including Adobe After Effects and Cinema 4D. His lessons are for a range of skill levels, from beginner to advanced. If you are just starting out then Mt.Mograph is a great resource.
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **[Richard Harrington on Lynda](https://www.lynda.com/Rich-Harrington/120-1.html)**
@@ -70,10 +70,10 @@ Lynda isn’t free, but the 10-day free trial period is definitely long enough f
 What’s great about this course is that it assumes you have no animation experience, and it walks you through the main thing a lot of YouTubers want to learn animation for – creating an animated logo.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **[Bloop Animation](https://www.bloopanimation.com/)**
@@ -81,10 +81,10 @@ What’s great about this course is that it assumes you have no animation experi
  Most of the video animation courses on this site are paid, but they have a lot of cool free tutorials as well. The focus is more on animating figures/cartoons than video effects, but if you have any interest in animation more generally then this is a great place to start learning. They even have a free ebook you can download which is targeted at beginners.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **[Video Copilot](http://www.videocopilot.net/)**
@@ -94,10 +94,10 @@ This site has a huge number of free After Effects tutorials. There are basic int
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -115,21 +115,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-unlock-insta-reels-potential-with-proven-tiktok-methods/"><u>[New] 2024 Approved Unlock Insta Reels' Potential with Proven TikTok Methods</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-quick-tips-for-converting-snapshots-directly-from-the-app/"><u>[Updated] 2024 Approved Quick Tips for Converting Snapshots Directly From the App</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-leveraging-youtubes-cc-for-high-quality-video-creation/"><u>2024 Approved Leveraging YouTube’s CC for High-Quality Video Creation</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-monetary-spectrum-a-glimpse-into-mr-beasts-world/"><u>2024 Approved Monetary Spectrum A Glimpse Into Mr. Beast’s World</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-quick-share-your-youtube-playlist-journey/"><u>2024 Approved Quick Share Your YouTube Playlist Journey</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-creator-toolkit-commanding-video-kingdoms/"><u>2024 Approved The Ultimate Creator Toolkit Commanding Video Kingdoms</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/adjust-monitor-setup-in-windows-7/"><u>Adjust Monitor Setup in Windows 7</u></a></li>
-<li><a href="https://games-able.techidaily.com/crucial-5-motivations-why-purchase-vintage-gaming-units/"><u>Crucial 5 Motivations: Why Purchase Vintage Gaming Units</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/essential-skills-for-harvesting-and-storing-gifs-from-facebooks-feed-for-2024/"><u>Essential Skills for Harvesting and Storing GIFs From Facebook's Feed for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-nubia-red-magic-8s-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-manipulate-robloxs-fps-control/"><u>How to Manipulate Roblox's FPS Control</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-flash-vids-unpacked-whats-inside/"><u>In 2024, Flash Vids Unpacked What's Inside?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-football-film-study-premier-insights-infographic/"><u>In 2024, Football Film Study Premier Insights Infographic</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-ios-handbook-for-effective-youtube-video-posting/"><u>In 2024, IOS Handbook for Effective YouTube Video Posting</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/make-3d-videos-like-a-pro-top-free-and-paid-resources/"><u>Make 3D Videos Like a Pro Top Free and Paid Resources</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/whats-up-with-my-ps4-controller-lights-deciphering-blue-white-red-and-orange-blinks/"><u>What's Up With My PS4 Controller Lights? Deciphering Blue, White, Red, and Orange Blinks</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-6-free-software-to-convert-youtube-to-mp3-for-iphone/"><u>[New] 6 Free Software to Convert YouTube to MP3 for iPhone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-budgeting-essentials-for-your-music-video/"><u>[New] Budgeting Essentials for Your Music Video</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-imovies-power-to-transform-ordinary-openers-into-epic/"><u>[New] IMovie's Power to Transform Ordinary Openers Into Epic</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unlocking-top-five-transformative-facebook-traits/"><u>[New] In 2024, Unlocking Top Five Transformative Facebook Traits</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-streamline-access-6-leading-free-and-on-demand-youtube-short-downloader-tools/"><u>[New] Streamline Access 6 Leading Free & On-Demand YouTube Short Downloader Tools</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-strategies-for-personalizing-your-youtube-shorts-templates/"><u>2024 Approved Strategies for Personalizing Your YouTube Shorts Templates</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-guide-to-travel-blogs-on-youtube/"><u>2024 Approved The Ultimate Guide to Travel Blogs on Youtube</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beat-explorers-guide-online-pulse-sensors-for-2024/"><u>Beat Explorers’ Guide Online Pulse Sensors for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/oad-all-youtube-images-for-free-in-2024/"><u>Download All YouTube Images for Free, In 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/express-individuality-with-youtube-backgrounds-for-2024/"><u>Express Individuality with YouTube Backgrounds for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/from-novice-to-pro-the-complete-creator-hub-guide-for-2024/"><u>From Novice to Pro The Complete Creator Hub Guide for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-does-youtube-manage-post-upload-operations-in-2024/"><u>How Does YouTube Manage Post-Upload Operations, In 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-15-pro-max-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 15 Pro Max Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-innovating-mukbang-content-with-fresh-creative-ideas/"><u>In 2024, Innovating Mukbang Content with Fresh, Creative Ideas</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-to-use-or-not-to-use-sns-hdr-pro-reviewed/"><u>In 2024, To Use or Not to Use SNS HDR Pro Reviewed</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-realme-c67-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Realme C67 5G Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-troubleshooting-a-user-friendly-guide-to-overcoming-bsod/"><u>Mastering Troubleshooting: A User-Friendly Guide to Overcoming BSOD</u></a></li>
 </ul></div>
 

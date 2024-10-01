@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Taking The First Step on YouTube  Account Setup\""
-date: 2024-09-21T18:01:04.554Z
-updated: 2024-09-26T16:47:14.903Z
+date: 2024-09-25T17:48:14.681Z
+updated: 2024-10-01T17:33:08.348Z
 tags:
   - ai video
   - ai youtube
@@ -101,10 +101,10 @@ People create YouTube accounts for a lot of different reasons. Some YouTubers ju
 Once you know for sure that you want to create a YouTube account, and also know why you want to do it, you have already started building your channel. There are still a few important things to consider, though. This article will walk you through signing up for a YouTube account, and give you some tips about starting your channel.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Creating Your YouTube Account in 6 Steps
@@ -191,20 +191,13 @@ Once you know for sure that you want to create a YouTube account, and also know 
 
 ![account new gmail](https://images.wondershare.com/filmora/article-images/account-new-gmail.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![account after new gmail](https://images.wondershare.com/filmora/article-images/account-after-new-gmail.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You will probably need to try a few different usernames before you find one that is not taken.
@@ -214,6 +207,19 @@ You will probably need to try a few different usernames before you find one that
 5\. Your password will need to be at least 8 characters long. Try to use a combination of letters or numbers, and make sure it is not something easily guessable (i.e spouses name).
 
 6\. After you finish the form click Next Step and, in the next screen, Continue to YouTube.
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Tips on Starting a YouTube Channel
 
@@ -272,13 +278,6 @@ Once you know for sure that you want to create a YouTube account, and also know 
 2\. If you see a Sign In button, click it. If you see your icon click on that, and in the window that pops up select Add Account. Either way, you will be taken into a sign in screen. Under where it asks for your email address it will say Create Account. Click on Create Account.
 
 ![account sign in screen](https://images.wondershare.com/filmora/article-images/account-sign-in-screen.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3\. In the sign up page you will need to put in your name, email address, and mobile phone number as well as some other personal information. Do not enter your current Gmail address. Enter an alternate email you have created for your vlog, or click on I would like a new Gmail address. This will change your page slightly so that the email field becomes Choose a Username.
 
@@ -347,6 +346,19 @@ Follow @Richard Bennett
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Smartphone's Role in Video Content: Making YouTube Thumbnails Stand Out
 
@@ -386,23 +398,9 @@ Step4 To write or draw on the image, **tap** the **Markup** button. This will op
 
 ![ios photo markup](https://images.wondershare.com/filmora/article-images/ios-photo-markup.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step5 When you're satisfied with your thumbnail, **tap Done** in the top right corner of the screen.
 
 ![ios photo save](https://images.wondershare.com/filmora/article-images/ios-photo-save.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Pros
 
@@ -433,6 +431,13 @@ Step2 Tap the **"+"** icon to **add** an image from your gallery.
 
 ![pixellab add image](https://images.wondershare.com/filmora/article-images/pixellab-add-image.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Edit the image using the available tools, such as cropping, rotating, and adjusting the color and lighting.
 
 ![pixellab editing options](https://images.wondershare.com/filmora/article-images/pixellab-editing-options.jpg)
@@ -483,6 +488,13 @@ Step3 Tap on the video and tap the "**Edit**" button in the top right corner of 
 Step4 Tap the **Custom thumbnail** button and **upload** the image you want to use from your photo library.
 
 ![youtube upload thumbnail](https://images.wondershare.com/filmora/article-images/youtube-upload-thumbnail.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step5 Tap Save in the top right corner to upload the thumbnail to your video.
 
@@ -655,6 +667,13 @@ Step1 Launch Filmora, add the picture to the timeline and **select** the AI Port
 
 ![filmora interface](https://images.wondershare.com/filmora/article-images/filmora-interface.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Scale up and reposition the photo.
 
 ![filmora import image](https://images.wondershare.com/filmora/article-images/filmora-import-image.JPG)
@@ -681,31 +700,24 @@ This video will show you how to use Filmora to create a custom thumbnail for you
 
 Here are some common questions that people have when it comes to creating YouTube thumbnails on mobile.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Q1\. What App Do Youtubers Use To Make Thumbnails?
 
 There are many different apps and tools that YouTubers use to create thumbnails for their videos. The best app for creating YouTube thumbnails will depend on your needs and skill level.
 
 If you're looking for a quick and easy way to create a thumbnail on your mobile device, start with the built-in Photos app or a third-party app like Canva. If you need more advanced customization options or are comfortable with graphic design software, consider using Adobe Photoshop or another tool.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Q2\. What Is YouTube Thumbnail Size?
 
 The recommended size for YouTube thumbnails is 1280 x 720 pixels. This size balances quality and file size, ensuring that your thumbnail looks sharp and loads quickly. It's also important to note that YouTube thumbnails are displayed at different sizes depending on the device and context in which they are viewed.
 
 For example, a thumbnail may be displayed at a larger size when it's shown as the main thumbnail for a video but smaller when it's shown in a list of related videos.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Q3\. What Thumbnail Gets the Most Clicks?
 
@@ -734,24 +746,24 @@ Whether you create your thumbnails on your mobile device or your computer, use a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-essential-video-stock-investment-guides/"><u>[New] 2024 Approved Essential Video Stock Investment Guides</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-mastering-maccam-easy-webcam-recordings/"><u>[New] 2024 Approved Mastering MacCam Easy Webcam Recordings</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-top-10-youtube-rippers-for-media-conversion/"><u>[New] 2024 Approved Top 10 YouTube Rippers for Media Conversion</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-exploring-youtubes-ownership-vs-cc-freedom/"><u>[New] Exploring YouTube's Ownership Vs. CC Freedom</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-initial-steps-to-instagram-video-discussion-success/"><u>[New] In 2024, Initial Steps to Instagram Video Discussion Success</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-platform-power-play-which-one-dominates-vimeo-youtubeplusdailymotion/"><u>[New] Platform Power Play Which One Dominates - Vimeo, YouTube+DailyMotion?</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-post-vlc-era-unveiling-new-player-titans/"><u>[Updated] In 2024, Post-VLC Era Unveiling New Player Titans</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-behind-the-filter-ensuring-veritable-instagram-selfies/"><u>2024 Approved Behind the Filter Ensuring Veritable Instagram Selfies</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-grandview-alliance-how-to-settle-on-a-cms/"><u>2024 Approved Grandview Alliance How to Settle on a CMS</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-how-often-do-youtubers-receive-income/"><u>2024 Approved How Often Do YouTubers Receive Income?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-investigating-how-t-series-earns-from-youtube-viewership/"><u>2024 Approved Investigating How T-Series Earns From YouTube Viewership</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-step-by-step-strategy-for-unearthing-secret-youtube-videos/"><u>2024 Approved Step-by-Step Strategy for Unearthing Secret YouTube Videos</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/bypassing-vimeo-top-10-editing-software-choices-for-2024/"><u>Bypassing Vimeo Top 10 Editing Software Choices for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/effortless-jotting-in-windows-11-no-apps-required/"><u>Effortless Jotting in Windows 11: No Apps Required</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-harness-the-power-of-playback-speed-control-in-youtube/"><u>In 2024, Harness the Power of Playback Speed Control in YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-stand-out-your-top-10-guide-to-youtubes-best-music-videos/"><u>In 2024, How to Stand Out Your Top 10 Guide to YouTube's Best Music Videos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-preferred-choices-affordable-channels-for-newbie-monetizers/"><u>In 2024, Preferred Choices Affordable Channels for Newbie Monetizers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/leading-dslr-cameras-ranked-expert-picks-and-reviews-2024-edition/"><u>Leading DSLR Cameras Ranked: Expert Picks and Reviews - 2024 Edition</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/hat-to-subscribers-how-jake-crafted-youtube-magic-for-2024/"><u>Snapchat to Subscribers How Jake Crafted YouTube Magic for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-exquisite-couple-clips-the-best-weddings-online-8-picks/"><u>[New] Exquisite Couple Clips The Best Weddings Online (8 Picks)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-enhancing-slideshow-impact-with-webcam-integration-for-2024/"><u>[Updated] Enhancing Slideshow Impact with Webcam Integration for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-audio-adjustment-on-youtube-devices/"><u>2024 Approved Mastering Audio Adjustment on YouTube Devices</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-pro-video-editing-made-simple-the-best-online-video-length-reducers/"><u>2024 Approved Pro Video Editing Made Simple The Best Online Video Length Reducers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-professional-photo-tweaking-picarts-tactical-background-stripping/"><u>2024 Approved Professional Photo Tweaking PicArt's Tactical Background Stripping</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-stepping-stones-from-youtube-ads-to-monetary-success/"><u>2024 Approved Stepping Stones From YouTube Ads to Monetary Success</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-ten-youtube-regulations-to-abide-by/"><u>2024 Approved Top Ten YouTube Regulations to Abide By</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/effortless-setup-of-kodi-189-on-your-amazon-fire-tv-stick-complete-beginners-tutorial/"><u>Effortless Setup of Kodi 18.9 on Your Amazon Fire TV Stick - Complete Beginner's Tutorial</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-motorola-moto-g-5g-2023-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Motorola Moto G 5G (2023)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-oneplus-ace-2-pro-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For OnePlus Ace 2 Pro</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-novice-to-niche-tripling-your-youtube-fans/"><u>In 2024, From Novice to Niche Tripling Your Youtube Fans</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-frequent-uploads-can-skyro-cookie-sales-on-your-youtube-channel/"><u>In 2024, How Frequent Uploads Can Skyro Cookie Sales on Your YouTube Channel</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-masterful-thumbnails-in-a-flash-professional-valorant-creations/"><u>In 2024, Masterful Thumbnails in a Flash Professional Valorant Creations</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-maximize-engagement-with-integrated-youtube-playlist-features/"><u>In 2024, Maximize Engagement with Integrated YouTube Playlist Features</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-best-public-domain-picture-sites-2023-edition-for-2024/"><u>New Best Public Domain Picture Sites 2023 Edition for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-guide-easy-steps-for-bluetooth-drivers-in-windows-1011/"><u>Quick Guide: Easy Steps for Bluetooth Drivers in Windows 10/11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tips-and-tricks-for-gopro-get-the-most-from-your-gopro/"><u>Tips and Tricks for GoPro Get the Most From Your GoPro</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transcodificar-video-de-mp4-a-formato-mxf-sin-coste-alguno-con-movavi/"><u>Transcodificar Video De MP4 a Formato MXF Sin Coste Alguno Con Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-msedgeexe-crashes-in-windows-expert-solutions-revealed/"><u>Troubleshooting MSEdge.exe Crashes in Windows – Expert Solutions Revealed</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Stability: Prevent Guardians of the Galaxy From Collapsing on Your PC with Our Tricks"
-date: 2024-09-20T17:53:39.292Z
-updated: 2024-09-26T18:55:08.130Z
+date: 2024-09-27T19:43:26.818Z
+updated: 2024-10-01T17:52:07.663Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ Although Marvel’s Guardians of the Galaxy has received generally positive revi
 6. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Check the system requirements
 
@@ -64,15 +71,16 @@ Marvel’s Guardians of the Galaxy system requirements
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -85,13 +93,6 @@ Marvel’s Guardians of the Galaxy system requirements
 2. **Right-click** on **Marvel’s Guardians of the Galaxy** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
@@ -110,10 +111,10 @@ If this issue persists, try the next fix, below.
  Launch Marvel’s Guardians of the Galaxy again and check if this fix works. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Disable overlays
@@ -126,7 +127,21 @@ If this issue persists, try the next fix, below.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features (e.g. Nvidia GeForce Experience, Discord, Twitch, etc.), make sure you’ve disabled the in-game overlay in those apps feature.
 
@@ -167,10 +182,10 @@ If this fix didn’t work, try the next fix, below.
  Note: This is a paid service with a 60-day Money-Back Guarantee, which means that you’ll need to buy the full version to start repair.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Perform a clean boot
@@ -182,10 +197,10 @@ If this fix didn’t work, try the next fix, below.
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
@@ -194,34 +209,20 @@ If this fix didn’t work, try the next fix, below.
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Restart** your PC and launch Marvel’s Guardians of the Galaxy to check if the game crashes again. If not, open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
@@ -256,24 +257,20 @@ If this fix didn’t work, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-navigating-to-your-own-custom-arranged-music-library-on-youtube/"><u>[New] Navigating to Your Own Custom-Arranged Music Library on Youtube</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-step-up-your-streams-advanced-practices-for-capturing-vr-playtimes/"><u>[New] Step Up Your Streams Advanced Practices for Capturing VR Playtimes</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-actionable-techniques-for-efficient-media-conversion-chains/"><u>[Updated] 2024 Approved Actionable Techniques for Efficient Media Conversion Chains</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-spot-and-secure-top-monetization-potential/"><u>2024 Approved How to Spot and Secure Top Monetization Potential</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-integrated-video-workflows-on-ios/"><u>2024 Approved Integrated Video Workflows on iOS</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-maximizing-video-income-key-view-numbers-for-earning-on-youtube/"><u>2024 Approved Maximizing Video Income Key View Numbers for Earning on YouTube</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/5yuv55s744gr6kgo56s644gv44km44kl5pah5a2x44ks5rai5y6744gz44kl5pa55rov77ya5bcc55so44k944ov44oi44km44kn44ki57s55lul/"><u>動画に表示される文字を消去する方法：専用ソフトウェア紹介</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/follow-the-footsteps-of-fan-driven-forums-for-2024/"><u>Follow the Footsteps of Fan-Driven Forums for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/from-footage-to-fame-premiere-pro-edition-tricks-for-youtube-for-2024/"><u>From Footage to Fame Premiere Pro Edition Tricks for YouTube for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/how-to-blur-background-of-your-youtube-video-2-easy-ways-for-2024/"><u>How to Blur Background of Your YouTube Video - 2 Easy Ways for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-secrets-revealed-6-strategies-to-keep-your-youtube-audience-hooked-and-returning/"><u>In 2024, Secrets Revealed 6 Strategies to Keep Your YouTube Audience Hooked and Returning</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-sharing-success-replicating-content-on-insta/"><u>In 2024, Sharing Success Replicating Content on Insta</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-streamers-financial-health-check-in-youtubers/"><u>In 2024, Streamer's Financial Health Check in YouTubers</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-smartphone-filmmakers-handbook-for-youtube-thumbnails/"><u>In 2024, The Ultimate Smartphone Filmmaker's Handbook for YouTube Thumbnails</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo V27 Pro | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-choosing-your-perfect-wakeup-call-7-leading-picks/"><u>The Ultimate Guide to Choosing Your Perfect Wakeup Call: 7 Leading Picks</u></a></li>
-<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-iphone-11-pro-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On iPhone 11 Pro? 5 Tips You Must Know</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-unable-to-alter-screen-settings/"><u>Win11: Unable To Alter Screen Settings</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-real-time-broadcasts-at-your-fingertips-roku-and-fb-live/"><u>[New] 2024 Approved Real-Time Broadcasts at Your Fingertips Roku and FB Live</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-top-8-mobile-tools-transforming-slow-mo-to-fast-forward/"><u>[New] 2024 Approved Top 8 Mobile Tools Transforming Slow Mo to Fast-Forward</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-outstanding-films-not-on-mainstream-lists/"><u>[New] Outstanding Films Not on Mainstream Lists</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-mastering-smooth-volume-changes-in-fl-studio/"><u>[Updated] 2024 Approved Mastering Smooth Volume Changes in FL Studio</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-deterrence-against-distractive-fb-video-ads/"><u>[Updated] In 2024, Deterrence Against Distractive FB Video Ads</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-math-behind-making-money-youtubes-viewer-insights/"><u>2024 Approved The Math Behind Making Money YouTube’s Viewer Insights</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/complete-google-photos-guide-for-beginners-for-2024/"><u>Complete Google Photos Guide for Beginners for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-newest-acer-trackpad-drivers-optimized-for-windows-10/"><u>Download the Newest Acer TrackPad Drivers Optimized for Windows 10!</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/gratis-aac-in-wmv-konverteren-professioneel-online-tool-by-movavi/"><u>Gratis AAC-In Wmv Konverteren: Professioneel Online Tool by Movavi</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-use-creative-commons-copyright-licenses-for-2024/"><u>How to Use Creative Commons Copyright Licenses for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-pranks-and-puns-playbook-7-clever-gags-for-video-virtuosos/"><u>In 2024, Pranks & Puns Playbook 7 Clever Gags for Video Virtuosos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/is-investing-in-a-monthly-youtube-premium-worthwhile-in-2024/"><u>Is Investing in a Monthly YouTube Premium Worthwhile, In 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mastering-youtube-live-thumbnails-essentials-for-2024/"><u>Mastering YouTube Live Thumbnails Essentials for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/phasmophobia-performance-optimization-fixing-overwhelming-cpu-usage-issues/"><u>Phasmophobia Performance Optimization: Fixing Overwhelming CPU Usage Issues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/winning-hearts-and-minds-persuasive-writing-techniques-and-gpt-assistance/"><u>Winning Hearts and Minds: Persuasive Writing Techniques & GPT Assistance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Transcribe a YouTube Video [FREE]"
-date: 2024-09-22T16:15:10.486Z
-updated: 2024-09-26T18:53:32.781Z
+date: 2024-09-30T17:54:15.012Z
+updated: 2024-10-01T17:16:01.457Z
 tags:
   - ai video
   - ai youtube
@@ -38,10 +38,10 @@ Besides the [basic video editing features on the YouTube](https://tools.techidai
 Below are the two methods to transcribe your YouTube videos for free:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1: Use the Automated Transcription Service on YouTube
@@ -55,10 +55,16 @@ Sign in to your YouTube account, click your profile picture from the top-right c
 ![Upload YouTube videos](https://images.wondershare.com/filmora/article-images/youtube-upload-video.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 2  Select Transcription Language
@@ -85,18 +91,18 @@ In the video subtitle page of the target video, hover mouse on the **Published A
 
 ![YouTube Classic Studio](https://images.wondershare.com/filmora/article-images/youtube-edit-on-classic-studio.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. **Download Transcription File**
 
 Click and open the **Actions** drop-down list from the top-left corner of the left pane, click your preferred transcription format including .vtt, .srt and .sbv from the list, and save the file on your local hard disk.
 
 ![YouTube videos transcription](https://images.wondershare.com/filmora/article-images/download-youtube-video-transcription.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Get YouTube Transcription when Watching
 
@@ -175,10 +181,10 @@ Click **Download SRT** from the left pane, and follow the instructions from ther
 * The auto-transcribed text might lack accuracy as the task is done by the speech-to-text tools that work in the background
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Benefits of Transcribing YouTube Videos
@@ -236,10 +242,10 @@ If you are looking for a quick and easy way of adding subtitles to your videos, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -257,18 +263,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-guide-on-purging-stored-videos-from-youtube-watchlater/"><u>[New] Guide on Purging Stored Videos From YouTube Watchlater</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-no-pay-no-problem-get-your-free-passport-photo-creator-now-online-and-on-desktop/"><u>[Updated] No Pay, No Problem Get Your Free Passport Photo Creator Now Online & On Desktop</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-latest-on-youtube-income-framework/"><u>2024 Approved Latest on YouTube Income Framework</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-the-settings-youtube-comments-activation/"><u>2024 Approved Navigating the Settings YouTube Comments Activation</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-revolutionize-your-image-layouts-with-these-tools/"><u>2024 Approved Revolutionize Your Image Layouts with These Tools</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-streaming-giants-rivalry-facebook-vs-youtube-and-spaces/"><u>2024 Approved Streaming Giants' Rivalry Facebook Vs. YouTube & Spaces</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-sony-xperia-1-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/harmonize-your-hours-synchronized-video-playback-across-platforms-for-2024/"><u>Harmonize Your Hours Synchronized Video Playback Across Platforms for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/headphonespeaker-buyers-essential-checklist/"><u>Headphone/Speaker Buyers' Essential Checklist</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-much-money-can-a-podcaster-make-in-2024/"><u>How Much Money Can a Podcaster Make, In 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-6s-plus-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 6s Plus to iPhone | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-revolutionize-your-content-with-these-top-10-editing-strategies/"><u>In 2024, Revolutionize Your Content with These Top 10 Editing Strategies</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-honor-magic-5-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Honor Magic 5 has been deleted.</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-unveiling-vimeo-subscription-perks-for-every-user-type/"><u>[New] 2024 Approved Unveiling Vimeo Subscription Perks for Every User Type</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-az-video-grabber-in-depth-app-analysis-and-diversions/"><u>[New] AZ Video Grabber In-Depth App Analysis & Diversions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-imageslice-cutter/"><u>[New] ImageSlice Cutter</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-the-complete-screenrec-manual-for-laptops/"><u>[New] In 2024, The Complete ScreenRec Manual for Laptops</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-producing-effective-corporate-webinar-videos/"><u>[Updated] Producing Effective Corporate Webinar Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-ranking-the-best-identifying-the-quintessential-5-online-title-designers/"><u>[Updated] Ranking the Best Identifying the Quintessential 5 Online Title Designers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-structuring-stimulating-podcast-trailers/"><u>[Updated] Structuring Stimulating Podcast Trailers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-a-beginners-tutorial-how-to-insert-on-screen-dialogue-in-video-formats/"><u>2024 Approved A Beginner's Tutorial How to Insert On-Screen Dialogue in Video Formats</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-maximizing-engagement-youtube-links-as-a-catalyst/"><u>2024 Approved Maximizing Engagement YouTube Links as a Catalyst</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-step-by-step-guide-to-making-your-youtube-content-stand-out/"><u>2024 Approved Step-by-Step Guide to Making Your YouTube Content Stand Out</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-streamline-your-channel-adobe-premiere-to-youtube/"><u>2024 Approved Streamline Your Channel Adobe Premiere to YouTube</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-overcome-there-was-a-problem-resetting-your-pc-error-in-windows/"><u>How to Overcome 'There Was a Problem Resetting Your PC' Error in Windows</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-lead-the-way-in-streaming-your-guide-to-youtubes-full-sphere-video-trends/"><u>In 2024, Lead the Way in Streaming Your Guide to YouTube's Full-Sphere Video Trends</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-study-aids-top-10-educational-history-channels/"><u>In 2024, Study Aids Top 10 Educational History Channels</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-the-ultimate-guide-to-trimming-vlc-videos-on-mac-without-compromising-quality/"><u>In 2024, The Ultimate Guide to Trimming VLC Videos on Mac Without Compromising Quality</u></a></li>
 </ul></div>
 

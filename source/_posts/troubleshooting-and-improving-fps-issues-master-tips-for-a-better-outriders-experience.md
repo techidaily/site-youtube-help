@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting and Improving FPS Issues: Master Tips for a Better Outriders Experience"
-date: 2024-09-23T18:38:00.745Z
-updated: 2024-09-26T18:43:11.890Z
+date: 2024-09-25T21:11:06.023Z
+updated: 2024-10-01T16:51:57.653Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Check your Internet connection
 
  The first thing you can do is to make sure your Internet connection is valid and able to connect to Apex Legends servers. A few things you can look for to check your Internet connection go as below:
@@ -43,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 * If you have low-speed Internet, it could lead to an unstable Internet connection. You can google “Internet speed test” and pick a tool to**test your Internet speed** . However, when your Internet connection is unreasonably slow, consider contacting your Internet provider for help.
 
  If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Install all the game updates
 
@@ -68,24 +68,24 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 2. Click**Change adapter options** .  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
@@ -95,20 +95,14 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
- If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
-
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
 
 ## Fix 4: Update your network driver
 
@@ -131,10 +125,10 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
@@ -173,20 +167,17 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-your-essential-guide-to-mobile-asmr-sounds/"><u>[New] Your Essential Guide to Mobile ASMR Sounds</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-master-the-art-of-video-sending-from-youtube-to-dailymotion/"><u>2024 Approved Master the Art of Video Sending From YouTube to Dailymotion</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-youtube-video-transformation-into-animated-gifs-no-save/"><u>2024 Approved Mastering YouTube Video Transformation Into Animated GIFs (No Save)</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-optimizing-lifes-dual-roles-job-and-youtubing/"><u>2024 Approved Optimizing Life's Dual Roles Job & YouTubing</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-quick-youtube-snippets-explained-simply/"><u>2024 Approved Quick YouTube Snippets Explained Simply</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-revealed-the-best-thumbnail-dimensions-for-maximum-viewership-growth/"><u>2024 Approved Revealed! The Best Thumbnail Dimensions for Maximum Viewership Growth</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyond-screen-time-engaging-with-netflixs-games/"><u>Beyond Screen Time: Engaging with Netflix's Games</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/free-flat-transfer-program-seamless-conversion-between-flv-videos-and-other-formats/"><u>Free Flat Transfer Program: Seamless Conversion Between FLV Videos & Other Formats</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/how-to-use-youtube-enhancements-for-2024/"><u>How to Use YouTube Enhancements for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-essential-fps-for-pristine-slow-motion-film-quality/"><u>In 2024, Essential FPS for Pristine Slow-Motion Film Quality</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-fix-youtube-shorts-thumbnail-not-showing-problem/"><u>In 2024, How to Fix YouTube Shorts Thumbnail Not Showing Problem</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-the-full-potential-of-googles-podcast-tools/"><u>In 2024, Unlocking the Full Potential of Google's Podcast Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reviving-silent-dell-speakers-a-comprehensive-guide/"><u>Reviving Silent Dell Speakers: A Comprehensive Guide</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/tagalog-unlocked-quick-lessons-for-busy-lives/"><u>Tagalog Unlocked - Quick Lessons for Busy Lives</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-add-captions-to-youtube-videos/"><u>[New] How To Add Captions to YouTube Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-obs-video-magic-top-5-editing-secrets-revealed/"><u>[Updated] In 2024, OBS Video Magic Top 5 Editing Secrets Revealed</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-fast-fortnite-cover-art-techniques/"><u>2024 Approved Fast Fortnite Cover Art Techniques</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-rejuvenate-your-visuals-neon-outlines-included/"><u>2024 Approved Rejuvenate Your Visuals Neon Outlines Included</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722092192707-avoid-artificer-assistance-for-windows-11-activation-explore-safer-options/"><u>Avoid Artificer Assistance for Windows 11 Activation - Explore Safer Options!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-seeking-consistent-income-through-youtube/"><u>In 2024, Seeking Consistent Income Through YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tonal-triumphs-the-art-of-hue-enhancement/"><u>In 2024, Tonal Triumphs The Art of Hue Enhancement</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ls-0013-glitch-resolved-overcoming-fortnites-unreliable-launch-issues/"><u>LS-0013 Glitch Resolved: Overcoming Fortnite's Unreliable Launch Issues</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-oppo-a79-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Oppo A79 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-zero-error-in-the-windows-store/"><u>Remedying Zero-Error in the Windows Store</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Apple iPhone 8 Plus | Dr.fone</u></a></li>
 </ul></div>
 

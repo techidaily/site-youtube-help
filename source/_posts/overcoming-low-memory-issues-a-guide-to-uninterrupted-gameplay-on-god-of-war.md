@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Low Memory Issues: A Guide to Uninterrupted Gameplay on God of War"
-date: 2024-09-23T17:43:12.897Z
-updated: 2024-09-26T16:46:41.555Z
+date: 2024-09-25T17:13:43.469Z
+updated: 2024-10-01T21:03:25.332Z
 tags:
   - win11
   - win10
@@ -38,10 +38,10 @@ If this is happening to you, don’t panic. Try the fixes below.
  You may not have to try them all; just work your way down the list until you find the one that does the trick for you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## First Thing First…
@@ -60,13 +60,6 @@ If this is happening to you, don’t panic. Try the fixes below.
 
  If that application fails, too, then you’ve found the core problem. Check **[this article](https://tools.techidaily.com/drivereasy/download/)**  to troubleshoot your network issue. If Discord is the only app that doesn’t work for you and the rest of your apps works just fine, read on and try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3\. Run Discord as Administrator
 
  Discord should run perfectly fine without admin access in most cases. But occasionally, you might come up against something that requires admin access. Just close Discord and then run the program as Administrator (Make sure you kill all running Discord processes when you’re doing this.).
@@ -77,24 +70,24 @@ If you’re not sure how to do it, follow the instructions below:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/open-task-manager.png)
 2. Right-click Discord then select**End Task** . (Ensure you right-click on the main Discord link, not the subdirectory entries)  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/close-discord.png)
 3. Right-click the Discord icon on your desktop, then select**Properties** .  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/discord-properties.png)
 4. Under the**Compatibility** tab, check the box next to**Run this program as an administrator** , then click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/Discord-admin-access.png)
@@ -103,10 +96,10 @@ If you’re not sure how to do it, follow the instructions below:
 If your stream still gets stuck on loading, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4\. Turn off Hardware Acceleration
@@ -124,21 +117,7 @@ To see if this is the core issue, try turning off Hardware Acceleration:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/discord-confirm.png)
 4. Discord will relaunch automatically. See if this has resolved your issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If Discord still won’t load streams correctly, read on and try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5\. Update Your Graphics Driver
 
@@ -158,6 +137,13 @@ To see if this is the core issue, try turning off Hardware Acceleration:
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -190,6 +176,13 @@ If your issue still exists, move on to the fix, below.
 
  You can easily go back to fullscreen mode in Discord by using the same keyboard shortcut, **Ctrl + Shift + F** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 8\. Use a VPN
 
  Streaming can take up a lot of bandwidth. To prevent network congestion, your internet service provider (ISP) may limit your connection speed to balance all connections – which can cause issues for you. In this case, a VPN (also known as Virtual Private Networks), such as[**NordVPN**](https://tools.techidaily.com/drivereasy/download/) can help you bypass network throttling easily!
@@ -204,6 +197,13 @@ If your issue still exists, move on to the fix, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2021/06/image-1.png)
 4. Open Discord to see if the issue still exists.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 9\. Try Desktop App/Another Browser
 
  Discord is compatible with all leading browsers such as Chrome, Firefox, Opera, and more. To make sure Discord works well on your device, make sure you’re using the latest version of the browser.
@@ -213,13 +213,6 @@ If your issue still exists, move on to the fix, below.
  If neither the desktop app nor the web version works for you, it could be that there’s something wrong on Discord’s end preventing you from streaming correctly.
 
  In this case, you can contact Discord support for assistance or try[**Discord PTB**](https://support.discord.com/hc/en-us/articles/360035675191-Discord-Testing-Clients) , also called public test build, to see if the problem still exists.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 10\. Reinstall Discord
 
@@ -231,6 +224,13 @@ If your issue still exists, move on to the fix, below.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_19-04-30.jpg)
 3. Download and install **[Discord](https://discordapp.com/)**  .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Hopefully, this post helped. Did we miss a troubleshooting step that helped you or might help someone else fix the Discord Streams Stuck on Loading issue? Let us know in the comments if you have any thoughts!
 
@@ -253,24 +253,21 @@ If your issue still exists, move on to the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-achieve-high-definition-quality-with-video-enhancer-22-tutorial/"><u>[New] Achieve High-Definition Quality with Video Enhancer 2.2 Tutorial</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-speedy-alteration-of-yt-vids-for-mac-screens/"><u>[New] Speedy Alteration of YT Vids for Mac Screens</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-step-by-step-youtube-image-enlargement-technique/"><u>[New] Step-by-Step Youtube Image Enlargement Technique</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-enhancing-authenticity-and-connection-via-fb-profile-covers/"><u>[Updated] 2024 Approved Enhancing Authenticity and Connection via FB Profile Covers</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-a-symphony-of-sounds-no-cost-software-for-personalized-voice-modification/"><u>[Updated] In 2024, A Symphony of Sounds No-Cost Software for Personalized Voice Modification</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-harness-the-power-of-gs-for-clear-video-ctas/"><u>2024 Approved Harness the Power of GS for Clear Video CTAs</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-oppo-find-x7-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Oppo Find X7 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/fortschrittliche-strategien-zur-ubertragung-von-dvds-auf-computerlaufwerke-eine-schnelllosung/"><u>Fortschrittliche Strategien Zur Übertragung Von DVDs Auf Computerlaufwerke - Eine Schnelllösung</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/from-click-to-convert-a-guide-to-effective-social-media-sales-techniques-for-2024/"><u>From Click to Convert A Guide to Effective Social Media Sales Techniques for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-clean-slates-mastering-the-eraser-tool-in-photoshop/"><u>In 2024, Clean Slates Mastering the Eraser Tool in Photoshop</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-maximize-learning-free-tools-for-online-video-texts/"><u>In 2024, Maximize Learning Free Tools for Online Video Texts</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-pushing-boundaries-in-video-production-acquire-free-green-screen-expertise-from-4-youtube-gurus/"><u>In 2024, Pushing Boundaries in Video Production Acquire Free Green Screen Expertise From 4 YouTube Gurus</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-scrutinizing-the-economics-behind-short-video-earnings/"><u>In 2024, Scrutinizing the Economics Behind Short Video Earnings</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-skyrocket-views-on-youtube-in-minutes-2-strategies/"><u>In 2024, Skyrocket Views on YouTube in Minutes (2 Strategies)</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-sprint-through-photo-composition-googles-easy-way/"><u>In 2024, Sprint Through Photo Composition - Google's Easy Way</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-uncomplicated-online-music-conversion-top-6-free-ios-apps-for-video-and-audio/"><u>In 2024, Uncomplicated Online Music Conversion Top 6 Free iOS Apps for Video & Audio</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unlock-professional-video-quality-with-top-youtube-to-webm-tools/"><u>In 2024, Unlock Professional Video Quality with Top YouTube-to-WebM Tools</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-infinix-zero-5g-2023-turbo-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Infinix Zero 5G 2023 Turbo Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-making-excel-viewable-in-notepad/"><u>Strategies: Making Excel Viewable in Notepad</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-experience-a-bundle-of-9-whole-film-christmas-treasures-for-free/"><u>[New] Experience a Bundle of 9 Whole-Film Christmas Treasures for Free</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-the-illustrator-guide-to-dynamic-text-art/"><u>[New] In 2024, The Illustrator Guide to Dynamic Text Art</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-streamers-financial-health-check-in-youtubers/"><u>[New] Streamer's Financial Health Check in YouTubers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-tips-and-tricks-for-easy-and-effective-xbox-gameplay-capture/"><u>[New] Tips & Tricks for Easy and Effective Xbox Gameplay Capture</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-free-visual-templates-to-upgrade-your-profile/"><u>2024 Approved Free Visual Templates to Upgrade Your Profile</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-apple-iphone-se-2022-by-name-drfone-by-drfone-virtual-ios/"><u>4 Most-Known Ways to Find Someone on Tinder For Apple iPhone SE (2022) by Name | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-work-from-home-efficiency-using-chatgpt-a-guide-to-6-key-tips-and-tricks/"><u>Boost Your Work-From-Home Efficiency Using ChatGPT: A Guide to 6 Key Tips & Tricks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-logitech-g633-microphone-connectivity-issues/"><u>Diagnosing & Repairing Logitech G633 Microphone Connectivity Issues</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Xiaomi 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-meizu-21-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Meizu 21 Phone Screen?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-precision-in-perspective-mastery-of-youtube-video-degrees/"><u>In 2024, Precision in Perspective Mastery of Youtube Video Degrees</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-redefining-the-greatest-movies-2023-edition/"><u>In 2024, Redefining The Greatest Movies 2023 Edition</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-and-update-ch340g-usb-to-serial-bridge-software-on-your-windows-11-pc/"><u>Install and Update CH340G USB-to-Serial Bridge Software on Your Windows 11 PC</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-sony-vegas-for-professional-youtube-video-creation-for-2024/"><u>Navigating Sony Vegas for Professional YouTube Video Creation for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-the-digital-realm-uploading-with-premiere-and-youtube-for-2024/"><u>Navigating the Digital Realm Uploading with Premiere & YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/tactics-for-making-youtube-videos-go-viral-for-2024/"><u>Tactics for Making YouTube Videos Go Viral for 2024</u></a></li>
 </ul></div>
 
