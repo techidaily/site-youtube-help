@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Add Video to Text for Free\""
-date: 2024-09-25T19:04:55.179Z
-updated: 2024-09-26T16:20:21.891Z
+date: 2024-10-06T04:47:53.030Z
+updated: 2024-10-07T04:50:19.542Z
 tags:
   - ai video
   - ai youtube
@@ -50,6 +50,13 @@ Click on the Insert tab, and then choose the Video option from the Media menu. Y
 
 You can then fine-tune the video playback settings from the Playback tab. Preview the results before you move on to the next slide in your presentation, and make necessary adjustments if you don’t like how the video merged with the text.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Adding Video to Text in Filmora
 
 Besides presentation software, you can also use video editing software products to add a video to text. Filmora lets you add a video to text in just a few simple steps. You can first make a text video with animation first, and then use the picture in picture feature to add the video to text. Here are the detailed information about how to add a video to text in Filmora.
@@ -57,32 +64,25 @@ Besides presentation software, you can also use video editing software products 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You should start by creating a new project in Filmora and importing the video you want to add to the text into the project. Click on the Titles tab, and choose the title that matches the visual style of your project.
 
 ![Add video to text - Filmora9](https://images.wondershare.com/filmora/article-images/add-title-effects.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Set the preferred duration of the title by dragging one of its ends to the left or right after you place it on the timeline, and then double-click on it to customize it. Click on the Advanced button once the Text tab opens and insert the text into the Input Text box.
 
 ![Add video to text - Filmora9 Advanced Editing](https://images.wondershare.com/filmora/article-images/make-text-video-advanced-text-edit.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Proceed to select a font and adjust the text size before deciding if you want to [animate the text](https://tools.techidaily.com/wondershare/filmora/download/). When done, you should export the title as a video file, and then import it back into your project.
@@ -90,13 +90,6 @@ Proceed to select a font and adjust the text size before deciding if you want to
 Now it’s time to add the text video and the background video to the project media library, and then place the two videos one above the other. Since we’re adding video to text, the text video should be placed above the background video.
 
 ![Add video to text - Filmora9 Compositing](https://images.wondershare.com/filmora/article-images/compositing-video-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Click on the video that contains text to gain access to the Video tab of the Editor panel and then expand the Compositing menu. Change the Blending Mode to Multiply, and the text in the overlaying video should be filled with the parts of the footage from the video below it.
 
@@ -109,6 +102,19 @@ There are so many different ways to create visually striking content, and adding
 Merging text with video is equally easy in PowerPoint and Filmora, so you just have to choose which software better suits your needs and select the materials that fit the style of your project. Learning how to add a video to text won’t take too much of your time, as this process can be completed in just a few quick steps. Which software are you using to add a video to text? Leave a comment below and let us know.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -125,18 +131,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/uilding-connections-through-collaborative-playlists/"><u>[New] Building Connections Through Collaborative Playlists</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-how-frequent-uploads-can-skyro-cookie-sales-on-your-youtube-channel/"><u>[New] How Frequent Uploads Can Skyro Cookie Sales on Your YouTube Channel</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-photo-editors-dream-select-your-perfect-backdrop-shift/"><u>[New] Photo Editors' Dream Select Your Perfect Backdrop Shift</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-best-fbx-game-recorder-alternatives/"><u>[Updated] In 2024, Best FBX Game Recorder Alternatives</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-essential-guide-recording-netflix-videos-on-a-mac/"><u>[Updated] In 2024, Essential Guide Recording Netflix Videos on a Mac</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-key-screen-snapping-programs-for-content-sharing/"><u>2024 Approved Key Screen-Snapping Programs for Content Sharing</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-step-by-step-methodology-assembling-youtube-playlists/"><u>2024 Approved Step-by-Step Methodology Assembling YouTube Playlists</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-review-managing-your-pets-diet-with-the-petsafe-healthy-pet-automatic-feeder/"><u>Expert Review: Managing Your Pet's Diet with the PetSafe Healthy Pet Automatic Feeder</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-teach-with-technology-effective-use-of-youtube-in-education/"><u>In 2024, Teach with Technology Effective Use of YouTube in Education</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Xiaomi 14 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/movavirafjpg/"><u>Movaviアプリを使ったお手軽なRAFファイルからJPGへのコストなし画像変換</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-guide-on-how-to-create-srt-file-plus-tips/"><u>Ultimate Guide on How to Create SRT File (Plus Tips)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-precision-trimming-elevating-your-youtube-video-quality/"><u>[New] Precision Trimming Elevating Your YouTube Video Quality</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-effortless-transition-free-onlineoffline-text-animation/"><u>[Updated] 2024 Approved Effortless Transition Free Online/Offline Text Animation</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-the-download-of-your-youtube-playlist-today/"><u>2024 Approved Mastering the Download of Your YouTube Playlist Today</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-richest-revenue-generators-in-the-youtube-universe/"><u>2024 Approved Richest Revenue Generators in the YouTube Universe</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-comprequad-video-captioning-techniques-for-youtube/"><u>2024 Approved The Comprequad Video Captioning Techniques for YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-upgrade-your-view-enabling-youtubes-high-quality-av1-option/"><u>2024 Approved Upgrade Your View Enabling YouTube's High-Quality AV1 Option</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-we-depend-on-chatgpts-answers-exploring-the-ais-truthfulness-and-reliability/"><u>Can We Depend on ChatGPT's Answers? Exploring the AI’s Truthfulness and Reliability</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/explore-sites-where-you-can-procure-youtube-affiliate-partnerships-for-2024/"><u>Explore Sites Where You Can Procure Youtube Affiliate Partnerships for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/harnessing-your-youtube-content-for-financial-rewards-for-2024/"><u>Harnessing Your YouTube Content for Financial Rewards for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-quickly-assemble-your-facebook-gallery-for-2024/"><u>How to Quickly Assemble Your Facebook Gallery for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-7-plus-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 7 Plus in Lost Mode</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-essential-differences-between-youtube-and-dailymention/"><u>In 2024, The Essential Differences Between YouTube and DailyMention</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/leading-cameras-for-automotive-tracking-unveiled/"><u>Leading Cameras for Automotive Tracking Unveiled</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/powerful-insights-unlocking-full-potential-with-mobizen-screen-recording-for-2024/"><u>Powerful Insights Unlocking Full Potential with Mobizen Screen Recording for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-samsung-galaxy-a54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/top-lms-for-streamlined-linguistics-education/"><u>Top LMS for Streamlined Linguistics Education</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/turing-test-upgrades-top-5-contemporary-approaches/"><u>Turing Test Upgrades: Top 5 Contemporary Approaches</u></a></li>
 </ul></div>
 

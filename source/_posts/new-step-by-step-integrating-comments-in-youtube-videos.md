@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step  Integrating Comments in YouTube Videos\""
-date: 2024-09-24T20:21:06.286Z
-updated: 2024-10-01T16:05:27.954Z
+date: 2024-10-03T02:29:53.676Z
+updated: 2024-10-06T17:29:11.854Z
 tags:
   - ai video
   - ai youtube
@@ -68,10 +68,16 @@ YouTube **Cards** are similar to annotations but more interactive. They allow th
 * Apply changes and exit
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to add YouTube annotations
@@ -85,10 +91,10 @@ YouTube Annotation is addition of a text layer, link or hotspots over your video
 ![](https://images.wondershare.com/filmora/article-images/add-annotations-to-youtube-video.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * On the right panel click on "+ Add Element" and select the kind of annotation you want to add
@@ -97,10 +103,16 @@ YouTube Annotation is addition of a text layer, link or hotspots over your video
 ![](https://images.wondershare.com/filmora/article-images/add-annotation-to-youtube-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Apply changes
@@ -142,10 +154,10 @@ No matter what kind of annotations you are using, you should never use more than
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -163,18 +175,17 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-expert-strategies-for-exceptional-live-thumbnail-appeal/"><u>[New] Expert Strategies for Exceptional Live Thumbnail Appeal</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-free-and-secure-3-ways-to-extract-youtube-music-content/"><u>[New] Free and Secure 3 Ways to Extract YouTube Music Content</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-hash-tags-that-catapult-you-to-6k-views-on-youtube/"><u>[New] Hash Tags That Catapult You to 6K Views on YouTube</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-a-step-by-step-approach-to-professional-chromatic-control/"><u>[Updated] A Step by Step Approach to Professional Chromatic Control</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-mastering-the-art-of-transferring-instagram-footage-to-pcmac/"><u>[Updated] In 2024, Mastering the Art of Transferring Instagram Footage to PC/Mac</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-smirk-spotlights-showcasing-7-comedic-content-pieces/"><u>[Updated] Smirk Spotlights Showcasing 7 Comedic Content Pieces</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-subscriber-threshold-raised-for-profits/"><u>2024 Approved Subscriber Threshold Raised for Profits</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-youtube-streams-with-simple-obs-guide/"><u>In 2024, Mastering YouTube Streams with Simple OBS Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-optimize-youtube-visibility-by-sustaining-creativity-commons-license/"><u>In 2024, Optimize YouTube Visibility by Sustaining Creativity Commons License</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-complete-lowdown-navigating-creative-commons-licenses/"><u>In 2024, The Complete Lowdown Navigating Creative Commons Licenses</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-depth-guide-to-frozen-indulgence-capture-tech/"><u>In-Depth Guide to Frozen Indulgence Capture Tech</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-6-must-have-tools-for-successful-game-streaming/"><u>New 2024 Approved 6 Must-Have Tools for Successful Game Streaming</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-finding-opportunities-where-youtube-collaborations-thrive/"><u>[New] Finding Opportunities Where YouTube Collaborations Thrive</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-advice-on-optimal-hdr-camera-selection/"><u>[Updated] Expert Advice on Optimal HDR Camera Selection</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-space-to-nature-yts-guide-for-dynamic-green-screen-filmmaking/"><u>2024 Approved From Space to Nature YT's Guide for Dynamic Green Screen Filmmaking</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-utilizing-continuous-lights-for-comfortable-filming/"><u>2024 Approved Utilizing Continuous Lights for Comfortable Filming</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726221396711-mxf-mpeg-movavi/"><u>免費線上 MXF 轉 MPEG 編解碼器 - Movavi 影像格式變更工具</u></a></li>
+<li><a href="https://win11.techidaily.com/away-from-clouds-data-at-your-fingertips-onedrive-tutorial/"><u>Away From Clouds, Data at Your Fingertips - OneDrive Tutorial</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-hevc-h-265-content-on-motorola-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Motorola</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-find-happiness-in-everyday-life-via-youtubes-anime-hubs/"><u>In 2024, Find Happiness in Everyday Life via YouTube's Anime Hubs</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-chat-room-to-screen-step-by-step-google-meet-youtube-streams/"><u>In 2024, From Chat Room to Screen Step-by-Step Google Meet YouTube Streams</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-macaw-mambo-march/"><u>In 2024, Macaw Mambo March</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-premier-external-hard-drive-choices-for-xbox/"><u>In 2024, Premier External Hard Drive Choices for Xbox</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premium-aerial-camera-crew-the-best-10-drones/"><u>Premium Aerial Camera Crew The Best 10 Drones</u></a></li>
 </ul></div>
 

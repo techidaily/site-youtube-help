@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Essential Tutorial for Home-Grown Animation Magic\""
-date: 2024-09-29T20:38:19.878Z
-updated: 2024-10-01T19:38:18.323Z
+date: 2024-10-05T21:53:31.920Z
+updated: 2024-10-07T02:49:20.739Z
 tags:
   - ai video
   - ai youtube
@@ -51,16 +51,10 @@ In this post, we’re going to kick things up a bit. Here is a list of places wh
 On this YouTube channel, motion graphics specialist Matt offers free animation tutorials using a variety of programs including Adobe After Effects and Cinema 4D. His lessons are for a range of skill levels, from beginner to advanced. If you are just starting out then Mt.Mograph is a great resource.
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **[Richard Harrington on Lynda](https://www.lynda.com/Rich-Harrington/120-1.html)**
@@ -70,10 +64,10 @@ Lynda isn’t free, but the 10-day free trial period is definitely long enough f
 What’s great about this course is that it assumes you have no animation experience, and it walks you through the main thing a lot of YouTubers want to learn animation for – creating an animated logo.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **[Bloop Animation](https://www.bloopanimation.com/)**
@@ -81,10 +75,16 @@ What’s great about this course is that it assumes you have no animation experi
  Most of the video animation courses on this site are paid, but they have a lot of cool free tutorials as well. The focus is more on animating figures/cartoons than video effects, but if you have any interest in animation more generally then this is a great place to start learning. They even have a free ebook you can download which is targeted at beginners.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **[Video Copilot](http://www.videocopilot.net/)**
@@ -94,10 +94,10 @@ This site has a huge number of free After Effects tutorials. There are basic int
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -115,24 +115,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-6-free-software-to-convert-youtube-to-mp3-for-iphone/"><u>[New] 6 Free Software to Convert YouTube to MP3 for iPhone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-budgeting-essentials-for-your-music-video/"><u>[New] Budgeting Essentials for Your Music Video</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-imovies-power-to-transform-ordinary-openers-into-epic/"><u>[New] IMovie's Power to Transform Ordinary Openers Into Epic</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unlocking-top-five-transformative-facebook-traits/"><u>[New] In 2024, Unlocking Top Five Transformative Facebook Traits</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-streamline-access-6-leading-free-and-on-demand-youtube-short-downloader-tools/"><u>[New] Streamline Access 6 Leading Free & On-Demand YouTube Short Downloader Tools</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-strategies-for-personalizing-your-youtube-shorts-templates/"><u>2024 Approved Strategies for Personalizing Your YouTube Shorts Templates</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-guide-to-travel-blogs-on-youtube/"><u>2024 Approved The Ultimate Guide to Travel Blogs on Youtube</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/beat-explorers-guide-online-pulse-sensors-for-2024/"><u>Beat Explorers’ Guide Online Pulse Sensors for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/oad-all-youtube-images-for-free-in-2024/"><u>Download All YouTube Images for Free, In 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/express-individuality-with-youtube-backgrounds-for-2024/"><u>Express Individuality with YouTube Backgrounds for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/from-novice-to-pro-the-complete-creator-hub-guide-for-2024/"><u>From Novice to Pro The Complete Creator Hub Guide for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/how-does-youtube-manage-post-upload-operations-in-2024/"><u>How Does YouTube Manage Post-Upload Operations, In 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Xiaomi Redmi K70E | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-15-pro-max-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 15 Pro Max Lock Screen with Notifications? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-innovating-mukbang-content-with-fresh-creative-ideas/"><u>In 2024, Innovating Mukbang Content with Fresh, Creative Ideas</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-to-use-or-not-to-use-sns-hdr-pro-reviewed/"><u>In 2024, To Use or Not to Use SNS HDR Pro Reviewed</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-realme-c67-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Realme C67 5G Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-troubleshooting-a-user-friendly-guide-to-overcoming-bsod/"><u>Mastering Troubleshooting: A User-Friendly Guide to Overcoming BSOD</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-enhance-visibility-with-any-channel-title-through-free-makers/"><u>[New] 2024 Approved Enhance Visibility With Any Channel Title Through Free Makers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-scripted-temporal-displacements-in-film-production/"><u>[Updated] Scripted Temporal Displacements in Film Production</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-life-lessons-video-ideas-for-self-expression-yt/"><u>2024 Approved Life Lessons Video Ideas for Self-Expression YT</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/hash-tags-that-catapult-you-to-6k-views-on-youtube-for-2024/"><u>Hash Tags That Catapult You to 6K Views on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-expert-tactics-optimizing-freefire-video-content/"><u>In 2024, Expert Tactics Optimizing FreeFire Video Content</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-google-meet-broadcast-simplified-youtube-steps/"><u>In 2024, Google Meet Broadcast Simplified YouTube Steps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-pixels-in-perfection-tweeting-at-full-hd-quality/"><u>In 2024, Pixels in Perfection Tweeting at Full HD Quality</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mental-marathon-best-trivia-videos-online-for-2024/"><u>Mental Marathon Best Trivia Videos Online for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/metas-pursuit-aiming-for-a-social-media-revolution-in-europe/"><u>Meta's Pursuit: Aiming for a Social Media Revolution in Europe</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigate-your-path-to-prominence-a-precise-guide-to-youtubes-featured-listings-for-2024/"><u>Navigate Your Path to Prominence A Precise Guide to Youtube's Featured Listings for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-youtube-cards-and-tags-for-2024/"><u>Navigating YouTube Cards and Tags for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-vivo-v30-lite-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Vivo V30 Lite 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-your-experience-with-the-latest-nvidia-geforce-gtx-1660-super-drivers-download-now/"><u>Upgrade Your Experience with the Latest NVIDIA GeForce GTX 1660 Super Drivers - Download Now</u></a></li>
 </ul></div>
 

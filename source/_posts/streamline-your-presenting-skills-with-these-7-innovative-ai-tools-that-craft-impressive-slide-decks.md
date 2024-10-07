@@ -1,7 +1,7 @@
 ---
 title: Streamline Your Presenting Skills with These 7 Innovative AI Tools That Craft Impressive Slide Decks
-date: 2024-09-25T17:44:45.350Z
-updated: 2024-10-01T16:27:00.999Z
+date: 2024-10-04T23:44:29.490Z
+updated: 2024-10-06T18:18:08.655Z
 tags:
   - chatgpt
   - open-ai
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 ![ChatGPT workout plan for beginners prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-workout-plan-for-beginners-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  For the first prompt, I asked ChatGPT to create a workout plan for beginners. The basic workout plan it generated allotted time for cardio, resistance training, warm-ups, and cool-downs.
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
  In this instance, ChatGPT responded to the prompt with a standard list of exercises that would work well for many people. If you're interested in a simple, straightforward fitness routine, then its suggestions are legitimate.
 
 ![ChatGPT workout plan for advanced athletes prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-workout-plan-for-advanced-athletes-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Meanwhile, a second plan for more seasoned athletes follows a similar format, including plenty of examples for cardio, core, and resistance training. Each section includes many options.
 
@@ -58,23 +65,9 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 
  As someone who has recovered from a fair share of sports injuries, this is the same kind of advice I received from physicians and physical therapists when returning to activities. Again, nothing can replace personalized advice from a healthcare provider, but the chatbot gets the broad strokes correct and advises caution.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How ChatGPT Creates Running Plans
 
 ![ChatGPT running plan question screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-running-plan-question-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, I prompted the chatbot to create a running plan. It responded with several questions about my current fitness level, as well as overall training goals, to generate a more detailed response.
 
@@ -89,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 ![ChatGPT Boston qualifier prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-boston-qualifier-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  However, there is some level of self-awareness with ChatGPT's advice on this topic (if you can say such a thing about AI technology). For instance, if you ask it to create a running plan that will help you qualify for the Boston Marathon, then it directs you to find an online plan that already addresses this ambition. It's a huge, years-long goal, even for many talented runners, and the app rightly doesn't attempt to offer a pat response.
@@ -113,6 +106,13 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 
  If you ever need to double-check the way to perform a certain exercise, or simply try out a new series of strength workouts, then ChatGPT is a helpful resource. The simple, straightforward responses and training plans offer a lot of information for beginner and more experienced athletes looking to increase their strength. Just be sure to verify the information with reputable sources before you take ChatGPT's advice.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## It's Possible to Use ChatGPT to Help With Your Fitness Goals
 
  Although ChatGPT can’t replace the role of an experienced personal trainer or coach, it can provide accurate and usable training plans for anyone who’s just looking for the basics. If you want to start a new workout habit or shake up your current routine, then the AI tool offers concise, quick responses for your exercise plans. It will be exciting to see how this technology continues to evolve and impact the fitness world in the future.
@@ -132,16 +132,22 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-essence-of-sharex-detailed-evaluations-and-alternates/"><u>[New] In 2024, The Essence of ShareX Detailed Evaluations & Alternates</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-obtain-exclusive-free-media-from-elite-4-youtube-clips/"><u>[New] Obtain Exclusive Free Media From Elite 4 YouTube Clips</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-stability-essentials-for-online-videography/"><u>[New] Stability Essentials for Online Videography</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-top-5-best-ps3-emulator-for-pc-2023-for-2024/"><u>[New] Top 5 Best Ps3 Emulator For PC 2023 for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-crafting-a-distinctive-sphere-of-influence/"><u>[Updated] In 2024, Crafting a Distinctive Sphere of Influence</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-prompts-users-with-new-ideas-on-information-dissemination/"><u>Facebook Prompts Users with New Ideas on Information Dissemination</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-essence-of-online-video-success-keywords-on-youtube/"><u>In 2024, The Essence of Online Video Success Keywords on YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-creator-toolkit-commanding-video-kingdoms/"><u>In 2024, The Ultimate Creator Toolkit Commanding Video Kingdoms</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-rated-4k-video-conversion-software-2023s-best-picks/"><u>Top-Rated 4K Video Conversion Software 2023S Best Picks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-missing-physxdriverdll-files-effective-strategies/"><u>Troubleshooting Missing PhysXDriver.dll Files: Effective Strategies</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-motorola-edge-2023-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Motorola Edge 2023 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-verify-your-youtube-account-a-simple-guide/"><u>[New] How to Verify Your YouTube Account - a Simple Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-profit-strategies-in-youtube-marketing/"><u>[New] Profit Strategies in YouTube Marketing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-void-of-originality-in-vr-content/"><u>[Updated] Exploring the Void of Originality in VR Content</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-initiating-zoom-conversations-from-your-android-device/"><u>[Updated] In 2024, Initiating Zoom Conversations From Your Android Device</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-instagram-essentials-seamlessly-adding-a-gallery-of-images-and-videos/"><u>[Updated] The Instagram Essentials Seamlessly Adding a Gallery of Images and Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-iphone-and-android-compared-top-youtube-app-analysis/"><u>2024 Approved IPhone & Android Compared Top YouTube App Analysis</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-profit-potential-unlocked-how-to-enroll-in-youtubes-membership/"><u>2024 Approved Profit Potential Unlocked How to Enroll in YouTube's Membership</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-three-trustworthy-ways-to-extract-audio-from-youtube-videos/"><u>2024 Approved Three Trustworthy Ways to Extract Audio From YouTube Videos</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/9-best-phone-monitoring-apps-for-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>9 Best Phone Monitoring Apps for Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/diagnosing-and-fixing-microsoft-windows-nearby-share-malfunction/"><u>Diagnosing and Fixing Microsoft Windows Nearby Share Malfunction</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-realme-12-proplus-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Realme 12 Pro+ 5G</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-15-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 15? Complete Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-youtubes-aesthetics-enhancing-your-videos/"><u>In 2024, Mastering YouTube's Aesthetics Enhancing Your Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-complete-guide-to-eradicating-youtube-keep-queue/"><u>In 2024, The Complete Guide to Eradicating YouTube Keep Queue</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-motorola-moto-g23-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Motorola Moto G23 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mastering-video-content-for-youtube-success-for-2024/"><u>Mastering Video Content for YouTube Success for 2024</u></a></li>
 </ul></div>
 

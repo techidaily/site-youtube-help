@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting Guide - Preventing Risk of Rain 2 Game Crashes"
-date: 2024-09-28T21:16:54.413Z
-updated: 2024-10-01T18:46:13.236Z
+date: 2024-10-04T16:42:46.257Z
+updated: 2024-10-06T22:24:26.394Z
 tags:
   - win11
   - win10
@@ -29,25 +29,11 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 * [Fix 8: Disable fullscreen optimizations](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 9: Try Phasmophobia beta version](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Restart your computer
 
  If you haven’t done this yet, give it a shot. A simple restart will reset your software and desktop environment and can often fix software glitches like this.
 
  If you encounter the crashing issue again when playing Phasmophobia, move on to the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Verify the integrity of game files
 
@@ -80,10 +66,10 @@ Game crashing issues might happen when your game files are corrupted.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-19-47.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Delete everything except these:
@@ -93,13 +79,6 @@ Game crashing issues might happen when your game files are corrupted.
 5) Relaunch the game to test the issue.
 
 If the game still crashes, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -133,6 +112,13 @@ If the game still crashes, try the next fix below.
 
 If the crash still occurs, go ahead with the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Lower your graphics settings
 
  If your computer is not powerful enough to handle Phasmophobia, you may run into performance issues from time to time. One workaround for this is lowering your in-game graphics settings.
@@ -158,26 +144,26 @@ If the crash still occurs, go ahead with the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-22_16-23-03.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Launch the game to see if your problem has been resolved.
 
 If Phasmophobia crashing issues persist, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7: Stop overlocking your GPU/CPU
 
  If you’ve manually overclocked your GPU or CPU, revert it to its default GPU/CPU clock. And if you are using overclocking software, such as MSI Afterburner, please also disable the software when running the game.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Disable fullscreen optimizations
 
@@ -189,11 +175,25 @@ If Phasmophobia crashing issues persist, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_14-53-17.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Apply > OK** .
 
  4) Relaunch the game to test your issue.
 
 If the problem still exists, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 9: Try Phasmophobia beta version
 
@@ -226,24 +226,21 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-top-3-best-nintendo-switch-emulators-you-can-find/"><u>[New] 2024 Approved Top 3 Best Nintendo Switch Emulators You Can Find</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gopro-hero5-footage-analysis/"><u>[New] GoPro Hero5 Footage Analysis</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-pedal-to-the-metal-mastering-crossfade-techniques/"><u>[New] In 2024, Pedal to the Metal Mastering Crossfade Techniques</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-transform-still-photos-using-illustration-for-dynamic-effects/"><u>[New] In 2024, Transform Still Photos Using Illustration for Dynamic Effects</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-inside-out-unveiling-the-true-intentions-behind-emojis-for-2024/"><u>[New] Inside Out Unveiling the True Intentions Behind Emojis for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-enabling-youtube-and-facebook-on-apple-tv/"><u>2024 Approved Enabling YouTube and Facebook on Apple TV</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-interpreting-laws-around-youtube-content-capture/"><u>2024 Approved Interpreting Laws Around YouTube Content Capture</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-tips-for-a-swift-checkup-of-your-youtube-sign-in/"><u>2024 Approved Tips for a Swift Checkup of Your YouTube Sign-In</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-top-10-guides-for-crafting-stellar-music-reactions-on-youtube/"><u>2024 Approved Top 10 Guides for Crafting Stellar Music Reactions on YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/gags-and-grins-techniques-in-parody-production-for-2024/"><u>Gags and Grins Techniques in Parody Production for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-vivo-x-fold-2-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Vivo X Fold 2</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-in-depth-guide-to-video-money-making-across-platforms/"><u>In 2024, In-Depth Guide to Video Money-Making Across Platforms</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-online-video-earnings/"><u>In 2024, Mastering Online Video Earnings</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-art-of-profit-driven-online-shopping-blogosynthesis/"><u>In 2024, The Art of Profit-Driven Online Shopping Blogosynthesis</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-understanding-light-settings-in-youtube-video-editing/"><u>In 2024, Understanding Light Settings in YouTube Video Editing</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/navigating-youtubes-revenue-mechanisms-for-2024/"><u>Navigating YouTube's Revenue Mechanisms for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-multi-photo-uploads-on-facebook-without-a-hitch/"><u>The Ultimate Guide to Multi-Photo Uploads on Facebook Without a Hitch</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-techniques-for-streamlining-your-twitter-content-calendar/"><u>Top Techniques for Streamlining Your Twitter Content Calendar</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-round-and-widescreen-displays-the-ultimate-guide-to-the-best-curved-monitors/"><u>Top-Rated Round and Widescreen Displays: The Ultimate Guide to the Best Curved Monitors</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-paving-a-path-to-prominence-instagrams-power-brokers-in-your-sphere-for-2024/"><u>[New] Paving a Path to Prominence Instagram's Power Brokers in Your Sphere for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-proven-steps-for-effortless-creation-of-youtube-shorts-credits/"><u>[New] Proven Steps for Effortless Creation of YouTube Shorts Credits</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-youtube-streams-optimal-webm-converters-ranked/"><u>[Updated] 2024 Approved YouTube Streams Optimal WebM Converters Ranked</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-funhouse-laughs-top-10-meme-blueprints-explained/"><u>[Updated] Funhouse Laughs Top 10 Meme Blueprints Explained</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-news-endings-as-a-narrative-tool-for-2024/"><u>[Updated] News Endings as a Narrative Tool for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unified-iptv-streaming-framework/"><u>[Updated] Unified IPTV Streaming Framework</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-instant-movie-magician/"><u>2024 Approved Instant Movie Magician</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-streamline-and-slim-vids-instagram-tips-using-macos/"><u>2024 Approved Streamline and Slim Vids Instagram Tips Using macOS</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-game-changer-creating-eye-catching-logo-templates/"><u>2024 Approved The Game-Changer Creating Eye-Catching Logo Templates</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-6-downloads-unlocked-with-free-online-and-global-viewing/"><u>2024 Approved Top 6 Downloads – Unlocked with Free Online & Global Viewing</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-youtubes-realm-to-igtvs-domain-3-ways/"><u>In 2024, From YouTube's Realm to IGTV's Domain (3 Ways)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-sound-sanitization-cleaning-up-your-online-footage/"><u>In 2024, Sound Sanitization Cleaning Up Your Online Footage</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-step-by-step-voice-memo-creation-on-ios-devices/"><u>In 2024, Step-by-Step Voice Memo Creation on iOS Devices</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlock-cross-platform-content-sharing-convert-and-upload-with-these-tools/"><u>In 2024, Unlock Cross-Platform Content Sharing Convert and Upload with These Tools</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-update-intels-suspension-of-the-thunder-bay-multi-chip-module-announced/"><u>Latest Update: Intel's Suspension of the Thunder Bay Multi-Chip Module Announced</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/subir-videos-directamente-desde-el-telefono-movil-sin-costo-alguno-convertir-mpeavi-con-facilidad-usando-movavi-online/"><u>Subir Videos Directamente Desde El Teléfono Móvil Sin Costo Alguno - Convertir MPE/AVI Con Facilidad Usando Movavi Online</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting DirectX Drawing Issues: A Comprehensive Guide"
-date: 2024-09-28T16:03:15.160Z
-updated: 2024-10-01T16:48:23.123Z
+date: 2024-10-01T23:36:16.471Z
+updated: 2024-10-07T04:58:20.631Z
 tags:
   - win11
   - win10
@@ -30,10 +30,10 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 * [Fix 9: Try Phasmophobia beta version](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Restart your computer
@@ -41,6 +41,13 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
  If you haven’t done this yet, give it a shot. A simple restart will reset your software and desktop environment and can often fix software glitches like this.
 
  If you encounter the crashing issue again when playing Phasmophobia, move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Verify the integrity of game files
 
@@ -52,13 +59,6 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Under the**Installed Files** tab, click**Verify integrity of game files** .
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
@@ -66,13 +66,6 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 4) Restart the game after the process is complete.
 
 If Phasmophobia still crashes, move on to the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Delete corrupted game files
 
@@ -87,21 +80,22 @@ Game crashing issues might happen when your game files are corrupted.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-19-47.png)
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Delete everything except these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-44-34.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Relaunch the game to test the issue.
 
@@ -151,13 +145,6 @@ If the crash still occurs, go ahead with the next fix.
 
  If you still experience crashing issues, then the issue is not with your game settings. You can change the settings back and try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Launch the game with DirectX 10
 
  Another workaround for some players is manually switching the game to DirectX 10\. Here’s how to do it:
@@ -170,22 +157,16 @@ If the crash still occurs, go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-22_16-23-03.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Launch the game to see if your problem has been resolved.
 
 If Phasmophobia crashing issues persist, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Stop overlocking your GPU/CPU
 
@@ -200,6 +181,13 @@ If Phasmophobia crashing issues persist, try the next fix below.
  2) Under the Compatibility tab, check the box next to**Disable fullscreen optimizations** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_14-53-17.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Apply > OK** .
 
@@ -238,24 +226,17 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-harnessing-hdr-in-post-top-4-youtube-guides-with-complimentary-green-screen-effects/"><u>[New] Harnessing HDR in Post Top 4 YouTube Guides with Complimentary Green Screen Effects</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-building-interest-with-budget-friendly-youtube-video-intros/"><u>[Updated] 2024 Approved Building Interest with Budget-Friendly YouTube Video Intros</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-sony-s6700-updated-summary-unpacked/"><u>[Updated] Sony S6700 Updated Summary Unpacked</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-free-frameworks-amplify-your-youtube-vision/"><u>2024 Approved Free Frameworks Amplify Your YouTube Vision</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-from-static-to-dynamic-traffic-youtube-backlinks-explained/"><u>2024 Approved From Static to Dynamic Traffic YouTube Backlinks Explained</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-meeting-mastery-streaming-google-meet-directly-to-youtube/"><u>2024 Approved Meeting Mastery Streaming Google Meet Directly to YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unleash-youtube-dominance-a-comprehensive-guide-to-studio-success/"><u>2024 Approved Unleash YouTube Dominance A Comprehensive Guide to Studio Success</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/conveniently-share-your-videos-youtube-shorts-mobilecomputer-tips-for-2024/"><u>Conveniently Share Your Videos YouTube Shorts Mobile/Computer Tips for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/effortless-system-tweaking-the-complete-guide-on-building-and-deleting-registry-paths-via-revo-uninstaller/"><u>Effortless System Tweaking: The Complete Guide on Building & Deleting Registry Paths via Revo Uninstaller</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/re-10-premier-historical-youtube-networks-for-2024/"><u>Explore 10 Premier Historical Youtube Networks for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-get-laughter-in-minutes-install-and-revel-in-ifunnys-meme-world/"><u>In 2024, Get Laughter in Minutes Install and Revel in iFunny's Meme World</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-incorporating-jump-cuts-for-smoother-edits/"><u>In 2024, Incorporating Jump Cuts for Smoother Edits</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-tailoring-tags-to-achieve-six-figures-in-views/"><u>In 2024, Tailoring #Tags to Achieve Six Figures in Views</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-success-optimizing-gaming-videos-via-smart-use-of-hashtags/"><u>In 2024, Unlocking Success Optimizing Gaming Videos via Smart Use of Hashtags</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/mobilize-your-marketing-easy-youtube-channel-launch-tips-for-entrepreneurs-for-2024/"><u>Mobilize Your Marketing Easy YouTube Channel Launch Tips for Entrepreneurs for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/samsung-galaxy-showdown-s10plus-versus-s2/"><u>Samsung Galaxy Showdown: S10+ Versus S2</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-insights-on-latest-gadgets/"><u>Tom's Tech Review: Comprehensive Insights on Latest Gadgets</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-transform-low-res-videos-into-high-definition-masterpieces/"><u>Updated 2024 Approved Transform Low-Res Videos Into High-Definition Masterpieces</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-guide-to-memorable-youtube-names/"><u>[New] The Ultimate Guide to Memorable YouTube Names</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-mastering-rapid-playback-in-spotify-safe-practices-revealed/"><u>[Updated] In 2024, Mastering Rapid Playback in Spotify Safe Practices Revealed</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-price-tag-of-a-million-viewed-youtube-video/"><u>2024 Approved The Price Tag of a Million-Viewed YouTube Video</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-transforming-mobile-content-into-profitable-youtube-experiences/"><u>2024 Approved Transforming Mobile Content Into Profitable YouTube Experiences</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/growth-acceleration-on-youtube-expert-tips-for-video-partnerships-for-2024/"><u>Growth Acceleration on YouTube Expert Tips for Video Partnerships for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/hack-your-way-to-speedy-youtube-video-processing-for-2024/"><u>Hack Your Way to Speedy YouTube Video Processing for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/illustrator-tutorial-bringing-text-to-life-for-2024/"><u>Illustrator Tutorial Bringing Text to Life for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722883148117-imessage-for-android-heres-how-you-can-achieve-it/"><u>IMessage for Android? Here's How You Can Achieve It</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/realms-of-play-top-10-costless-online-roleplayers-for-2024/"><u>Realms of Play Top 10 Costless Online Roleplayers for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-building-and-tailoring-your-chatgpt-variant/"><u>Step-by-Step Guide: Building and Tailoring Your ChatGPT Variant</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-budget-video-editing-top-picks/"><u>Updated Budget Video Editing Top Picks</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-update-drivers-on-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to update drivers on Windows 10 & 7</u></a></li>
 </ul></div>
 
