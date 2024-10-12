@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Efficiently Delete Unwanted Video Feedback"
-date: 2024-10-03T16:44:39.032Z
-updated: 2024-10-07T02:43:17.024Z
+date: 2024-10-11T16:27:30.387Z
+updated: 2024-10-12T17:15:52.551Z
 tags:
   - ai video
   - ai youtube
@@ -47,6 +47,13 @@ In this section, we will tell you how you can do it from your desktop.
 
 You also have the option to report the comment or [hide the user from your channel](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Delete All YouTube Comments from Mobile?
 
 The steps to deleting someone else’s YouTube comments from your mobile are similar to those from your desktop.
@@ -56,6 +63,13 @@ The steps to deleting someone else’s YouTube comments from your mobile are sim
 3. Select the video from where you want to delete a comment. Scroll down to reach the desired comment.
 4. Once you reach the target comment, click on the three vertical dots at the bottom corner. There should be an option called Remove. Tap on it.
 5. This will create another dialog box on the mobile app where you have to click on Remove again to delete the comment.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Do You Delete Your Comments from YouTube?
 
@@ -103,13 +117,6 @@ To find your History from your desktop, you need to click on the three horizonta
 
 ![Report YouTube comments](https://images.wondershare.com/filmora/article-images/report-youtube-comment.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Delete All Your Posted YouTube Comments?
 
 You can also delete all comments you ever posted on any YouTube video by hiding your channel. When you do this, you can hide your video content temporarily. But it will irreversibly erase all your comments throughout YouTube. If you are curious, read on to know how you can do it.
@@ -119,29 +126,22 @@ You can also delete all comments you ever posted on any YouTube video by hiding 
 
 ![YouTube Settings](https://images.wondershare.com/filmora/article-images/two-ways-settings-youtube-channel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. YouTube will direct you to the Settings page of your account. Choose Advanced Settings from the list on your left. You can also access it from [here](https://www.youtube.com/account%5Fadvanced).
 
 ![YouTube Advanced  Settings](https://images.wondershare.com/filmora/article-images/youtube-advanced-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Scroll down and select Delete Channel. Clicking it will not delete your account. When you click on Delete Channel, you will get two choices – ‘I want to hide my channel’ and ‘I want to permanently delete my content’. Select the first.
 
 ![YouTube Settings](https://images.wondershare.com/filmora/article-images/remove-youtube-content.jpg)
 
 1. YouTube will now show you what will happen when you hide your channel. Check all the boxes to confirm that you understand, and then tap on Hide My Channel. YouTube will now delete all comments made by your account.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Final Thoughts
 
@@ -150,10 +150,10 @@ YouTube can be an unsafe place with unwanted comments everywhere. In this blog, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -171,19 +171,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-excellence-in-endless-data-archiving-services/"><u>[New] Excellence in Endless Data Archiving Services</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-how-to-go-viral-on-youtube-with-impressive-music-reaction-content/"><u>[New] How to Go Viral on YouTube with Impressive Music Reaction Content</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-elevating-your-tiktok-unboxing-content-with-effective-strategies/"><u>[Updated] Elevating Your TikTok Unboxing Content with Effective Strategies</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-sky-high-adventures-the-gopro-karma-experience/"><u>[Updated] Sky-High Adventures The GoPro Karma Experience</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-y02t-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Vivo Y02T</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-samsung-galaxy-s24-ultra-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Samsung Galaxy S24 Ultra Without PUK Codes</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-boosting-collaboration-mastering-real-time-photography-on-google-meet/"><u>In 2024, Boosting Collaboration Mastering Real-Time Photography on Google Meet</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-hashtags-to-hit-6k-youtube-growth/"><u>In 2024, Mastering Hashtags to Hit $6K YouTube Growth</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-navigating-to-the-worlds-8-high-speed-youtube-innovators/"><u>In 2024, Navigating to the World's 8 High-Speed YouTube Innovators</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-skyrocket-your-channel-growth-with-these-top-5-video-marketing-methods/"><u>In 2024, Skyrocket Your Channel Growth with These Top 5 Video Marketing Methods</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intel-takes-performance-to-new-heights-the-just-released-granite-rapids-cpus-set-the-bar-higher-with-an-astounding-128-core-architecture-and-unprecedented-566/"><u>Intel Takes Performance to New Heights: The Just-Released Granite Rapids CPUs Set the Bar Higher with An Astounding 128 Core Architecture and Unprecedented 500W TDP</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/making-sense-of-mukbangs-crafting-foodie-streams-for-2024/"><u>Making Sense of Mukbangs Crafting Foodie Streams for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/photo-memory-locker-at-no-cost-plus-elite-charged-cloud-spheres-for-2024/"><u>Photo Memory Locker at No Cost, Plus Elite Charged Cloud Spheres for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-samsung-galaxy-z-flip-5-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Samsung Galaxy Z Flip 5 Location | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-photography-editing-tips-for-creating-stunning-photos/"><u>[New] 2024 Approved Photography Editing Tips for Creating Stunning Photos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-script-to-screen-cutting-edge-video-editing-for-youtubers/"><u>[New] From Script to Screen Cutting-Edge Video Editing for YouTubers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-quick-and-easy-iphone-screen-recording-tutorial/"><u>[Updated] 2024 Approved Quick & Easy IPhone Screen Recording Tutorial</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-control-youtube-audio-mobiledesktop-approach/"><u>[Updated] In 2024, Control YouTube Audio Mobile/Desktop Approach</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-elite-compilation-9-online-mic-recorders-ranked/"><u>[Updated] In 2024, The Elite Compilation 9 Online Mic Recorders Ranked</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-explore-free-youtube-pic-themes/"><u>2024 Approved Explore Free YouTube Pic Themes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-live-video-breakthrough-perfect-screen-share-tactics-for-fb/"><u>2024 Approved Live Video Breakthrough Perfect Screen-Share Tactics for Fb</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/anonymous-no-more-bringing-back-fb-sessions/"><u>Anonymous No More Bringing Back Fb Sessions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-gif-editor-how-to-make-animated-gif-images-online-from-youtube-video/"><u>In 2024, GIF Editor How to Make Animated GIF Images Online From YouTube Video</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-guidelines-to-frame-your-youtube-creation-flow/"><u>In 2024, Guidelines to Frame Your YouTube Creation Flow</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-millions-watch-but-how-much-do-they-earn/"><u>In 2024, Millions Watch, But How Much Do They Earn?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-quick-guide-to-youtube-trailer-making-with-filmora/"><u>In 2024, Quick Guide to YouTube Trailer Making with Filmora</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-guide-to-cost-effective-media-providers-online/"><u>In 2024, The Ultimate Guide to Cost-Effective Media Providers Online</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-realme-narzo-n55-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Realme Narzo N55</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/maximizing-video-quality-enabling-av1-on-youtube-for-2024/"><u>Maximizing Video Quality Enabling AV1 on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-copyright-concerns-in-screencasting-youtube-videos-for-2024/"><u>Navigating Copyright Concerns in Screencasting YouTube Videos for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-correcting-windows-10-store-error-message-0x80073cf9/"><u>Troubleshooting and Correcting Windows 10 Store Error Message 0X80073CF9</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-video-potential-with-top-titler-ai-for-2024/"><u>Unlock Video Potential with Top Titler AI for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-fcpx-2024-tutorial-how-to-perfectly-sync-your-audio-and-video-tracks/"><u>Updated FCPX 2024 Tutorial How to Perfectly Sync Your Audio and Video Tracks</u></a></li>
 </ul></div>
 

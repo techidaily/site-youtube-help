@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Prevent Thumbnail Absence in Shorts Uploads"
-date: 2024-09-26T21:20:00.414Z
-updated: 2024-10-01T18:06:32.087Z
+date: 2024-10-06T17:48:57.203Z
+updated: 2024-10-12T20:12:19.112Z
 tags:
   - ai video
   - ai youtube
@@ -59,16 +59,16 @@ The reason behind this is the difference in the thumbnail size. Regular YouTube 
 
 ![fix youtube shorts thumbnail not showing problem](https://images.wondershare.com/filmora/article-images/fix-youtube-shorts-thumbnail-not-showing.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Unfortunately, there is no reliable fix to this problem yet. YouTubers have tried different things in hopes that YouTube will display the correct thumbnail for their Shorts.
 
 Some YouTubers have tried using different images. Others have experimented with changing the aspect ratio of the thumbnail or using Adobe editor for ratios. Clearing histories and cache, using different browsers, resizing, and changing the images' resolution have also been done. Sadly, these are all failed attempts.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Q4\. How To Boost Views When I Have no Control Over YouTube Shorts Thumbnails?
 
@@ -91,13 +91,6 @@ Of course, ensuring that the video quality is high is key to getting more views.
 The best thing is that you don't need to transfer the video from your phone to your computer and back. Wondershare Filmora is available on mobile. And it's one of the best tools for enhancing a short-form video.
 
 Short-form video watchers love filters, transitions, and effects. And Filmora gives you access to all of that. It provides you with fun and amazing filters, effects, transitions, and stamps that can add a wow factor to your short-form video.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Q6\. Do YouTube Shorts Make Money?
 
@@ -129,13 +122,6 @@ You can watch Shorts like normal YouTube videos where you can rewind when you wa
 
 ![playing shorts video like normal video](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-pc-4.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### On a Mobile Phone
 
 * Open the YouTube app. Watch a Shorts video.
@@ -143,22 +129,21 @@ You can watch Shorts like normal YouTube videos where you can rewind when you wa
 ![watching a shorts video on mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-1.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Like the Shorts video.
 
 ![liked a shorts video on mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-2.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Tap "Library"
 
@@ -186,6 +171,13 @@ The best thing is that you don't need to transfer the video from your phone to y
 
 Short-form video watchers love filters, transitions, and effects. And Filmora gives you access to all of that. It provides you with fun and amazing filters, effects, transitions, and stamps that can add a wow factor to your short-form video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Q6\. Do YouTube Shorts Make Money?
 
 Making money from YouTube Shorts was challenging. The platform pays content creators who are doing well through the Creator Fund. However, as Shorts grew, the payout became smaller.
@@ -193,13 +185,6 @@ Making money from YouTube Shorts was challenging. The platform pays content crea
 Luckily, that's going to change. Starting this year, Shorts will be a part of the YouTube Partner Program. This means that you can make money from the ads that people watch on Shorts. According to YouTube, creators will keep 45% of the revenue. It will be distributed based on your share of total Shorts views.
 
 YouTube also adjusted the requirements to qualify for the YPP. They made it easier for Shorts content creators to get into the program.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Q7\. How Do You Make YouTube Shorts Play Normal?
 
@@ -269,13 +254,6 @@ Users can subscribe to Shorts channels. And if they see that your videos are wel
 
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Richard Bennett
 
  Oct 26, 2023• Proven solutions
@@ -298,16 +276,16 @@ Here are 7 places where you can find templates for YouTube channel art.
 
 [**![Free YouTube Banner](https://images.wondershare.com/filmora/article-images/50-free-youtube-banners-banner.jpg)**](https://www.filmora.io/youtube-channel-art?utm%5Fsource=filmora.io%5Fblog%5F50Free%5Fbanners&utm%5Fmedium=blog%5Fbanners&utm%5Fcampaign=50%5Ffree%5Fbanners)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You can download 50 free YouTube channel art templates right here on filmora.io. We have 10 categories of banners: gaming, beauty, travel, comedy, education, minimalist, funky, comics, galaxy, and bright. There’s something for everyone.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You will have the option of downloading either PSD files you can edit in Photoshop, or PNG files you can customize in a free online program like Canva.com. Click here (link) to learn more and download your free channel art templates.
 
@@ -391,6 +369,13 @@ Canva is a free online program you can use to create all kinds of graphics easil
 
 Although Canva is free to use, and includes many free options for graphics and stock photos, it does also have some premium images and clip art which cost $1 each to use. Making a free banner is as easy as making sure none of the paid elements are in your design (they’re watermarked, so you’ll know).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. [Wondershare PixStudio](https://tools.techidaily.com/wondershare/fotophire/download/)
 
 Wondershare PixStudio is an all-in-one and powerful online graphic design maker for everyone. It has various types of templates for YouTube Thumbnails, Logos, Posters, etc. You can create a beautiful design by simply dragging and dropping the elements and photos. The online platform is free to use all templates, just One-Click to download your creations and share to your Facebook, Instagram Story, and YouTube Thumbnails, etc. immediately.
@@ -409,9 +394,29 @@ The free version of Fotor will work well enough for most YouTubers, but you can 
 
 Visme offers 50 YouTube channel art templates which you can customize the text of for free. You just create a free account, choose the template that best suits your channel, insert your own text and edit that text’s font and color.
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. [YourTube](http://yourtubetheme.com/youtube-channel-art-templates/)
 
 YourTube has a ton of really nice looking channel art templates you can download for free. The downloads include both PSD (Photoshop) files and the background images without text. This is great because you’ll have an editable file you can build on in Photoshop, if you have it, and an image file you can use in combination with a free service like Canva if you don’t.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. [Banner Snack](https://www.bannersnack.com/youtube.html)
 
@@ -492,6 +497,13 @@ Banner Snack is for all kinds of social media graphics from YouTube channel art 
 Let us know if you know anywhere else to get free YouTube channel art templates!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -586,22 +598,21 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-elevating-video-previews-a-compreayer-approach-for-youtube/"><u>[New] 2024 Approved Elevating Video Previews A Compreayer Approach for YouTube</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-highest-rated-10-online-subtitle-tools/"><u>[New] Highest-Rated 10 Online Subtitle Tools</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-pranks-and-puns-playbook-7-clever-gags-for-video-virtuosos/"><u>[New] Pranks & Puns Playbook 7 Clever Gags for Video Virtuosos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-ultimate-selection-the-10-best-apps-for-smartphone-video-calls-for-2024/"><u>[New] Ultimate Selection The 10 Best Apps for Smartphone Video Calls for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-captivate-and-expand-your-online-following-with-viral-youtube-shorts/"><u>2024 Approved How to Captivate and Expand Your Online Following with Viral YouTube Shorts</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-buyers-blueprint-for-youtubers/"><u>2024 Approved The Ultimate Buyer's Blueprint for Youtubers</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-top-directors-weaving-visual-auditory-tapestries/"><u>2024 Approved Top Directors Weaving Visual, Auditory Tapestries</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-tutorial-on-youtube-thumbnail-extraction-for-all-os-enthusiasts/"><u>2024 Approved Tutorial on YouTube Thumbnail Extraction for All OS Enthusiasts</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-itel-p40plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/from-idea-to-execution-a-comprehensive-youtube-video-guide-for-2024/"><u>From Idea to Execution A Comprehensive YouTube Video Guide for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-itel-p40-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-expert-tips-for-fixing-non-displaying-shorts-thumbnails/"><u>In 2024, Expert Tips for Fixing Non-Displaying Shorts Thumbnails</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-motorola-moto-g-stylus-2023-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Motorola Moto G Stylus (2023) Face Lock?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-the-art-of-caption-placement-in-multimedia-projects-for-youtube/"><u>In 2024, Mastering the Art of Caption Placement in Multimedia Projects for YouTube</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-verdict-vidmas-role-in-modern-screen-capture/"><u>In 2024, The Verdict Vidma’s Role in Modern Screen Capture</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-your-data-secure-with-chatgpts-privacy-measures/"><u>Is Your Data Secure with ChatGPT's Privacy Measures?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/tailored-techniques-for-dynamic-gifs/"><u>Tailored Techniques for Dynamic GIFs</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-from-followers-to-fans-a-guide-to-thriving-instagram-presence/"><u>[New] 2024 Approved From Followers to Fans A Guide to Thriving Instagram Presence</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-revenue-sharing-explained-maximizing-profits-with-snippet-videos/"><u>[New] Revenue Sharing Explained Maximizing Profits with Snippet Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-savvy-sponsorship-strategies-for-small-scale-sites/"><u>[New] Savvy Sponsorship Strategies for Small-Scale Sites</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-compreenas-record-your-life-in-hd-via-vlc-media-player-for-2024/"><u>[Updated] Compreenas Record Your Life in HD via VLC Media Player for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-youtube-video-free-transcription-techniques/"><u>2024 Approved Mastering YouTube Video Free Transcription Techniques</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-perfecting-audio-on-iphone-select-the-best-6-free-software-choices/"><u>2024 Approved Perfecting Audio on iPhone Select the Best 6 Free Software Choices</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-ultimate-guide-shifting-your-profile-picture-on-global-platforms/"><u>2024 Approved The Ultimate Guide Shifting Your Profile Picture on Global Platforms</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/boost-image-impact-top-iphone-and-android-sticker-augmenting-tools-for-2024/"><u>Boost Image Impact Top iPhone and Android Sticker Augmenting Tools for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/designing-your-digital-persona-for-the-metaverse/"><u>Designing Your Digital Persona for the Metaverse</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-optimize-and-compress-video-files-for-seamless-sharing-on-whatsapp-across-devices/"><u>How to Optimize and Compress Video Files for Seamless Sharing on WhatsApp Across Devices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-enhancing-photo-stability-with-the-right-gimbal/"><u>In 2024, Enhancing Photo Stability with the Right Gimbal</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-flavorful-follows-top-food-vloggers-to-track/"><u>In 2024, Flavorful Follows Top Food Vloggers to Track</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-awesome-valorant-thumbnails-for-youtube-content/"><u>In 2024, Mastering Awesome Valorant Thumbnails for YouTube Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-authoritative-handbook-on-selecting-impactful-podcast-monikers-plus-examples/"><u>In 2024, The Authoritative Handbook on Selecting Impactful Podcast Monikers, Plus Examples</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-power-of-personal-storytelling-in-video-content/"><u>In 2024, The Power of Personal Storytelling in Video Content</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-itel-p55-by-drfone-android/"><u>Universal Unlock Pattern for Itel P55</u></a></li>
 </ul></div>
 
