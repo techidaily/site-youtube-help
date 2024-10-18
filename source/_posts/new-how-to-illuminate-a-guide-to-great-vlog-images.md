@@ -1,7 +1,7 @@
 ---
 title: "\"[New] How to Illuminate  A Guide to Great Vlog Images\""
-date: 2024-10-11T20:12:24.654Z
-updated: 2024-10-12T18:45:31.994Z
+date: 2024-10-17T19:45:57.006Z
+updated: 2024-10-18T20:51:17.033Z
 tags:
   - ai video
   - ai youtube
@@ -44,14 +44,14 @@ The **fill light** is less bright than the primary source of light and it is pla
 
 The final step to creating three point lighting is to set up another light behind you. This is your 'Backlight', and it will help you stand out from your background. **Backlight or Hair light** is always placed behind and above the subject to create separation between the subject in the shot and the background. This basic lighting technique can be applied in almost every scene you shoot, which is why it is important to keep an open mind and to continue experimenting with possible light setups.
 
-### Watch Video! Top Lighting Tips for Vlogging
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+### Watch Video! Top Lighting Tips for Vlogging
 
 ## Lightning Tips for Aspiring YouTube Videographers
 
@@ -80,10 +80,10 @@ Sets of reflectors are often under $50, so they are fairly affordable. However, 
 ![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips01.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If your strong main light is too hard on your eyes then you can use a translucent 'reflector' to soften it. Set your translucent reflector, or other screen, up in front of your main light to diffuse it.
@@ -93,10 +93,10 @@ If you are hosting a **beauty vlog** then you might consider a slightly differen
 ![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips02.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If you are using all of the lighting options available to you and your video still looks too dark then you can try brightening it by **opening up the aperture of your camera** lens/setting a lower f-stop. Letting more light into your camera can help your footage look brighter, although you also run the risk of making things look overexposed/ washed out if you are not careful.
@@ -106,10 +106,10 @@ If you are stuck shooting in **low light conditions** it is best to use a lens w
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -127,18 +127,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-ideal-slide-show-apps-from-iphone-6-to-xs-max-for-2024/"><u>[New] Ideal Slide Show Apps From iPhone 6 to XS Max for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-maximize-youtube-potential-leading-rank-tracker-software/"><u>[New] Maximize YouTube Potential Leading Rank Tracker Software</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-social-media-battlefield-tiktoks-top-10-twitters/"><u>[New] The Social Media Battlefield TikTok's Top 10 Twitters</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-cutting-techniques-for-sports-entertainment-films/"><u>[Updated] 2024 Approved Cutting Techniques for Sports Entertainment Films</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-excellent-10-tech-choices-for-livestream-monitoring/"><u>[Updated] Excellent 10 Tech Choices for Livestream Monitoring</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-gain-traction-on-youtube-surpass-10000-viewer-count-for-affiliate-rewards/"><u>2024 Approved Gain Traction on YouTube - Surpass 10,000 Viewer Count for Affiliate Rewards</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/8-free-online-video-editors-for-youtube-for-2024/"><u>8 Free Online Video Editors for YouTube for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comparing-the-samsung-galaxy-a71-amoeba-a-cost-effective-contender-against-top-tier-phones/"><u>Comparing the Samsung Galaxy A71 Amoeba: A Cost-Effective Contender Against Top-Tier Phones</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mr-beast-financial-evolution-analysis/"><u>In 2024, Mr. Beast Financial Evolution Analysis</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unleashing-the-power-of-youtube-short-form-videos/"><u>In 2024, Unleashing the Power of YouTube Short Form Videos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-validating-your-channels-ad-based-income/"><u>In 2024, Validating Your Channel’s Ad-Based Income</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-7-benefits-of-leveraging-chatgpt-for-your-medical-inquiries/"><u>Top 7 Benefits of Leveraging ChatGPT for Your Medical Inquiries</u></a></li>
-<li><a href="https://windows11.techidaily.com/transform-and-personalize-your-pc-with-alomwares-mastery/"><u>Transform and Personalize Your PC With AlomWare's Mastery</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-camera-clicks-to-youtube-views-mobiles-in-cinematic-success/"><u>[New] From Camera Clicks to YouTube Views Mobiles in Cinematic Success</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-watch-multiple-youtube-videos-at-one-time/"><u>[New] How To Watch Multiple YouTube Videos at One Time?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-navigating-channel-disabling-pc-and-phone-guide/"><u>[New] Navigating Channel Disabling PC & Phone Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-ranking-the-most-rapidly-expanding-youtube-talks-of-inspiration/"><u>[New] Ranking the Most Rapidly Expanding YouTube Talks of Inspiration</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-guide-to-growth-and-glitter-in-video-ventures/"><u>[Updated] The Ultimate Guide to Growth & Glitter in Video Ventures</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhanced-clarity-in-outriders-addressing-and-fixing-blurry-screenshots/"><u>Enhanced Clarity in Outriders: Addressing and Fixing Blurry Screenshots</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-finding-the-ideal-format-for-your-youtube-videos/"><u>In 2024, Finding the Ideal Format for Your YouTube Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-creation-to-consumption-igtv-vs-youtube-explained-for-you/"><u>In 2024, From Creation to Consumption IGTV Vs. YouTube Explained for You</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-best-choice-high-definition-screen-capturing-apps/"><u>In 2024, The Best Choice High-Definition Screen Capturing Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/quickmemes-your-meme-toolkit-for-2024/"><u>QuickMemes Your Meme Toolkit for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-unveiled-the-essence-of-facebook-twitter-instagram-and-youtube/"><u>Social Media Unveiled: The Essence of Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://blog-min.techidaily.com/the-next-big-leap-in-computing-how-apples-integration-of-generative-ai-could-transform-the-mac-user-journey/"><u>The Next Big Leap in Computing: How Apple's Integration of Generative AI Could Transform the Mac User Journey</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/ultimate-resource-list-of-3d-fonts-online-for-2024/"><u>Ultimate Resource List of 3D Fonts Online for 2024</u></a></li>
+<li><a href="https://discover-best.techidaily.com/winx-mobile-video-converter-androidmkv-m2ts-avi-wmv/"><u>WinX Mobile Video Converter使用: AndroidデバイスへのMKV, M2TS, AVI, WMV動画変換ガイド</u></a></li>
 </ul></div>
 

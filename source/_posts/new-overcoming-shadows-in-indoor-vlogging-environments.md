@@ -1,7 +1,7 @@
 ---
 title: "[New] Overcoming Shadows in Indoor Vlogging Environments"
-date: 2024-10-09T21:50:33.225Z
-updated: 2024-10-12T19:07:19.619Z
+date: 2024-10-15T17:58:13.488Z
+updated: 2024-10-18T17:10:00.260Z
 tags:
   - ai video
   - ai youtube
@@ -45,13 +45,20 @@ The **fill light** is less bright than the primary source of light and it is pla
 The final step to creating three point lighting is to set up another light behind you. This is your 'Backlight', and it will help you stand out from your background. **Backlight or Hair light** is always placed behind and above the subject to create separation between the subject in the shot and the background. This basic lighting technique can be applied in almost every scene you shoot, which is why it is important to keep an open mind and to continue experimenting with possible light setups.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Watch Video! Top Lighting Tips for Vlogging
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Lightning Tips for Aspiring YouTube Videographers
 
@@ -80,16 +87,10 @@ Sets of reflectors are often under $50, so they are fairly affordable. However, 
 ![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips01.JPG)
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If your strong main light is too hard on your eyes then you can use a translucent 'reflector' to soften it. Set your translucent reflector, or other screen, up in front of your main light to diffuse it.
@@ -99,10 +100,10 @@ If you are hosting a **beauty vlog** then you might consider a slightly differen
 ![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips02.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If you are using all of the lighting options available to you and your video still looks too dark then you can try brightening it by **opening up the aperture of your camera** lens/setting a lower f-stop. Letting more light into your camera can help your footage look brighter, although you also run the risk of making things look overexposed/ washed out if you are not careful.
@@ -110,13 +111,6 @@ If you are using all of the lighting options available to you and your video sti
 If you are stuck shooting in **low light conditions** it is best to use a lens with a wider aperture/lower f-stop. This will make the best of the light you do have.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -133,20 +127,21 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-from-commonplace-phones-to-cutting-edge-vr-headsets/"><u>[New] From Commonplace Phones to Cutting-Edge VR Headsets</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-youtube-audio-recordings/"><u>2024 Approved Mastering YouTube Audio Recordings</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-tips-to-expunge-your-youtube-queue-of-postponed-content/"><u>2024 Approved Tips to Expunge Your YouTube Queue of Postponed Content</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ais-role-in-diy-expanding-preemptively/"><u>AI's Role in DIY Expanding Preemptively</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-unresponsive-file-explorer-on-windows-10-solutions-explored/"><u>How to Fix Unresponsive File Explorer on Windows 10 - Solutions Explored</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-maximize-content-experience-with-these-top-6-youtube-shorts-downloader-apps/"><u>In 2024, Maximize Content Experience with These Top 6 YouTube Shorts Downloader Apps</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-capturing-ios-device-screen-on-video/"><u>In 2024, Step-by-Step Capturing iOS Device Screen on Video</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-streamline-content-discovery-leveraging-youtubes-featured-channel-guide/"><u>In 2024, Streamline Content Discovery Leveraging Youtube's Featured Channel Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-unique-characteristics-of-youtube-and-dailymention/"><u>In 2024, The Unique Characteristics of YouTube & DailyMention</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/micro-movie-maker-for-2024/"><u>Micro Movie Maker for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimal-hrt-for-sedimentation-tanks-ensures-effective-settling-of-particles/"><u>Optimal HRT for Sedimentation Tanks Ensures Effective Settling of Particles.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-to-launching-ai-agents-in-your-browser-with-agentgpt/"><u>Step-by-Step Guide to Launching AI Agents in Your Browser with AgentGPT</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-essential-guide-to-the-new-gen-3-echo-dot-with-alexa-features-and-functionality-explored/"><u>The Essential Guide to the New Gen 3 Echo Dot with Alexa: Features and Functionality Explored</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-easily-cut-large-videos-faster-on-mac/"><u>Updated Easily Cut Large Videos Faster on Mac</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/your-comprehensive-list-for-selecting-superior-ssds-in-202n4-budget-sata-options-and-next-gen-nvme-speedsters/"><u>Your Comprehensive List for Selecting Superior SSDs in 202N4: Budget SATA Options and Next-Gen NVME Speedsters</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-overcoming-virtual-negativity-a-content-makers-guide/"><u>[New] Overcoming Virtual Negativity A Content Maker's Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-snicker-station-event-oriented-joke-repository/"><u>[New] Snicker Station Event-Oriented Joke Repository</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-exploring-income-derived-from-each-watch-on-video-platforms/"><u>2024 Approved Exploring Income Derived From Each Watch on Video Platforms</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-monetary-milestones-steps-to-unlock-your-true-youtube-income-value/"><u>2024 Approved Monetary Milestones Steps to Unlock Your True YouTube Income Value</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-10-editing-skills-every-new-youtuber-must-know/"><u>2024 Approved Top 10 Editing Skills Every New YouTuber Must Know</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-vivo-y100i-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo Y100i Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effortless-way-to-delete-multiple-friends-in-one-go-on-snapchat/"><u>Effortless Way to Delete Multiple Friends in One Go on Snapchat</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-correcting-improper-installation-issues-with-amds-ryzen-master-software/"><u>Guide to Correcting Improper Installation Issues with AMD's Ryzen Master Software</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo G2? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-corpse-comic-connoisseur/"><u>In 2024, Corpse Comic Connoisseur</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-crafting-the-perfect-aesthetic-with-controlled-lighting/"><u>In 2024, Crafting the Perfect Aesthetic with Controlled Lighting</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-gain-cost-free-visuals-from-selective-4-youtube-feeds/"><u>In 2024, Gain Cost-Free Visuals From Selective 4 YouTube Feeds</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-tailored-viewing-experience-constructing-a-personalized-watch-later-list/"><u>In 2024, Tailored Viewing Experience Constructing a Personalized 'Watch Later' List</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-trailblazers-creating-engaging-marvellous-universe/"><u>In 2024, Trailblazers Creating Engaging Marvellous Universe</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-seamless-tutorial-for-image-background-cleanup-on-canva/"><u>The Seamless Tutorial for Image Background Cleanup on Canva</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-power-of-light-therapy-for-better-days-an-in-depth-look-at-the-ihome-zenergy-bedside-review/"><u>Unveiling the Power of Light Therapy for Better Days: An In-Depth Look at the IHome Zenergy Bedside Review</u></a></li>
 </ul></div>
 

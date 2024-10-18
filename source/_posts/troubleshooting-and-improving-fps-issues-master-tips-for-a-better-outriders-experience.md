@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting and Improving FPS Issues: Master Tips for a Better Outriders Experience"
-date: 2024-10-10T22:25:33.000Z
-updated: 2024-10-12T22:10:18.552Z
+date: 2024-10-16T18:25:20.497Z
+updated: 2024-10-18T21:27:51.644Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Check your Internet connection
 
  The first thing you can do is to make sure your Internet connection is valid and able to connect to Apex Legends servers. A few things you can look for to check your Internet connection go as below:
@@ -43,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 * If you have low-speed Internet, it could lead to an unstable Internet connection. You can google “Internet speed test” and pick a tool to**test your Internet speed** . However, when your Internet connection is unreasonably slow, consider contacting your Internet provider for help.
 
  If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Install all the game updates
 
@@ -61,14 +75,21 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 2. Click**Change adapter options** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
@@ -76,24 +97,10 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
 
@@ -117,6 +124,13 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5: Switch to another server
 
  We know the error code leaf is a server connectivity issue, and the problem is more likely with the server-side. One last thing that players can do is to switch to a low ping server. The option of choosing a server is hidden, and here’s how to bring it to the front:
@@ -127,22 +141,8 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/exit-game.png)
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -167,22 +167,17 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-evaluating-screencast-software-the-bandicamcamtasia-comparison-for-2024/"><u>[New] Evaluating Screencast Software The Bandicam/Camtasia Comparison for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-powerpoint-guide-to-adding-youtube-links-with-ease/"><u>[New] PowerPoint Guide to Adding YouTube Links with Ease</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-safety-features-evaluated-in-syma-x8c/"><u>[New] Safety Features Evaluated in Syma X8C</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-started-streaming-learn-obs-for-youtube-now/"><u>[New] Started Streaming? Learn OBS for Youtube Now</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-tap-into-instagrams-secret-stash-of-free-filters-with-search/"><u>[New] Tap Into Instagram’s Secret Stash of Free Filters with Search</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-discover-7-unforgettable-marriage-videos-on-vimeo/"><u>[Updated] 2024 Approved Discover 7 Unforgettable Marriage Videos on Vimeo</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-windows-movie-maker-for-animated-clips/"><u>[Updated] Mastering Windows Movie Maker for Animated Clips</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/1717164526120-updated-top-6-youtube-outro-makers-lots-of-free-options/"><u>[Updated] Top 6 YouTube Outro Makers-Lots of FREE Options</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-tackling-youtube-challenges-head-on-with-insights-from-hub-of-creators/"><u>2024 Approved Tackling YouTube Challenges Head-On with Insights From Hub of Creators</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/eye-appeal-the-top-3-ways-to-increase-instagram-visibility/"><u>Eye Appeal The Top 3 Ways to Increase Instagram Visibility</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/finding-hashtags-that-amplify-to-6k-views-for-2024/"><u>Finding #Hashtags That Amplify to 6K Views for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/flix-fortune-hashtags-for-high-impact-low-length-video-content-for-2024/"><u>Flix Fortune Hashtags for High Impact, Low-Length Video Content for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-a14-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy A14 5G</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-nokia-c12-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Nokia C12 FRP Bypass</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unmatched-download-experience-with-our-top-tools-list/"><u>In 2024, Unmatched Download Experience with Our Top Tools List</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/mastering-cc-license-application-a-comprehensive-guide-for-2024/"><u>Mastering CC License Application A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tips-to-curtail-anthems-hesitation/"><u>Tips to Curtail Anthem's Hesitation</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/deal-video-maker-apps-for-novice-iphone-and-android-users-for-2024/"><u>[New] Ideal Video Maker Apps for Novice iPhone and Android Users for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-prodigious-earnings-with-youtube-studio-for-every-gadget/"><u>[New] Prodigious Earnings with YouTube Studio for Every Gadget</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/300-discount-on-the-ultra-performa-omen-transcend-14-with-rtx-graphics-and-stunning-oled-screen/"><u>$300 Discount on the Ultra-Performa Omen Transcend 14 with RTX Graphics and Stunning OLED Screen</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-away-from-youtube-penalties/"><u>2024 Approved Navigating Away From YouTube Penalties</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-simple-steps-to-embed-youtube-playlists-on-any-website/"><u>2024 Approved The Simple Steps to Embed YouTube Playlists on Any Website</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-smart-way-to-extract-specific-segments-from-youtube/"><u>2024 Approved The Smart Way to Extract Specific Segments From YouTube</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/efficient-querying-techniques-with-xml-search-parameters-for-enhanced-information-extraction/"><u>Efficient Querying Techniques with XML Search Parameters for Enhanced Information Extraction</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-probing-into-youtube-discussions/"><u>In 2024, Probing Into YouTube Discussions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-simplify-your-video-sharing-with-our-youtube-upload-strategy/"><u>In 2024, Simplify Your Video Sharing with Our YouTube Upload Strategy</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-collaboration-for-effective-content-delivery/"><u>In 2024, YouTube Collaboration for Effective Content Delivery</u></a></li>
+<li><a href="https://article-tips.techidaily.com/prime-choices-purchasing-your-dreams-in-youtube-ringtones-for-2024/"><u>Prime Choices Purchasing Your Dreams in YouTube Ringtones for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/revolutionize-your-youtube-content-with-advanced-video-editing-in-sony-vegas-for-2024/"><u>Revolutionize Your YouTube Content with Advanced Video Editing in Sony Vegas for 2024</u></a></li>
 </ul></div>
 

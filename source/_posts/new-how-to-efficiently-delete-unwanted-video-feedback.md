@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Efficiently Delete Unwanted Video Feedback"
-date: 2024-10-11T16:27:30.387Z
-updated: 2024-10-12T17:15:52.551Z
+date: 2024-10-15T17:04:14.733Z
+updated: 2024-10-18T16:06:44.833Z
 tags:
   - ai video
   - ai youtube
@@ -48,10 +48,10 @@ In this section, we will tell you how you can do it from your desktop.
 You also have the option to report the comment or [hide the user from your channel](https://tools.techidaily.com/wondershare/filmora/download/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Delete All YouTube Comments from Mobile?
@@ -64,13 +64,6 @@ The steps to deleting someone else’s YouTube comments from your mobile are sim
 4. Once you reach the target comment, click on the three vertical dots at the bottom corner. There should be an option called Remove. Tap on it.
 5. This will create another dialog box on the mobile app where you have to click on Remove again to delete the comment.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Do You Delete Your Comments from YouTube?
 
 Have you accidentally posted something on a YouTuber’s channel? Are you anxious because you cannot find the comment and delete it?
@@ -82,6 +75,13 @@ Fear not. Read on to know how to **delete all comments you posted on someone els
 3. Once there, you need to access your Comment History page. To do this, you can click on the three horizontal lines at the top left corner of your YouTube homepage. Click on History. On the page that opens, click Comments from the panel on the right. It will direct you to your Comment History page. You can also access the YouTube comment history from [here](https://www.youtube.com/feed/history/comment%5Fhistory).
 1. When you reach the Comment History page, you will be able to find all comments you have ever posted. Scroll down to the comment you want to delete.
 2. Click on the three vertical dots that you see beside the target comment. You will find a Delete option. Tap on it, and confirm that you want to delete the comment. That completes the process. No more embarrassing comments!
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Do You Delete Your Comments from Your Phone?
 
@@ -96,6 +96,13 @@ If it is your video where the comment to be removed is, you can go to My Channel
 
 1. Once you locate the video, you need to find the comment you want to delete. On the YouTube app, you may need to scroll down for a while to do this.
 2. When you reach it, click on the three vertical dots at the bottom corner of your comment. You should see an option called Delete. Click on that. You need to confirm once more that you want to delete it, and the process will be complete.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Delete Other People’s Comments on Others’ Channels
 
@@ -136,13 +143,6 @@ You can also delete all comments you ever posted on any YouTube video by hiding 
 
 1. YouTube will now show you what will happen when you hide your channel. Check all the boxes to confirm that you understand, and then tap on Hide My Channel. YouTube will now delete all comments made by your account.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Final Thoughts
 
 YouTube can be an unsafe place with unwanted comments everywhere. In this blog, we tried to show how you can get rid of comments on your and on others’ YouTube accounts. The next time you see an offensive comment or post something mistakenly, don’t forget to try our tips and make YouTube a safe platform again.
@@ -150,10 +150,10 @@ YouTube can be an unsafe place with unwanted comments everywhere. In this blog, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -171,24 +171,21 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-photography-editing-tips-for-creating-stunning-photos/"><u>[New] 2024 Approved Photography Editing Tips for Creating Stunning Photos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-from-script-to-screen-cutting-edge-video-editing-for-youtubers/"><u>[New] From Script to Screen Cutting-Edge Video Editing for YouTubers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-quick-and-easy-iphone-screen-recording-tutorial/"><u>[Updated] 2024 Approved Quick & Easy IPhone Screen Recording Tutorial</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-control-youtube-audio-mobiledesktop-approach/"><u>[Updated] In 2024, Control YouTube Audio Mobile/Desktop Approach</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-elite-compilation-9-online-mic-recorders-ranked/"><u>[Updated] In 2024, The Elite Compilation 9 Online Mic Recorders Ranked</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-explore-free-youtube-pic-themes/"><u>2024 Approved Explore Free YouTube Pic Themes</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-live-video-breakthrough-perfect-screen-share-tactics-for-fb/"><u>2024 Approved Live Video Breakthrough Perfect Screen-Share Tactics for Fb</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/anonymous-no-more-bringing-back-fb-sessions/"><u>Anonymous No More Bringing Back Fb Sessions</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-gif-editor-how-to-make-animated-gif-images-online-from-youtube-video/"><u>In 2024, GIF Editor How to Make Animated GIF Images Online From YouTube Video</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-guidelines-to-frame-your-youtube-creation-flow/"><u>In 2024, Guidelines to Frame Your YouTube Creation Flow</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-millions-watch-but-how-much-do-they-earn/"><u>In 2024, Millions Watch, But How Much Do They Earn?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-quick-guide-to-youtube-trailer-making-with-filmora/"><u>In 2024, Quick Guide to YouTube Trailer Making with Filmora</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-guide-to-cost-effective-media-providers-online/"><u>In 2024, The Ultimate Guide to Cost-Effective Media Providers Online</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-realme-narzo-n55-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Realme Narzo N55</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/maximizing-video-quality-enabling-av1-on-youtube-for-2024/"><u>Maximizing Video Quality Enabling AV1 on YouTube for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/navigating-copyright-concerns-in-screencasting-youtube-videos-for-2024/"><u>Navigating Copyright Concerns in Screencasting YouTube Videos for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-correcting-windows-10-store-error-message-0x80073cf9/"><u>Troubleshooting and Correcting Windows 10 Store Error Message 0X80073CF9</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlock-video-potential-with-top-titler-ai-for-2024/"><u>Unlock Video Potential with Top Titler AI for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-fcpx-2024-tutorial-how-to-perfectly-sync-your-audio-and-video-tracks/"><u>Updated FCPX 2024 Tutorial How to Perfectly Sync Your Audio and Video Tracks</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/voiding-storage-woes-removing-youtube-media/"><u>[New] Avoiding Storage Woes Removing YouTube Media</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-how-to-optimize-your-steam-experience-with-a-switch-pro-controller-for-2024/"><u>[Updated] How to Optimize Your Steam Experience with a Switch Pro Controller for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/1-como-hacer-visibles-tus-imagenes-de-sistema-multicomputador-mediante-la-red-una-guia-paso-a-paso/"><u>1. Cómo Hacer Visibles Tus Imágenes De Sistema Multicomputador Mediante La Red: Una Guía Paso a Paso</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-guide-to-youtubes-latest-income-strategies/"><u>2024 Approved Guide to YouTube's Latest Income Strategies</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-study-smart-the-top-10-channel-selection-for-history-buffs/"><u>2024 Approved Study Smart The Top 10 Channel Selection for History Buffs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-step-by-step-journey-of-becoming-an-ez-grabber-user/"><u>2024 Approved The Step-By Step Journey of Becoming an EZ Grabber User</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unveiling-strategies-for-building-impressive-youtube-teaser-vids/"><u>2024 Approved Unveiling Strategies for Building Impressive YouTube Teaser Vids</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-iphone-screen-orientation-issues-get-full-control-back-in-landscape/"><u>Fixing iPhone Screen Orientation Issues – Get Full Control Back in Landscape</u></a></li>
+<li><a href="https://facebook.techidaily.com/guardian-platforms-for-secure-sharing/"><u>Guardian Platforms for Secure Sharing</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-force-youtube-cc-to-stay-on-and-get-more-views-for-2024/"><u>How to Force YouTube CC to Stay On and Get More Views for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-note-30-vip-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Note 30 VIP</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-tailor-youtube-thumbnails-for-maximum-impact-for-2024/"><u>How to Tailor YouTube Thumbnails for Maximum Impact for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-playbook-for-earning-via-youtube-shorts/"><u>In 2024, The Ultimate Playbook for Earning via YouTube Shorts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/is-it-illegal-to-document-video-on-youtube-platform-in-2024/"><u>Is It Illegal to Document Video on YouTube Platform, In 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-metaverse-meme-compendium-ideas-galore-for-2024/"><u>The Ultimate Metaverse Meme Compendium Ideas Galore for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/war-thunder-2024-stability-issues-proven-fixes-for-constant-game-crashes-now/"><u>War Thunder 2024 Stability Issues? Proven Fixes for Constant Game Crashes Now!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting DirectX Drawing Issues: A Comprehensive Guide"
-date: 2024-10-07T18:06:51.893Z
-updated: 2024-10-12T22:06:11.972Z
+date: 2024-10-11T16:53:16.123Z
+updated: 2024-10-18T20:54:26.285Z
 tags:
   - win11
   - win10
@@ -30,16 +30,10 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 * [Fix 9: Try Phasmophobia beta version](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Restart your computer
@@ -58,27 +52,20 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Under the**Installed Files** tab, click**Verify integrity of game files** .
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Restart the game after the process is complete.
 
 If Phasmophobia still crashes, move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Delete corrupted game files
 
@@ -92,13 +79,6 @@ Game crashing issues might happen when your game files are corrupted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-19-47.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Delete everything except these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-44-34.png)
@@ -106,13 +86,6 @@ Game crashing issues might happen when your game files are corrupted.
 5) Relaunch the game to test the issue.
 
 If the game still crashes, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -132,17 +105,17 @@ If the game still crashes, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -181,9 +154,23 @@ If the crash still occurs, go ahead with the next fix.
 
 If Phasmophobia crashing issues persist, try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7: Stop overlocking your GPU/CPU
 
  If you’ve manually overclocked your GPU or CPU, revert it to its default GPU/CPU clock. And if you are using overclocking software, such as MSI Afterburner, please also disable the software when running the game.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Disable fullscreen optimizations
 
@@ -200,6 +187,13 @@ If Phasmophobia crashing issues persist, try the next fix below.
  4) Relaunch the game to test your issue.
 
 If the problem still exists, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 9: Try Phasmophobia beta version
 
@@ -232,24 +226,24 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-off-switch-for-instagrams-igtv/"><u>[New] In 2024, Off Switch for Instagram's IGTV</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-quick-snapshot-the-essential-skill-for-zoom-meetings-for-2024/"><u>[New] Quick Snapshot The Essential Skill for Zoom Meetings for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-instant-understanding-of-keying-concepts/"><u>2024 Approved Instant Understanding of Keying Concepts</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-optimizing-personal-video-experience-building-an-organized-watch-later-list/"><u>2024 Approved Optimizing Personal Video Experience Building an Organized 'Watch Later' List</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-say-no-to-latency-turn-on-av1-in-youtube-settings/"><u>2024 Approved Say No to Latency Turn On AV1 in YouTube Settings</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-guide-to-cinematography-on-youtube/"><u>2024 Approved The Ultimate Guide to Cinematography on YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-how-to-for-youtube-ad-creators/"><u>2024 Approved The Ultimate How-To for YouTube Ad Creators</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722968991077-at-least-one-representative-each-of-scientists-environmental-interests-and-conservation-interests/"><u>At Least One Representative Each of Scientists, Environmental Interests, and Conservation Interests.</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-explore-engaging-exchange-zones/"><u>In 2024, Explore Engaging Exchange Zones</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-plotting-the-pathway-for-engaging-youtube-content/"><u>In 2024, Plotting the Pathway for Engaging YouTube Content</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-strategic-steps-for-effective-annotations-and-cards-on-your-youtube-videos/"><u>In 2024, Strategic Steps for Effective Annotations & Cards on Your YouTube Videos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-guide-to-earning-through-streams-dm-and-yo-unveiled/"><u>In 2024, The Guide to Earning Through Streams Dm & Yo Unveiled</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-evaluation-of-the-heimvision-sunrise-led-wake-up-clock-with-advanced-light-treatment/"><u>In-Depth Evaluation of the HeimVision Sunrise LED Wake-Up Clock with Advanced Light Treatment</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-depth-guide-to-mastering-your-discord-broadcasts/"><u>In-Depth Guide to Mastering Your Discord Broadcasts</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-essential-techniques-for-striking-podcast-cover-designs-your-step-by-step-guide/"><u>New In 2024, Essential Techniques for Striking Podcast Cover Designs Your Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-guide-how-to-update-device-drivers-on-windows-11/"><u>Quick Guide: How to Update Device Drivers on Windows 11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-to-updating-your-intel-iris-plus-graphics-630640-series/"><u>Step-by-Step Guide to Updating Your Intel Iris Plus Graphics - 630/640 Series</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-optimal-yt-thumbnails-aspect-ratios-decoded/"><u>[New] Optimal YT Thumbnails Aspect Ratios Decoded</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-swiftly-uncover-unfollowers-on-instagram/"><u>[New] Swiftly Uncover Unfollowers on Instagram</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-efficient-solutions-for-youtube-short-snags/"><u>[Updated] Efficient Solutions for YouTube Short Snags</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-meizu-21-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-studio-to-stage-stream-your-mp3-tunes-on-youtube/"><u>2024 Approved From Studio to Stage Stream Your MP3 Tunes on YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-imagesplitter-pro/"><u>2024 Approved ImageSplitter Pro</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-laptop-and-mobile-commencing-a-google-meet-session/"><u>2024 Approved Laptop & Mobile Commencing a Google Meet Session</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-creator-studio-your-expert-manual/"><u>2024 Approved Navigating Creator Studio Your Expert Manual</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-perfect-pixels-pro-tiktok-video-tricks-of-the-trade/"><u>2024 Approved Perfect Pixels Pro TikTok Video Tricks of the Trade</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-streaming-google-meet-to-youtube-a-compreenas-step-by-step-guide/"><u>2024 Approved Streaming Google Meet to YouTube - A Compreenas Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-10-fixes-for-vanishing-youtube-shorts-thumbnails/"><u>2024 Approved Top 10 Fixes for Vanishing YouTube Shorts Thumbnails</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unlock-hidden-features-of-the-youtube-creator-space/"><u>2024 Approved Unlock Hidden Features of the YouTube Creator Space</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/crossword-becomes-crosswords/"><u>Crossword Becomes Crosswords</u></a></li>
+<li><a href="https://windows11.techidaily.com/has-windows-subsystem-shifted-linux-desktops/"><u>Has Windows Subsystem Shifted Linux Desktops?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-effortless-guide-to-share-your-videos-as-shorts-on-computers-and-phones/"><u>In 2024, Effortless Guide to Share Your Videos as Shorts on Computers & Phones</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-itel-s23plus-by-drfone-android/"><u>In 2024, How to Bypass FRP on Itel S23+?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-prime-hashtag-combinations-driving-view-count-higher/"><u>In 2024, Prime Hashtag Combinations Driving View Count Higher</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-depth-football-footage-top-youtube-infographics-for-2024/"><u>In-Depth Football Footage Top YouTube Infographics for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-body-cameras-a-comprehensive-guide/"><u>Top Rated Body Cameras : A Comprehensive Guide</u></a></li>
 </ul></div>
 
