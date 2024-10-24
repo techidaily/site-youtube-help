@@ -1,7 +1,7 @@
 ---
 title: "\"[New] How to Illuminate  A Guide to Great Vlog Images\""
-date: 2024-10-17T19:45:57.006Z
-updated: 2024-10-18T20:51:17.033Z
+date: 2024-10-18T14:18:20.221Z
+updated: 2024-10-24T11:01:57.419Z
 tags:
   - ai video
   - ai youtube
@@ -44,14 +44,14 @@ The **fill light** is less bright than the primary source of light and it is pla
 
 The final step to creating three point lighting is to set up another light behind you. This is your 'Backlight', and it will help you stand out from your background. **Backlight or Hair light** is always placed behind and above the subject to create separation between the subject in the shot and the background. This basic lighting technique can be applied in almost every scene you shoot, which is why it is important to keep an open mind and to continue experimenting with possible light setups.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Watch Video! Top Lighting Tips for Vlogging
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Lightning Tips for Aspiring YouTube Videographers
 
@@ -80,10 +80,10 @@ Sets of reflectors are often under $50, so they are fairly affordable. However, 
 ![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips01.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If your strong main light is too hard on your eyes then you can use a translucent 'reflector' to soften it. Set your translucent reflector, or other screen, up in front of your main light to diffuse it.
@@ -93,10 +93,10 @@ If you are hosting a **beauty vlog** then you might consider a slightly differen
 ![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips02.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If you are using all of the lighting options available to you and your video still looks too dark then you can try brightening it by **opening up the aperture of your camera** lens/setting a lower f-stop. Letting more light into your camera can help your footage look brighter, although you also run the risk of making things look overexposed/ washed out if you are not careful.
@@ -106,10 +106,10 @@ If you are stuck shooting in **low light conditions** it is best to use a lens w
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -127,19 +127,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-from-camera-clicks-to-youtube-views-mobiles-in-cinematic-success/"><u>[New] From Camera Clicks to YouTube Views Mobiles in Cinematic Success</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-how-to-watch-multiple-youtube-videos-at-one-time/"><u>[New] How To Watch Multiple YouTube Videos at One Time?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-navigating-channel-disabling-pc-and-phone-guide/"><u>[New] Navigating Channel Disabling PC & Phone Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-ranking-the-most-rapidly-expanding-youtube-talks-of-inspiration/"><u>[New] Ranking the Most Rapidly Expanding YouTube Talks of Inspiration</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-guide-to-growth-and-glitter-in-video-ventures/"><u>[Updated] The Ultimate Guide to Growth & Glitter in Video Ventures</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhanced-clarity-in-outriders-addressing-and-fixing-blurry-screenshots/"><u>Enhanced Clarity in Outriders: Addressing and Fixing Blurry Screenshots</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-finding-the-ideal-format-for-your-youtube-videos/"><u>In 2024, Finding the Ideal Format for Your YouTube Videos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-from-creation-to-consumption-igtv-vs-youtube-explained-for-you/"><u>In 2024, From Creation to Consumption IGTV Vs. YouTube Explained for You</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-best-choice-high-definition-screen-capturing-apps/"><u>In 2024, The Best Choice High-Definition Screen Capturing Apps</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/quickmemes-your-meme-toolkit-for-2024/"><u>QuickMemes Your Meme Toolkit for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-unveiled-the-essence-of-facebook-twitter-instagram-and-youtube/"><u>Social Media Unveiled: The Essence of Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://blog-min.techidaily.com/the-next-big-leap-in-computing-how-apples-integration-of-generative-ai-could-transform-the-mac-user-journey/"><u>The Next Big Leap in Computing: How Apple's Integration of Generative AI Could Transform the Mac User Journey</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/ultimate-resource-list-of-3d-fonts-online-for-2024/"><u>Ultimate Resource List of 3D Fonts Online for 2024</u></a></li>
-<li><a href="https://discover-best.techidaily.com/winx-mobile-video-converter-androidmkv-m2ts-avi-wmv/"><u>WinX Mobile Video Converter使用: AndroidデバイスへのMKV, M2TS, AVI, WMV動画変換ガイド</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-crafting-musical-instagram-narratives-without-for-2024/"><u>[Updated] Crafting Musical Instagram Narratives (Without) for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-uniting-social-media-and-television-with-fb-live/"><u>[Updated] In 2024, Uniting Social Media & Television with FB Live</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-fiscal-footprint-of-the-mr-beast-empire/"><u>2024 Approved Fiscal Footprint of the Mr. Beast Empire</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-master-your-youtube-empire-with-creator-studio-tools/"><u>2024 Approved Master Your YouTube Empire with Creator Studio Tools</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-youtube-music-eclecticism/"><u>2024 Approved Navigating YouTube Music Eclecticism</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-investors-handbook-for-monetized-youtubers/"><u>2024 Approved The Investor's Handbook for Monetized Youtubers</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-from-iphone-15-pro-max-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 From iPhone 15 Pro Max</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s24-ultra-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Samsung Galaxy S24 Ultra Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/icy-images-cozier-cinematics-best-bgs-selection-for-2024/"><u>Icy Images, Cozier Cinematics Best Bgs Selection for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-ancient-roguelike-tactics-vs-innovative-approaches/"><u>In 2024, Ancient Roguelike Tactics Vs. Innovative Approaches</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-exploring-youtubes-regular-pay-structure/"><u>In 2024, Exploring YouTube’s Regular Pay Structure</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-free-profile-imagery-for-youtubers/"><u>In 2024, Free Profile Imagery for YouTubers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-guide-to-streamlined-subscription-links-for-video-channels/"><u>In 2024, Guide to Streamlined Subscription Links for Video Channels</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mirrorless-vs-dslr-cameras-which-is-better-for-videos/"><u>In 2024, Mirrorless Vs. DSLR Cameras Which Is Better for Videos?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastering-the-streets-with-the-gotrax-gxl-v2-an-electric-scooter-review-for-fast-travelers/"><u>Mastering the Streets with the Gotrax GXL V2: An Electric Scooter Review for Fast Travelers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-startup-problems-solutions-for-your-computer-failed-to-boot/"><u>Overcoming Startup Problems: Solutions for 'Your Computer Failed to Boot'</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/smooth-techniques-painless-ios-screen-recordings/"><u>Smooth Techniques Painless iOS Screen Recordings</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/user-insights-on-the-imperfect-and-overpriced-microsoft-surface-duo-experience/"><u>User Insights on the Imperfect and Overpriced Microsoft Surface Duo Experience</u></a></li>
 </ul></div>
 
