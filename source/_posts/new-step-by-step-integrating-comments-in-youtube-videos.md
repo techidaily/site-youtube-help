@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step  Integrating Comments in YouTube Videos\""
-date: 2024-10-20T23:28:34.195Z
-updated: 2024-10-23T16:05:41.582Z
+date: 2024-10-25T21:46:21.266Z
+updated: 2024-10-30T10:11:12.156Z
 tags:
   - ai video
   - ai youtube
@@ -68,10 +68,16 @@ YouTube **Cards** are similar to annotations but more interactive. They allow th
 * Apply changes and exit
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to add YouTube annotations
@@ -85,10 +91,10 @@ YouTube Annotation is addition of a text layer, link or hotspots over your video
 ![](https://images.wondershare.com/filmora/article-images/add-annotations-to-youtube-video.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * On the right panel click on "+ Add Element" and select the kind of annotation you want to add
@@ -97,10 +103,10 @@ YouTube Annotation is addition of a text layer, link or hotspots over your video
 ![](https://images.wondershare.com/filmora/article-images/add-annotation-to-youtube-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Apply changes
@@ -142,10 +148,10 @@ No matter what kind of annotations you are using, you should never use more than
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -163,14 +169,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-mastering-the-art-of-screen-sharing-in-zoom/"><u>[New] In 2024, Mastering the Art of Screen Sharing in Zoom</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-maximize-visibility-resizing-your-youtube-images-effectively/"><u>[New] Maximize Visibility Resizing Your YouTube Images Effectively</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-harmonizing-cityscapes-and-nature-the-role-of-green-spaces/"><u>2024 Approved Harmonizing Cityscapes and Nature The Role of Green Spaces</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-simple-screen-recorder-for-windows-10/"><u>2024 Approved Simple Screen Recorder for Windows 10</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-sync-your-device-pace-youtube-audio-control-guide/"><u>2024 Approved Sync Your Device Pace YouTube Audio Control Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-on-the-preeminent-home-monitoring-device-ring-video-doorbell-2/"><u>Expert Analysis on the Preeminent Home Monitoring Device - Ring Video Doorbell 2.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-stream-drivers-fast-and-easy-installation-guide/"><u>HP Stream Drivers - Fast and Easy Installation Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/joke-junctions-brainstorming-7-hilarious-youtube-storylines-for-2024/"><u>Joke Junctions Brainstorming 7 Hilarious YouTube Storylines for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/secure-spaces-in-the-cyberspace-jungle/"><u>Secure Spaces in the Cyberspace Jungle</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-clean-slate-creations-guide-to-the-psx-eraser-tool/"><u>[New] In 2024, Clean Slate Creations Guide to the PSX Eraser Tool</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-music-maestro-uploading-beats-to-your-youtube/"><u>[New] Music Maestro Uploading Beats to Your YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-quick-fortnite-tile-sketch-a-30-second-guide/"><u>[New] Quick Fortnite Tile Sketch A 30-Second Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-thrills-that-dont-involve-los-angeles-lives/"><u>[Updated] 2024 Approved Thrills That Don't Involve Los Angeles Lives</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-engineering-peak-canon-sequential-films/"><u>[Updated] In 2024, Engineering Peak Canon Sequential Films</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-personalized-vr-retail-journeys/"><u>[Updated] Personalized VR Retail Journeys</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-investigating-spotlighted-comments-online/"><u>2024 Approved Investigating Spotlighted Comments Online</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-google-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Google</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-insightful-rank-trackers-unlock-your-videos-potential/"><u>In 2024, Insightful Rank Trackers - Unlock Your Video's Potential</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-mastery-in-minimalism-essential-thumbnail-font-selection/"><u>In 2024, Mastery in Minimalism Essential Thumbnail Font Selection</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-establishing-a-signature-persona-on-youtube/"><u>In 2024, Step-by-Step Establishing a Signature Persona on YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-lenses-for-professional-videography-for-2024/"><u>Navigating Lenses for Professional Videography for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-more-laggy-windows-11/"><u>No More Laggy Windows 11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/thorough-examination-of-gecata-recorder/"><u>Thorough Examination of Gecata Recorder</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-installing-custom-fonts-on-your-ios-device/"><u>Ultimate Guide: Installing Custom Fonts on Your iOS Device</u></a></li>
 </ul></div>
 

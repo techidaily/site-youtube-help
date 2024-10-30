@@ -1,7 +1,7 @@
 ---
 title: "\"[New] How to Illuminate  A Guide to Great Vlog Images\""
-date: 2024-10-18T14:18:20.221Z
-updated: 2024-10-24T11:01:57.419Z
+date: 2024-10-25T05:58:45.781Z
+updated: 2024-10-30T05:50:06.374Z
 tags:
   - ai video
   - ai youtube
@@ -44,13 +44,20 @@ The **fill light** is less bright than the primary source of light and it is pla
 
 The final step to creating three point lighting is to set up another light behind you. This is your 'Backlight', and it will help you stand out from your background. **Backlight or Hair light** is always placed behind and above the subject to create separation between the subject in the shot and the background. This basic lighting technique can be applied in almost every scene you shoot, which is why it is important to keep an open mind and to continue experimenting with possible light setups.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Watch Video! Top Lighting Tips for Vlogging
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Lightning Tips for Aspiring YouTube Videographers
@@ -79,13 +86,6 @@ Sets of reflectors are often under $50, so they are fairly affordable. However, 
 
 ![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips01.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If your strong main light is too hard on your eyes then you can use a translucent 'reflector' to soften it. Set your translucent reflector, or other screen, up in front of your main light to diffuse it.
 
 If you are hosting a **beauty vlog** then you might consider a slightly different set up. Instead of having your main light off to one side set it up directly in front of you so your entire face is lit evenly. It is still a good idea to use fill lights in this set up to give you some dimension, and a backlight is even more essential for helping you stand out from the background. The even light hitting your face will also make you look flat if you do not use a backlight.
@@ -93,10 +93,10 @@ If you are hosting a **beauty vlog** then you might consider a slightly differen
 ![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips02.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If you are using all of the lighting options available to you and your video still looks too dark then you can try brightening it by **opening up the aperture of your camera** lens/setting a lower f-stop. Letting more light into your camera can help your footage look brighter, although you also run the risk of making things look overexposed/ washed out if you are not careful.
@@ -106,10 +106,10 @@ If you are stuck shooting in **low light conditions** it is best to use a lens w
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -127,24 +127,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-crafting-musical-instagram-narratives-without-for-2024/"><u>[Updated] Crafting Musical Instagram Narratives (Without) for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-uniting-social-media-and-television-with-fb-live/"><u>[Updated] In 2024, Uniting Social Media & Television with FB Live</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-fiscal-footprint-of-the-mr-beast-empire/"><u>2024 Approved Fiscal Footprint of the Mr. Beast Empire</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-master-your-youtube-empire-with-creator-studio-tools/"><u>2024 Approved Master Your YouTube Empire with Creator Studio Tools</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-youtube-music-eclecticism/"><u>2024 Approved Navigating YouTube Music Eclecticism</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-investors-handbook-for-monetized-youtubers/"><u>2024 Approved The Investor's Handbook for Monetized Youtubers</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-from-iphone-15-pro-max-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 From iPhone 15 Pro Max</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s24-ultra-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Samsung Galaxy S24 Ultra Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/icy-images-cozier-cinematics-best-bgs-selection-for-2024/"><u>Icy Images, Cozier Cinematics Best Bgs Selection for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-ancient-roguelike-tactics-vs-innovative-approaches/"><u>In 2024, Ancient Roguelike Tactics Vs. Innovative Approaches</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-exploring-youtubes-regular-pay-structure/"><u>In 2024, Exploring YouTube’s Regular Pay Structure</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-free-profile-imagery-for-youtubers/"><u>In 2024, Free Profile Imagery for YouTubers</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-guide-to-streamlined-subscription-links-for-video-channels/"><u>In 2024, Guide to Streamlined Subscription Links for Video Channels</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mirrorless-vs-dslr-cameras-which-is-better-for-videos/"><u>In 2024, Mirrorless Vs. DSLR Cameras Which Is Better for Videos?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/mastering-the-streets-with-the-gotrax-gxl-v2-an-electric-scooter-review-for-fast-travelers/"><u>Mastering the Streets with the Gotrax GXL V2: An Electric Scooter Review for Fast Travelers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-startup-problems-solutions-for-your-computer-failed-to-boot/"><u>Overcoming Startup Problems: Solutions for 'Your Computer Failed to Boot'</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/smooth-techniques-painless-ios-screen-recordings/"><u>Smooth Techniques Painless iOS Screen Recordings</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/user-insights-on-the-imperfect-and-overpriced-microsoft-surface-duo-experience/"><u>User Insights on the Imperfect and Overpriced Microsoft Surface Duo Experience</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-fists-fighting-fames-flame-for-2024/"><u>[New] Fists Fighting Fame's Flame for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-pros-playbook-for-top-10-music-videos-that-define-genres-for-2024/"><u>[New] The Pros' Playbook for Top 10 Music Videos That Define Genres for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-explore-the-power-of-pip-on-modern-edge-browser/"><u>[Updated] 2024 Approved Explore the Power of PIP on Modern Edge Browser</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-love-in-full-view-discovering-youtube-and-vimeos-top-7-wedding-movies/"><u>2024 Approved Love in Full View Discovering Youtube & Vimeo's Top 7 Wedding Movies</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-maximizing-youtube-gains-a-comprehensive-approach-for-mobile-monetization/"><u>2024 Approved Maximizing YouTube Gains A Comprehensive Approach for Mobile Monetization</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-uncovering-the-dynamics-of-youtubes-post-upload-system/"><u>2024 Approved Uncovering the Dynamics of YouTube's Post-Upload System</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/abbyy-drives-rochling-towards-unified-financial-reporting-with-sap-integration/"><u>ABBYY Drives Röchling Towards Unified Financial Reporting with SAP Integration</u></a></li>
+<li><a href="https://extra-information.techidaily.com/capturing-every-moment-in-motion-with-polaroids-new-release-for-2024/"><u>Capturing Every Moment in Motion with Polaroid's New Release for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cattura-e-converte-le-immagini-di-rw2-in-formato-jpeg-senza-costo-con-il-servizio-online-gratuito-di-movavi/"><u>Cattura E Converte Le Immagini Di RW2 in Formato JPEG Senza Costo Con Il Servizio OnLine Gratuito Di Movavi</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/executing-a-successful-facebook-live-from-previous-recordings/"><u>Executing a Successful Facebook Live From Previous Recordings</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-epson-wf-27n60-driver-installed-on-windows-11108/"><u>Get Your Epson WF-27n60 Driver Installed on Windows 11/10/8</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-often-can-creators-expect-to-be-paid-by-youtube-in-2024/"><u>How Often Can Creators Expect to Be Paid by YouTube, In 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-apple-iphone-6s-by-drfone-ios/"><u>How to Unlock Verizon Apple iPhone 6s</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-football-vids-premier-insights-into-youtube-tracks/"><u>In 2024, Football Vids Premier Insights Into YouTube Tracks</u></a></li>
 </ul></div>
 

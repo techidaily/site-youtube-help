@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting and Improving FPS Issues: Master Tips for a Better Outriders Experience"
-date: 2024-10-21T18:41:58.822Z
-updated: 2024-10-24T12:28:04.605Z
+date: 2024-10-28T11:05:27.262Z
+updated: 2024-10-29T16:36:36.493Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Check your Internet connection
 
  The first thing you can do is to make sure your Internet connection is valid and able to connect to Apex Legends servers. A few things you can look for to check your Internet connection go as below:
@@ -50,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 * If you have low-speed Internet, it could lead to an unstable Internet connection. You can google “Internet speed test” and pick a tool to**test your Internet speed** . However, when your Internet connection is unreasonably slow, consider contacting your Internet provider for help.
 
  If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Install all the game updates
 
@@ -71,38 +71,38 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 3. Right-click**the network you’re using** , then click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
 
@@ -125,10 +125,16 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
@@ -167,17 +173,24 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-strategies-to-achieve-professional-3d-text-in-photoshoot/"><u>[New] Expert Strategies to Achieve Professional 3D Text in Photoshoot</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-swiftly-switch-srt-and-text-files-with-this-easy-guide-for-2024/"><u>[Updated] Swiftly Switch SRT and Text Files with This Easy Guide for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-from-script-to-screen-building-a-youtube-trailer-in-filmora/"><u>2024 Approved From Script to Screen Building a YouTube Trailer in Filmora</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-professional-tips-for-enhancing-your-youtube-videos-with-captions/"><u>2024 Approved Professional Tips for Enhancing Your YouTube Videos with Captions</u></a></li>
-<li><a href="https://win-able.techidaily.com/elder-scrolls-online-update-successfully-addresses-blackwood-regions-lag-problems/"><u>Elder Scrolls Online Update Successfully Addresses Blackwood Region's Lag Problems</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/groan-inducing-humor-in-hits-for-2024/"><u>Groan-Inducing Humor in Hits for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-leading-8-software-for-linux-video-editors/"><u>In 2024, Leading 8 Software for Linux Video Editors</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-strategies-for-overcoming-8-typical-newbie-youtube-errors/"><u>In 2024, Strategies for Overcoming 8 Typical Newbie YouTube Errors</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-what-is-behind-the-blue-icon-that-graces-your-messenger-chat-window/"><u>In 2024, What Is Behind the Blue Icon that Graces Your Messenger Chat Window?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ating-youtubes-revenue-tools-for-mobile-creators/"><u>Navigating YouTube's Revenue Tools for Mobile Creators</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-playstation-power-on-your-home-computer-system/"><u>Unleash PlayStation Power on Your Home Computer System</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-building-authority-in-education-10-tips-for-youtube-channel-creation-for-2024/"><u>[New] Building Authority in Education 10 Tips for YouTube Channel Creation for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-enhance-vr-experience-advanced-gopro-4k-editing/"><u>[New] In 2024, Enhance VR Experience Advanced GoPro 4K Editing</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-how-to-make-better-facebook-video-ads/"><u>[Updated] How to Make Better Facebook Video Ads</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-explore-the-world-in-high-definition-on-youtube/"><u>2024 Approved Explore the World in High Definition on YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-step-up-your-video-game-expert-endorsed-cost-free-intro-creators/"><u>2024 Approved Step Up Your Video Game Expert-Endorsed, Cost-Free Intro Creators</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-expert-market-approach-rapid-eradication-on-youtube/"><u>2024 Approved The Expert' Market Approach Rapid Eradication on YouTube</u></a></li>
+<li><a href="https://win-community.techidaily.com/come-clonare-un-hard-disk-di-windows-server-2011-tutorial-passo-passo-per-hddssd/"><u>Come Clonare Un Hard Disk Di Windows Server 2011: Tutorial Passo-Passo per HDD/SSD</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/discover-lenovos-cutting-edge-yoga-portable-computing-worldwide-release-featuring-37l-mini-pc-and-advanced-14th-gen-intel-technology-echoing-the-classic-loo87/"><u>Discover Lenovo's Cutting-Edge Yoga Portable Computing: Worldwide Release Featuring 3.7L Mini PC and Advanced 14Th Gen Intel Technology, Echoing the Classic Look of ThinkCenters</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/engineering-a-touching-tiktok-conclusion/"><u>Engineering a Touching TikTok Conclusion</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mov-movies-on-redmi-note-13-proplus-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Failed to play MOV movies on Redmi Note 13 Pro+ 5G</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/fast-tip-mastering-green-screen-techniques-for-2024/"><u>Fast Tip Mastering Green Screen Techniques for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-become-a-youtube-partner-you-need-10000-views-now/"><u>In 2024, How to Become a YouTube Partner - You Need 10,000 Views Now</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-maximizing-visibility-key-elements-in-youtube-thumbnail-design/"><u>In 2024, Maximizing Visibility Key Elements in YouTube Thumbnail Design</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-proven-youtube-intra-creation-strategies-free-edition/"><u>In 2024, Proven YouTube Intra Creation Strategies, Free Edition</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-stream-titling-service/"><u>In 2024, Stream Titling Service</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mastering-the-art-of-customizing-your-youtube-channel-url-for-2024/"><u>Mastering the Art of Customizing Your YouTube Channel URL for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/premium-top-10-screen-recorders-for-mac-for-2024/"><u>Premium Top 10 Screen Recorders for Mac for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/unmasking-cryptic-stability-the-stablecoin-phenomenon/"><u>Unmasking Cryptic Stability: The Stablecoin Phenomenon</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-vivo-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Vivo V30 | Dr.fone</u></a></li>
 </ul></div>
 
