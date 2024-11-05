@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step  Integrating Comments in YouTube Videos\""
-date: 2024-10-25T21:46:21.266Z
-updated: 2024-10-30T10:11:12.156Z
+date: 2024-10-30T23:14:25.498Z
+updated: 2024-11-05T04:35:15.281Z
 tags:
   - ai video
   - ai youtube
@@ -68,16 +68,10 @@ YouTube **Cards** are similar to annotations but more interactive. They allow th
 * Apply changes and exit
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to add YouTube annotations
@@ -91,10 +85,10 @@ YouTube Annotation is addition of a text layer, link or hotspots over your video
 ![](https://images.wondershare.com/filmora/article-images/add-annotations-to-youtube-video.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * On the right panel click on "+ Add Element" and select the kind of annotation you want to add
@@ -103,10 +97,10 @@ YouTube Annotation is addition of a text layer, link or hotspots over your video
 ![](https://images.wondershare.com/filmora/article-images/add-annotation-to-youtube-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Apply changes
@@ -148,10 +142,10 @@ No matter what kind of annotations you are using, you should never use more than
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -169,20 +163,21 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-clean-slate-creations-guide-to-the-psx-eraser-tool/"><u>[New] In 2024, Clean Slate Creations Guide to the PSX Eraser Tool</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-music-maestro-uploading-beats-to-your-youtube/"><u>[New] Music Maestro Uploading Beats to Your YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-quick-fortnite-tile-sketch-a-30-second-guide/"><u>[New] Quick Fortnite Tile Sketch A 30-Second Guide</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-thrills-that-dont-involve-los-angeles-lives/"><u>[Updated] 2024 Approved Thrills That Don't Involve Los Angeles Lives</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-engineering-peak-canon-sequential-films/"><u>[Updated] In 2024, Engineering Peak Canon Sequential Films</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-personalized-vr-retail-journeys/"><u>[Updated] Personalized VR Retail Journeys</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-investigating-spotlighted-comments-online/"><u>2024 Approved Investigating Spotlighted Comments Online</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-google-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Google</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-insightful-rank-trackers-unlock-your-videos-potential/"><u>In 2024, Insightful Rank Trackers - Unlock Your Video's Potential</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-mastery-in-minimalism-essential-thumbnail-font-selection/"><u>In 2024, Mastery in Minimalism Essential Thumbnail Font Selection</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-establishing-a-signature-persona-on-youtube/"><u>In 2024, Step-by-Step Establishing a Signature Persona on YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/navigating-lenses-for-professional-videography-for-2024/"><u>Navigating Lenses for Professional Videography for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-more-laggy-windows-11/"><u>No More Laggy Windows 11</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/thorough-examination-of-gecata-recorder/"><u>Thorough Examination of Gecata Recorder</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-installing-custom-fonts-on-your-ios-device/"><u>Ultimate Guide: Installing Custom Fonts on Your iOS Device</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-maximize-your-income-through-strategic-use-of-youtube-shorts/"><u>[New] Maximize Your Income Through Strategic Use of YouTube Shorts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-pixel-powerhouse-the-ultimate-game-collection/"><u>[New] Pixel Powerhouse The Ultimate Game Collection</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-scrutinizing-splitcam-a-leader-in-video-tech-for-2024/"><u>[New] Scrutinizing SplitCam - A Leader in Video Tech for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-palette-perfection-the-science-of-video-chromaticity/"><u>2024 Approved Palette Perfection The Science of Video Chromaticity</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-turn-your-tactical-talks-into-a-thriving-youtube-trade/"><u>2024 Approved Turn Your Tactical Talks Into a Thriving YouTube Trade</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210347531-9782226388599-a-la-recherche-de-la-vie-interieure/"><u>A la recherche de la vie intérieure | Free Book</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/d-video-rankings-top-seo-gadgets-revealed/"><u>Ascend Video Rankings – Top SEO Gadgets Revealed</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-on-iphone-xr-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud on iPhone XR Safe and Legal</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/examining-the-efficacy-of-dji-mavic-mini-fpv-technology/"><u>Examining the Efficacy of DJi Mavic Mini FPV Technology</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-f14-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy F14 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-iphone-13-pro-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On iPhone 13 Pro without Password?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-android-sound-logging-without-need-for-rooting/"><u>In 2024, Android Sound Logging Without Need for Rooting</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-productivity-in-duality-employment-and-video-creation/"><u>In 2024, Productivity in Duality Employment & Video Creation</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-rhythms-riches-the-ultimate-dj-templates-collection/"><u>In 2024, Rhythm's Riches The Ultimate DJ Templates Collection</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-essential-guide-to-understanding-youtubes-earnings-mechanics-cpm/"><u>In 2024, The Essential Guide to Understanding YouTube's Earnings Mechanics (CPM)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/spark-the-flame-top-10-motivational-films-for-you-for-2024/"><u>Spark the Flame Top 10 Motivational Films for You for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Stability: Prevent Guardians of the Galaxy From Collapsing on Your PC with Our Tricks"
-date: 2024-10-26T03:29:42.175Z
-updated: 2024-10-29T16:18:12.116Z
+date: 2024-10-31T23:35:44.480Z
+updated: 2024-11-04T16:27:28.888Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ Although Marvel’s Guardians of the Galaxy has received generally positive revi
 6. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Check the system requirements
 
@@ -81,16 +88,16 @@ Marvel’s Guardians of the Galaxy system requirements
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
@@ -100,13 +107,6 @@ Marvel’s Guardians of the Galaxy system requirements
  Launch Marvel’s Guardians of the Galaxy after the verifying process is complete. See if it crashes again.
 
 If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Install the latest game patch
 
@@ -127,23 +127,31 @@ If this issue persists, try the next fix, below.
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’re using other apps with overlay features (e.g. Nvidia GeForce Experience, Discord, Twitch, etc.), make sure you’ve disabled the in-game overlay in those apps feature.
 
  Run the game and see if it crashes again. If this fix doesn’t work, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Temporarily disable anti-virus software
 
@@ -175,15 +183,22 @@ If this fix didn’t work, try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. After the scanning process is completed, Fortect will provide you with the PC scan summary.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If there’s any issue, then click the Start Repair button on the lower-right corner, and with just one click, Fortect will start to repair the Windows OS on your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Fortect-start-repair.png)  
  Note: This is a paid service with a 60-day Money-Back Guarantee, which means that you’ll need to buy the full version to start repair.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Perform a clean boot
@@ -194,42 +209,21 @@ If this fix didn’t work, try the next fix, below.
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
@@ -269,15 +263,19 @@ If this fix didn’t work, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-free-youtube-end-screen-templates-plushow-tos/"><u>[New] Free YouTube End Screen Templates [+How-Tos]</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-innovative-stop-motion-cinema-ranking-the-best-15/"><u>[New] Innovative Stop-Motion Cinema Ranking the Best 15</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-ultimate-guide-to-the-best-10-video-saving-devices/"><u>[Updated] 2024 Approved Ultimate Guide to the Best 10 Video Saving Devices</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-personalizing-who-can-see-your-youtube-content/"><u>2024 Approved Personalizing Who Can See Your YouTube Content</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-professional-iphone-cinematography-learn-and-apply-top-8-insights/"><u>2024 Approved Professional iPhone Cinematography Learn and Apply Top 8 Insights</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-exploring-streaming-options-vimeo-vs-youtubes-popularity/"><u>In 2024, Exploring Streaming Options Vimeo vs YouTube's Popularity</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-pathway-to-successful-uploads-on-youtube/"><u>In 2024, The Ultimate Pathway to Successful Uploads on YouTube</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-version-of-wacom-cintiq-13hd-driver-free-download/"><u>Latest Version of Wacom Cintiq 13HD Driver - Free Download</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/premium-audio-capabilities-1-10-free-desktop-tools/"><u>Premium Audio Capabilities #1-#10 Free Desktop Tools</u></a></li>
-<li><a href="https://win-latest.techidaily.com/upgrade-your-microsoft-surface-pros-hard-drive-affordably-a-step-by-step-guide-that-saves-money/"><u>Upgrade Your Microsoft Surface Pro's Hard Drive Affordably: A Step-by-Step Guide That Saves Money!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-how-to-download-facebook-status-videos/"><u>[New] 2024 Approved How to Download Facebook Status Videos?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-top-drone-tech-leading-gimbals-ranked/"><u>[New] 2024 Approved Top Drone Tech Leading Gimbals Ranked</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-win11s-zenith-achieved-with-advanced-zoom-usage/"><u>[Updated] 2024 Approved Win11's Zenith Achieved with Advanced Zoom Usage</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-easy-ways-to-record-gotomeeting-sessions-for-2024/"><u>[Updated] Easy Ways to Record GoToMeeting Sessions for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-tecno-spark-10c-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Tecno Spark 10C Activity | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-secret-watchers-how-to-hide-youtube-playback/"><u>2024 Approved Secret Watchers How to Hide YouTube Playback</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-guide-to-overcome-freezing-in-rocket-league-gameplay/"><u>Expert Guide to Overcome Freezing in Rocket League Gameplay</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-mirror-apple-iphone-13-mini-to-your-windows-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Mirror Apple iPhone 13 mini to your Windows PC | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-immersive-history-education-from-youtubes-best-10-vlogs/"><u>In 2024, Immersive History Education From YouTube's Best 10 Vlogs</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-setting-up-unique-youtube-shorts-thumbnails/"><u>In 2024, Step-by-Step Setting Up Unique YouTube Shorts Thumbnails</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-tailored-titling-techniques-for-impactful-youtube-channels/"><u>In 2024, Tailored Titling Techniques for Impactful YouTube Channels</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/learn-the-role-youtube-shorts-music-plays-for-2024/"><u>Learn the Role YouTube Shorts Music Plays for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-srt-output-from-adobe-premiere/"><u>Mastering SRT Output From Adobe Premiere</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-discounted-offers-on-oneplus-during-prime-day-bonanza/"><u>Top Discounted Offers on OnePlus During Prime Day Bonanza</u></a></li>
 </ul></div>
 

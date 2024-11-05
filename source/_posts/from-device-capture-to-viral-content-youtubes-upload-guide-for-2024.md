@@ -1,7 +1,7 @@
 ---
 title: "\"From Device Capture to Viral Content  YouTube's Upload Guide for 2024\""
-date: 2024-07-29T19:51:28.110Z
-updated: 2024-07-30T19:51:28.110Z
+date: 2024-11-02T01:49:14.010Z
+updated: 2024-11-04T17:36:16.456Z
 tags:
   - ai video
   - ai youtube
@@ -18,19 +18,12 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 
 # How to Upload Shorts Video on YouTube? \[2024\]
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
 
  Mar 27, 2024• Proven solutions
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Quite recently, YouTube launched Shorts to compete with Tik Tok. At the time of this writing, the users in India have access to the fully functional version of the app. Although YouTube Shorts is available for both Android and iOS platforms, its functions are limited as the application is still in its Beta phase for the remaining part of the globe.
@@ -53,9 +46,6 @@ Once you have a video recorded using the first two guidelines from the above lis
 
 Launch your favorite web browser on your PC, go to YouTube, make sure to sign in to your YouTube account, click the **Create** (**Camera**) icon from the top-right corner of the web page, click **SELECT FILES** on the **Upload videos** window, and locate, select, and upload a short video from your PC to the portal.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Upload YouTube Shorts Video](https://images.wondershare.com/filmora/article-images/upload-short-videos-interface-on-youtube-pc.jpg)
 
 #### Step 2: Mark the Video as Short
@@ -68,9 +58,6 @@ On the **Details** window that appears, add **#Shorts** in the **Title** or **De
 
 On the **Visibility** window, choose your preferred radio button from under the **Save or publish** section or select **Schedule** to set a different time when the short video should be published automatically. Finally, click **SAVE** to publish the clip as a short video on YouTube from your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![post YouTube Shorts Video](https://images.wondershare.com/filmora/article-images/publish-youtube-shorts-video-desktop.jpg)
 
 To sum up, uploading YouTube Shorts video from desktop has nothing different from uploading regular YouTube video besides the requirements listed at the beginning of this article. If you prefer to [edit videos](https://tools.techidaily.com/wondershare/filmora/download/) for YouTube Shortson a computer, I recommend you to try our video editor [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), which is an ideal solution for YouTubers. Download the free trial version below and get started.
@@ -79,21 +66,22 @@ To sum up, uploading YouTube Shorts video from desktop has nothing different fro
 
 For Win 7 or later (64-bit)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For macOS 10.12 or later
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Upload Short Video on YouTube Mobile App?
 
@@ -113,9 +101,6 @@ On your Android or iOS smartphone, launch the YouTube app, tap the **+** (**Crea
 
 #### Step 2: Add Details
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add details to Shorts video](https://images.wondershare.com/filmora/article-images/add-details-to-youtube-shrots-video.jpg)
 
 On the next screen, tap **NEXT**, user the **Music** and **Text** icons at the bottom-left corner to add a background music and caption to the video respectively, and tap **NEXT** from the top-right corner. On the next screen, enter a name for the video in the **Title** field along with the **#Shorts** tag, and tap **Select audience** to choose your preferred audience.
@@ -124,9 +109,6 @@ On the next screen, tap **NEXT**, user the **Music** and **Text** icons at the b
 
 Finally tap **UPLOAD** from the top-right corner to upload the short video on YouTube.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 2: Record a Short Video and Upload
 
 **Step 1:** Record Shorts Video
@@ -136,6 +118,13 @@ Previously, I have introduced [how to record and upload YouTube Shorts videos](h
 Please note you will not see the **Create a Short** option if you are outsides of India.
 
 ![Record YouTube Shorts video](https://images.wondershare.com/filmora/article-images/record-create-youtube-short-video-mobile.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In the YouTube app, tap the **+** (**Add**) button and select **Create** **a Short**. Please note you will not see the **Create a Short** option if you are outsides of India.
 
@@ -153,16 +142,33 @@ On the **Add details** window, enter a name for the video along with the **#Shor
 
 **[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)**
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Conclusion**
 
 Learning the process of **how to post short videos on YouTube** is fairly simple as long as you have the video recorded in the portrait orientation, it is up to 60 seconds long, and contains the ‘#Shorts’ tag (without quotes) in the title or description. The good thing is, if you don’t have access to the YouTube app on your smartphone, the method for **how to upload short video on YouTube** explained in the first section can be followed while using your desktop computer.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -170,12 +176,29 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-create-impactful-online-ads-on-a-limited-budget/"><u>[New] How to Create Impactful Online Ads on a Limited Budget</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-apex-creators-video-giants-in-the-making/"><u>[Updated] 2024 Approved Apex Creators Video Giants in the Making</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unrivaled-screenplays-reflective-of-diverse-themes/"><u>[Updated] Unrivaled Screenplays Reflective of Diverse Themes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/8-free-online-video-editors-for-youtube-for-2024/"><u>8 Free Online Video Editors for YouTube for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-exploring-the-disparities-between-youtube-and-dailymention/"><u>In 2024, Exploring the Disparities Between YouTube and DailyMention</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-making-dollars-from-skincare-videos/"><u>In 2024, Making Dollars From Skincare Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mr-beast-financial-evolution-analysis/"><u>In 2024, Mr. Beast Financial Evolution Analysis</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unleashing-the-power-of-youtube-short-form-videos/"><u>In 2024, Unleashing the Power of YouTube Short Form Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-validating-your-channels-ad-based-income/"><u>In 2024, Validating Your Channel’s Ad-Based Income</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211013584-9781644119419-lessons-from-the-afterlife/"><u>Lessons from the Afterlife | Free Book</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/mastering-clonezilla-for-rapid-system-recovery-comprehensive-learning-material/"><u>Mastering Clonezilla for Rapid System Recovery – Comprehensive Learning Material</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-gaming-woes-addressed-resolving-the-dual-fps-decrease-issue/"><u>PC Gaming Woes Addressed: Resolving the Dual FPS Decrease Issue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/script-revolution-unlocking-creativity-with-chatgpt-in-gaming/"><u>Script Revolution: Unlocking Creativity with ChatGPT in Gaming</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unlocking-adventure-the-garmin-gpsmap-64st-review-for-ultimate-wilderness-tracking-and-mapping/"><u>Unlocking Adventure: The Garmin GPSMAP 64St Review for Ultimate Wilderness Tracking and Mapping</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top Picks  FREE Thumbnail Extractor Software\""
-date: 2024-10-23T00:13:28.795Z
-updated: 2024-10-30T01:12:32.708Z
+date: 2024-10-28T20:15:37.316Z
+updated: 2024-11-04T22:11:01.711Z
 tags:
   - ai video
   - ai youtube
@@ -41,18 +41,18 @@ There are tons of tools on the web that let you download YouTube thumbnail. But,
 
 ![save thumbnail](https://images.wondershare.com/filmora/article-images/1-save-thumbnail.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 As a free YouTube thumbnail downloader, ThumbnailSave is frequently used by people. It enables users to download YouTube thumbnail without any hassle. There a variety of resolutions available, and you can choose the quality you like, ranging from HD to 360p. The simple interface of this downloader further makes it an excellent tool. All you have to do is enter the URL link and click **Save** **As** after the thumbnail is loaded. Also, this versatile YouTube thumbnail downloader works on almost every kind of device. Whether you are using a desktop PC or an iPhone, ThumbnailSave is compatible with all.
 
 ### 2\. YouTube Thumbnail Grabber
 
 ![thumbnail grabber](https://images.wondershare.com/filmora/article-images/2-thumbnail-grabber.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Another powerful and free YouTube thumbnail downloader is this one, which can download both YouTube and Vimeo thumbnails. After you copy-paste the link of the video whose thumbnail you wish to save, you can press on **Get** **Thumbnail** **Images**. After that, you can choose the quality of the thumbnail as per your requirements. Moreover, you can also get a free extension of this YouTube thumbnail saver on both Chrome and Firefox browsers. This will allow fast and easy use of the YouTube thumbnail downloader. What's more, unlike other downloaders, this one doesn't bombard the user with pesky ads.
 
@@ -62,25 +62,11 @@ Another powerful and free YouTube thumbnail downloader is this one, which can do
 
 YouThumbnail, also known as YT YouTube thumbnail downloader, is a robust tool that allows users to quickly download YouTube thumbnail absolutely free of cost. It requires no installation. Three different sizes, namely medium, small, and HD, are available for download. By clicking on the desired quality, you can quickly and safely download YouTube thumbnail. Also, there is no limit to the number of downloads. Better yet, there are multiple languages available. So, a diverse population can use this online YouTube thumbnail saver with great ease.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. YouTube-thumbnails.com
 
 ![youtube thumbnail saver](https://images.wondershare.com/filmora/article-images/4-youtube-thumbnail-saver.jpg)
 
 As a free and open for all YouTube thumbnail saver, this one lets users get the thumbnail of their choice in the quality of their choice. Using this YouTube thumbnail downloader won't cost a penny, no matter how many thumbnails are downloaded. It also has a very simple user interface. Just enter the YouTube video link and press **Find**. The qualities of the thumbnail supported by this tool are **MQ 320x180, HQ 480x360, SD 640x480, and HD 1280x720** , and will be almost instantly displayed. Click on the quality you wish to save locally, and your download will start immediately.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. YT Thumbnail Downloader
 
@@ -92,14 +78,20 @@ YT Thumbnail Downloader is an excellent and lightning-fast tool to download YouT
 
 ![boing youtube downloader](https://images.wondershare.com/filmora/article-images/6-boing-youtube-downloader.jpg)
 
-BoingBoing is also a free and very easy-to-use YouTube thumbnail saver. All you have to do is paste the URL you copied, and this YouTube thumbnail downloader will take care of the rest. There is no button to press to start the process. The thumbnails are almost instantly loaded. However, BoingBoing displays a lot of annoying ads. Also, the different qualities that are displayed don't mention the size, and you will have to press and hold the image to download. All in all, this YouTube thumbnail saver is worth your time and effort as it is fast at what it does.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+BoingBoing is also a free and very easy-to-use YouTube thumbnail saver. All you have to do is paste the URL you copied, and this YouTube thumbnail downloader will take care of the rest. There is no button to press to start the process. The thumbnails are almost instantly loaded. However, BoingBoing displays a lot of annoying ads. Also, the different qualities that are displayed don't mention the size, and you will have to press and hold the image to download. All in all, this YouTube thumbnail saver is worth your time and effort as it is fast at what it does.
 
 ### 7\. Get YouTube Thumbnail
 
@@ -111,27 +103,20 @@ Get YouTube Thumbnail is a very simple tool to download YouTube thumbnail. It co
 
 ![youtube thumbnail image](https://images.wondershare.com/filmora/article-images/8-youtube-thumbnail-image.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 A fast and easy way to download YouTube thumbnail is by using this powerful tool available online. Without any hassle of downloading or registering an account, you can easily copy-paste the link of your favorite video and click on **Search**. You will be displayed with four qualities such as 1920x1080 (HD), 640X480 (SD), 480X360 (HQ), and 320x180 (MQ). This feature makes it a versatile YouTube thumbnail downloader as users can choose the quality depending on the space they have available. Other than this, the YouTube thumbnail saver offers round-the-clock customer support. So, in case you face any technical issue or are unable to download YouTube thumbnail, this tool will be present for prompt assistance.
 
 ### 9\. Thumbnail-download.com
 
 ![save youtube thumbnail](https://images.wondershare.com/filmora/article-images/9-save-youtube-thumbnail.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Another addition to the list of top YouTube thumbnail downloader tools is this one. Like the other tools, this one is also free for use and is renowned for being super fast. No matter which YouTube video you want to save the thumbnail from, this tool will allow you easy access to download it in HD quality. The website is SSL encrypted, so the user's data is protected, and thus this is a safe site to download YouTube thumbnail. What's more, this YouTube thumbnail downloader is robust. Although there a few ads displayed, they aren't very intrusive and do not disrupt the user experience.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus Tip: The Best YouTube Video Editor- Wondershare Filmora
 
@@ -141,28 +126,61 @@ With Wondershare Filmora, you can create captivating videos by using one-click t
 
 ![import youtube video](https://images.wondershare.com/filmora/article-images/18-import-audio-file.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2.The **Audio** tab of Filmora offers a variety of music. Just click on the plus icon on any audio to add it to your video as background music. Cut the extra audio part to match your video length.
 
 ![edit audio to youtube](https://images.wondershare.com/filmora/article-images/12-edit-audio-to-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3.From the **Titles** tab, you can choose a preset template and then personalize it by double-clicking the title you have added to the timeline.
 
 ![add title to youtube](https://images.wondershare.com/filmora/article-images/13-add-title-to-youtube.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4.The **Transition** tab also displays multiple types of dynamic transitions; click to add to the timeline and then drag to adjust the duration of the effect.
 
 ![add transition to youtube](https://images.wondershare.com/filmora/article-images/14-add-transition-to-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5.You can also choose an aesthetic filter or overlay from the **Effects** tab.
 
 ![add effects to youtube](https://images.wondershare.com/filmora/article-images/15-add-effects-to-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6.The **Elements** tab features numerous categories like Love, Journey, Badges, and many more. You can add these elements to your video and then adjust their size, rotation, opacity, and much more.
 
@@ -181,10 +199,10 @@ No more browsing through unsecured and ad-laden sites to find a reliable YouTube
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -202,22 +220,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-action-shooting-basics-buying-guide-for-new-film-enthusiasts/"><u>[New] 2024 Approved Action Shooting Basics – Buying Guide for New Film Enthusiasts</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-streamline-action-camera-upgrades-what-to-buy-for-2024/"><u>[New] Streamline Action Camera Upgrades What to Buy for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-guide-on-purging-stored-videos-from-youtube-watchlater/"><u>2024 Approved Guide on Purging Stored Videos From YouTube Watchlater</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-refine-your-recordings-the-art-of-sound-reduction/"><u>2024 Approved Refine Your Recordings The Art of Sound Reduction</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-subscriber-threshold-raised-for-profits/"><u>2024 Approved Subscriber Threshold Raised for Profits</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unleash-your-inner-vfx-guru-with-diy-techniques/"><u>2024 Approved Unleash Your Inner VFX Guru with DIY Techniques</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-realme-narzo-n55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/decoding-tech-pioneering-insights-by-tom-on-hardware-solutions/"><u>Decoding Tech: Pioneering Insights by Tom on Hardware Solutions</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-realme-c33-2023-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Realme C33 2023 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-subnautica-below-zero-from-failing-at-launch-on-your-desktop-computer/"><u>How to Stop Subnautica: Below Zero From Failing at Launch on Your Desktop Computer</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/how-to-upload-youtube-shorts-video-from-computer-and-mobile-for-2024/"><u>How to Upload YouTube Shorts Video From Computer and Mobile for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-five-cozy-seasons-ideal-backgrounds-to-warm-up-videos/"><u>In 2024, Five Cozy Seasons Ideal Backgrounds to Warm Up Videos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-secure-song-transfers-to-youtube-channel/"><u>In 2024, Secure Song Transfers to Youtube Channel</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-streamlining-song-selection-for-youtube-playlist-curation/"><u>In 2024, Streamlining Song Selection for YouTube Playlist Curation</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/pro-mkv-reader-for-personal-computers/"><u>Pro MKV Reader for Personal Computers</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-realme-11-pro-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Realme 11 Pro</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/the-dos-and-donts-of-youtube-videos-on-twitter-for-2024/"><u>The Dos and Don'ts of YouTube Videos on Twitter for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-evaluating-artistic-quality-luminances-hdr-capability/"><u>[New] Evaluating Artistic Quality Luminance's HDR Capability</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-formulating-final-fact-finding-flourishes/"><u>[New] Formulating Final Fact-Finding Flourishes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-safe-ways-to-download-and-convert-youtubes-audios-as-mp3/"><u>[New] Safe Ways to Download and Convert YouTube's Audios as MP3</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-scripted-temporal-displacements-in-film-production-for-2024/"><u>[New] Scripted Temporal Displacements in Film Production for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-notes-an-introduction-to-youtube-list-making/"><u>2024 Approved Navigating Notes An Introduction to YouTube List Making</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-reap-endless-visual-resources-via-four-prime-youtube-sites/"><u>2024 Approved Reap Endless Visual Resources via Four Prime YouTube Sites</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-tastemakers-playbook-recipes-for-attractive-channel-names/"><u>2024 Approved Tastemakers' Playbook Recipes for Attractive Channel Names</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-understanding-youtubes-revenue-streams-for-creators/"><u>2024 Approved Understanding YouTube's Revenue Streams for Creators</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convert-videos-free-web-service-change-mp4-files-into-wma-format-with-viditransfer/"><u>Convert Videos Free Web Service: Change MP4 Files Into WMA Format with VidiTransfer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/creating-an-effective-presentation-integrating-excel-data-into-powerpoint-for-organizational-charts/"><u>Creating an Effective Presentation: Integrating Excel Data Into PowerPoint for Organizational Charts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-yt-creator-hub-the-ultimate-playbook/"><u>In 2024, Mastering YT Creator Hub The Ultimate Playbook</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-10-ever-approved-reddit-threads-a-historical-list/"><u>In 2024, Top 10 Ever-Approved Reddit Threads A Historical List</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-top-6-youtube-outro-makers-lots-of-free-options/"><u>In 2024, Top 6 YouTube Outro Makers - Lots of FREE Options</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-top-youtuber-earnings-worldwide/"><u>In 2024, Top Youtuber Earnings Worldwide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210970413-9781088251652-jumelles/"><u>JUMELLES | Free Book</u></a></li>
+<li><a href="https://extra-information.techidaily.com/majestic-visual-chronicles-composer-suite/"><u>Majestic Visual Chronicles Composer Suite</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-realme-c53-by-drfone-android/"><u>Universal Unlock Pattern for Realme C53</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/iphonejsbperfumeakb48dvd/"><u>プロの方法でiPhoneライブ再生可能化！嵐、三代目JSB、Perfume、AKB48DVDコピーテクニック</u></a></li>
 </ul></div>
 

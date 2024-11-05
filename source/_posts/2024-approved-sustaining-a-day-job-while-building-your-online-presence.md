@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Sustaining a Day Job While Building Your Online Presence\""
-date: 2024-10-24T23:16:28.706Z
-updated: 2024-10-30T06:19:14.862Z
+date: 2024-11-02T21:11:18.024Z
+updated: 2024-11-04T23:11:51.236Z
 tags:
   - ai video
   - ai youtube
@@ -54,29 +54,9 @@ A notebook planner is essential for keeping my life organized and on track. When
 
 When starting a YouTube channel, many YouTubers like myself don’t have the money to afford all the fancy lighting you see other creators using. [I use natural light](https://tools.techidaily.com/wondershare/filmora/download/), which means I have to make sure it’s going to be a sunny day or at least bright enough for my videos to be clear. I check the forecast for the week on Sunday evenings so I can plan out my best days to film, this keeps my video shooting schedule productive.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4. Create 3-5 videos in advance
 
 This week I am on PTO (paid time off) which has given me a lot more time to film videos I can post for next month. Life happens and it can set you back on filming. If you happen to get a major break in your workweek, use the opportunity to film a bunch of videos, edit them, and have them waiting in your pocket. I filmed three videos in one day – I planned and set-up the night before, which made filming much smoother. Trust me, this tip works wonders!
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5. Be creative! Create audios (audio-only videos)
 
@@ -145,10 +125,10 @@ In the event that life gets too crazy, it’s perfectly fine to do just audio. M
 I hope these tips can help you on your journey with YouTube while still working a full-time job.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Make a YouTube Video with Wondershare Filmora
@@ -158,6 +138,13 @@ Wondershare Filmora is one application that people prefer over any other video e
 Just try it and create your own YouTube video!
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -193,13 +180,6 @@ So, to save you and your viewers some of the same struggles, here are 5 tips I r
 
 I know what you’re thinking - “What?! That’s insane.” The first piece of advice I received about YouTube was to create a schedule of days to post so your viewers look forward to videos. That just doesn’t work for me. Whenever I became too busy with work, I couldn’t stick to my typical Tuesday or Thursday schedule. I think it’s best to focus on how many times you can post in a week rather than a specific day. I try to post at least once a week and that’s my goal. You can always increase as your workload gets lighter or you when you are able to do YouTube full-time.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2. Keep track of all your ideas in one notebook planner
 
 A notebook planner is essential for keeping my life organized and on track. When I first started my channel, I had a separate planner just for my YouTube videos – this didn’t work cause I never looked at it. It worked best when I kept track of my entire life, including YouTube, in one planner since I look at it every day. Then I could also see which days I wanted to post a video or see what topics worked best around specific holidays and such.
@@ -207,13 +187,6 @@ A notebook planner is essential for keeping my life organized and on track. When
 ## 3. Check the weather forecast in advance
 
 When starting a YouTube channel, many YouTubers like myself don’t have the money to afford all the fancy lighting you see other creators using. [I use natural light](https://tools.techidaily.com/wondershare/filmora/download/), which means I have to make sure it’s going to be a sunny day or at least bright enough for my videos to be clear. I check the forecast for the week on Sunday evenings so I can plan out my best days to film, this keeps my video shooting schedule productive.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4. Create 3-5 videos in advance
 
@@ -275,9 +248,23 @@ A notebook planner is essential for keeping my life organized and on track. When
 
 When starting a YouTube channel, many YouTubers like myself don’t have the money to afford all the fancy lighting you see other creators using. [I use natural light](https://tools.techidaily.com/wondershare/filmora/download/), which means I have to make sure it’s going to be a sunny day or at least bright enough for my videos to be clear. I check the forecast for the week on Sunday evenings so I can plan out my best days to film, this keeps my video shooting schedule productive.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4. Create 3-5 videos in advance
 
 This week I am on PTO (paid time off) which has given me a lot more time to film videos I can post for next month. Life happens and it can set you back on filming. If you happen to get a major break in your workweek, use the opportunity to film a bunch of videos, edit them, and have them waiting in your pocket. I filmed three videos in one day – I planned and set-up the night before, which made filming much smoother. Trust me, this tip works wonders!
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5. Be creative! Create audios (audio-only videos)
 
@@ -391,101 +378,6 @@ YouTube has made it easier for you to track the sources from which your videos a
 
 ![YouTube Analytics](https://images.wondershare.com/filmora/article-images/youtube-analytics.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-In this window, you can see the different sources that led viewers to your video. Generally, it can be a mix of websites, YouTube recommendation’s, YouTube search, etc. Metrics like Watch Time gives you an idea of how long viewers watch your videos and Audience Retention shows how consistent they are at watching them. These are just two of the many metrics you can use to your advantage.
-
-Analyzing YouTube videos will help you structure your future videos in a way that it is more susceptible to being clicked.
-
-## **Tip #5: Track the effectiveness of your videos**
-
-You must have an eye on the metrics that your videos garner over the days. While the number of views, likes, and dislikes are great indicators in determining the popularity of the videos, but there are many more factors at play.
-
-Your video ranking is important as it determines the position of your videos when a keyword is typed into the search box. The ranks are calculated by the YouTube algorithm, but you have a certain degree of power in raising the ranks by leveraging the following parameters of the video;
-
-**_Thumbnail:_** The first thing that the viewer is going it see when they are browsing through a list of videos is the thumbnail. Make sure that it is attractive and stands out!
-
-**_Title:_** The next element that gets the most attention from both the user and the YouTube algorithm is the title. Ensure that the main keyword you are targeting is included in the title.
-
-**_Description:_** This is where you can play a lot with keywords, both short and long tail. Be very descriptive about your video, but do not just use a big chunk of text. The description must be succinct and informative. It can also have links to your landing page or sponsors.
-
-**_Tags:_** Tags are words or phrases that are used to help YouTube better understand the video. Make sure the tags that you are giving are related to the video that they represent.
-
-**_Category:_** YouTube has some predefined categories and the videos that you upload must be put in the right one to get maximum reach.
-
-**_Subtitles:_** Subtitles do not carry much weight in terms of SEO or ranking, but they are a much-appreciated addition in the audience point of view.
-
-Yes, it can be quite meticulous but the results are worth the effort. Having a rank tracker like the one from [SE Ranking](https://seranking.com/position-tracking.html) or [Tubebuddy](https://www.tubebuddy.com/tools#keywordranktracking) can be quite handy at times like these. The software basically tracks everything about your videos and presents them in a neatly organized dashboard, which is cuts the effort significantly for YouTube marketers.
-
-![SE Ranking](https://images.wondershare.com/filmora/article-images/se-ranking.jpg)
-
-Do not leave the video by itself to garner views, it often fails to register any results because elements like the title, description and the keywords play an important role in getting the videos to the users.
-
-**You may also like:** [How to Convert YouTube to MP4 Safely? \[Step by Step Guide\] >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## **Tip #6: Choose a suitable video creator**
-
-Creating attractive videos is a key to make success in Youtube video marketing. So you will need to have a suitable video editor to help you. There are quite a few choices in marketing now, such as Adobe Premiere Pro. However, there is a better choice for most average users - [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) , which provides powerful video editing features and huge transitions, effects, and filters resources.
-
-To know more about Filmora Video Editor, visit its page: <https://filmora.wondershare.com/video-editor/>
-
-![filmora](https://images.wondershare.com/filmora/guide/panel-layout-01.png)
-
-## Conclusion
-
-YouTube marketing has evolved over the years to a point where you need a carefully crafted plan to have a successful YouTube career. In this guide, we have mentioned some useful YouTube marketing tips that will help you alo12ng the way.
-
-The greatest takeaway from this guide should be that you must be patient and have persistence. Do not stop what you are doing just because you didn’t see any results on day one. Keep the fire burning and you will reach there in no time!
-
-This video gives an excellent explanation of the string theory. The Video is From TED-Ed and you can see the audience response in the comments where they praise Physicist Brian Greene for his talk. Note that the video has 2.4 million views.
-
-Now, look at the above video that explains String Theory in less than half the time from TED-Ed. Notice how the video has more than four times the views with an impressive 10 million views. It comes to show that if you can condense your content in such a way that you can get the maximum meaning across in minimum time, you will rack up more views!
-
-### b. Test different formats/scenarios
-
-Having a monotonous nature throughout your videos can be quite tiring for the viewer after some time. Make sure to mix things up a bit by introducing new types of video formats or scenarios that keeps the users engaged.
-
-Such a format change will also be invaluable in testing the audience reaction to the different types of videos that you make. These new formats can be in the form of a separate video series that is different from your main content. It can also be something that directly engages the viewers like a live video stream, Ask Me Anything or Q&A type of content, etc.
-
-For example, let us take one among the most popular cooking channels on YouTube – Tasty. If you were to browse through their content, you can see how they got their fame with cookery videos that are short and sweet like the one below:
-
-However, they do not just stick to that same format all the time. you can also see how they mix in lengthier videos of different format. For example:
-
-And many videos that aren’t specifically cooking at all!
-
-And it is evident that these new formats have also become crowd favorites. Now do all their videos hit the 1 million mark? No, that just shows they are constantly testing out the waters go ahead with what works and discard what doesn’t!
-
-### c. Try Giveaways and gifts
-
-You can boost the viewership and subscriber count for your channel by setting up occasional giveaways or gifts to the viewers. Make sure that you set the winning criteria to have the viewers subscribe to the channel.
-
-For example, let’s take another popular YouTube channel Unbox Therapy. On Jun 27, 2018, the channel did an announcement that they were giving 106 OnePlus 6 smartphones!
-
-And the result of the announcement was evident in the subscribers count.
-
-From June 23rd to June 27th, 2018, Unbox therapy had gained 12,583 subscribers. However, from the announcement date that is June 27th to June 30th, 2018, the channel saw an increase of a whopping [52,173 subscribers](https://www.trackalytics.com/youtube/user/unboxtherapy/)! Till date, the video has over 14 million views
-
-We do not advise you to try this out when you are just starting your YouTube career. Only venture out to such investments when you are stable when it comes to earnings.
-
-## **Tip#3: Ask your audience for Feedback**
-
-All your videos must be created with the audience in mind. However, sometimes what you may think would work might not fit well with the audience. Hence, it is imperative that you understand their likes and dislikes.
-
-And the best way to improve your videos is to take suggestions from the audience themselves. You can ask them specific questions on how to improve your videos or what they want to see in your future creations. Take notes on what they have to offer and start building your content taking in those suggestions.
-
-There is also another facet to incorporating audience feedback as it projects your YouTube channel to be responsive to the audience, something that is vital to building a strong and loyal viewer base on YouTube.
-
-## **Tip #4: Analyse your YouTube videos traffic sources**
-
-YouTube has made it easier for you to track the sources from which your videos are getting the views. Sign in to YouTube Studio Beta and the click Reach from the Analytics menu provided on the left panel. Now click on Traffic source types.
-
-![YouTube Analytics](https://images.wondershare.com/filmora/article-images/youtube-analytics.jpg)
-
 In this window, you can see the different sources that led viewers to your video. Generally, it can be a mix of websites, YouTube recommendation’s, YouTube search, etc. Metrics like Watch Time gives you an idea of how long viewers watch your videos and Audience Retention shows how consistent they are at watching them. These are just two of the many metrics you can use to your advantage.
 
 Analyzing YouTube videos will help you structure your future videos in a way that it is more susceptible to being clicked.
@@ -525,10 +417,10 @@ To know more about Filmora Video Editor, visit its page: <https://filmora.wonder
 ![filmora](https://images.wondershare.com/filmora/guide/panel-layout-01.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -629,6 +521,13 @@ This video gives an excellent explanation of the string theory. The Video is Fro
 
 Now, look at the above video that explains String Theory in less than half the time from TED-Ed. Notice how the video has more than four times the views with an impressive 10 million views. It comes to show that if you can condense your content in such a way that you can get the maximum meaning across in minimum time, you will rack up more views!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### b. Test different formats/scenarios
 
 Having a monotonous nature throughout your videos can be quite tiring for the viewer after some time. Make sure to mix things up a bit by introducing new types of video formats or scenarios that keeps the users engaged.
@@ -642,13 +541,6 @@ However, they do not just stick to that same format all the time. you can also s
 And many videos that aren’t specifically cooking at all!
 
 And it is evident that these new formats have also become crowd favorites. Now do all their videos hit the 1 million mark? No, that just shows they are constantly testing out the waters go ahead with what works and discard what doesn’t!
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### c. Try Giveaways and gifts
 
@@ -713,6 +605,108 @@ Creating attractive videos is a key to make success in Youtube video marketing. 
 To know more about Filmora Video Editor, visit its page: <https://filmora.wondershare.com/video-editor/>
 
 ![filmora](https://images.wondershare.com/filmora/guide/panel-layout-01.png)
+
+## Conclusion
+
+YouTube marketing has evolved over the years to a point where you need a carefully crafted plan to have a successful YouTube career. In this guide, we have mentioned some useful YouTube marketing tips that will help you alo12ng the way.
+
+The greatest takeaway from this guide should be that you must be patient and have persistence. Do not stop what you are doing just because you didn’t see any results on day one. Keep the fire burning and you will reach there in no time!
+
+This video gives an excellent explanation of the string theory. The Video is From TED-Ed and you can see the audience response in the comments where they praise Physicist Brian Greene for his talk. Note that the video has 2.4 million views.
+
+Now, look at the above video that explains String Theory in less than half the time from TED-Ed. Notice how the video has more than four times the views with an impressive 10 million views. It comes to show that if you can condense your content in such a way that you can get the maximum meaning across in minimum time, you will rack up more views!
+
+### b. Test different formats/scenarios
+
+Having a monotonous nature throughout your videos can be quite tiring for the viewer after some time. Make sure to mix things up a bit by introducing new types of video formats or scenarios that keeps the users engaged.
+
+Such a format change will also be invaluable in testing the audience reaction to the different types of videos that you make. These new formats can be in the form of a separate video series that is different from your main content. It can also be something that directly engages the viewers like a live video stream, Ask Me Anything or Q&A type of content, etc.
+
+For example, let us take one among the most popular cooking channels on YouTube – Tasty. If you were to browse through their content, you can see how they got their fame with cookery videos that are short and sweet like the one below:
+
+However, they do not just stick to that same format all the time. you can also see how they mix in lengthier videos of different format. For example:
+
+And many videos that aren’t specifically cooking at all!
+
+And it is evident that these new formats have also become crowd favorites. Now do all their videos hit the 1 million mark? No, that just shows they are constantly testing out the waters go ahead with what works and discard what doesn’t!
+
+### c. Try Giveaways and gifts
+
+You can boost the viewership and subscriber count for your channel by setting up occasional giveaways or gifts to the viewers. Make sure that you set the winning criteria to have the viewers subscribe to the channel.
+
+For example, let’s take another popular YouTube channel Unbox Therapy. On Jun 27, 2018, the channel did an announcement that they were giving 106 OnePlus 6 smartphones!
+
+And the result of the announcement was evident in the subscribers count.
+
+From June 23rd to June 27th, 2018, Unbox therapy had gained 12,583 subscribers. However, from the announcement date that is June 27th to June 30th, 2018, the channel saw an increase of a whopping [52,173 subscribers](https://www.trackalytics.com/youtube/user/unboxtherapy/)! Till date, the video has over 14 million views
+
+We do not advise you to try this out when you are just starting your YouTube career. Only venture out to such investments when you are stable when it comes to earnings.
+
+## **Tip#3: Ask your audience for Feedback**
+
+All your videos must be created with the audience in mind. However, sometimes what you may think would work might not fit well with the audience. Hence, it is imperative that you understand their likes and dislikes.
+
+And the best way to improve your videos is to take suggestions from the audience themselves. You can ask them specific questions on how to improve your videos or what they want to see in your future creations. Take notes on what they have to offer and start building your content taking in those suggestions.
+
+There is also another facet to incorporating audience feedback as it projects your YouTube channel to be responsive to the audience, something that is vital to building a strong and loyal viewer base on YouTube.
+
+## **Tip #4: Analyse your YouTube videos traffic sources**
+
+YouTube has made it easier for you to track the sources from which your videos are getting the views. Sign in to YouTube Studio Beta and the click Reach from the Analytics menu provided on the left panel. Now click on Traffic source types.
+
+![YouTube Analytics](https://images.wondershare.com/filmora/article-images/youtube-analytics.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+In this window, you can see the different sources that led viewers to your video. Generally, it can be a mix of websites, YouTube recommendation’s, YouTube search, etc. Metrics like Watch Time gives you an idea of how long viewers watch your videos and Audience Retention shows how consistent they are at watching them. These are just two of the many metrics you can use to your advantage.
+
+Analyzing YouTube videos will help you structure your future videos in a way that it is more susceptible to being clicked.
+
+## **Tip #5: Track the effectiveness of your videos**
+
+You must have an eye on the metrics that your videos garner over the days. While the number of views, likes, and dislikes are great indicators in determining the popularity of the videos, but there are many more factors at play.
+
+Your video ranking is important as it determines the position of your videos when a keyword is typed into the search box. The ranks are calculated by the YouTube algorithm, but you have a certain degree of power in raising the ranks by leveraging the following parameters of the video;
+
+**_Thumbnail:_** The first thing that the viewer is going it see when they are browsing through a list of videos is the thumbnail. Make sure that it is attractive and stands out!
+
+**_Title:_** The next element that gets the most attention from both the user and the YouTube algorithm is the title. Ensure that the main keyword you are targeting is included in the title.
+
+**_Description:_** This is where you can play a lot with keywords, both short and long tail. Be very descriptive about your video, but do not just use a big chunk of text. The description must be succinct and informative. It can also have links to your landing page or sponsors.
+
+**_Tags:_** Tags are words or phrases that are used to help YouTube better understand the video. Make sure the tags that you are giving are related to the video that they represent.
+
+**_Category:_** YouTube has some predefined categories and the videos that you upload must be put in the right one to get maximum reach.
+
+**_Subtitles:_** Subtitles do not carry much weight in terms of SEO or ranking, but they are a much-appreciated addition in the audience point of view.
+
+Yes, it can be quite meticulous but the results are worth the effort. Having a rank tracker like the one from [SE Ranking](https://seranking.com/position-tracking.html) or [Tubebuddy](https://www.tubebuddy.com/tools#keywordranktracking) can be quite handy at times like these. The software basically tracks everything about your videos and presents them in a neatly organized dashboard, which is cuts the effort significantly for YouTube marketers.
+
+![SE Ranking](https://images.wondershare.com/filmora/article-images/se-ranking.jpg)
+
+Do not leave the video by itself to garner views, it often fails to register any results because elements like the title, description and the keywords play an important role in getting the videos to the users.
+
+**You may also like:** [How to Convert YouTube to MP4 Safely? \[Step by Step Guide\] >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## **Tip #6: Choose a suitable video creator**
+
+Creating attractive videos is a key to make success in Youtube video marketing. So you will need to have a suitable video editor to help you. There are quite a few choices in marketing now, such as Adobe Premiere Pro. However, there is a better choice for most average users - [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/) , which provides powerful video editing features and huge transitions, effects, and filters resources.
+
+To know more about Filmora Video Editor, visit its page: <https://filmora.wondershare.com/video-editor/>
+
+![filmora](https://images.wondershare.com/filmora/guide/panel-layout-01.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -735,24 +729,14 @@ The greatest takeaway from this guide should be that you must be patient and hav
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-ensuring-perfect-fb-live-recordings-a-guide-to-4-ways-for-2024/"><u>[New] Ensuring Perfect FB Live Recordings A Guide to 4 Ways for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-giggle-fest-on-the-twittersphere-for-2024/"><u>[New] Giggle Fest on the Twittersphere for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-rhythms-ally-finding-best-dj-content-online/"><u>[New] Rhythm's Ally Finding Best DJ Content Online</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-visualeditormaster-reviews-complete-analysis-for-2024/"><u>[New] VisualEditorMaster Reviews – Complete Analysis for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-harness-the-power-of-youtubes-movie-maker-for-professionals/"><u>2024 Approved Harness the Power of YouTube's Movie Maker for Professionals</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-the-art-of-embedding-yt-videos-on-your-website/"><u>2024 Approved Mastering the Art of Embedding YT Videos on Your Website</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-ultimate-stream-showcase-must-have-tech-for-successful-youtubers/"><u>2024 Approved Ultimate Stream Showcase Must-Have Tech for Successful Youtubers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/experience-professional-gaming-download-the-driving-force-gt-controller-driver-for-windows-windows-71011/"><u>Experience Professional Gaming: Download the Driving Force GT Controller Driver for Windows (Windows 7/10/11)</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/global-youtube-rich-list-pinnacle-for-2024/"><u>Global YouTube Rich List Pinnacle for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-from-streaming-video-how-to-get-youtube-thumbnail-files-onlineos-wise/"><u>In 2024, From Streaming Video How to Get YouTube Thumbnail Files Online/OS-Wise</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-key-takeaways-on-youtube-tv-an-overview-of-its-advantages/"><u>In 2024, Key Takeaways on YouTube TV An Overview of Its Advantages</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-streamline-your-youtube-presentations-with-captions/"><u>In 2024, Streamline Your YouTube Presentations with Captions</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-the-efficient-cloud-users-price-guide/"><u>In 2024, The Efficient Cloud User's Price Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-screenplay-creation-hub/"><u>In 2024, Top Screenplay Creation Hub</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-ultimate-movie-watchlists-for-efficient-screen-time/"><u>In 2024, Ultimate Movie Watchlists for Efficient Screen Time</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-evaluation-of-the-portable-criacr-bluetooth-fm-transmitter-cp24-pros-and-cons-examined/"><u>In-Depth Evaluation of the Portable CRIACR Bluetooth FM Transmitter CP24: Pros & Cons Examined</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/origin-940-brisk-it-reviewed-the-intelligent-cigar-humidor-with-minimal-supervision-needed/"><u>Origin-940 Brisk It Reviewed: The Intelligent Cigar Humidor with Minimal Supervision Needed</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-tutorial-restore-accidentally-lost-onenote-documents/"><u>Step-by-Step Tutorial: Restore Accidentally Lost OneNote Documents</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transformer-des-videos-mpeg-en-webm-facilement-guide-pas-a-pas-avec-movavi/"><u>Transformer Des Vidéos MPEG en WebM Facilement - Guide Pas À Pas Avec Movavi</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-channel-riches-anywhere-adopting-youtube-analytics-and-monetization/"><u>[New] Channel Riches Anywhere Adopting YouTube Analytics & Monetization</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-from-free-to-fortune-carryminatis-youtube-transformation-ajey/"><u>[New] In 2024, From Free to Fortune CarryMinati’s YouTube Transformation (Ajey)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-decoding-the-secrets-to-using-ez-grabber-for-2024/"><u>[Updated] Decoding the Secrets to Using EZ Grabber for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-privacy-in-media-cutting-out-unwanted-visibility/"><u>2024 Approved Mastering Privacy in Media Cutting Out Unwanted Visibility</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-future-earning-potential-in-gaming-videos/"><u>In 2024, Future Earning Potential in Gaming Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-see-your-subscribers-on-youtube/"><u>In 2024, How to See Your Subscribers on YouTube</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Oppo F23 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-transformative-techniques-to-mute-background-noise/"><u>In 2024, Transformative Techniques to Mute Background Noise</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-12-pro-max-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 12 Pro Max</u></a></li>
 </ul></div>
 

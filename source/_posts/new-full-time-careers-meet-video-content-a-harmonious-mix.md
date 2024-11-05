@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Full-Time Careers Meet Video Content  A Harmonious Mix\""
-date: 2024-10-24T20:19:53.881Z
-updated: 2024-10-29T22:34:36.802Z
+date: 2024-11-03T17:20:51.071Z
+updated: 2024-11-05T03:11:54.962Z
 tags:
   - ai video
   - ai youtube
@@ -46,22 +46,15 @@ So, to save you and your viewers some of the same struggles, here are 5 tips I r
 
 I know what you’re thinking - “What?! That’s insane.” The first piece of advice I received about YouTube was to create a schedule of days to post so your viewers look forward to videos. That just doesn’t work for me. Whenever I became too busy with work, I couldn’t stick to my typical Tuesday or Thursday schedule. I think it’s best to focus on how many times you can post in a week rather than a specific day. I try to post at least once a week and that’s my goal. You can always increase as your workload gets lighter or you when you are able to do YouTube full-time.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2. Keep track of all your ideas in one notebook planner
 
 A notebook planner is essential for keeping my life organized and on track. When I first started my channel, I had a separate planner just for my YouTube videos – this didn’t work cause I never looked at it. It worked best when I kept track of my entire life, including YouTube, in one planner since I look at it every day. Then I could also see which days I wanted to post a video or see what topics worked best around specific holidays and such.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3. Check the weather forecast in advance
@@ -69,15 +62,22 @@ A notebook planner is essential for keeping my life organized and on track. When
 When starting a YouTube channel, many YouTubers like myself don’t have the money to afford all the fancy lighting you see other creators using. [I use natural light](https://tools.techidaily.com/wondershare/filmora/download/), which means I have to make sure it’s going to be a sunny day or at least bright enough for my videos to be clear. I check the forecast for the week on Sunday evenings so I can plan out my best days to film, this keeps my video shooting schedule productive.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4. Create 3-5 videos in advance
 
 This week I am on PTO (paid time off) which has given me a lot more time to film videos I can post for next month. Life happens and it can set you back on filming. If you happen to get a major break in your workweek, use the opportunity to film a bunch of videos, edit them, and have them waiting in your pocket. I filmed three videos in one day – I planned and set-up the night before, which made filming much smoother. Trust me, this tip works wonders!
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5. Be creative! Create audios (audio-only videos)
 
@@ -96,10 +96,10 @@ Just try it and create your own YouTube video!
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -117,16 +117,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/2024-approved-exclusive-roundup-top-tier-no-cost-luts-available/"><u>2024 Approved Exclusive Roundup Top-Tier, No-Cost LUTs Available</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-guide-clearing-up-youtube-watchlater-stored-list/"><u>2024 Approved Guide Clearing Up YouTube Watchlater Stored List</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-safeguarding-against-scams-as-you-seek-to-amass-one-million-youtube-watches/"><u>2024 Approved Safeguarding Against Scams as You Seek to Amass One Million YouTube Watches</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unleash-creativity-crafting-your-own-youtube-shorts-thumbnails/"><u>2024 Approved Unleash Creativity Crafting Your Own YouTube Shorts Thumbnails</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-nokia-150-2023-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Nokia 150 (2023) PC | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-apple-iphone-7-plus-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing Apple iPhone 7 Plus iCloud Activation Lock</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-collection-of-youtube-beauty-icons-to-admire/"><u>In 2024, The Ultimate Collection of YouTube Beauty Icons to Admire</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/lg-c9-series-65-oled-4k-ultra-hd-smart-tv-evaluation-optimal-viewing-experience/"><u>LG C9 Series 65 OLED 4K Ultra HD Smart TV Evaluation - Optimal Viewing Experience</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/metaverse-vs-multiverse-a-comprehensive-breakdown/"><u>Metaverse vs Multiverse A Comprehensive Breakdown</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/1722536077135-top-notch-beesound-earbuds-affordable/"><u>Top-Notch BeeSound Earbuds, Affordable!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unlock-your-browser-freedom-a-comprehensive-tutorial-to-deactivate-microsoft-smartscreen-filter-in-windows-11-and-8/"><u>Unlock Your Browser Freedom: A Comprehensive Tutorial to Deactivate Microsoft SmartScreen Filter in Windows 11 and 8</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-personalize-with-free-youtube-profile-designs/"><u>[New] Personalize With FREE YouTube Profile Designs</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-setup-essentials-prepping-for-a-thriving-youtube-channel/"><u>[New] Setup Essentials Prepping for a Thriving YouTube Channel</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-best-10-final-cut-pro-plugins-ever/"><u>[New] The Best 10 Final Cut Pro Plugins Ever</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-charting-the-course-to-earnings-with-youtube-videos/"><u>[Updated] Charting the Course to Earnings with YouTube Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mr-beasts-financial-landscape/"><u>2024 Approved Mr. Beast’s Financial Landscape</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-precision-techniques-for-efficient-keying-processes/"><u>2024 Approved Precision Techniques for Efficient Keying Processes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/chronicle-custodians-circle-top-7-treasures-for-2024/"><u>Chronicle Custodians Circle - Top 7 Treasures for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dynamic-dreaming-ai-mindmaps-for-inspiration/"><u>Dynamic Dreaming: AI, Mindmaps for Inspiration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-entry-into-windows-11-advanced-boot-settings-a-step-by-step-tutorial/"><u>Effortless Entry Into Windows 11 Advanced Boot Settings - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/exploring-the-neuroscience-of-decision-making-and-its-implications-for-leadership-for-2024/"><u>Exploring the Neuroscience of Decision-Making and Its Implications for Leadership for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-vivo-y28-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Vivo Y28 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-masterful-iphone-videography-top-8-expert-filmmaking-advice/"><u>In 2024, Masterful iPhone Videography Top 8 Expert Filmmaking Advice</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-lava-yuva-3-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Lava Yuva 3 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-top-hash-tags-skyrocketing-to-6-figure-views-on-youtube/"><u>In 2024, Top Hash Tags Skyrocketing to 6-Figure Views on YouTube</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/is-youtubes-monetization-payment-frequent-for-2024/"><u>Is YouTube's Monetization Payment Frequent for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mastering-your-content-delivery-insights-on-igtv-and-youtube-for-2024/"><u>Mastering Your Content Delivery Insights on IGTV and YouTube for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mastering-youtube-streams-with-simple-obs-guide-for-2024/"><u>Mastering YouTube Streams with Simple OBS Guide for 2024</u></a></li>
+<li><a href="https://discover-best.techidaily.com/1726028138502-1080p/"><u>アマゾンプライム・スクリーンよりも安価な1080p映画配信サービスの応用法！</u></a></li>
 </ul></div>
 

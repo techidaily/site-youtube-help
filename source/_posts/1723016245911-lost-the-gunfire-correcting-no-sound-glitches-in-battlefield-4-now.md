@@ -1,7 +1,7 @@
 ---
 title: Lost the Gunfire? Correcting No Sound Glitches in Battlefield 4 Now
-date: 2024-10-28T22:39:21.880Z
-updated: 2024-10-30T07:30:31.007Z
+date: 2024-11-01T03:22:52.070Z
+updated: 2024-11-04T22:33:29.814Z
 tags:
   - win11
   - win10
@@ -30,6 +30,19 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 5. **[Verify the game integrity](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Rule out other interference](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1\. Update your audio drivers
 
  A faulty/outdated audio driver can cause game audio issues. An audio driver is a translator for your system and device, and if it goes wrong, you will be having sound problems. There are onboard sound card drivers and headset drivers (for some older ones).
@@ -41,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
  2) Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![scan now](https://images.drivereasy.com/wp-content/uploads/2021/09/scannow.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged audio driver to automatically download and install the correct audio driver (You can do this with the FREE version).
 
@@ -84,13 +90,6 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 
  Now launch your Battlefield 4 to check if the sound is coming back. If unfortunately not, don’t worry since we have a few more fixes for you to try.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3\. Check Windows Volume Mixer
 
  First, you should check the Windows Volume Mixer, and check if the volume for Battlefield 4 is set to a minimum.
@@ -104,10 +103,10 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 ![check battlefield 4 sound not working](https://images.drivereasy.com/wp-content/uploads/2021/09/mixer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Now you’ll need to go to the**Advanced Sound settings** . Press the**Windows logo** key +**I** at the same time, and select**System** .
@@ -115,22 +114,15 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 ![open system](https://images.drivereasy.com/wp-content/uploads/2021/09/system-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Select**Sound** from the left pane, and click**App volume and device preferences** under**Advanced sound options** .
 
 ![open advanced sound settings](https://images.drivereasy.com/wp-content/uploads/2021/09/soundsettings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Make sure you set the Output of Battlefield 4 to the system default device instead of “Game”.
 
@@ -154,6 +146,19 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 
 Launch your Battlefield 4 and check if the sound is working now.
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5\. Verify the game integrity
 
  In case that some essential files are missing, it’s recommended to verify your game files (repair game) before you head to other fixes.
@@ -165,10 +170,10 @@ Launch your Battlefield 4 and check if the sound is working now.
 ![Battlefield 4 repair](https://images.drivereasy.com/wp-content/uploads/2021/09/battlefield-1200x686.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Once complete, close Origin. Then run Origin as administrator.
@@ -176,10 +181,10 @@ Launch your Battlefield 4 and check if the sound is working now.
 ![run origin as admin](https://images.drivereasy.com/wp-content/uploads/2019/08/run-origin-as-sdministrator.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Play Battlefield 4 and test the sound issue. If the Battlefield 4 sound not working issue persists, it’s very likely caused by interference by your devices or other apps.
@@ -194,15 +199,22 @@ Launch your Battlefield 4 and check if the sound is working now.
 
 ![origin application settings](https://images.drivereasy.com/wp-content/uploads/2021/09/app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Origin In-Game** tab. Toggle the **Off** switch to turn Origin In-Game off.
 
 ![turn off orgin in game](https://images.drivereasy.com/wp-content/uploads/2021/09/originingame.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If disabling Origin In-Game Overlay doesn’t work, you can[perform a clean boot](https://tools.techidaily.com/drivereasy/download/) on your PC to find a problematic application.
@@ -230,18 +242,24 @@ Launch your Battlefield 4 and check if the sound is working now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-diy-youtube-thumbnails-made-simple/"><u>[New] 2024 Approved DIY YouTube Thumbnails Made Simple</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-exploring-income-average-creator-revenue-from-adverts-on-youtube/"><u>[New] Exploring Income Average Creator Revenue From Adverts on YouTube?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-identifying-causes-for-disappearing-youtube-shorts-thumbnails/"><u>[New] Identifying Causes for Disappearing YouTube Shorts Thumbnails</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-securing-stability-techniques-for-quality-video-with-logitech-for-2024/"><u>[New] Securing Stability Techniques for Quality Video with Logitech for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-revolutionize-your-content-with-these-top-10-editing-strategies/"><u>[Updated] Revolutionize Your Content with These Top 10 Editing Strategies</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-from-raw-to-radiant-youtubes-art-of-visual-aesthetic/"><u>2024 Approved From Raw to Radiant Youtube's Art of Visual Aesthetic</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-make-a-youtube-trailer/"><u>2024 Approved How To Make a YouTube Trailer</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/elevating-visual-clarity-uncovering-iphone-xs-precision-camera-for-2024/"><u>Elevating Visual Clarity Uncovering iPhone X’s Precision Camera for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-samsung-galaxy-z-flip-5-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Samsung Galaxy Z Flip 5 Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-ryans-revenue-revolution-from-childhood-to-youtube-riches/"><u>In 2024, Ryan’s Revenue Revolution From Childhood to YouTube Riches</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/maximize-views-the-art-of-timestamp-integration-on-youtube-for-2024/"><u>Maximize Views The Art of Timestamp Integration on YouTube for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-fcp-vs-fce-a-side-by-side-comparison-of-video-editing-powerhouses/"><u>New In 2024, FCP vs FCE A Side-by-Side Comparison of Video Editing Powerhouses</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-solution-for-restoring-voice-communication-in-rainbow-six-siege-year-2024-update/"><u>Ultimate Solution for Restoring Voice Communication in Rainbow Six Siege - Year 2024 Update</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-breaking-down-the-process-of-livestreaming-online/"><u>[New] 2024 Approved Breaking Down the Process of Livestreaming Online</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-selfie-to-sensation-vloggers-choice-of-top-9-camera-accessories/"><u>[New] From Selfie to Sensation Vloggers' Choice of Top 9 Camera Accessories</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-go-global-quickly-optimal-tags-to-escalate-your-youtube-snippets/"><u>[New] Go Global Quickly Optimal Tags to Escalate Your YouTube Snippets</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-push-past-a-thousand-views-in-minimal-time/"><u>[New] Push Past a Thousand Views in Minimal Time</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-sharpen-your-scopes-essential-close-up-techniques-for-mines/"><u>[New] Sharpen Your Scopes Essential Close-Up Techniques for Mines</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-your-ultimate-guide-to-utilizing-telegrams-desktop-functionality/"><u>[Updated] 2024 Approved Your Ultimate Guide to Utilizing Telegram's Desktop Functionality</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-professional-audio-tactics-achieving-excellence-without-a-microphone/"><u>[Updated] In 2024, Professional Audio Tactics Achieving Excellence without a Microphone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-selecting-your-next-travel-cinema-device/"><u>[Updated] In 2024, Selecting Your Next Travel Cinema Device</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-tailoring-your-content-to-perfection-youtube-edits-in-sony-vegas-style/"><u>2024 Approved Tailoring Your Content to Perfection YouTube Edits in Sony Vegas Style</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-ultimate-guide-prime-video-stabilizers/"><u>2024 Approved Ultimate Guide Prime Video Stabilizers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unleash-creativity-pro-guide-for-youtube-studio-editing/"><u>2024 Approved Unleash Creativity Pro Guide for YouTube Studio Editing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/avoiding-pitfalls-essential-tips-for-correcting-common-chatgpt-mistakes/"><u>Avoiding Pitfalls: Essential Tips for Correcting Common ChatGPT Mistakes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/free-minecraft-youtube-banners-with-templates-for-2024/"><u>Free Minecraft YouTube Banners with Templates for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-itel-a60s-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Itel A60s Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-expert-advice-at-your-screen-the-finest-15-stock-channels/"><u>In 2024, Expert Advice at Your Screen The Finest 15 Stock Channels</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-art-of-changing-your-monitor-display-issues-and-solutions-unveiled/"><u>Mastering the Art of Changing Your Monitor Display: Issues and Solutions Unveiled</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mirrorless-vs-dslr-cameras-which-is-better-for-videos-in-2024/"><u>Mirrorless Vs. DSLR Cameras Which Is Better for Videos, In 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplified-guide-to-bluetooth-driver-reinstallation-in-windows/"><u>Simplified Guide to Bluetooth Driver Reinstallation in Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/utilizing-b-footage-an-essential-filmmaking-skill/"><u>Utilizing B-Footage An Essential Filmmaking Skill</u></a></li>
 </ul></div>
 

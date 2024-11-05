@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Efficiently Delete Unwanted Video Feedback"
-date: 2024-10-26T19:19:32.742Z
-updated: 2024-10-30T03:59:05.269Z
+date: 2024-10-30T01:25:07.501Z
+updated: 2024-11-05T03:42:18.608Z
 tags:
   - ai video
   - ai youtube
@@ -83,6 +83,19 @@ If it is your video where the comment to be removed is, you can go to My Channel
 1. Once you locate the video, you need to find the comment you want to delete. On the YouTube app, you may need to scroll down for a while to do this.
 2. When you reach it, click on the three vertical dots at the bottom corner of your comment. You should see an option called Delete. Click on that. You need to confirm once more that you want to delete it, and the process will be complete.
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Delete Other People’s Comments on Others’ Channels
 
 Did you see a hate comment on your favorite creator’s video? Sadly, you cannot delete the comment. But, you can report it, and YouTube will hide or take it down.
@@ -104,17 +117,10 @@ To find your History from your desktop, you need to click on the three horizonta
 ![Report YouTube comments](https://images.wondershare.com/filmora/article-images/report-youtube-comment.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Delete All Your Posted YouTube Comments?
@@ -126,6 +132,13 @@ You can also delete all comments you ever posted on any YouTube video by hiding 
 
 ![YouTube Settings](https://images.wondershare.com/filmora/article-images/two-ways-settings-youtube-channel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. YouTube will direct you to the Settings page of your account. Choose Advanced Settings from the list on your left. You can also access it from [here](https://www.youtube.com/account%5Fadvanced).
 
 ![YouTube Advanced  Settings](https://images.wondershare.com/filmora/article-images/youtube-advanced-settings.jpg)
@@ -134,27 +147,20 @@ You can also delete all comments you ever posted on any YouTube video by hiding 
 
 ![YouTube Settings](https://images.wondershare.com/filmora/article-images/remove-youtube-content.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. YouTube will now show you what will happen when you hide your channel. Check all the boxes to confirm that you understand, and then tap on Hide My Channel. YouTube will now delete all comments made by your account.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Final Thoughts
 
 YouTube can be an unsafe place with unwanted comments everywhere. In this blog, we tried to show how you can get rid of comments on your and on others’ YouTube accounts. The next time you see an offensive comment or post something mistakenly, don’t forget to try our tips and make YouTube a safe platform again.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -171,21 +177,16 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-vr-content-company-you-should-know-within/"><u>[New] 2024 Approved VR Content Company You Should Know With.in</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-cyberspace-companion-fb-stories-saver/"><u>[New] In 2024, Cyberspace Companion FB Stories Saver</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-incremental-introduction/"><u>[New] Incremental Introduction</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-strategizing-stream-success-maximize-revenue-on-dm-and-yo/"><u>[New] Strategizing Stream Success Maximize Revenue on Dm and Yo</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-exciting-possibilities-the-best-12-clickers-for-pc-gamers/"><u>[Updated] 2024 Approved Exciting Possibilities The Best 12 Clickers for PC Gamers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-a-beginners-primer-on-essential-camera-movements-in-film/"><u>[Updated] A Beginner's Primer on Essential Camera Movements in Film</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-mastering-twitter-promotions-essential-tips-for-2024/"><u>[Updated] Mastering Twitter Promotions Essential Tips for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-maximize-learning-free-tools-for-online-video-texts/"><u>2024 Approved Maximize Learning Free Tools for Online Video Texts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-podcast-outros-and-examples/"><u>2024 Approved The Ultimate Guide to Podcast Outros & Examples</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-2-ways-to-loop-a-youtube-video-on-tv/"><u>In 2024, 2 Ways to Loop a YouTube Video On TV</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-expand-your-horizon-best-15-online-science-platforms/"><u>In 2024, Expand Your Horizon Best 15 Online Science Platforms</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-poco-m6-pro-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Poco M6 Pro 5G Devices</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-laugh-out-loud-essential-comedy-channels-for-endless-fun/"><u>In 2024, Laugh Out Loud Essential Comedy Channels for Endless Fun</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-movie-substitutes-to-explore-top-7-choices/"><u>In 2024, Movie Substitutes to Explore - Top 7 Choices</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-manual-for-estimating-youtube-ad-revenue-and-views/"><u>In 2024, Step-by-Step Manual for Estimating YouTube Ad Revenue & Views</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-the-nuances-of-softening-sounds-via-lumafusion/"><u>Mastering the Nuances of Softening Sounds via Lumafusion</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-conceptualization-to-production-a-guide-to-making-mukbang/"><u>[New] From Conceptualization to Production A Guide to Making Mukbang</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-excellence-collective-in-multimedia-sensation/"><u>In 2024, Excellence Collective in Multimedia Sensation</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-infographic-inquiry-unraveling-the-stats-of-yt-2017/"><u>In 2024, Infographic Inquiry! Unraveling the Stats of YT (2017)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-the-art-of-aspect-ratios-on-youtube-videosshortsads/"><u>In 2024, Mastering the Art of Aspect Ratios on YouTube Videos/Shorts/Ads</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-quick-tips-for-nvidia-screen-capturing/"><u>In 2024, Quick Tips for NVIDIA Screen Capturing</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-integration-merging-your-youtube-and-tiktok-accounts-effortlessly/"><u>In 2024, Step-by-Step Integration Merging Your YouTube & TikTok Accounts Effortlessly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-word-wanderings-definitive-searches-on-win11/"><u>Quick Word Wanderings: Definitive Searches on Win11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/sing-your-heart-out-with-the-user-friendly-multicolor-singing-machine-sml385btbk-karaoke-kit/"><u>Sing Your Heart Out with the User-Friendly, Multicolor Singing Machine SML385BTBK Karaoke Kit!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-art-of-intense-focus-5-techniques-for-zooming-in-minecraft/"><u>The Art of Intense Focus 5 Techniques for Zooming in Minecraft</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-ultimate-approach-to-preserving-your-ps4-experience-for-2024/"><u>The Ultimate Approach to Preserving Your PS4 Experience for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-video-editing-made-easy-splitting-videos-in-windows-live-movie-maker-for-pc-users/"><u>Updated Video Editing Made Easy Splitting Videos in Windows Live Movie Maker for PC Users</u></a></li>
 </ul></div>
 

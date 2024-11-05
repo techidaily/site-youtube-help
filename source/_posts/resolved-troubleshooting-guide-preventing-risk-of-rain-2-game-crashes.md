@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting Guide - Preventing Risk of Rain 2 Game Crashes"
-date: 2024-10-24T23:29:20.677Z
-updated: 2024-10-30T09:55:35.285Z
+date: 2024-11-03T18:16:11.798Z
+updated: 2024-11-04T16:20:04.249Z
 tags:
   - win11
   - win10
@@ -29,13 +29,6 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 * [Fix 8: Disable fullscreen optimizations](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 9: Try Phasmophobia beta version](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Restart your computer
 
  If you haven’t done this yet, give it a shot. A simple restart will reset your software and desktop environment and can often fix software glitches like this.
@@ -52,16 +45,22 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Under the**Installed Files** tab, click**Verify integrity of game files** .
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart the game after the process is complete.
 
@@ -88,10 +87,10 @@ Game crashing issues might happen when your game files are corrupted.
 If the game still crashes, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
@@ -112,17 +111,17 @@ If the game still crashes, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -145,6 +144,13 @@ If the crash still occurs, go ahead with the next fix.
 
  If you still experience crashing issues, then the issue is not with your game settings. You can change the settings back and try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Launch the game with DirectX 10
 
  Another workaround for some players is manually switching the game to DirectX 10\. Here’s how to do it:
@@ -157,6 +163,13 @@ If the crash still occurs, go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-22_16-23-03.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Launch the game to see if your problem has been resolved.
 
 If Phasmophobia crashing issues persist, try the next fix below.
@@ -166,16 +179,10 @@ If Phasmophobia crashing issues persist, try the next fix below.
  If you’ve manually overclocked your GPU or CPU, revert it to its default GPU/CPU clock. And if you are using overclocking software, such as MSI Afterburner, please also disable the software when running the game.
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 8: Disable fullscreen optimizations
@@ -193,13 +200,6 @@ If Phasmophobia crashing issues persist, try the next fix below.
  4) Relaunch the game to test your issue.
 
 If the problem still exists, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 9: Try Phasmophobia beta version
 
@@ -232,22 +232,18 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-dash.techidaily.com/download-intel-iris-xe-graphics-driver-for-windows-11-11/"><u>[Download] Intel Iris Xe Graphics Driver for Windows 11, 11</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-from-humble-beginnings-surging-subscribers-and-views-in-youtube-world/"><u>[New] From Humble Beginnings Surging Subscribers & Views in Youtube World</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-navigate-your-way-to-partner-status-via-a-quick-10k-view-achievement/"><u>[New] Navigate Your Way to Partner Status via a Quick 10K View Achievement</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-turning-up-the-focus-crafting-astonishing-slow-motion-videos-for-ig-reels-for-2024/"><u>[Updated] Turning Up the Focus Crafting Astonishing Slow Motion Videos for IG Reels for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-remove-pending-videos-from-your-youtube-history/"><u>2024 Approved How to Remove Pending Videos From Your YouTube History</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-multi-video-viewing-on-youtube/"><u>2024 Approved Mastering Multi-Video Viewing on YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-short-form-media-exploration/"><u>2024 Approved Short Form Media Exploration</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unbeatable-bargain-video-content-websites/"><u>2024 Approved Unbeatable Bargain Video Content Websites</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/jvc-jvc/"><u>失われたJVCビデオカメラファイルを回復するテクニック - JVCから</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/geminis-landmark-achievement-1m-tokens-reimagined/"><u>Gemini's Landmark Achievement: $1M Tokens Reimagined</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-honor-magic5-ultimate-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Honor Magic5 Ultimate to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-exploring-t-series-youtube-profit-strategy/"><u>In 2024, Exploring T-Series YouTube Profit Strategy</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-pioneering-avengers-the-marvellous-world-builders/"><u>In 2024, Pioneering Avengers The Marvellous World-Builders</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/prime-motorsport-experiences-quintessential-list-for-2024/"><u>Prime Motorsport Experiences Quintessential List for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/secure-download-of-latest-toshiba-printer-and-scanner-drivers-compatible-with-windows/"><u>Secure Download of Latest Toshiba Printer & Scanner Drivers Compatible with Windows</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/supreme-storytelling-through-soundscape-for-2024/"><u>Supreme Storytelling Through Soundscape for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/synergy-of-enterprises-and-immersive-virtual-worlds-for-2024/"><u>Synergy of Enterprises and Immersive Virtual Worlds for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-makeup-trends-to-try-now-for-2024/"><u>[New] Makeup Trends to Try Now for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-integrating-text-in-multimedia-techniques-for-youtube-video-enhancement/"><u>[Updated] Integrating Text in Multimedia Techniques for YouTube Video Enhancement</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-seamless-youtube-experience-on-apple-gear-downloading-made-easy/"><u>2024 Approved Seamless Youtube Experience on Apple Gear Downloading Made Easy</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-free-to-do-approach-for-text-and-video-combination/"><u>2024 Approved The Free-to-Do Approach for Text & Video Combination</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/decoding-photoscapes-capabilities-insights-into-an-accessible-budget-friendly-image-editor/"><u>Decoding PhotoScape's Capabilities: Insights Into an Accessible, Budget-Friendly Image Editor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-audio-transformation-convert-your-mka-downloads-to-mp3-at-no-cost-movavis-expertise-guaranteed/"><u>Effortless Audio Transformation: Convert Your MKA Downloads to MP3 at No Cost - Movavi's Expertise Guaranteed</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/flawless-offline-viewing-your-guide-to-mobile-video-downloads-for-idevices-for-2024/"><u>Flawless Offline Viewing Your Guide to Mobile Video Downloads for iDevices for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/harnessing-chatgpt-6-essential-tips-for-a-dream-dm-experience/"><u>Harnessing ChatGPT: 6 Essential Tips for a Dream DM Experience</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/harnessing-the-power-of-macs-native-preview-app-to-transform-your-images/"><u>Harnessing the Power of Mac’s Native Preview App to Transform Your Images</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-networking-galore-places-for-youtube-affiliate-marketing/"><u>In 2024, Networking Galore Places for YouTube Affiliate Marketing</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-green-screen-magic-video-production-tips/"><u>In 2024, Unlocking Green Screen Magic Video Production Tips</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-youtube-potential-expert-tips-for-wirecast-streaming/"><u>In 2024, Unlocking YouTube Potential Expert Tips for WireCast Streaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplified-guide-to-understanding-langchain/"><u>Simplified Guide to Understanding LangChain</u></a></li>
 </ul></div>
 

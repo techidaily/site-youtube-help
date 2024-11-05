@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Stay Controlled Online  Guide to Blocking Distracting YouTube Channels\""
-date: 2024-10-23T06:59:19.885Z
-updated: 2024-10-29T18:15:59.988Z
+date: 2024-10-30T19:41:19.932Z
+updated: 2024-11-04T20:25:35.408Z
 tags:
   - ai video
   - ai youtube
@@ -63,23 +63,22 @@ thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7
 
 ![find users](https://images.wondershare.com/filmora/article-images/find-users.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * 4\. When you’re on the account page, open the menu at the top-right corner of the screen and tap Block user.
 
 ![tap block users](https://images.wondershare.com/filmora/article-images/tap-block-user2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Part 3: Block content on YouTube kids**
 
@@ -91,22 +90,29 @@ thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7
 
 ![confirm parent](https://images.wondershare.com/filmora/article-images/a-parent3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * 2\. Sign in with your preferred Google account.
 
 ![parent account](https://images.wondershare.com/filmora/article-images/parent-account4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * 3\. Here you’ll see a button **Send Parental Consent Emai**l, press it.
 * 4\. You’ll get an activation code on your email address.
 * 5\. Come back to the application and enter the code.
 
  Now as you’re signed in as a parent you can block channels and specific content.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **I. Block on Home screen**
 
@@ -115,10 +121,10 @@ thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7
 ![home screen](https://images.wondershare.com/filmora/article-images/home-screen5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * 2\. In the menu list, you will see **Block this video**, tap it.
@@ -126,18 +132,18 @@ thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7
 
 ![get passcode](https://images.wondershare.com/filmora/article-images/pass-code6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **II. Block from Watch Page**
 
 * 1\. On the Watch Page tap the dotted **More** option at the top right corner of the video.
 
 ![more option](https://images.wondershare.com/filmora/article-images/more-option7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * 2\. Press the **Block** option.
 * 3\. A dialog box will appear with two options, **Block this video** for blocking only this particular video or **Block this channel** to block the entire channel associated with the video.
@@ -170,22 +176,15 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-create-a-standout-presence-with-youtube-custom-imagery/"><u>[New] 2024 Approved Create a Standout Presence with YouTube Custom Imagery</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-harness-the-power-of-mp4-converting-youtube-shorts/"><u>[New] Harness the Power of Mp4 Converting YouTube Shorts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-zooming-up-triad-of-effective-video-enhancement-practices/"><u>[New] In 2024, Zooming Up Triad of Effective Video Enhancement Practices</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-optimizing-stardew-valley-fun-a-list-of-the-top-7-mods/"><u>[New] Optimizing Stardew Valley Fun A List of the Top 7 Mods</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cultivating-a-sustainable-advertising-ecosystem-famebits-strategies/"><u>[Updated] In 2024, Cultivating a Sustainable Advertising Ecosystem FameBit’s Strategies</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-ios-video-streaming-guide-effortless-sharing-to-youtube/"><u>2024 Approved IOS Video Streaming Guide Effortless Sharing to YouTube</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-live-audience-score-keeper-apps/"><u>2024 Approved Live Audience Score Keeper Apps</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-masterclass-in-eliminating-youtube-content/"><u>2024 Approved Masterclass in Eliminating YouTube Content</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-micro-music-moments-character-compositions/"><u>2024 Approved Micro-Music Moments Character Compositions</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-secrets-to-massive-channel-subscription-growth/"><u>2024 Approved Secrets to Massive Channel Subscription Growth</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-step-by-step-guide-to-perfect-gamer-channel-headers/"><u>2024 Approved Step-By-Step Guide to Perfect Gamer Channel Headers</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-vivo-y100-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Vivo Y100 5G without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixed-top-solutions-for-when-your-apple-watch-cant-access-cellular-networks-anymore/"><u>Fixed! Top Solutions for When Your Apple Watch Can't Access Cellular Networks Anymore</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-huawei-nova-y71-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Huawei Nova Y71 to Protect Your Individual Information</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-shield-yourself-online-a-step-by-step-guide-for-smoothing-images/"><u>In 2024, Shield Yourself Online A Step-by-Step Guide for Smoothing Images</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/net-worth-of-kids-celebrity-reaches-new-heights-for-2024/"><u>Net Worth of Kids Celebrity Reaches New Heights for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-poco-m6-pro-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Poco M6 Pro 5G Device</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-country-rhythms-for-relaxation-and-danceside-bliss-tiktok-playlist/"><u>[New] 2024 Approved Country Rhythms for Relaxation and Danceside Bliss (TikTok Playlist)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-cut-the-haze-sharpen-your-photos-with-topeditstools-for-2024/"><u>[New] Cut the Haze, Sharpen Your Photos with #TopEditsTools for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-journey-from-gifs-to-stickers-perfect-instructions-for-all-chat-platforms/"><u>[New] Journey From GIFs to Stickers Perfect Instructions for All Chat Platforms</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-premier-eco-cinema-tech-usage-and-mastery/"><u>[Updated] 2024 Approved Premier Eco-Cinema Tech Usage and Mastery</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-choosing-the-best-portable-microphones-for-macos-users/"><u>2024 Approved Choosing the Best Portable Microphones for MacOS Users</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-understanding-subscription-tiers-youtube-tv-explained/"><u>2024 Approved Understanding Subscription Tiers YouTube TV Explained</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-skyrocket-view-counts-with-youtube-short-creation-techniques/"><u>In 2024, Skyrocket View Counts with YouTube Short Creation Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-your-ultimate-guide-to-budget-friendly-excellent-webm-viewers/"><u>In 2024, Your Ultimate Guide to Budget-Friendly, Excellent WebM Viewers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/jump-cut-strategies-for-compelling-vlogs-for-2024/"><u>Jump Cut Strategies for Compelling Vlogs for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/making-it-big-on-youtube-your-strategy-playbook-for-2024/"><u>Making It Big on YouTube Your Strategy Playbook for 2024</u></a></li>
 </ul></div>
 

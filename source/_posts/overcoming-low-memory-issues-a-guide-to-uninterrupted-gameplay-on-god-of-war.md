@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Low Memory Issues: A Guide to Uninterrupted Gameplay on God of War"
-date: 2024-10-25T09:43:54.856Z
-updated: 2024-10-29T17:31:30.223Z
+date: 2024-10-28T16:42:08.658Z
+updated: 2024-11-05T02:27:32.104Z
 tags:
   - win11
   - win10
@@ -37,13 +37,6 @@ If this is happening to you, don’t panic. Try the fixes below.
 
  You may not have to try them all; just work your way down the list until you find the one that does the trick for you.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## First Thing First…
 
  When something goes wrong with Discord, the first thing you need to check is the **[server status for Discord](https://status.discordapp.com/)**  . You can also follow [**@Discord**](https://twitter.com/discord) on Twitter to see if there are any ongoing issues.
@@ -53,6 +46,13 @@ If this is happening to you, don’t panic. Try the fixes below.
 ## Fix 1\. Restart your computer
 
  Before we dive into anything advanced, make sure you restart your computer. A simple restart will reset your software and desktop environment and can often fix software glitches like this. So give it a shot!
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2\. Check Your Internet Connection
 
@@ -73,20 +73,33 @@ If you’re not sure how to do it, follow the instructions below:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/close-discord.png)
 3. Right-click the Discord icon on your desktop, then select**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/discord-properties.png)
 4. Under the**Compatibility** tab, check the box next to**Run this program as an administrator** , then click**OK** .  
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/Discord-admin-access.png)
 5. Relaunch Discord.
 
 If your stream still gets stuck on loading, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4\. Turn off Hardware Acceleration
 
@@ -98,13 +111,6 @@ To see if this is the core issue, try turning off Hardware Acceleration:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/discord-settings.png)
 2. On the left side menu, select Advanced, then toggle**off** the option for**Hardware Acceleration** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/discord-hardware-acceleration.png)
 3. Click**Okay** to move on.  
 
@@ -112,19 +118,26 @@ To see if this is the core issue, try turning off Hardware Acceleration:
 4. Discord will relaunch automatically. See if this has resolved your issue.
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If Discord still won’t load streams correctly, read on and try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5\. Update Your Graphics Driver
 
@@ -164,22 +177,15 @@ To see if this is the core issue, try turning off Hardware Acceleration:
 5. Press the **Del key** on your keyboard to delete all selected files.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Relaunch Discord to check if this helped.
 
 If your issue still exists, move on to the fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 7\. Switch to Windowed Mode
 
@@ -190,13 +196,6 @@ If your issue still exists, move on to the fix, below.
  If Discord runs without problems, then congratulation! If Discord still gets stuck when loading, try the fix below.
 
  You can easily go back to fullscreen mode in Discord by using the same keyboard shortcut, **Ctrl + Shift + F** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 8\. Use a VPN
 
@@ -211,13 +210,6 @@ If your issue still exists, move on to the fix, below.
 3. Click the **Quick Connect** , then the app will automatically choose a server that suits you best.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/06/image-1.png)
 4. Open Discord to see if the issue still exists.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 9\. Try Desktop App/Another Browser
 
@@ -237,8 +229,22 @@ If your issue still exists, move on to the fix, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/uninstall-apps.png)
 2. Right-click **Discord**  and click **Uninstall** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_19-04-30.jpg)
 3. Download and install **[Discord](https://discordapp.com/)**  .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Hopefully, this post helped. Did we miss a troubleshooting step that helped you or might help someone else fix the Discord Streams Stuck on Loading issue? Let us know in the comments if you have any thoughts!
 
@@ -261,18 +267,16 @@ If your issue still exists, move on to the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-cutting-edge-filmmaking-on-your-ios-device/"><u>[New] 2024 Approved Cutting-Edge Filmmaking on Your iOS Device</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-streaming-wars-whos-leading-vimeo-or-popular-online-platforms/"><u>[New] Streaming Wars Who's Leading – Vimeo or Popular Online Platforms?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-budget-friendly-1-decade-of-excellent-desktop-recorders-for-2024/"><u>[Updated] Budget-Friendly #1 Decade of Excellent Desktop Recorders for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-master-the-art-of-time-stamp-addition-for-better-viewership/"><u>2024 Approved Master the Art of Time Stamp Addition for Better Viewership</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-social-media-shifts-yearly-data-visualization-guide/"><u>2024 Approved Social Media Shifts Yearly Data Visualization Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-login-woes-heres-how-to-get-back-in/"><u>ChatGPT Login Woes? Here's How to Get Back In</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/exclusive-guide-choosing-among-top-9-free-logo-creators-for-2024/"><u>Exclusive Guide Choosing Among Top 9 Free Logo Creators for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/experience-endless-tunes-the-best-free-music-streaming-platforms-for-android-and-ios/"><u>Experience Endless Tunes: The Best Free Music Streaming Platforms for Android & iOS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/huge-screen-high-performance-a-comprehensive-review-of-the-crystal-pro-gaming-display-by-monoprice-for-only-285/"><u>Huge Screen, High Performance: A Comprehensive Review of the Crystal Pro Gaming Display by Monoprice for Only $285</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-perfecting-online-presentations-with-googles-whiteboard-tools-on-multiple-platforms/"><u>In 2024, Perfecting Online Presentations with Google's Whiteboard Tools on Multiple Platforms</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pro-gear-to-minimize-camera-movement/"><u>In 2024, Pro Gear to Minimize Camera Movement</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-canon-mg2amoji-driver-installation-instructions-for-windows-users/"><u>Latest Canon MG2amoji Driver Installation Instructions for Windows Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/spawning-new-worlds-chatgpt-generative-ai-for-unique-dandd-creatures/"><u>Spawning New Worlds: ChatGPT, Generative AI for Unique D&D Creatures</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-streaming-services-showdown-vimeo-versus-youtube/"><u>[New] Streaming Services Showdown Vimeo Versus YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-expert-smartphone-photo-and-film-capture-iphoneandroid-comparison/"><u>2024 Approved Expert Smartphone Photo & Film Capture IPhone/Android Comparison</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-stable-shootings-top-brands-for-online-filmmaking/"><u>2024 Approved Stable Shootings - Top Brands for Online Filmmaking</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-step-by-step-applying-color-grading-and-keying/"><u>2024 Approved Step-by-Step Applying Color Grading and Keying</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/accelerate-your-4k-video-workflow-mastering-h265-encoding-and-decoding-with-advanced-hardware-techniques/"><u>Accelerate Your 4K Video Workflow: Mastering H.265 Encoding and Decoding with Advanced Hardware Techniques</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-inspirational-themes-for-regular-vlogs/"><u>In 2024, Inspirational Themes for Regular Vlogs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-mastering-quantum-hdr-techniques-for-professionals/"><u>In 2024, Mastering Quantum HDR Techniques for Professionals</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/spravne-zdarma-konvertuji-mov-do-mp4-online-bezdekovujuce-skvela-jednotka-movavi/"><u>Správně Zdarma Konvertuji MOV Do MP4 Online, Bezděkovujuce Skvělá Jednotka Movavi</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-asus-rog-flow-x13-an-expert-evaluation-of-its-sizable-display-amidst-other-tradeoffs/"><u>The ASUS ROG Flow X13: An Expert Evaluation of Its Sizable Display Amidst Other Tradeoffs</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/for-safeguarding-your-youtube-presence-for-2024/"><u>Tips for Safeguarding Your YouTube Presence for 2024</u></a></li>
 </ul></div>
 

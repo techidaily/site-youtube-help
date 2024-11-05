@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting DirectX Drawing Issues: A Comprehensive Guide"
-date: 2024-10-23T08:03:03.456Z
-updated: 2024-10-30T11:16:42.673Z
+date: 2024-11-03T21:19:06.999Z
+updated: 2024-11-04T18:10:44.727Z
 tags:
   - win11
   - win10
@@ -30,10 +30,16 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 * [Fix 9: Try Phasmophobia beta version](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Restart your computer
@@ -56,13 +62,6 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Restart the game after the process is complete.
 
 If Phasmophobia still crashes, move on to the next fix below.
@@ -84,22 +83,21 @@ Game crashing issues might happen when your game files are corrupted.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-44-34.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5) Relaunch the game to test the issue.
 
 If the game still crashes, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -119,17 +117,17 @@ If the game still crashes, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -165,10 +163,10 @@ If the crash still occurs, go ahead with the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-22_16-23-03.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Launch the game to see if your problem has been resolved.
@@ -178,6 +176,13 @@ If Phasmophobia crashing issues persist, try the next fix below.
 ### Fix 7: Stop overlocking your GPU/CPU
 
  If you’ve manually overclocked your GPU or CPU, revert it to its default GPU/CPU clock. And if you are using overclocking software, such as MSI Afterburner, please also disable the software when running the game.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Disable fullscreen optimizations
 
@@ -194,6 +199,13 @@ If Phasmophobia crashing issues persist, try the next fix below.
  4) Relaunch the game to test your issue.
 
 If the problem still exists, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 9: Try Phasmophobia beta version
 
@@ -226,14 +238,24 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-youtubes-payment-system/"><u>2024 Approved Navigating YouTube's Payment System</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-speedy-tutorial-crafting-youtube-image-thumbnails-from-scratch/"><u>2024 Approved Speedy Tutorial Crafting YouTube Image Thumbnails From Scratch</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-stability-essentials-for-online-videography/"><u>2024 Approved Stability Essentials for Online Videography</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-strategic-hashtag-application-for-greater-instagram-traction/"><u>2024 Approved Strategic Hashtag Application for Greater Instagram Traction</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/downloading-updated-drivers-for-your-canon-mp250-a-step-by-step-guide/"><u>Downloading Updated Drivers for Your Canon MP250: A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/flair-and-finesse-in-your-gaming-youtube-channel-for-2024/"><u>Flair and Finesse in Your Gaming YouTube Channel for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-t2-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Vivo T2 5G to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/r-visual-effects-discover-youtubes-green-screen-treasure-for-2024/"><u>Master Visual Effects Discover YouTube’s Green Screen Treasure for 2024</u></a></li>
-<li><a href="https://discover-able.techidaily.com/topfreie-acronis-snap-deploy-ersatzoptionen-fur-bildverteilungsdienste/"><u>Topfreie Acronis Snap Deploy Ersatzoptionen Für Bildverteilungsdienste</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/uilding-bonds-before-buying-subscription-strategies/"><u>[New] Building Bonds Before Buying Subscription Strategies</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-enhancing-visual-stability-avoiding-dropouts-in-obs/"><u>[New] Enhancing Visual Stability Avoiding Dropouts in OBS</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-depth-tips-to-revolutionize-youtube-summary-writing-for-2024/"><u>[New] In-Depth Tips to Revolutionize YouTube Summary Writing for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-mr-beasts-wealth-estimated-net-worth/"><u>[New] Mr. Beast's Wealth Estimated Net Worth</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-navigating-video-landscape-vimeo-and-youtube-distinguished/"><u>[New] Navigating Video Landscape Vimeo and YouTube Distinguished</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-secrets-for-obtaining-copyright-free-imagery/"><u>[New] Secrets for Obtaining Copyright-Free Imagery</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-the-maze-of-youtube-short-mistakes/"><u>2024 Approved Navigating the Maze of YouTube Short Mistakes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-blueprint-for-youtube-video-success/"><u>2024 Approved The Blueprint for YouTube Video Success</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-uncover-free-photo-and-video-resources-from-esteemed-4-online-sources/"><u>2024 Approved Uncover Free Photo and Video Resources From Esteemed 4 Online Sources</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unleash-your-creativity-with-youtubes-green-screens/"><u>2024 Approved Unleash Your Creativity with YouTube's Green Screens</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/abbyy-launches-cutting-edge-research-facility-in-india/"><u>ABBYY Launches Cutting-Edge Research Facility in India</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-lenovo-thinkphone-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Lenovo ThinkPhone to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-high-end-audio-for-youtubes-best-gamers/"><u>In 2024, High-End Audio for YouTube's Best Gamers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-streamers-crossroad-navigating-between-vimeo-youtube-dailymotion/"><u>In 2024, The Streamer's Crossroad Navigating Between Vimeo, YouTube, Dailymotion</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-how-t-series-earnings-growth-on-youtube-works/"><u>In 2024, Unveiling How T-Series Earnings Growth on YouTube Works</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-elevated-cpu-load-in-new-world-update-tips-and-tricks/"><u>Troubleshooting Elevated CPU Load in New World Update: Tips and Tricks</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-vivo-y78t-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Vivo Y78t</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
 </ul></div>
 

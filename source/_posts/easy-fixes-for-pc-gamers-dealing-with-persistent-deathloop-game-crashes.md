@@ -1,7 +1,7 @@
 ---
 title: "Easy Fixes for PC Gamers: Dealing with Persistent Deathloop Game Crashes"
-date: 2024-10-29T07:59:37.859Z
-updated: 2024-10-30T04:12:33.375Z
+date: 2024-10-28T17:13:17.441Z
+updated: 2024-11-04T19:38:51.506Z
 tags:
   - win11
   - win10
@@ -32,19 +32,6 @@ thumbnail: https://thmb.techidaily.com/502b1cdc938497dc65859bd4dea7388cbc83b5388
 5. [**Increase your virtual memory**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Delete specific game files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Verify the integrity of game files
 
  AAA titles tend to be large, and they’re likely to crash when there’re missing or corrupted game files. To make sure the data is intact and up to date, you need to**verify the integrity of your game files** .
@@ -53,10 +40,30 @@ thumbnail: https://thmb.techidaily.com/502b1cdc938497dc65859bd4dea7388cbc83b5388
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-3.jpg)
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-4.jpg)
 3. Allow the checking to complete. Then you can start New World and see if it crashes again.
 
 If the problem persists, take a look at the next fix below.
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -74,18 +81,24 @@ If the problem persists, take a look at the next fix below.
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC and test the gameplay in New World.
 
  If the latest graphics driver doesn’t give you luck, go ahead and try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Make sure your system is up to date
 
@@ -106,10 +119,10 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -117,6 +130,19 @@ Here’s how you can check for updates manually:
  Once you’ve installed all the updates, restart your PC and check if New World crashes again.
 
 If your system is already up to date, you can try the next method.
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Change in-game graphics settings
 
@@ -126,13 +152,20 @@ If your system is already up to date, you can try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-1.jpg)
 2. In the left pane, select**Visuals** . Then set**Object details** to**High** or lower.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now you can play and check if the crash stops.
@@ -147,22 +180,8 @@ Now you can play and check if the crash stops.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/search-advanced-system-settings.jpg)
 2. Under the **Performance**  section, click **Settings…** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/system-advanced-performance-virtual-memory.jpg)
 3. In the pop-up window, navigate to the **Advanced**  tab. Under the **Virtual memory** section, click **Change…** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
 4. Deselect the **Automatically manage paging file size for all drives** checkbox. Then select **Customize size** .  
@@ -171,29 +190,16 @@ Now you can play and check if the crash stops.
 5. Enter **Initial size** and **Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory (actual RAM) of my computer is 8 GB, so the **Initial size** for me here is **8 x 1024 x 1.5 = 12288 MB** , and the **Maximum size** should be **8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click **Set** , then click **OK**  to save the changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-set-02.jpg)
 6. Restart your computer and check if New World crashes again.
 
  If this trick doesn’t do the trick for you, take a look at the next solution.
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Delete specific game files
 
@@ -228,20 +234,24 @@ Now you can play and check if the crash stops.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-cross-dimensional-analysis-understanding-the-metaverse-vs-omniverse/"><u>[New] In 2024, Cross-Dimensional Analysis Understanding the Metaverse Vs. Omniverse</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-top-5-slow-motion-video-gear/"><u>[New] In 2024, Top 5 Slow-Motion Video Gear</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-the-top-best-cloud-storage-service-for-business/"><u>[New] The Top Best Cloud Storage Service for Business</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-imageslice-cutter/"><u>2024 Approved ImageSlice Cutter</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-pro-live-pairings-expertly-curated-tools-and-devices-lists/"><u>2024 Approved Pro Live Pairings Expertly Curated Tools and Devices Lists</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-securing-stipends-by-scrutinizing-subscriptions-on-streaming-services/"><u>2024 Approved Securing Stipends by Scrutinizing Subscriptions on Streaming Services</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-compatibility-guide-logitech-g2amo-controller-drivers-for-windows-11-10-and-7/"><u>Download & Compatibility Guide: Logitech G2amo Controller Drivers for Windows 11, 10 & 7</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-xs-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone XS when Phone is Broken? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mp3-masterclass-easy-audio-to-video-for-youtube-enthusiasts/"><u>In 2024, MP3 Masterclass Easy Audio to Video for YouTube Enthusiasts</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-superb-phone-video-and-photo-capturing-with-best-apps-list/"><u>In 2024, Superb Phone Video & Photo Capturing with Best Apps List</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-top-10-strategies-for-youtube-musicians-make-the-perfect-reaction-video/"><u>In 2024, Top 10 Strategies for YouTube Musicians Make the Perfect Reaction Video</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-depth-look-at-voice-altering-software-for-video-makers-for-2024/"><u>In-Depth Look at Voice Altering Software for Video Makers for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/laughter-ledger-twittersphere-tales/"><u>Laughter Ledger Twittersphere Tales</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-fix-you-need-getting-your-playstation-5-gamepad-charging-again/"><u>The Fix You Need: Getting Your PlayStation 5 Gamepad Charging Again</u></a></li>
-<li><a href="https://driver-install.techidaily.com/universal-free-canon-scanner-software-for-windows/"><u>Universal Free Canon Scanner Software for Windows</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/dding-value-instructional-design-of-youtube-alerts-and-annotations/"><u>[New] Adding Value Instructional Design of YouTube Alerts & Annotations</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-leading-digital-image-grabbers/"><u>[New] Leading Digital Image Grabbers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-ripple-rhythms-selecting-audio-distortion-tools/"><u>[New] Ripple Rhythms Selecting Audio Distortion Tools</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-rising-to-the-top-essential-youtube-video-seo-techniques-for-success/"><u>[New] Rising to the Top Essential YouTube Video SEO Techniques for Success</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-step-by-step-crafting-youtube-content-in-sony-vegas/"><u>[New] Step-by-Step Crafting YouTube Content in Sony Vegas</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-decoding-the-download-your-guide-to-fb-videography-for-2024/"><u>[Updated] Decoding the Download Your Guide to FB Videography for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-from-camera-lens-to-screen-your-step-by-step-guide-to-gopro-video-mastery/"><u>[Updated] In 2024, From Camera Lens to Screen Your Step-by-Step Guide to GoPro Video Mastery</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-cutting-edge-techniques-for-cropping-images-on-the-web/"><u>2024 Approved Cutting Edge Techniques for Cropping Images on the Web</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-in-depth-football-footage-top-youtube-infographics/"><u>2024 Approved In-Depth Football Footage Top YouTube Infographics</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-rising-to-the-top-essential-youtube-video-seo-techniques-for-success/"><u>2024 Approved Rising to the Top Essential YouTube Video SEO Techniques for Success</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unleashing-the-power-of-youtube-finding-and-creating-partnerships/"><u>2024 Approved Unleashing the Power of YouTube Finding and Creating Partnerships</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unlock-the-potential-of-your-video-platform-growth/"><u>2024 Approved Unlock the Potential of Your Video Platform Growth</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-budget-friendly-hd-cameras-for-adrenaline-junkies/"><u>In 2024, Best Budget-Friendly HD Cameras for Adrenaline Junkies</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-stepwise-strategy-for-perfectly-curating-videos-in-your-youtube-playlists/"><u>In 2024, Stepwise Strategy for Perfectly Curating Videos in Your YouTube Playlists</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-tug-of-war-youtube-licensing-versus-cc-principles/"><u>In 2024, The Tug-of-War Youtube Licensing Versus CC Principles</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-year-ahead-social-media-infographic-insights/"><u>In 2024, The Year Ahead Social Media Infographic Insights</u></a></li>
+<li><a href="https://driver-download.techidaily.com/simple-installation-guide-for-intels-dual-band-ac-7260-wireless-chip-drivers-download-today/"><u>Simple Installation Guide for Intel's Dual Band AC 7260 Wireless Chip Drivers – Download Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-savings-up-to-550-exclusive-offer-on-the-new-asus-14-rog-zephyrus-gaming-laptop-shop-now-from-zdnet/"><u>Unlock Savings Up To $550: Exclusive Offer On The New ASUS 14 ROG Zephyrus Gaming Laptop - Shop Now From ZDNet!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/warrior-spirits-rising-comparable-game-suggestions-for-2024/"><u>Warrior Spirits Rising Comparable Game Suggestions for 2024</u></a></li>
 </ul></div>
 

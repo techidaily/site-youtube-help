@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Overcoming MSI Afterburner's Inability to Detect Graphics Card on Modern Windows Versions"
-date: 2024-10-26T09:05:44.331Z
-updated: 2024-10-29T16:09:31.294Z
+date: 2024-11-01T20:59:28.636Z
+updated: 2024-11-04T16:45:35.705Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 6. Turn on your computer and connect to the Internet.
 7. Launch your game again and see if Hitman 3 works properly now.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Allow Hitman 3 to run through Windows Firewall
 
  The**Connection Failed** error can happen if Windows Firewall is blocking your game. So be sure to check the Windows Firewall settings and let your Hitman 3 run through Windows Firewall. Here is how:
@@ -54,48 +61,22 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 ![Windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/Windows-firewall.jpg)
 2. On the left pane, click **Allow an app or feature through Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-app.jpg)
 3. Make sure your Hitman 3 is on the list, and also make sure it’s ticked for**Private** .
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. If you don’t find Hitman 3, click**Change settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/change-settings.jpg)
 5. Click**Allow another app…**  
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![change settings](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-another-app.jpg)
 6. Add your Hitman 3 executable file. If you’re not sure where the game is installed, please follow these steps:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
    * Click on the game title in your library.  
    * Select _**Properties**_ from the menu on the left.  
@@ -104,10 +85,10 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 7. Now launch your game again and test if the**Hitman 3 connection failed error** has been solved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Update your network driver
@@ -127,13 +108,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to a flagged network adapter driver to automatically download and install the correct version of this driver (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-network-adapter-driver.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
@@ -151,6 +125,20 @@ OR
 ![run as admin](https://images.drivereasy.com/wp-content/uploads/2021/01/run-as-admin.jpg)
 3. Next time you open your game launcher, it will launch in admin mode.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5: Disable antivirus software
 
  Some antivirus software may block some features in Hitman 3 so that you can encounter the “**connection failed** ” error. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
@@ -160,10 +148,10 @@ OR
 **Note:** Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 6:**Flush your DNS and Renew your IP**
@@ -210,21 +198,14 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-conquer-snapchats-boomerang-challenges-easily/"><u>[New] Conquer Snapchat's Boomerang Challenges Easily</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-secrets-to-successful-live-sessions-obs-and-streaming-platforms/"><u>[New] In 2024, Secrets to Successful Live Sessions OBS and Streaming Platforms</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-playlist-extraction-step-by-step-from-youtubes-archive/"><u>[New] Playlist Extraction - Step by Step From YouTube's Archive</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/trategies-to-solve-off-screen-problems-on-youtube-for-2024/"><u>[New] Strategies to Solve Off-Screen Problems on YouTube for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-honor-play-7t-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor Play 7T</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-strategies-for-maximizing-video-impact-while-staying-in-cc-zone/"><u>2024 Approved Strategies for Maximizing Video Impact While Staying in CC Zone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/flourishing-on-a-beauty-youtube-channel-for-2024/"><u>Flourishing on a Beauty YouTube Channel for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/how-to-add-fonts-to-after-effects/"><u>How to Add Fonts to After Effects?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-poco-c65-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Poco C65 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-make-your-own-youtube-closures-without-spending/"><u>In 2024, How to Make Your Own YouTube Closures Without Spending</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-making-youtube-video-thumbnails-mobile/"><u>In 2024, Step-by-Step Making YouTube Video Thumbnails (Mobile)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-instructions-for-prolonged-iphone-shots/"><u>In 2024, The Ultimate Instructions for Prolonged iPhone Shots</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-valorant-screenshots-transformed-by-rapid-skilled-designers/"><u>In 2024, Valorant Screenshots Transformed by Rapid, Skilled Designers</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/master-your-stream-utilizing-youtubes-av1-technology-for-2024/"><u>Master Your Stream Utilizing YouTube's AV1 Technology for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-responsive-fn-keys-in-dell-laptops-effective-strategies-and-fixes/"><u>Troubleshooting Non-Responsive Fn Keys in Dell Laptops: Effective Strategies and Fixes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-hitting-the-high-scores-with-youtube-gaming-livestreams/"><u>[New] Hitting the High Scores with YouTube Gaming Livestreams</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-revenue-techniques-for-gamers-2024/"><u>[New] Revenue Techniques for Gamers 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlining-meetings-on-win11-using-zoom-features/"><u>[Updated] Streamlining Meetings on Win11 Using Zoom Features</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-capture-to-screen-the-complete-process-of-uploading-360-vids-on-youtube/"><u>2024 Approved From Capture to Screen The Complete Process of Uploading 360 Vids on YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-spark-interest-the-art-of-youtube-intros-in-imovie/"><u>2024 Approved Spark Interest The Art of YouTube Intros in iMovie</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-visionary-leap-introducing-a-domestic-robotic-companion-explores/"><u>Apple's Visionary Leap: Introducing a Domestic Robotic Companion Explores</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-elevates-education-through-partnership-with-apple-technology/"><u>Mondly Elevates Education Through Partnership With Apple Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simplifying-chatgpt-interaction/"><u>Simplifying ChatGPT Interaction</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-cheat-sheet-for-ps5-owners-wanting-to-relive-their-ps4-experiences/"><u>The Ultimate Cheat Sheet for PS5 Owners Wanting to Relive Their PS4 Experiences</u></a></li>
 </ul></div>
 

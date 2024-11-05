@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Strategy  Crafting Video Ads without Spending a Dime\""
-date: 2024-10-24T18:06:25.763Z
-updated: 2024-10-30T04:46:35.704Z
+date: 2024-10-30T20:27:42.476Z
+updated: 2024-11-04T20:16:18.658Z
 tags:
   - ai video
   - ai youtube
@@ -70,6 +70,13 @@ There are some text input fields that you can populate with the relevant informa
 
 Finally, you can add background music to the video from the royalty-free tracks that can be accessed from the built-in library, and you are all set to go.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How Can I Get YouTube Video Builder?
 
 Because YouTube Video Builder is in its Beta phase, at the time of this writing you are required to send an access request to Google using your account that you want to use to create the videos from. You can send your requests to: <https://services.google.com/fb/forms/videobuilderbeta/>.
@@ -86,26 +93,40 @@ After signing in to your **YouTube Video Builder** account, on the main interfac
 
 ![YouTube Video Builder](https://images.wondershare.com/filmora/article-images/youtube-video-builder-select-layout.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Next, from the **Color & Logo** section, choose the base (background) and text colors using their corresponding tools from under the **Brand colors** section.
 
 ![Create video with YouTube Video Builder](https://images.wondershare.com/filmora/article-images/youtube-video-builder-select-color-logo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 After this, insert an image of your brand logo in the block under the **Logos** category.
 
 ![Create video with YouTube Video Builder](https://images.wondershare.com/filmora/article-images/youtube-video-builder-insert-brand-logo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 2: Add the Ingredients
 
 When you are on the **Images & Text** section of the navigation bar, pick the high-definition photos from the **Storyboard** at the bottom, and add them to the **Image 1**, **Image 2**, and **Image 3** boxes accordingly.
 
 ![Create video with YouTube Video Builder](https://images.wondershare.com/filmora/article-images/youtube-video-builder-insert-images-texts.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now, scroll down to the **Text** section, and add the relevant content in the available text input fields. Make sure to add a compelling **Call to action** text to give the viewers a free passage to connect with you.
 
@@ -121,23 +142,9 @@ Alternatively, you can leave the default one selected. When on the **Select Musi
 
 ![Create video with YouTube Video Builder with music](https://images.wondershare.com/filmora/article-images/youtube-video-builder-select-music-for-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Finally, click **Create video**, and wait while **YouTube Video Builder** takes you to the **Preview, Save, Share** section, and generates your video.
 
 ![YouTube Video Builder Video create video](https://images.wondershare.com/filmora/article-images/youtube-video-builder-create-video.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Step 4: Save the Video and Begin Promotion
 
@@ -145,22 +152,21 @@ After the video is generated, play to preview the film. If everything looks good
 
 ![YouTube Video Builder Video Preview and Save](https://images.wondershare.com/filmora/article-images/youtube-video-builder-save-preview-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 On the next page, click **Copy** to copy the video link, and share it with your friends, colleagues, and family members for their feedback.
 
 ![YouTube Video Builder Video Copy Link](https://images.wondershare.com/filmora/article-images/youtube-video-builder-copy-link.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Next, scroll down to get to the **Create Campaign** section of the navigation bar, and from the left screen, click **Create campaign** to begin a campaign to promote your brand and/or product(s).
@@ -200,22 +206,14 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-maximizing-profits-ensuring-proper-youtube-channel-monetization/"><u>[New] 2024 Approved Maximizing Profits Ensuring Proper YouTube Channel Monetization</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-how-to-go-viral-on-youtube-with-minimal-effort/"><u>[Updated] How to Go Viral on YouTube with Minimal Effort</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-professional-top-10-hd-webcams-and-buyers-advice-for-2024/"><u>[Updated] Professional Top 10 HD Webcams & Buyer's Advice for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-infographic-roundup-yts-shocking-reality-of-17/"><u>2024 Approved Infographic Roundup YT's Shocking Reality of '17</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-leading-software-lineup-8-linux-editing-sleuths/"><u>2024 Approved Leading Software Lineup 8 Linux Editing Sleuths</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-top-tips-understanding-asmr-recordings/"><u>2024 Approved Top Tips Understanding ASMR Recordings</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/cutting-edge-tools-to-make-your-fb-cover-photo-stand-out/"><u>Cutting-Edge Tools to Make Your FB Cover Photo Stand Out</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diablo-immortal-pc-release-delayed-latest-updates-and-expected-launch-dates/"><u>Diablo Immortal PC Release Delayed: Latest Updates and Expected Launch Dates</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/from-phone-footage-to-channel-fame-a-seamless-setup-for-your-businesspersonal-brand-for-2024/"><u>From Phone Footage to Channel Fame A Seamless Setup for Your Business/Personal Brand for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/harnessing-powerful-tools-for-effective-youtubers-seo-for-2024/"><u>Harnessing Powerful Tools for Effective YouTubers' SEO for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-identify-the-best-8-services-to-enhance-youtube-engagement/"><u>In 2024, Identify the Best 8 Services to Enhance YouTube Engagement</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-legal-steps-for-overcoming-a-youtube-copyright-strike/"><u>In 2024, Legal Steps for Overcoming a YouTube Copyright Strike</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-turning-tides-creative-methods-to-flip-your-youtube-video/"><u>In 2024, Turning Tides Creative Methods to Flip Your YouTube Video</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/jumpstart-your-professional-filmmaking-exclusive-cost-free-green-screen-training-from-top-youtube-educators-for-2024/"><u>Jumpstart Your Professional Filmmaking Exclusive, Cost-Free Green Screen Training From Top YouTube Educators for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/melodic-memberships-leading-online-hubs-for-got-ringtone-purchases/"><u>Melodic Memberships Leading Online Hubs for GoT Ringtone Purchases</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/tp-links-archer-a6-premium-performance-at-an-affordable-price-for-ac1200-routers-reviewed/"><u>TP-Link's Archer A6: Premium Performance at an Affordable Price for AC1200 Routers Reviewed</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-oppo-reno-11-pro-5g-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Oppo Reno 11 Pro 5G password or pattern lock</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-s17-pro-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo S17 Pro</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-plotting-pioneering-partings/"><u>2024 Approved Plotting Pioneering Partings</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/complete-guide-steps-to-freshly-install-windows-7-os-on-your-computer/"><u>Complete Guide: Steps to Freshly Install Windows 7 OS on Your Computer</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/gaining-ground-on-the-groundswell-of-online-viewers-for-2024/"><u>Gaining Ground on the Groundswell of Online Viewers for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/how-to-create-custom-titles-in-final-cut-pro-x-2023-update-for-2024/"><u>How to Create Custom Titles in Final Cut Pro X 2023 Update for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-nokia-130-music-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Nokia 130 Music FRP In 3 Different Ways</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-stand-out-on-youtube-with-these-20-top-font-choices/"><u>In 2024, Stand Out on YouTube with These 20 Top Font Choices</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/make-an-impression-with-youtube-clips-step-by-step-into-the-world-of-gif-making-for-2024/"><u>Make an Impression With YouTube Clips Step-by-Step Into the World of Gif Making for 2024</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/troubleshooting-and-replacing-showbox-app-for-smartphones-and-tablets-latest-solutions/"><u>Troubleshooting and Replacing Showbox App for Smartphones & Tablets (Latest Solutions)</u></a></li>
 </ul></div>
 

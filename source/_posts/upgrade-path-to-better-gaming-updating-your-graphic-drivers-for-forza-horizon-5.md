@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Path to Better Gaming: Updating Your Graphic Drivers for Forza Horizon 5"
-date: 2024-10-28T08:25:26.041Z
-updated: 2024-10-30T05:40:26.043Z
+date: 2024-11-02T19:24:22.860Z
+updated: 2024-11-04T19:59:29.848Z
 tags:
   - win11
   - win10
@@ -41,15 +41,15 @@ thumbnail: https://thmb.techidaily.com/94949839e44613400bd5d58f4fe6242909222f901
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -71,6 +71,13 @@ You can use the following steps to check for Minecraft updates.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-1.jpg)
 2. On the top left corner, click**Get updates** and wait for the process to complete.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-2.jpg)
 
 ##### Java edition
@@ -79,33 +86,33 @@ You can use the following steps to check for Minecraft updates.
 2. If you’re not seeing an update prompt, to the right of the Play button, click the arrow and select Latest release.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Make sure you’re on the latest Windows
 
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  Once you’ve installed all system updates, restart your PC and check if the issue persists.
 
 If you’re still seeing the message, continue to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Scan and repair Windows
 
@@ -119,20 +126,19 @@ If you’re still seeing the message, continue to the next fix.
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -156,15 +162,15 @@ Here’s how you can check the preferred GPU of Minecraft:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-1.jpg)
 4. Click **Options** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-2.jpg)
 5. Click**High performance** and then**Save** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-3.jpg)
 
@@ -191,14 +197,18 @@ Now you can restart Minecraft and check if the message is still there.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-dissecting-video-self-presentation-uncovering-truthfulness-needs/"><u>[Updated] In 2024, Dissecting Video Self-Presentation Uncovering Truthfulness Needs</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-guide-to-surpassing-a-million-youtube-subscribers/"><u>2024 Approved The Ultimate Guide to Surpassing a Million YouTube Subscribers</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/exclusive-insight-free-access-to-1-6-video-clips-for-2024/"><u>Exclusive Insight Free Access to #1-#6 Video Clips for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-zte-axon-40-lite-phone-without-google-account-by-drfone-android/"><u>How to Unlock ZTE Axon 40 Lite Phone without Google Account?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-g24-power-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Motorola G24 Power PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-simplify-your-sales-scrutiny-googles-straightforward-steps-to-track-income-from-youtube/"><u>In 2024, Simplify Your Sales Scrutiny Google's Straightforward Steps to Track Income From YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-transform-your-youtube-channel-url-in-minutes/"><u>In 2024, Transform Your YouTube Channel URL in Minutes</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ary-spectrum-a-glimpse-into-mr-beasts-world/"><u>Monetary Spectrum A Glimpse Into Mr. Beast’s World</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-diving-into-video-quality-dslr-vs-mirrorless-cameras/"><u>[New] 2024 Approved Diving Into Video Quality DSLR vs Mirrorless Cameras</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2-winxvideo-ai-technical-insight-expert-review-and-full-feature-breakdown/"><u>2. WinXVideo AI Technical Insight: Expert Review & Full Feature Breakdown</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-pinnacle-mac-recording-options-top-5-for-clarity/"><u>2024 Approved Pinnacle Mac Recording Options Top 5 for Clarity</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-step-by-step-editing-and-uploading-360-videos-on-youtube/"><u>2024 Approved Step-by-Step Editing & Uploading 360 Videos on YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-roadmap-for-joining-a-youtube-media-company-mcn/"><u>2024 Approved The Roadmap for Joining a YouTube Media Company (MCN)</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-fifas-best-players-trendy-videos-on-youtube/"><u>In 2024, FIFA's Best Players Trendy Videos on YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-video-to-animation-easy-youtube-gif-creation-tips/"><u>In 2024, From Video to Animation Easy YouTube GIF Creation Tips</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-influencing-factors-for-popular-youtube-videos/"><u>In 2024, Influencing Factors for Popular YouTube Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-top-10-youtube-music-how-toes-2023-edition/"><u>In 2024, Top 10 YouTube Music How-Toes, 2023 Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-depth-analysis-applying-luts-to-elevate-your-cinematography-for-2024/"><u>In-Depth Analysis Applying LUTs to Elevate Your Cinematography for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/requesting-for-unrestricted-access-to-shared-visual-and-audio-content-for-2024/"><u>Requesting for Unrestricted Access to Shared Visual & Audio Content for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo Y78+ | Dr.fone</u></a></li>
 </ul></div>
 

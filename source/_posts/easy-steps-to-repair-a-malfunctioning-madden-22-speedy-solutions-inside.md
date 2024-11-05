@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Repair a Malfunctioning Madden 22 - Speedy Solutions Inside!
-date: 2024-10-28T10:24:20.733Z
-updated: 2024-10-30T10:56:55.540Z
+date: 2024-10-30T03:00:24.042Z
+updated: 2024-11-04T21:36:14.820Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 2. **[Run Apex Legends as an administrator](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Verify game files](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Edit registry](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Update the graphics driver
 
@@ -54,13 +61,6 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Run Apex Legends as an administrator
 
  This engine error may happen if the game does not have administrative privileges. So you should make sure to run Apex Legends as an administrator to see if it fixes the issue.
@@ -71,22 +71,29 @@ Here is how to grant administrative privileges to Apex Legends:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-564.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In File Explorer, right click on **Apex Legends .exe**  and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-565.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Compatibility**  tab. Then check the box next to **Run this program as an administrator** , and click **Apply** .
 
  3) After granting APex Legends administrative privileges, you can run the game again to see if Apex Legends Engine Error still occurs. If it doesn’t, then great! If the issue remains, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify game files
 
@@ -98,6 +105,13 @@ Here is how to verify game files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-439-1024x522.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Right-click on**Apex Legends** and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-561.png)
@@ -106,22 +120,15 @@ Here is how to verify game files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Once done, run Apex Legends and check if the engine error is fixed. If yes, then great! If the issue persists, please move on to**Fix 4** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Edit Registry
@@ -135,13 +142,6 @@ Here are the steps to add the command line:
  1) Right-click on**the empty area** on your desktop, and click**New** \>**Text Document** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-474.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2) Add the following command to the text document.
 
@@ -185,20 +185,14 @@ Windows Registry Editor Version 5.00
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-indulge-in-9-holiday-blockbusters-free-online-christmas-viewing/"><u>[New] Indulge in 9 Holiday Blockbusters Free Online Christmas Viewing</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-groan-inducing-humor-in-hits/"><u>2024 Approved Groan-Inducing Humor in Hits</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-tailored-transmission-terminal-podcasters-hub/"><u>2024 Approved Tailored Transmission Terminal Podcaster's Hub</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-science-of-youtube-success-perfect-thumbnails/"><u>2024 Approved The Science of YouTube Success Perfect Thumbnails</u></a></li>
-<li><a href="https://fox-http.techidaily.com/bringing-history-alive-old-images-in-new-video-formats/"><u>Bringing History Alive Old Images in New Video Formats</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/day-to-day-duo-debate-claude-and-generative-power/"><u>Day-to-Day Duo Debate: Claude and Generative Power</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ing-youtubes-procedure-after-a-video-is-uploaded/"><u>Decoding YouTube's Procedure After a Video Is Uploaded</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/efficient-methods-for-moving-videos-onto-your-samsung-galaxy-note-3/"><u>Efficient Methods for Moving Videos Onto Your Samsung Galaxy Note 3</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/finding-the-middle-ground-working-and-youtube-for-2024/"><u>Finding the Middle Ground Working & YouTube for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/how-to-convert-youtube-to-mp3-in-3-ways-safe-for-2024/"><u>How to Convert YouTube to MP3 in 3 Ways [Safe] for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-honor-90-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Honor 90 Pro by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-journey-through-simulated-realities-vr-basics/"><u>In 2024, Journey Through Simulated Realities VR Basics</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/maximizing-engagement-how-to-pick-perfect-youtube-collaborators-for-2024/"><u>Maximizing Engagement How to Pick Perfect YouTube Collaborators for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/navigating-the-monetization-maze-on-youtube-for-2024/"><u>Navigating the Monetization Maze on Youtube for 2024</u></a></li>
-<li><a href="https://discover-best.techidaily.com/winxvideo-aiand/"><u>WinXvideo AIでアップグレード:最高のビデオ&写真画質改善技術集</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-charting-the-course-to-trending-youtubers/"><u>[New] 2024 Approved Charting the Course to Trending YouTubers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-step-by-step-imovie-videos-on-your-youtube-channel/"><u>[New] Step-by-Step IMovie Videos on Your YouTube Channel</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/outube-hub-for-newbies-in-cinematic-craftsmanship-for-2024/"><u>[New] YouTube Hub for Newbies in Cinematic Craftsmanship for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-photographers-guide-to-negative-imaging/"><u>2024 Approved The Photographer’s Guide to Negative Imaging</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-understanding-virtual-reality-vernacular/"><u>2024 Approved Understanding Virtual Reality Vernacular</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unlocking-youtube-potential-with-perpetual-creative-commons-membership/"><u>2024 Approved Unlocking YouTube Potential with Perpetual Creative Commons Membership</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/eero-pro-mesh-router-analysis-for-expansive-and-consistent-home-internet-access/"><u>Eero Pro Mesh Router Analysis for Expansive and Consistent Home Internet Access</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-use-video-titles-and-youtube-tags-for-2024/"><u>How to Use Video Titles and YouTube Tags for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-laugh-and-learn-with-animated-youtubers-top-picks-for-today/"><u>In 2024, Laugh and Learn with Animated YouTubers - Top Picks for Today</u></a></li>
 </ul></div>
 

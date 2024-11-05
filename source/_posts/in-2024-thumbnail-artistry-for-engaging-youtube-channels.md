@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Thumbnail Artistry for Engaging YouTube Channels"
-date: 2024-07-29T19:50:27.241Z
-updated: 2024-07-30T19:50:27.241Z
+date: 2024-11-03T23:41:34.573Z
+updated: 2024-11-04T16:27:57.702Z
 tags:
   - ai video
   - ai youtube
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/bdb8177ec45e10fcd4ec5499f6e255ec00146feb5
 
 # YouTube Channel Art: How to Make Banners, Icons, and Thumbnails?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -182,9 +178,6 @@ Here is how you can add a branding watermark through YouTube:
 
 If you want to find a video editing solution that empowers your imagination and creativity yet takes less effort, please try this robust and user-friendly video editing software Filmora, which is equipped with its own footage stock **[Wondershare Filmstock](https://tools.techidaily.com/wondershare/filmora/download/)** and will definitely enhance your productivity and helps you to make money by making videos much easier.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
@@ -355,9 +348,6 @@ If you want to find a video editing solution that empowers your imagination and 
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -382,9 +372,6 @@ Follow @Shanoon Cox
 
 # How to Edit YouTube Channel Description
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -426,121 +413,12 @@ Follow @Shanoon Cox
 
  If you YouTube channel description are boring, chances are, visitors will no longer bother to view the contents. Create a powerful and enticing description that will trigger viewers to make a favorable action.
 
-## How to edit your YouTube Channel Description \[Step by Step Tutorial\]
-
- This is actually a process that is pretty much straightforward, provided that you know how it can be done. Here are the simple steps that you should follow:
-
-* Open your YouTube account.
-* Click on My Channel
-
-![Find My Channel ](https://images.wondershare.com/filmora/article-images/edit-youtube-channel-desc-1.jpg)
-
-* Activate the "Customize the layout of your channel" option by entering the Setting button on the right corner of your Subscribe icon.
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
-![Customize the layout of your channel](https://images.wondershare.com/filmora/article-images/edit-youtube-channel-desc-2.jpg)
-
-* Click on "About."
-
-![Edit YouTube Channel Description - About ](https://images.wondershare.com/filmora/article-images/edit-youtube-channel-desc-3.jpg)
-
-* Then you can edit the channel description here
-
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![Edit YouTube Channel Description ](https://images.wondershare.com/filmora/article-images/edit-youtube-channel-desc-4.jpg)
-
-**Note:** In the newer YouTube version, click the option "CUSTOMIZE CHANNEL" and then you can change your channel description by clicking the About Tab.
-
-* Write the description that you want to show up when people visit your YouTube channel. It is not enough that you write just any sentence. Make sure that it is sweet and simple. Be as concise and informative as possible. Use simple words, yet make sure that they are powerful and can stir the visitor to make a favorable action. Also, see to it that it makes use of the right keywords that are related to your channel.
-* Click on "View as" which will allow the YouTube channel description to show up for New visitor or returning subscriber.
-
-![Edit YouTube Channel Description - Preview](https://images.wondershare.com/filmora/article-images/edit-youtube-channel-desc-5.jpg)
-
- In sum, adding a YouTube channel description does not need to be a complicated process. Just follow the tips mentioned above and make sure to pay attention to crafting the right message. It must be keyword-optimized and must captivate attention of your visitors.
-
- **Check this video to know how to optimize YouTube SEO:**
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### Bonus: Tips for YouTube Video Description
-
- Here we have also found out some useful tips for YouTube video description:
-
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![YouTube description ](https://images.wondershare.com/filmora/article-images/youtube-description.jpg)
-
-#### 1. Take full advantage of the First Line
-
- As the most important text in the YouTube video description, the text in the first line will appear both in the YouTube search result and the social media. It is recommended to write a short video description but for SEO purpose, keep in mind to contain the main keywords and write a clickbaity text.
-
- Besides the first line, Line 2 and Line 3 are also most visible in the video description. You can write a short explanation text for Line 1 or tell the audiences what to do next such as download the software or sub to your channel.
-
-#### 2.Add helpful text to the description
-
- It is highly recommended to add additional relevant content to the video description to help audience to get to know you better. You can add a brief summary of the video content or the transcript of the video here. Normally, you can add anything that is worth mentioning such as the equipment or software that you are using to make the video.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
- With millions of videos that can be found online, your goal is to optimize your visibility. One thing that can help would be adding a YouTube channel description. In the rest of this post, we will tackle why it is important, and more importantly, how you can have it edited.
-
-**You May Also Like:** [YouTube SEO Complete Guide >>](https://tools.techidaily.com/wondershare/filmora/download/)  
-[How to Edit YouTube Videos Title/Descriptions >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
----
-
-**Recommendation:** The best video editor for YouTubers - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), not only allows you to cut, crop, rotate, reverse videos, but also offers your advanced features like PIP, Green Screen, or audio mixing. What's more, you can find lots of effects for Fashion, gaming, education, tutorial, sports, etc. Check this article to know more.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
----
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Why YouTube channel description is important
-
- If you have a YouTube channel and if you are not getting the number of views that you wish to have, there are possibly several problems. Maybe, your content is not enticing enough. Or maybe, it is because you do not have the right YouTube channel description. Generally speaking, the description of your channel will provide visitors of a snapshot of what the channel is all about. It appears in the about tab of your page. This is an elevator pitch, which will be an opportunity for you to show other people why they should watch your videos.
-
-**You may also like:**
-[How to edit title, description and tags for YouTube videos](https://tools.techidaily.com/wondershare/filmora/download/)
-[How to Create a Killer YouTube Channel Trailer >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
- Without a YouTube channel description, visitors won’t be aware of what you can offer. Take note of the fact that their attention span is minimal. They do not have the luxury of time to see each and every video in your channel. They will only click on it if they know that it is going to be valuable if there is any good that they can gain from such. This is where the importance of a well-crafted description enters the picture. Here are some tips on how you can optimize your channel description.
-
-#### 1. Use the right keywords
-
- Adding right keywords to your channel description will help to make sure that your YouTube channel will appear on the top of search engine results. Use [keyword research tools](https://tools.techidaily.com/wondershare/filmora/download/) that are available in order to determine which ones will add value to your description. And in your video description, you should add at least one core keywords to your channel description.
-
-#### 2. Advertise your programming schedule
-
- By providing this information, visitors will know when exactly they can go back and check for latest updates from your channel.
-
-#### 3. Create a strong first impression
-
- If you YouTube channel description are boring, chances are, visitors will no longer bother to view the contents. Create a powerful and enticing description that will trigger viewers to make a favorable action.
 
 ## How to edit your YouTube Channel Description \[Step by Step Tutorial\]
 
@@ -549,9 +427,6 @@ Follow @Richard Bennett
 * Open your YouTube account.
 * Click on My Channel
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![Find My Channel ](https://images.wondershare.com/filmora/article-images/edit-youtube-channel-desc-1.jpg)
 
 * Activate the "Customize the layout of your channel" option by entering the Setting button on the right corner of your Subscribe icon.
@@ -560,9 +435,6 @@ Follow @Richard Bennett
 
 * Click on "About."
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Edit YouTube Channel Description - About ](https://images.wondershare.com/filmora/article-images/edit-youtube-channel-desc-3.jpg)
 
 * Then you can edit the channel description here
@@ -580,9 +452,6 @@ Follow @Richard Bennett
 
  **Check this video to know how to optimize YouTube SEO:**
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### Bonus: Tips for YouTube Video Description
@@ -601,9 +470,6 @@ Follow @Richard Bennett
 
  It is highly recommended to add additional relevant content to the video description to help audience to get to know you better. You can add a brief summary of the video content or the transcript of the video here. Normally, you can add anything that is worth mentioning such as the equipment or software that you are using to make the video.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -625,9 +491,6 @@ Follow @Richard Bennett
 
 **Recommendation:** The best video editor for YouTubers - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), not only allows you to cut, crop, rotate, reverse videos, but also offers your advanced features like PIP, Green Screen, or audio mixing. What's more, you can find lots of effects for Fashion, gaming, education, tutorial, sports, etc. Check this article to know more.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -661,28 +524,25 @@ Follow @Richard Bennett
 * Open your YouTube account.
 * Click on My Channel
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Find My Channel ](https://images.wondershare.com/filmora/article-images/edit-youtube-channel-desc-1.jpg)
 
 * Activate the "Customize the layout of your channel" option by entering the Setting button on the right corner of your Subscribe icon.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Customize the layout of your channel](https://images.wondershare.com/filmora/article-images/edit-youtube-channel-desc-2.jpg)
 
 * Click on "About."
 
 ![Edit YouTube Channel Description - About ](https://images.wondershare.com/filmora/article-images/edit-youtube-channel-desc-3.jpg)
 
-* Then you can edit the channel description here
-
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+* Then you can edit the channel description here
+
 ![Edit YouTube Channel Description ](https://images.wondershare.com/filmora/article-images/edit-youtube-channel-desc-4.jpg)
 
 **Note:** In the newer YouTube version, click the option "CUSTOMIZE CHANNEL" and then you can change your channel description by clicking the About Tab.
@@ -704,6 +564,13 @@ Follow @Richard Bennett
 
 ![YouTube description ](https://images.wondershare.com/filmora/article-images/youtube-description.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 1. Take full advantage of the First Line
 
  As the most important text in the YouTube video description, the text in the first line will appear both in the YouTube search result and the social media. It is recommended to write a short video description but for SEO purpose, keep in mind to contain the main keywords and write a clickbaity text.
@@ -714,9 +581,6 @@ Follow @Richard Bennett
 
  It is highly recommended to add additional relevant content to the video description to help audience to get to know you better. You can add a brief summary of the video content or the transcript of the video here. Normally, you can add anything that is worth mentioning such as the equipment or software that you are using to make the video.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -764,9 +628,6 @@ Follow @Richard Bennett
 
  If you YouTube channel description are boring, chances are, visitors will no longer bother to view the contents. Create a powerful and enticing description that will trigger viewers to make a favorable action.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to edit your YouTube Channel Description \[Step by Step Tutorial\]
 
  This is actually a process that is pretty much straightforward, provided that you know how it can be done. Here are the simple steps that you should follow:
@@ -774,9 +635,6 @@ Follow @Richard Bennett
 * Open your YouTube account.
 * Click on My Channel
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Find My Channel ](https://images.wondershare.com/filmora/article-images/edit-youtube-channel-desc-1.jpg)
 
 * Activate the "Customize the layout of your channel" option by entering the Setting button on the right corner of your Subscribe icon.
@@ -785,9 +643,6 @@ Follow @Richard Bennett
 
 * Click on "About."
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Edit YouTube Channel Description - About ](https://images.wondershare.com/filmora/article-images/edit-youtube-channel-desc-3.jpg)
 
 * Then you can edit the channel description here
@@ -799,18 +654,12 @@ Follow @Richard Bennett
 * Write the description that you want to show up when people visit your YouTube channel. It is not enough that you write just any sentence. Make sure that it is sweet and simple. Be as concise and informative as possible. Use simple words, yet make sure that they are powerful and can stir the visitor to make a favorable action. Also, see to it that it makes use of the right keywords that are related to your channel.
 * Click on "View as" which will allow the YouTube channel description to show up for New visitor or returning subscriber.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Edit YouTube Channel Description - Preview](https://images.wondershare.com/filmora/article-images/edit-youtube-channel-desc-5.jpg)
 
  In sum, adding a YouTube channel description does not need to be a complicated process. Just follow the tips mentioned above and make sure to pay attention to crafting the right message. It must be keyword-optimized and must captivate attention of your visitors.
 
  **Check this video to know how to optimize YouTube SEO:**
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### Bonus: Tips for YouTube Video Description
@@ -829,10 +678,145 @@ Follow @Richard Bennett
 
  It is highly recommended to add additional relevant content to the video description to help audience to get to know you better. You can add a brief summary of the video content or the transcript of the video here. Normally, you can add anything that is worth mentioning such as the equipment or software that you are using to make the video.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+ With millions of videos that can be found online, your goal is to optimize your visibility. One thing that can help would be adding a YouTube channel description. In the rest of this post, we will tackle why it is important, and more importantly, how you can have it edited.
+
+**You May Also Like:** [YouTube SEO Complete Guide >>](https://tools.techidaily.com/wondershare/filmora/download/)  
+[How to Edit YouTube Videos Title/Descriptions >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+---
+
+**Recommendation:** The best video editor for YouTubers - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), not only allows you to cut, crop, rotate, reverse videos, but also offers your advanced features like PIP, Green Screen, or audio mixing. What's more, you can find lots of effects for Fashion, gaming, education, tutorial, sports, etc. Check this article to know more.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+---
+
+## Why YouTube channel description is important
+
+ If you have a YouTube channel and if you are not getting the number of views that you wish to have, there are possibly several problems. Maybe, your content is not enticing enough. Or maybe, it is because you do not have the right YouTube channel description. Generally speaking, the description of your channel will provide visitors of a snapshot of what the channel is all about. It appears in the about tab of your page. This is an elevator pitch, which will be an opportunity for you to show other people why they should watch your videos.
+
+**You may also like:**
+[How to edit title, description and tags for YouTube videos](https://tools.techidaily.com/wondershare/filmora/download/)
+[How to Create a Killer YouTube Channel Trailer >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+ Without a YouTube channel description, visitors won’t be aware of what you can offer. Take note of the fact that their attention span is minimal. They do not have the luxury of time to see each and every video in your channel. They will only click on it if they know that it is going to be valuable if there is any good that they can gain from such. This is where the importance of a well-crafted description enters the picture. Here are some tips on how you can optimize your channel description.
+
+#### 1. Use the right keywords
+
+ Adding right keywords to your channel description will help to make sure that your YouTube channel will appear on the top of search engine results. Use [keyword research tools](https://tools.techidaily.com/wondershare/filmora/download/) that are available in order to determine which ones will add value to your description. And in your video description, you should add at least one core keywords to your channel description.
+
+#### 2. Advertise your programming schedule
+
+ By providing this information, visitors will know when exactly they can go back and check for latest updates from your channel.
+
+#### 3. Create a strong first impression
+
+ If you YouTube channel description are boring, chances are, visitors will no longer bother to view the contents. Create a powerful and enticing description that will trigger viewers to make a favorable action.
+
+## How to edit your YouTube Channel Description \[Step by Step Tutorial\]
+
+ This is actually a process that is pretty much straightforward, provided that you know how it can be done. Here are the simple steps that you should follow:
+
+* Open your YouTube account.
+* Click on My Channel
+
+![Find My Channel ](https://images.wondershare.com/filmora/article-images/edit-youtube-channel-desc-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+* Activate the "Customize the layout of your channel" option by entering the Setting button on the right corner of your Subscribe icon.
+
+![Customize the layout of your channel](https://images.wondershare.com/filmora/article-images/edit-youtube-channel-desc-2.jpg)
+
+* Click on "About."
+
+![Edit YouTube Channel Description - About ](https://images.wondershare.com/filmora/article-images/edit-youtube-channel-desc-3.jpg)
+
+* Then you can edit the channel description here
+
+![Edit YouTube Channel Description ](https://images.wondershare.com/filmora/article-images/edit-youtube-channel-desc-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+**Note:** In the newer YouTube version, click the option "CUSTOMIZE CHANNEL" and then you can change your channel description by clicking the About Tab.
+
+* Write the description that you want to show up when people visit your YouTube channel. It is not enough that you write just any sentence. Make sure that it is sweet and simple. Be as concise and informative as possible. Use simple words, yet make sure that they are powerful and can stir the visitor to make a favorable action. Also, see to it that it makes use of the right keywords that are related to your channel.
+* Click on "View as" which will allow the YouTube channel description to show up for New visitor or returning subscriber.
+
+![Edit YouTube Channel Description - Preview](https://images.wondershare.com/filmora/article-images/edit-youtube-channel-desc-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ In sum, adding a YouTube channel description does not need to be a complicated process. Just follow the tips mentioned above and make sure to pay attention to crafting the right message. It must be keyword-optimized and must captivate attention of your visitors.
+
+ **Check this video to know how to optimize YouTube SEO:**
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### Bonus: Tips for YouTube Video Description
+
+ Here we have also found out some useful tips for YouTube video description:
+
+![YouTube description ](https://images.wondershare.com/filmora/article-images/youtube-description.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+#### 1. Take full advantage of the First Line
+
+ As the most important text in the YouTube video description, the text in the first line will appear both in the YouTube search result and the social media. It is recommended to write a short video description but for SEO purpose, keep in mind to contain the main keywords and write a clickbaity text.
+
+ Besides the first line, Line 2 and Line 3 are also most visible in the video description. You can write a short explanation text for Line 1 or tell the audiences what to do next such as download the software or sub to your channel.
+
+#### 2.Add helpful text to the description
+
+ It is highly recommended to add additional relevant content to the video description to help audience to get to know you better. You can add a brief summary of the video content or the transcript of the video here. Normally, you can add anything that is worth mentioning such as the equipment or software that you are using to make the video.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -853,5 +837,19 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-enhancing-accessibility-with-vimeo-subtitles/"><u>[New] Enhancing Accessibility with Vimeo Subtitles</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-finding-your-custom-scored-youtube-tunes/"><u>[New] Finding Your Custom-Scored YouTube Tunes</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-capture-heights-with-dji-spark-the-small-drone-selfie-powerhouse/"><u>[Updated] 2024 Approved Capture Heights with DJI Spark The Small Drone Selfie Powerhouse</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-ig-reel-secrets-pausing-time-for-creative-impact/"><u>[Updated] IG Reel Secrets Pausing Time for Creative Impact</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-blueprint-of-film-narrative/"><u>2024 Approved The Blueprint of Film Narrative</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-strategies-for-effective-youtube-short-creation/"><u>2024 Approved Top Strategies for Effective YouTube Short Creation</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/comparing-top-dvd-ripping-tools-winx-dvd-ripper-platinum-vs-dvdfab-dvd-ripper/"><u>Comparing Top DVD Ripping Tools: WinX DVD Ripper Platinum Vs. DVDFab DVD Ripper</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/devise-giggle-generating-pictorials-for-giphy-for-2024/"><u>Devise Giggle-Generating Pictorials for Giphy for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pixel-problems-non-existent-videos-on-a6400/"><u>In 2024, Pixel Problems Non-Existent Videos on A6400</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/innovating-your-online-presence-expert-tips-for-video-enhancement-after-upload-for-2024/"><u>Innovating Your Online Presence Expert Tips for Video Enhancement After Upload for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-video-aspect-ratios-in-youtube-platform-for-2024/"><u>Navigating Video Aspect Ratios in YouTube Platform for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unlocking-instagram-potential-with-video-descriptions-for-2024/"><u>Unlocking Instagram Potential with Video Descriptions for 2024</u></a></li>
+</ul></div>
 

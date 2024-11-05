@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Path to YouTube Riches  Optimal View Figures for Monetization Success\""
-date: 2024-10-26T10:26:52.873Z
-updated: 2024-10-30T06:00:38.219Z
+date: 2024-10-30T01:56:13.833Z
+updated: 2024-11-04T21:30:24.613Z
 tags:
   - ai video
   - ai youtube
@@ -60,6 +60,13 @@ The main factor that determines how many views for YouTube monetization you need
 
 On average, you can earn between $1 to more than $25 per 1,000 monetized views on YouTube. This comes down to the specific content you are making and the niche of focus. Those in niches like Finance and Tech will make more money because the Revenue Per Mille (RPM) is higher than other niches. In terms of engagement, videos with higher click-through rates (CTR) and average view duration (AVD) tend to earn more from ads. Other factors such as the country where your viewers are located, time of the year, and type of ads you are running also affect the money earned.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Part 2\. Factors That Affect Your YouTube Earnings Per View**
 
 The amount of money that YouTubers make may seem complex to understand. Does YouTube pay per view? Yes, but not per video view. YouTube will pay you for views that appear on your channels. The actual revenue will depend on several factors.
@@ -77,13 +84,6 @@ The amount of money YouTubers make per view is affected by various factors:
 * **Audience Demographics**: Advertisers usually pay more to show their ads to viewers in some demographics, especially those who are interested in specific products or have a high income.
 * **Audience Engagement**: Videos with high CTR and AVD earn more income from ads.
 * **Watch Time**: YouTube channels with longer viewers watch time earn more money.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **YouTube’s Revenue-Sharing Model**
 
@@ -111,6 +111,13 @@ You can earn a lot more per 1,000 views by influencing your viewers to buy produ
 * Affiliate marketing
 * Brand deals
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Part 3\.** **Editing YouTube Videos for YouTube Monetization with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)**
 
 Good content will increase audience engagement and grow your YouTube channel. Wondershare Filmora offers a range of features that make video editing quick and easy. From instant mode for beginners to AI features for automation, the Filmora is like your partner in video editing.
@@ -128,16 +135,16 @@ With a wide range of pre-made templates to choose from, split your video screen 
 ![split screen video editor](https://images.wondershare.com/filmora/article-images/2023/youtube-monetization-tips-how-many-views-do-you-really-need-to-make-money-3.JPG)
 
 <!-- affiliate ads begin -->
-<span id="1983551">
+<span id="1982456">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **2\.** [**AI Image**](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -145,6 +152,13 @@ With a wide range of pre-made templates to choose from, split your video screen 
 Automatically generate images by typing what you want. The text-to-image feature generates 3 resolutions that you can use directly for your video project.
 
 ![ai image](https://images.wondershare.com/filmora/article-images/2023/youtube-monetization-tips-how-many-views-do-you-really-need-to-make-money-4.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **3\.** [**Keyframing**](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -164,13 +178,6 @@ The mask and blend feature of Filmora allows you to make a creative video clip. 
 
 ![mask & blend](https://images.wondershare.com/filmora/article-images/2023/youtube-monetization-tips-how-many-views-do-you-really-need-to-make-money-7.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Conclusion**
 
 With YouTube monetization how many views does it take to make money? This will depend on a variety of factors, but the sweet spot is after hitting 100,000 views per video. Since the quality of the content you upload can influence how much you make, we recommend using Wondershare Filmora to edit your videos. The video editing software comes with fantastic features for creating highly engaging videos.
@@ -178,19 +185,6 @@ With YouTube monetization how many views does it take to make money? This will d
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Part 1\. The Real Number of YouTube Views You Need to Make Money**
 
@@ -237,6 +231,19 @@ The amount of money that YouTubers make may seem complex to understand. Does You
 * [Attracting Higher-Paying Advertisers](#factor3)
 * [Other Revenue Streams on YouTube](#factor4)
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Factors Affecting Earnings per View**
 
 The amount of money YouTubers make per view is affected by various factors:
@@ -251,13 +258,6 @@ The amount of money YouTubers make per view is affected by various factors:
 The YouTibe’s revenue-sharing model determines how much creators are paid. The standard revenue share is 55% for the creator and 45% for YouTube based on views that generate money. However, the platform may adjust the revenue share for certain creators. This may include creators participating in a special program or those who are part of a network.
 
 An Ad blocker can reduce a YouTuber’s earnings. They prevent ads from displaying on videos, and consequently the creator from earning money that you have generated from those ads. As they become more popular, YouTube estimates that ad blockers cost creators billions of dollars in lost revenue every year.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Attracting Higher-Paying Advertisers**
 
@@ -357,35 +357,35 @@ YouTube changed its monetization policy and, once again, there are new monetizat
 6. [Helpful Blog Posts](#posts)
 7. [Don't Give Up!](#dontquit)
 
+## The New Monetization Rules
+
+In order to qualify for YouTube monetization, you must meet these milestones.
+
+ 1. You will need to have 1,000 subscribers.
+ 2. You will need to have accumulated 4,000 hours of watch time over the last 12 months.
+
+ [You can read the full announcement here.](https://youtube-creators.googleblog.com/2018/01/additional-changes-to-youtube-partner.html)
+
+ _Trying to get monetization on YouTube can feel like this._
+
+## Why YouTube Changed the Monetization Rules
+
+YouTube’s reasoning for these changes is essentially the same as they gave for the 10,000 views milestone: having higher standards will help them prevent inappropriate or stolen content from being monetized. They also point out that the majority of channels affected will not have been making any significant money anyways (less than $2.50 per month, in most cases).
+
+## How Do the Changes Affect Small YouTube Channels
+
+However, even if the immediate financial impact won’t be that financially significant, it is untrue to say these new rules will not affect YouTubers with smaller channels. Having to plan to achieve and maintain those 4,000 hours of watch time and 1,000 subs could have a major impact on how creators plan their content. Will you feel pressured to abandon content that you and your existing viewers love in favor of making videos that will get you to those milestones faster?
+
+  That will be a question facing a lot of smaller YouTubers, especially those who have already reached 1,000 subscribers and are now in a situation where they have to maintain those 4,000 hours of watch time. You won't be cut off from monetization automatically if you fall from 4,000 hours to 3,500 hours one month (after already having monetized your channel), but YouTube may review your channel and remove monetization if time passes and you still haven't gotten back up to 4,000 hours.
+
+These new rules could also put niche channels at a disadvantage. Niche channels may have devoted followers who keep their watch time up, but getting to 1,000 subscribers could be harder for them purely because their potential audience is already smaller.
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-## The New Monetization Rules
-
-In order to qualify for YouTube monetization, you must meet these milestones.
-
- 1. You will need to have 1,000 subscribers.
- 2. You will need to have accumulated 4,000 hours of watch time over the last 12 months.
-
- [You can read the full announcement here.](https://youtube-creators.googleblog.com/2018/01/additional-changes-to-youtube-partner.html)
-
- _Trying to get monetization on YouTube can feel like this._
-
-## Why YouTube Changed the Monetization Rules
-
-YouTube’s reasoning for these changes is essentially the same as they gave for the 10,000 views milestone: having higher standards will help them prevent inappropriate or stolen content from being monetized. They also point out that the majority of channels affected will not have been making any significant money anyways (less than $2.50 per month, in most cases).
-
-## How Do the Changes Affect Small YouTube Channels
-
-However, even if the immediate financial impact won’t be that financially significant, it is untrue to say these new rules will not affect YouTubers with smaller channels. Having to plan to achieve and maintain those 4,000 hours of watch time and 1,000 subs could have a major impact on how creators plan their content. Will you feel pressured to abandon content that you and your existing viewers love in favor of making videos that will get you to those milestones faster?
-
-  That will be a question facing a lot of smaller YouTubers, especially those who have already reached 1,000 subscribers and are now in a situation where they have to maintain those 4,000 hours of watch time. You won't be cut off from monetization automatically if you fall from 4,000 hours to 3,500 hours one month (after already having monetized your channel), but YouTube may review your channel and remove monetization if time passes and you still haven't gotten back up to 4,000 hours.
-
-These new rules could also put niche channels at a disadvantage. Niche channels may have devoted followers who keep their watch time up, but getting to 1,000 subscribers could be harder for them purely because their potential audience is already smaller.
 
 ## Join The Conversation
 
@@ -411,90 +411,13 @@ Cough. Logan Paul. Cough.
 
 [How to Edit a YouTube Video and Get More Subscribers](https://www.filmora.io/community-blog/how-to-edit-a-youtube-video-and-get-more-subscribers-281.html)
 
-## Don't Give Up
-
-I risk sounding cheesy here, but I hope nobody gives up on their dreams as creators over something like this. Wanting to be paid for doing what you love is only natural, and you can still get there (YouTube monetization isn't even the only way). There may even be better opportunities to generate revenue when you do. In the long run, this could be a good thing for YouTube. Nobody can really know yet.
-
-How do you get subscribers, or increase your watch time? If you have any tips, share them with everyone! Also, make sure to let us know if there are any blog topics that might help you out with YouTube's new monetization rules.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Nov 01, 2022• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-YouTube changed its monetization policy and, once again, there are new monetization rules. Last year, in the wake of the ‘adpocalypse’ ([click here for coverage on that](https://www.filmora.io/community-blog/youtube%E2%80%99s-ad-boycott-and-how-it-probably-won%E2%80%99t-affect-you-201.html)), they imposed a new milestone of 10,000-lifetime views which a channel would have to meet before applying for monetization. As of February 20, 2018, YouTube will be introducing 2 more obstacles to monetizing your videos.
-
-1. [The New Monetization Rules](#newrules)
-2. [Why YouTube Changed The Monetization Rules](#why)
-3. [How Do The Changes Affect Small YouTube Channels](#smallchannels)
-4. [Join the Conversation](#talk)
-5. [Tips for Increasing YouTube Watch Time](#tips)
-6. [Helpful Blog Posts](#posts)
-7. [Don't Give Up!](#dontquit)
-
-## The New Monetization Rules
-
-In order to qualify for YouTube monetization, you must meet these milestones.
-
- 1. You will need to have 1,000 subscribers.
- 2. You will need to have accumulated 4,000 hours of watch time over the last 12 months.
-
- [You can read the full announcement here.](https://youtube-creators.googleblog.com/2018/01/additional-changes-to-youtube-partner.html)
-
- _Trying to get monetization on YouTube can feel like this._
-
-## Why YouTube Changed the Monetization Rules
-
-YouTube’s reasoning for these changes is essentially the same as they gave for the 10,000 views milestone: having higher standards will help them prevent inappropriate or stolen content from being monetized. They also point out that the majority of channels affected will not have been making any significant money anyways (less than $2.50 per month, in most cases).
-
-## How Do the Changes Affect Small YouTube Channels
-
-However, even if the immediate financial impact won’t be that financially significant, it is untrue to say these new rules will not affect YouTubers with smaller channels. Having to plan to achieve and maintain those 4,000 hours of watch time and 1,000 subs could have a major impact on how creators plan their content. Will you feel pressured to abandon content that you and your existing viewers love in favor of making videos that will get you to those milestones faster?
-
-  That will be a question facing a lot of smaller YouTubers, especially those who have already reached 1,000 subscribers and are now in a situation where they have to maintain those 4,000 hours of watch time. You won't be cut off from monetization automatically if you fall from 4,000 hours to 3,500 hours one month (after already having monetized your channel), but YouTube may review your channel and remove monetization if time passes and you still haven't gotten back up to 4,000 hours.
-
-These new rules could also put niche channels at a disadvantage. Niche channels may have devoted followers who keep their watch time up, but getting to 1,000 subscribers could be harder for them purely because their potential audience is already smaller.
-
-## Join The Conversation
-
-There have been b reactions to this news in our forums here on filmora.io, the majority of them negative. Although the perspective that these kinds of measures are necessary as YouTube becomes more and more crowded has also been represented, the majority of people who have weighed in find these changes unreasonable. If you haven't yet, make sure to head over to the forums and [join the conversation](https://www.filmora.io/forum/).
-
-It probably doesn’t help that none of the regulations being put in place to stop smaller channels who might be ‘bad actors’ (YouTube uses the term several times in their announcement) will affect gigantic channels whose creators may already be behaving in wildly inappropriate (and not at all ad friendly) ways.
-
-Cough. Logan Paul. Cough.
-
-####  
-
-## Tips for Increasing YouTube Watch Time
-
-1. Sorting your videos into playlists encourages viewers to spend a lot more time on your channel.
-2. Link your videos together using cards and interactive end screens/outros.
-3. Basic video editing. Simple things like adding transition effects and cutting out long pauses will help keep viewers watching your videos for longer.
-
-## Helpful Blog Posts
-
-[How to Get People to Subscribe by Asking the Right Way](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[Understanding YouTube Analytics – Take Charge of Your Channel!](https://www.filmora.io/community-blog/understanding-youtube-analytics-%E2%80%93-take-charge-of-your-channel%21-286.html) (this one will teach you how to see which of your videos are doing best for watch time!)
-
-[How to Edit a YouTube Video and Get More Subscribers](https://www.filmora.io/community-blog/how-to-edit-a-youtube-video-and-get-more-subscribers-281.html)
-
 ## Don't Give Up
 
 I risk sounding cheesy here, but I hope nobody gives up on their dreams as creators over something like this. Wanting to be paid for doing what you love is only natural, and you can still get there (YouTube monetization isn't even the only way). There may even be better opportunities to generate revenue when you do. In the long run, this could be a good thing for YouTube. Nobody can really know yet.
@@ -634,19 +557,90 @@ It probably doesn’t help that none of the regulations being put in place to st
 Cough. Logan Paul. Cough.
 
 ####  
+
+## Tips for Increasing YouTube Watch Time
+
+1. Sorting your videos into playlists encourages viewers to spend a lot more time on your channel.
+2. Link your videos together using cards and interactive end screens/outros.
+3. Basic video editing. Simple things like adding transition effects and cutting out long pauses will help keep viewers watching your videos for longer.
+
+## Helpful Blog Posts
+
+[How to Get People to Subscribe by Asking the Right Way](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[Understanding YouTube Analytics – Take Charge of Your Channel!](https://www.filmora.io/community-blog/understanding-youtube-analytics-%E2%80%93-take-charge-of-your-channel%21-286.html) (this one will teach you how to see which of your videos are doing best for watch time!)
+
+[How to Edit a YouTube Video and Get More Subscribers](https://www.filmora.io/community-blog/how-to-edit-a-youtube-video-and-get-more-subscribers-281.html)
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Don't Give Up
+
+I risk sounding cheesy here, but I hope nobody gives up on their dreams as creators over something like this. Wanting to be paid for doing what you love is only natural, and you can still get there (YouTube monetization isn't even the only way). There may even be better opportunities to generate revenue when you do. In the long run, this could be a good thing for YouTube. Nobody can really know yet.
+
+How do you get subscribers, or increase your watch time? If you have any tips, share them with everyone! Also, make sure to let us know if there are any blog topics that might help you out with YouTube's new monetization rules.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Nov 01, 2022• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+YouTube changed its monetization policy and, once again, there are new monetization rules. Last year, in the wake of the ‘adpocalypse’ ([click here for coverage on that](https://www.filmora.io/community-blog/youtube%E2%80%99s-ad-boycott-and-how-it-probably-won%E2%80%99t-affect-you-201.html)), they imposed a new milestone of 10,000-lifetime views which a channel would have to meet before applying for monetization. As of February 20, 2018, YouTube will be introducing 2 more obstacles to monetizing your videos.
+
+1. [The New Monetization Rules](#newrules)
+2. [Why YouTube Changed The Monetization Rules](#why)
+3. [How Do The Changes Affect Small YouTube Channels](#smallchannels)
+4. [Join the Conversation](#talk)
+5. [Tips for Increasing YouTube Watch Time](#tips)
+6. [Helpful Blog Posts](#posts)
+7. [Don't Give Up!](#dontquit)
+
+## The New Monetization Rules
+
+In order to qualify for YouTube monetization, you must meet these milestones.
+
+ 1. You will need to have 1,000 subscribers.
+ 2. You will need to have accumulated 4,000 hours of watch time over the last 12 months.
+
+ [You can read the full announcement here.](https://youtube-creators.googleblog.com/2018/01/additional-changes-to-youtube-partner.html)
+
+ _Trying to get monetization on YouTube can feel like this._
+
+## Why YouTube Changed the Monetization Rules
+
+YouTube’s reasoning for these changes is essentially the same as they gave for the 10,000 views milestone: having higher standards will help them prevent inappropriate or stolen content from being monetized. They also point out that the majority of channels affected will not have been making any significant money anyways (less than $2.50 per month, in most cases).
+
+## How Do the Changes Affect Small YouTube Channels
+
+However, even if the immediate financial impact won’t be that financially significant, it is untrue to say these new rules will not affect YouTubers with smaller channels. Having to plan to achieve and maintain those 4,000 hours of watch time and 1,000 subs could have a major impact on how creators plan their content. Will you feel pressured to abandon content that you and your existing viewers love in favor of making videos that will get you to those milestones faster?
+
+  That will be a question facing a lot of smaller YouTubers, especially those who have already reached 1,000 subscribers and are now in a situation where they have to maintain those 4,000 hours of watch time. You won't be cut off from monetization automatically if you fall from 4,000 hours to 3,500 hours one month (after already having monetized your channel), but YouTube may review your channel and remove monetization if time passes and you still haven't gotten back up to 4,000 hours.
+
+These new rules could also put niche channels at a disadvantage. Niche channels may have devoted followers who keep their watch time up, but getting to 1,000 subscribers could be harder for them purely because their potential audience is already smaller.
+
+## Join The Conversation
+
+There have been b reactions to this news in our forums here on filmora.io, the majority of them negative. Although the perspective that these kinds of measures are necessary as YouTube becomes more and more crowded has also been represented, the majority of people who have weighed in find these changes unreasonable. If you haven't yet, make sure to head over to the forums and [join the conversation](https://www.filmora.io/forum/).
+
+It probably doesn’t help that none of the regulations being put in place to stop smaller channels who might be ‘bad actors’ (YouTube uses the term several times in their announcement) will affect gigantic channels whose creators may already be behaving in wildly inappropriate (and not at all ad friendly) ways.
+
+Cough. Logan Paul. Cough.
+
+####  
 
 ## Tips for Increasing YouTube Watch Time
 
@@ -691,24 +685,15 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-extracting-youtube-images-online-desktop-tools-and-terminal-tactics/"><u>[New] Extracting YouTube Images Online, Desktop Tools & Terminal Tactics</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-navigating-and-adapting-youtubes-evolving-policy-landscape/"><u>[New] Navigating and Adapting YouTube's Evolving Policy Landscape</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-strategies-for-sustainable-income-via-product-based-videos/"><u>[New] Strategies for Sustainable Income via Product-Based Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-linux-windows-and-mac-10-budget-video-player-options-for-2024/"><u>[Updated] Linux, Windows & Mac 10 Budget Video Player Options for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-exclusive-mcb-logo-designs-and-templates/"><u>2024 Approved Exclusive MCB Logo Designs and Templates</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-is-it-lawful-to-screen-capture-youtube-content/"><u>2024 Approved Is It Lawful to Screen-Capture YouTube Content?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-learn-to-save-youtube-playback-as-a-free-screencast/"><u>2024 Approved Learn to Save YouTube Playback as a Free Screencast</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mapping-out-the-next-wave-of-social-media-graphs/"><u>2024 Approved Mapping Out the Next Wave of Social Media Graphs</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/brainy-battles-ultimate-gk-video-channel-guide/"><u>Brainy Battles - Ultimate GK Video Channel Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/hd-fullsize-fifa-world-cup-2018-final-free-download/"><u>HD-Fullsize FIFA World Cup 2018 Final Free Download</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-advanced-strategies-for-chapter-insertion-in-youtube-videos/"><u>In 2024, Advanced Strategies for Chapter Insertion in YouTube Videos</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-vivo-y56-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo Y56 5G Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-convert-youtubes-audios-to-mp3-safely-step-by-step-guide/"><u>In 2024, How To Convert YouTube's Audios to MP3 Safely - Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-art-of-imitation-crafting-parody-videos/"><u>In 2024, The Art of Imitation Crafting Parody Videos</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-vivo-y17s-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Vivo Y17s Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/leading-mobile-video-enhancers-for-high-quality-gopro-videos/"><u>Leading Mobile Video Enhancers for High-Quality GoPro Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/photographic-prowess-proven-strategies-for-captivating-edits/"><u>Photographic Prowess Proven Strategies for Captivating Edits</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-poco-x6-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Poco X6 Pro? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-premier-earnings-prodigy-on-youtube/"><u>[New] 2024 Approved Premier Earnings Prodigy on YouTube</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/tep-by-step-backdrop-blurring-techniques-on-youtube-videos-for-2024/"><u>[New] Step-by-Step Backdrop Blurring Techniques on YouTube Videos for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-youtube-standard-studio-or-beta-progress/"><u>2024 Approved Mastering YouTube Standard Studio or Beta Progress</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-essential-guide-to-aspect-ratios-on-youtube-platforms/"><u>2024 Approved The Essential Guide to ASPECT RATIOS on YOUTUBE Platforms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-methods-to-delete-your-printers-software-from-windows-computers/"><u>Easy Methods to Delete Your Printer's Software From Windows Computers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-the-power-of-thumbnails-creating-visual-appeal-for-youtube-content/"><u>In 2024, Unlocking the Power of Thumbnails Creating Visual Appeal for YouTube Content</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-mr-beasts-economic-status/"><u>In 2024, Unveiling Mr. Beast's Economic Status</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-lost-ark-server-connection-issues-effective-strategies-inside/"><u>Solving 'Lost Ark' Server Connection Issues - Effective Strategies Inside!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-best-in-class-evaluating-the-top-8-sub-to-srt-convertors-for-2024/"><u>The Best in Class Evaluating the Top 8 Sub to SRT Convertors for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-stutter-and-lag-issues-in-the-world-of-avatar-pandora-edition/"><u>Troubleshooting Stutter and Lag Issues in the World of Avatar: Pandora Edition</u></a></li>
 </ul></div>
 

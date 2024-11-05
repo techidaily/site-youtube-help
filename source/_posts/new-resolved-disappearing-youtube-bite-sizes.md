@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Resolved  Disappearing YouTube Bite Sizes\""
-date: 2024-07-29T19:51:40.842Z
-updated: 2024-07-30T19:51:40.842Z
+date: 2024-11-03T23:44:13.328Z
+updated: 2024-11-04T18:14:25.404Z
 tags:
   - ai video
   - ai youtube
@@ -62,51 +62,41 @@ And, you must note that a YouTube Shorts video consists of two criteria as follo
 * The video must be 60 seconds or less
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Fix YouTube Shorts Not Showing Up?
 
 Here’s the section covering fixes on YouTube Shorts not showing. Please give it a read and resolve your issue happily!
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Update the YouTube App
 
 As we've already discussed above, check if your YouTube mobile app has the latest version. The newest version of the YouTube mobile app (Version: 16.17.36) has a dedicated Shorts button at the bottom. And, it replaces the Trending button from the YouTube app.
 
 Moreover, the option to upload Shorts is now hidden behind the **+** icon. Tap on the **+** icon and hit the **Create a Short** option.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-not-showing-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Check If Shorts Is Available in Your Country
 
 Now, YouTube Shorts is available globally, but there was a phase when YouTube Shorts was a beta feature. It was only available in India and the US, which could be why you could not view Shorts in the YouTube app.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: YouTube Shorts Is Mobile-only
 
 As of now, YouTube Shorts is only available on a smartphone because it's still in beta version. However, you can create Shorts via smartphone and the camera option in YouTube mobile app. Hence, there's no point in searching for Shorts on your computer.
 
 You can upload Shorts videos from your laptop. The entire process is similar to uploading a regular video. However, you have to mention #Shorts in the title and description to differentiate it as a Shorts video.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### Common Fixes to YouTube Shorts Not Working
 
 1. Update the YouTube App to the latest version.
@@ -129,6 +119,13 @@ All in all, you must include #shorts to let the YouTube algorithm figure out the
 
 **Solution 3:** If your YouTube Shorts is not getting views, you need to wait more here because it takes a while for YouTube to index a Shorts video and suggest them to people. So, it's the task of the algorithm that varies from person to person. Some Shorts videos take several days while others take weeks.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### If YouTube Shorts Videos Are Not Showing up Correctly
 
 Once uploaded, the YouTube Shorts will be displayed in a vertical thumbnail on YouTube and other regular content already there in your account. Or, it's your choice to create a new channel for the YouTube shorts videos. If the YouTube shorts not showing correctly, you can try as follows:
@@ -139,10 +136,14 @@ Once uploaded, the YouTube Shorts will be displayed in a vertical thumbnail on Y
 
 **Step 3.** You'll see shorts videos under the "videos" section. Click that, and the videos you have which are tagged in with #shorts in the title or description will automatically display here.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-not-showing-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Bonus Tip: How to Easily Create Vertical Videos for YouTube Shorts on PC
 
@@ -172,10 +173,14 @@ You can choose among three ways to open the Auto Reframe feature in Filmora.
 
       * **Way 1:** Once you open Filmora, the main interface will display the **Auto Reframe** tab on the right-hand panel. Click it to open directly
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/guide/1-auto-reframe-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * **Way 2:** Import media as **File** \> **Import Media Files** and select the file. After you import the media, right-click and choose the **Auto Reframe**.
 
@@ -183,10 +188,14 @@ You can choose among three ways to open the Auto Reframe feature in Filmora.
 
 * **Way 3:** Lastly, you can choose the **Tools** option on the top menu bar and hit the **Auto Reframe**.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/guide/3-auto-reframe-tools.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2\. Adjust the Aspect Ratio and Motion Speed**
 
@@ -195,6 +204,13 @@ A separate dialog box will display once you have selected the **Auto Reframe** o
 There are multiple aspect ratio templates available such as square (1:1), vertical (9:16), standard (4:3), widescreen (16:9), and cinema (21:9). As you are making YouTube Shorts, so you need to select **9:16**.
 
 ![filmora](https://images.wondershare.com/filmora/guide/4-select-reframing-aspect-ratio.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You can adjust the speed of your video in multiple options: keep it at **Auto** or make it **Slow** or **Fast** as per your requirements.
 
@@ -216,15 +232,8 @@ Lastly, you can preview your final video. If the video needs more work, you can 
 
 Finally, after all the final adjustments, you can hit the **Export** tab, name your file and choose the destination folder.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/guide/9-export-reframed-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: FAQs about YouTube Shorts
 
 **1\. Where to download the YouTube Shorts app?**
@@ -271,12 +280,29 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/isable-unsolicited-youtube-video-listings-for-2024/"><u>[New] Disable Unsolicited YouTube Video Listings for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-filmmaker-tips-youtube-trailers-using-filmora/"><u>[New] Filmmaker Tips YouTube Trailers Using Filmora</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-free-youtube-end-screen-templates-plushow-tos/"><u>2024 Approved Free YouTube End Screen Templates [+How-Tos]</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-stream-titling-service/"><u>2024 Approved Stream Titling Service</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/achieve-perfect-zzzs-with-these-5-top-rated-apple-watch-sleep-applications/"><u>Achieve Perfect Zzz's with These 5 Top-Rated Apple Watch Sleep Applications</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-realme-c53-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Realme C53? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/choosing-your-best-vr-camera-insights-for-2024/"><u>Choosing Your Best VR Camera Insights for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hololens-review-pioneering-virtual-spacecraft-for-2024/"><u>HoloLens Review Pioneering Virtual Spacecraft for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nubia-z50s-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nubia Z50S Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-good-to-great-elevate-reactions-in-youtube-videos-with-these-3-strategies/"><u>In 2024, From Good to Great Elevate Reactions in YouTube Videos with These 3 Strategies</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-breakdown-how-your-earnings-are-divided-in-youtube-shorts/"><u>In 2024, The Breakdown How Your Earnings Are Divided in YouTube Shorts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/is-financial-compensation-behind-product-evaluations-for-2024/"><u>Is Financial Compensation Behind Product Evaluations for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-youtube-strikes-understanding-and-resolving-copyright-issues-for-2024/"><u>Navigating YouTube Strikes Understanding and Resolving Copyright Issues for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-resetting-error-code-zero-in-windows-11/"><u>Quick Guide: Resetting Error Code Zero in Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rejuvenate-acer-vision-in-windows-11-software/"><u>Rejuvenate Acer Vision in Windows 11 Software</u></a></li>
+</ul></div>
 
