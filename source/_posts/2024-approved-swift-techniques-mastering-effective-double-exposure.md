@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Swift Techniques  Mastering Effective Double Exposure\""
-date: 2024-07-29T19:47:27.653Z
-updated: 2024-07-30T19:47:27.653Z
+date: 2024-11-10T10:08:24.416Z
+updated: 2024-11-15T03:09:11.795Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5
 
 The world of video-making owes much of its magic to small leaps of innovation. One of these leaps is the use of the **chroma key background**, which most people know by the more colloquial term—green screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![clipper in front of green screen](https://images.wondershare.com/filmora/article-images/2024/a-quick-guide-to-chroma-key-background-1.jpg)
 
 Chroma key, also known as green screen or blue screen, is a cool hack for seamless visual storytelling, allowing content creators to replace backgrounds with any image or video they want. This technique is widely embraced in film, television, and online content, and has opened the door to limitless creative possibilities. Aside from its ability to maximize creativity, it is also cheap to employ and convenient to set up, which has made it a staple for everyone who works with visuals.
@@ -55,9 +52,6 @@ This involves filming the subject against the **live chroma key background**. Du
 
 In post-production processing, the editor takes the keyed-out color and replaces it with the new background of their choice. This step creates the illusion that the subject is in a different setting or environment. The transparent areas become filled with the chosen background which, if done right, results in a cohesive and visually appealing composition.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Why Green?
 
 Theoretically, the **chroma key background** can be any solid color. However, the most commonly used colors are studio blue and bright green, with the latter far more common.
@@ -116,10 +110,6 @@ The optimal distance between the subject and the green screen minimizes color sp
 
 As mentioned before, the choice of costume for Selecting appropriate clothing that doesn't match the chroma key color prevents transparency issues. Subjects also have to be positioned in such a way that there is minimal light interference and reflection. These contribute to a flawless chroma key outcome.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 3 Basic Troubleshooting Strategies
 
 * Color Spill
@@ -138,9 +128,6 @@ Suboptimal green screen lighting can lead to inconsistencies in keying and editi
 
 Chroma keying should leave your videos with crisp, defined, natural-looking edges. But post-production editing can make all the difference if it doesn’t come out to your taste. Softening and refining edges make a smoother transition between the foreground object and the new background. Light adjustments to edge thickness and screen matte settings can also help enhance overall visual quality and add finesse to your work.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Green screen photography produces excellent results, and its ease of use makes it indispensable for videographers of all levels. In this guide, we've discussed chroma key technology, its role in the industry, and how to apply it to your craft to elevate visual content.
@@ -153,16 +140,23 @@ In this simple guide, we'll delve into the fundamentals of the **chroma key effe
 
 [Create Video Backgrounds](https://tools.techidaily.com/wondershare/filmora/download/) [Create Video Backgrounds](https://tools.techidaily.com/wondershare/filmora/download/) [Learn Green Screen](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **How Does Chroma Key Work?**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![green screen shooting](https://images.wondershare.com/filmora/article-images/2024/a-quick-guide-to-chroma-key-background-2.jpg)
 
 Chroma Keying is done by singling out a specific color (usually green or blue) from the foreground, removing it, and replacing it with a different background (for example, a sunset). This process typically follows a series of steps:
@@ -183,9 +177,6 @@ This involves filming the subject against the **live chroma key background**. Du
 
 In post-production processing, the editor takes the keyed-out color and replaces it with the new background of their choice. This step creates the illusion that the subject is in a different setting or environment. The transparent areas become filled with the chosen background which, if done right, results in a cohesive and visually appealing composition.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Green?
 
 Theoretically, the **chroma key background** can be any solid color. However, the most commonly used colors are studio blue and bright green, with the latter far more common.
@@ -212,9 +203,6 @@ Wardrobe and Set Design
 
 Bright green occurs less naturally in costumes and set designs than other colors, making green the optimal choice for reducing the likelihood of color spill and keying issues. However, if you know your scene will have lots of green, it is probably best to film with a blue screen, so there’s less risk of color spill and less post-production work.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Setting up Your Own Chroma Key Studio
 
 Setting up your chroma key is convenient and straightforward, but there are some key factors to consider while setting up to ensure maximal performance.
@@ -246,6 +234,13 @@ The optimal distance between the subject and the green screen minimizes color sp
 * Subjects and Clothing
 
 As mentioned before, the choice of costume for Selecting appropriate clothing that doesn't match the chroma key color prevents transparency issues. Subjects also have to be positioned in such a way that there is minimal light interference and reflection. These contribute to a flawless chroma key outcome.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3 Basic Troubleshooting Strategies
 
@@ -287,640 +282,606 @@ Green screen photography produces excellent results, and its ease of use makes i
 
 ![](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-##### Liza Brown
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-It’s important to have a good name for your YouTube channel – something that people will remember. The following is a list of the [**3 best YouTube name generators**](https://tools.techidaily.com/wondershare/filmora/download/), an easy step-by-step for **brainstorming**, and instructions for updating your YouTube name.
-
-Whether you’re a YouTuber beginner or want to improve your YouTube videos to the next level, a good [YouTube video editing software](https://tools.techidaily.com/wondershare/filmora/download/) will be a good helper. Wondershare Filmora is a video editor for all YouTube creators with plentiful effects and templates, and you can download it directly and have a try before purchasing.
-
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
----
-
-1. [YouTube Name Generators](#generators)
-2. [How to Come Up With a Good YouTube Name](#goodname)
-3. [How to Change Your YouTube Name](#changename)
-4. [Requesting a Custom URL for YouTube](#custom)
-
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
-## Part 1: 3 Awesome YouTube Name Generators
-
-Need some help brainstorming your channel name? Here are 3 tools for getting started. Even if you don’t use one of the names you generate you’ll get some great inspiration.
-
-#### 1\. [SpinXO](http://www.spinxo.com/youtube-names/)
-
-**Key points:**
-
- \- Lots of options
-
- \- Checks availability
-
-This is a great generator. If you were brainstorming yourself, you’d probably write out a bunch of words related to yourself and the kinds of videos you want to make and see what goes together. SpinXO does that for you, and mixes in other words that sound good in usernames.
-
-Here’s what happened when I tried to name a hypothetical baking channel:
-
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![youtube name generator spinxo](https://images.wondershare.com/filmora/article-images/youtube-name-generator-spinxo.jpg)
-
-Not all of the results are great, but there are some cool sounding options in there.
-
-One of the most useful features of SpinXO is that you can check the availability of the usernames. I liked the sound of CupcakesCupola, and when I clicked on it I was able to see that nobody else was using it on other sites.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
-![youtube name generator spinxo](https://images.wondershare.com/filmora/article-images/youtube-name-generator-spinxo-2.jpg)
-
-#### 2\. [Name Generator](http://www.namegenerator.biz/youtube-name-generator.php)
-
-**Key points:**
-
- **\-**  Can be hilarious
-
- **\-**  Names tend to be a bit long
-
-This is a fairly limited generator. You plunk in a prefix and a suffix, and it generates a random word or term to stuff between them. Here’s what I got for my fictional cupcake channel:
-
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![YouTube Name Generator](https://images.wondershare.com/filmora/article-images/namegenerator-biz-example.jpg)
-
-So, on one hand - that’s hilarious and I’m considering legally changing my name. On the other hand, all of the results look exactly like this (which means they’re all a bit too long). It shows you a longer list if you scroll down:
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
-![YouTube Name Generator](https://images.wondershare.com/filmora/article-images/namegenerator-biz-example-generated.jpg)
-
-You can pick your favorite names and it’ll list them out so you can easily copy them into a word document. That’ll be useful if you’re collecting options from several sites.
-
-#### 3\. [Username Generator](http://namegenerators.org/username-generator/)
-
-**Key points:**
-
- **\-**  Can generate a huge number of names at once
-
- **\-**  You only input one word
-
-For this name generator, you type in one important word and choose how many results you want to see. You can see up to 300 at once.
-
-![Username Generator](https://images.wondershare.com/filmora/article-images/youtube-username-generator.jpg)
-
-The generator will take your keyword and add endings (and occasional beginnings) to it. Some endings are words, and some are just suffixes. Here’s what I got:
-
-![Username Generator Sample](https://images.wondershare.com/filmora/article-images/youtube-username-generator-generated.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
-## Part 2: How to Come Up With a Good YouTube Name – 3 Easy Steps
-
-The name of your YouTube channel needs to accomplish two things:
-
-1. Tell viewers what your channel is about
-2. Stick in viewer’s heads by being catchy and unique
-
-Here’s how you can brainstorm the perfect name for your channel!
-
-#### **Step 1: Gather up relevant words**
-
-Open up a journal (or a word document) and start writing down words that relate to you and your channel.
-
-You may want to make one list of ‘you’ words (personality traits, nicknames, titles, etc.) and another of words related to your channel’s category (i.e. gaming, makeup, or baking).
-
-#### **Step 2: Combinations**
-
-Start combining your ‘you’ words with your category words to see what sounds good. You may want to use one of the name generators above (anchor) for this part.
-
-Try to keep your name fairly short (3 words or less) so it’s easier for people to remember. Don’t include numbers if you can avoid it.
-
-#### **Step 3: Say it out loud**
-
-Once you have a shortlist of potential names, read them aloud to yourself to make sure they sound good. Ideally, you want to get that ‘oh, that has a nice ring to it!’ feeling.
-
-## Part 3: How to Change Your YouTube Name
-
-In the early days of YouTube, you couldn’t change your name, but now you can!
-
-1. Click on your account icon in the top right corner of YouTube and choose settings.
-2. Click **Edit on Google**.
-3. Update your name and click **OK**.
-
-## Part 4: Requesting a Custom URL for YouTube
-
-Here are several [types of YouTube channel URL](https://tools.techidaily.com/wondershare/filmora/download/), wouldn’t it be nice if, instead of a string of numbers and letters, your channel URL included your name? YouTube can do that for you!
-
-You need…
-
-1. 100 Subscribers
-2. to have been on YouTube for 30 days
-3. use a photo as your channel icon/profile picture
-4. have uploaded channel art
-
-Here’s how to get your custom URL:
-
-1. Click on your icon in the top right corner of YouTube and choose **Advanced** under **Settings**  / the gear icon.
-2. If you meet the qualifications above, you’ll see   **‘You’re eligible for a custom URL’**  under **Channel Settings**.
-3. YouTube will show you the custom URL you’re approved for in the **Get a custom URL**  box. You can’t change what’s there, but you can add to the end of it.
-4. Click **Change URL**  after reading the terms of use.
-
-You can delete your custom URL and claim a new one, but doing this might be confusing for your followers.
-
-If you already have a YouTube channel name – are you happy with it? How did you choose it?
-
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-Liza Brown
-
-Liza Brown is a writer and a lover of all things video.
-
-Follow @Liza Brown
-
-##### Liza Brown
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-It’s important to have a good name for your YouTube channel – something that people will remember. The following is a list of the [**3 best YouTube name generators**](https://tools.techidaily.com/wondershare/filmora/download/), an easy step-by-step for **brainstorming**, and instructions for updating your YouTube name.
-
-Whether you’re a YouTuber beginner or want to improve your YouTube videos to the next level, a good [YouTube video editing software](https://tools.techidaily.com/wondershare/filmora/download/) will be a good helper. Wondershare Filmora is a video editor for all YouTube creators with plentiful effects and templates, and you can download it directly and have a try before purchasing.
-
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
----
-
-1. [YouTube Name Generators](#generators)
-2. [How to Come Up With a Good YouTube Name](#goodname)
-3. [How to Change Your YouTube Name](#changename)
-4. [Requesting a Custom URL for YouTube](#custom)
-
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
-## Part 1: 3 Awesome YouTube Name Generators
-
-Need some help brainstorming your channel name? Here are 3 tools for getting started. Even if you don’t use one of the names you generate you’ll get some great inspiration.
-
-#### 1\. [SpinXO](http://www.spinxo.com/youtube-names/)
-
-**Key points:**
-
- \- Lots of options
-
- \- Checks availability
-
-This is a great generator. If you were brainstorming yourself, you’d probably write out a bunch of words related to yourself and the kinds of videos you want to make and see what goes together. SpinXO does that for you, and mixes in other words that sound good in usernames.
-
-Here’s what happened when I tried to name a hypothetical baking channel:
-
-![youtube name generator spinxo](https://images.wondershare.com/filmora/article-images/youtube-name-generator-spinxo.jpg)
-
-Not all of the results are great, but there are some cool sounding options in there.
-
-One of the most useful features of SpinXO is that you can check the availability of the usernames. I liked the sound of CupcakesCupola, and when I clicked on it I was able to see that nobody else was using it on other sites.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
-![youtube name generator spinxo](https://images.wondershare.com/filmora/article-images/youtube-name-generator-spinxo-2.jpg)
-
-#### 2\. [Name Generator](http://www.namegenerator.biz/youtube-name-generator.php)
-
-**Key points:**
-
- **\-**  Can be hilarious
-
- **\-**  Names tend to be a bit long
-
-This is a fairly limited generator. You plunk in a prefix and a suffix, and it generates a random word or term to stuff between them. Here’s what I got for my fictional cupcake channel:
-
-![YouTube Name Generator](https://images.wondershare.com/filmora/article-images/namegenerator-biz-example.jpg)
-
-So, on one hand - that’s hilarious and I’m considering legally changing my name. On the other hand, all of the results look exactly like this (which means they’re all a bit too long). It shows you a longer list if you scroll down:
-
-![YouTube Name Generator](https://images.wondershare.com/filmora/article-images/namegenerator-biz-example-generated.jpg)
-
-You can pick your favorite names and it’ll list them out so you can easily copy them into a word document. That’ll be useful if you’re collecting options from several sites.
-
-#### 3\. [Username Generator](http://namegenerators.org/username-generator/)
-
-**Key points:**
-
- **\-**  Can generate a huge number of names at once
-
- **\-**  You only input one word
-
-For this name generator, you type in one important word and choose how many results you want to see. You can see up to 300 at once.
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Username Generator](https://images.wondershare.com/filmora/article-images/youtube-username-generator.jpg)
-
-The generator will take your keyword and add endings (and occasional beginnings) to it. Some endings are words, and some are just suffixes. Here’s what I got:
-
-![Username Generator Sample](https://images.wondershare.com/filmora/article-images/youtube-username-generator-generated.jpg)
-
-## Part 2: How to Come Up With a Good YouTube Name – 3 Easy Steps
-
-The name of your YouTube channel needs to accomplish two things:
-
-1. Tell viewers what your channel is about
-2. Stick in viewer’s heads by being catchy and unique
-
-Here’s how you can brainstorm the perfect name for your channel!
-
-#### **Step 1: Gather up relevant words**
-
-Open up a journal (or a word document) and start writing down words that relate to you and your channel.
-
-You may want to make one list of ‘you’ words (personality traits, nicknames, titles, etc.) and another of words related to your channel’s category (i.e. gaming, makeup, or baking).
-
-#### **Step 2: Combinations**
-
-Start combining your ‘you’ words with your category words to see what sounds good. You may want to use one of the name generators above (anchor) for this part.
-
-Try to keep your name fairly short (3 words or less) so it’s easier for people to remember. Don’t include numbers if you can avoid it.
-
-#### **Step 3: Say it out loud**
-
-Once you have a shortlist of potential names, read them aloud to yourself to make sure they sound good. Ideally, you want to get that ‘oh, that has a nice ring to it!’ feeling.
-
-## Part 3: How to Change Your YouTube Name
-
-In the early days of YouTube, you couldn’t change your name, but now you can!
-
-1. Click on your account icon in the top right corner of YouTube and choose settings.
-2. Click **Edit on Google**.
-3. Update your name and click **OK**.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Part 4: Requesting a Custom URL for YouTube
-
-Here are several [types of YouTube channel URL](https://tools.techidaily.com/wondershare/filmora/download/), wouldn’t it be nice if, instead of a string of numbers and letters, your channel URL included your name? YouTube can do that for you!
-
-You need…
-
-1. 100 Subscribers
-2. to have been on YouTube for 30 days
-3. use a photo as your channel icon/profile picture
-4. have uploaded channel art
-
-Here’s how to get your custom URL:
-
-1. Click on your icon in the top right corner of YouTube and choose **Advanced** under **Settings**  / the gear icon.
-2. If you meet the qualifications above, you’ll see   **‘You’re eligible for a custom URL’**  under **Channel Settings**.
-3. YouTube will show you the custom URL you’re approved for in the **Get a custom URL**  box. You can’t change what’s there, but you can add to the end of it.
-4. Click **Change URL**  after reading the terms of use.
-
-You can delete your custom URL and claim a new one, but doing this might be confusing for your followers.
-
-If you already have a YouTube channel name – are you happy with it? How did you choose it?
-
-![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-Liza Brown
-
-Liza Brown is a writer and a lover of all things video.
-
-Follow @Liza Brown
-
-##### Liza Brown
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-It’s important to have a good name for your YouTube channel – something that people will remember. The following is a list of the [**3 best YouTube name generators**](https://tools.techidaily.com/wondershare/filmora/download/), an easy step-by-step for **brainstorming**, and instructions for updating your YouTube name.
-
-Whether you’re a YouTuber beginner or want to improve your YouTube videos to the next level, a good [YouTube video editing software](https://tools.techidaily.com/wondershare/filmora/download/) will be a good helper. Wondershare Filmora is a video editor for all YouTube creators with plentiful effects and templates, and you can download it directly and have a try before purchasing.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
----
-
-1. [YouTube Name Generators](#generators)
-2. [How to Come Up With a Good YouTube Name](#goodname)
-3. [How to Change Your YouTube Name](#changename)
-4. [Requesting a Custom URL for YouTube](#custom)
-
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
-## Part 1: 3 Awesome YouTube Name Generators
-
-Need some help brainstorming your channel name? Here are 3 tools for getting started. Even if you don’t use one of the names you generate you’ll get some great inspiration.
-
-#### 1\. [SpinXO](http://www.spinxo.com/youtube-names/)
-
-**Key points:**
-
- \- Lots of options
-
- \- Checks availability
-
-This is a great generator. If you were brainstorming yourself, you’d probably write out a bunch of words related to yourself and the kinds of videos you want to make and see what goes together. SpinXO does that for you, and mixes in other words that sound good in usernames.
-
-Here’s what happened when I tried to name a hypothetical baking channel:
-
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
-![youtube name generator spinxo](https://images.wondershare.com/filmora/article-images/youtube-name-generator-spinxo.jpg)
-
-Not all of the results are great, but there are some cool sounding options in there.
-
-One of the most useful features of SpinXO is that you can check the availability of the usernames. I liked the sound of CupcakesCupola, and when I clicked on it I was able to see that nobody else was using it on other sites.
-
-![youtube name generator spinxo](https://images.wondershare.com/filmora/article-images/youtube-name-generator-spinxo-2.jpg)
-
-#### 2\. [Name Generator](http://www.namegenerator.biz/youtube-name-generator.php)
-
-**Key points:**
-
- **\-**  Can be hilarious
-
- **\-**  Names tend to be a bit long
-
-This is a fairly limited generator. You plunk in a prefix and a suffix, and it generates a random word or term to stuff between them. Here’s what I got for my fictional cupcake channel:
-
-![YouTube Name Generator](https://images.wondershare.com/filmora/article-images/namegenerator-biz-example.jpg)
-
-So, on one hand - that’s hilarious and I’m considering legally changing my name. On the other hand, all of the results look exactly like this (which means they’re all a bit too long). It shows you a longer list if you scroll down:
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![YouTube Name Generator](https://images.wondershare.com/filmora/article-images/namegenerator-biz-example-generated.jpg)
-
-You can pick your favorite names and it’ll list them out so you can easily copy them into a word document. That’ll be useful if you’re collecting options from several sites.
-
-#### 3\. [Username Generator](http://namegenerators.org/username-generator/)
-
-**Key points:**
-
- **\-**  Can generate a huge number of names at once
-
- **\-**  You only input one word
-
-For this name generator, you type in one important word and choose how many results you want to see. You can see up to 300 at once.
-
-![Username Generator](https://images.wondershare.com/filmora/article-images/youtube-username-generator.jpg)
-
-The generator will take your keyword and add endings (and occasional beginnings) to it. Some endings are words, and some are just suffixes. Here’s what I got:
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
-![Username Generator Sample](https://images.wondershare.com/filmora/article-images/youtube-username-generator-generated.jpg)
-
-## Part 2: How to Come Up With a Good YouTube Name – 3 Easy Steps
-
-The name of your YouTube channel needs to accomplish two things:
-
-1. Tell viewers what your channel is about
-2. Stick in viewer’s heads by being catchy and unique
-
-Here’s how you can brainstorm the perfect name for your channel!
-
-#### **Step 1: Gather up relevant words**
-
-Open up a journal (or a word document) and start writing down words that relate to you and your channel.
-
-You may want to make one list of ‘you’ words (personality traits, nicknames, titles, etc.) and another of words related to your channel’s category (i.e. gaming, makeup, or baking).
-
-#### **Step 2: Combinations**
-
-Start combining your ‘you’ words with your category words to see what sounds good. You may want to use one of the name generators above (anchor) for this part.
-
-Try to keep your name fairly short (3 words or less) so it’s easier for people to remember. Don’t include numbers if you can avoid it.
-
-#### **Step 3: Say it out loud**
-
-Once you have a shortlist of potential names, read them aloud to yourself to make sure they sound good. Ideally, you want to get that ‘oh, that has a nice ring to it!’ feeling.
-
-## Part 3: How to Change Your YouTube Name
-
-In the early days of YouTube, you couldn’t change your name, but now you can!
-
-1. Click on your account icon in the top right corner of YouTube and choose settings.
-2. Click **Edit on Google**.
-3. Update your name and click **OK**.
-
-## Part 4: Requesting a Custom URL for YouTube
-
-Here are several [types of YouTube channel URL](https://tools.techidaily.com/wondershare/filmora/download/), wouldn’t it be nice if, instead of a string of numbers and letters, your channel URL included your name? YouTube can do that for you!
-
-You need…
-
-1. 100 Subscribers
-2. to have been on YouTube for 30 days
-3. use a photo as your channel icon/profile picture
-4. have uploaded channel art
-
-Here’s how to get your custom URL:
-
-1. Click on your icon in the top right corner of YouTube and choose **Advanced** under **Settings**  / the gear icon.
-2. If you meet the qualifications above, you’ll see   **‘You’re eligible for a custom URL’**  under **Channel Settings**.
-3. YouTube will show you the custom URL you’re approved for in the **Get a custom URL**  box. You can’t change what’s there, but you can add to the end of it.
-4. Click **Change URL**  after reading the terms of use.
-
-You can delete your custom URL and claim a new one, but doing this might be confusing for your followers.
-
-If you already have a YouTube channel name – are you happy with it? How did you choose it?
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
-![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-Liza Brown
-
-Liza Brown is a writer and a lover of all things video.
-
-Follow @Liza Brown
-
-##### Liza Brown
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-It’s important to have a good name for your YouTube channel – something that people will remember. The following is a list of the [**3 best YouTube name generators**](https://tools.techidaily.com/wondershare/filmora/download/), an easy step-by-step for **brainstorming**, and instructions for updating your YouTube name.
-
-Whether you’re a YouTuber beginner or want to improve your YouTube videos to the next level, a good [YouTube video editing software](https://tools.techidaily.com/wondershare/filmora/download/) will be a good helper. Wondershare Filmora is a video editor for all YouTube creators with plentiful effects and templates, and you can download it directly and have a try before purchasing.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
----
-
-1. [YouTube Name Generators](#generators)
-2. [How to Come Up With a Good YouTube Name](#goodname)
-3. [How to Change Your YouTube Name](#changename)
-4. [Requesting a Custom URL for YouTube](#custom)
-
-## Part 1: 3 Awesome YouTube Name Generators
-
-Need some help brainstorming your channel name? Here are 3 tools for getting started. Even if you don’t use one of the names you generate you’ll get some great inspiration.
-
-#### 1\. [SpinXO](http://www.spinxo.com/youtube-names/)
-
-**Key points:**
-
- \- Lots of options
-
- \- Checks availability
-
-This is a great generator. If you were brainstorming yourself, you’d probably write out a bunch of words related to yourself and the kinds of videos you want to make and see what goes together. SpinXO does that for you, and mixes in other words that sound good in usernames.
-
-Here’s what happened when I tried to name a hypothetical baking channel:
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
-![youtube name generator spinxo](https://images.wondershare.com/filmora/article-images/youtube-name-generator-spinxo.jpg)
-
-Not all of the results are great, but there are some cool sounding options in there.
-
-One of the most useful features of SpinXO is that you can check the availability of the usernames. I liked the sound of CupcakesCupola, and when I clicked on it I was able to see that nobody else was using it on other sites.
-
-![youtube name generator spinxo](https://images.wondershare.com/filmora/article-images/youtube-name-generator-spinxo-2.jpg)
-
-#### 2\. [Name Generator](http://www.namegenerator.biz/youtube-name-generator.php)
-
-**Key points:**
-
- **\-**  Can be hilarious
-
- **\-**  Names tend to be a bit long
-
-This is a fairly limited generator. You plunk in a prefix and a suffix, and it generates a random word or term to stuff between them. Here’s what I got for my fictional cupcake channel:
-
-![YouTube Name Generator](https://images.wondershare.com/filmora/article-images/namegenerator-biz-example.jpg)
-
-So, on one hand - that’s hilarious and I’m considering legally changing my name. On the other hand, all of the results look exactly like this (which means they’re all a bit too long). It shows you a longer list if you scroll down:
-
-![YouTube Name Generator](https://images.wondershare.com/filmora/article-images/namegenerator-biz-example-generated.jpg)
-
-You can pick your favorite names and it’ll list them out so you can easily copy them into a word document. That’ll be useful if you’re collecting options from several sites.
-
-#### 3\. [Username Generator](http://namegenerators.org/username-generator/)
-
-**Key points:**
-
- **\-**  Can generate a huge number of names at once
-
- **\-**  You only input one word
-
-For this name generator, you type in one important word and choose how many results you want to see. You can see up to 300 at once.
-
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
-![Username Generator](https://images.wondershare.com/filmora/article-images/youtube-username-generator.jpg)
-
-The generator will take your keyword and add endings (and occasional beginnings) to it. Some endings are words, and some are just suffixes. Here’s what I got:
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
-![Username Generator Sample](https://images.wondershare.com/filmora/article-images/youtube-username-generator-generated.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Part 2: How to Come Up With a Good YouTube Name – 3 Easy Steps
-
-The name of your YouTube channel needs to accomplish two things:
-
-1. Tell viewers what your channel is about
-2. Stick in viewer’s heads by being catchy and unique
-
-Here’s how you can brainstorm the perfect name for your channel!
-
-#### **Step 1: Gather up relevant words**
-
-Open up a journal (or a word document) and start writing down words that relate to you and your channel.
-
-You may want to make one list of ‘you’ words (personality traits, nicknames, titles, etc.) and another of words related to your channel’s category (i.e. gaming, makeup, or baking).
-
-#### **Step 2: Combinations**
-
-Start combining your ‘you’ words with your category words to see what sounds good. You may want to use one of the name generators above (anchor) for this part.
-
-Try to keep your name fairly short (3 words or less) so it’s easier for people to remember. Don’t include numbers if you can avoid it.
-
-#### **Step 3: Say it out loud**
-
-Once you have a shortlist of potential names, read them aloud to yourself to make sure they sound good. Ideally, you want to get that ‘oh, that has a nice ring to it!’ feeling.
-
-## Part 3: How to Change Your YouTube Name
-
-In the early days of YouTube, you couldn’t change your name, but now you can!
-
-1. Click on your account icon in the top right corner of YouTube and choose settings.
-2. Click **Edit on Google**.
-3. Update your name and click **OK**.
-
-## Part 4: Requesting a Custom URL for YouTube
-
-Here are several [types of YouTube channel URL](https://tools.techidaily.com/wondershare/filmora/download/), wouldn’t it be nice if, instead of a string of numbers and letters, your channel URL included your name? YouTube can do that for you!
-
-You need…
-
-1. 100 Subscribers
-2. to have been on YouTube for 30 days
-3. use a photo as your channel icon/profile picture
-4. have uploaded channel art
-
-Here’s how to get your custom URL:
-
-1. Click on your icon in the top right corner of YouTube and choose **Advanced** under **Settings**  / the gear icon.
-2. If you meet the qualifications above, you’ll see   **‘You’re eligible for a custom URL’**  under **Channel Settings**.
-3. YouTube will show you the custom URL you’re approved for in the **Get a custom URL**  box. You can’t change what’s there, but you can add to the end of it.
-4. Click **Change URL**  after reading the terms of use.
-
-You can delete your custom URL and claim a new one, but doing this might be confusing for your followers.
-
-If you already have a YouTube channel name – are you happy with it? How did you choose it?
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+##### Liza Brown
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+It’s important to have a good name for your YouTube channel – something that people will remember. The following is a list of the [**3 best YouTube name generators**](https://tools.techidaily.com/wondershare/filmora/download/), an easy step-by-step for **brainstorming**, and instructions for updating your YouTube name.
+
+Whether you’re a YouTuber beginner or want to improve your YouTube videos to the next level, a good [YouTube video editing software](https://tools.techidaily.com/wondershare/filmora/download/) will be a good helper. Wondershare Filmora is a video editor for all YouTube creators with plentiful effects and templates, and you can download it directly and have a try before purchasing.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+---
+
+1. [YouTube Name Generators](#generators)
+2. [How to Come Up With a Good YouTube Name](#goodname)
+3. [How to Change Your YouTube Name](#changename)
+4. [Requesting a Custom URL for YouTube](#custom)
+
+## Part 1: 3 Awesome YouTube Name Generators
+
+Need some help brainstorming your channel name? Here are 3 tools for getting started. Even if you don’t use one of the names you generate you’ll get some great inspiration.
+
+#### 1\. [SpinXO](http://www.spinxo.com/youtube-names/)
+
+**Key points:**
+
+ \- Lots of options
+
+ \- Checks availability
+
+This is a great generator. If you were brainstorming yourself, you’d probably write out a bunch of words related to yourself and the kinds of videos you want to make and see what goes together. SpinXO does that for you, and mixes in other words that sound good in usernames.
+
+Here’s what happened when I tried to name a hypothetical baking channel:
+
+![youtube name generator spinxo](https://images.wondershare.com/filmora/article-images/youtube-name-generator-spinxo.jpg)
+
+Not all of the results are great, but there are some cool sounding options in there.
+
+One of the most useful features of SpinXO is that you can check the availability of the usernames. I liked the sound of CupcakesCupola, and when I clicked on it I was able to see that nobody else was using it on other sites.
+
+![youtube name generator spinxo](https://images.wondershare.com/filmora/article-images/youtube-name-generator-spinxo-2.jpg)
+
+#### 2\. [Name Generator](http://www.namegenerator.biz/youtube-name-generator.php)
+
+**Key points:**
+
+ **\-**  Can be hilarious
+
+ **\-**  Names tend to be a bit long
+
+This is a fairly limited generator. You plunk in a prefix and a suffix, and it generates a random word or term to stuff between them. Here’s what I got for my fictional cupcake channel:
+
+![YouTube Name Generator](https://images.wondershare.com/filmora/article-images/namegenerator-biz-example.jpg)
+
+So, on one hand - that’s hilarious and I’m considering legally changing my name. On the other hand, all of the results look exactly like this (which means they’re all a bit too long). It shows you a longer list if you scroll down:
+
+![YouTube Name Generator](https://images.wondershare.com/filmora/article-images/namegenerator-biz-example-generated.jpg)
+
+You can pick your favorite names and it’ll list them out so you can easily copy them into a word document. That’ll be useful if you’re collecting options from several sites.
+
+#### 3\. [Username Generator](http://namegenerators.org/username-generator/)
+
+**Key points:**
+
+ **\-**  Can generate a huge number of names at once
+
+ **\-**  You only input one word
+
+For this name generator, you type in one important word and choose how many results you want to see. You can see up to 300 at once.
+
+![Username Generator](https://images.wondershare.com/filmora/article-images/youtube-username-generator.jpg)
+
+The generator will take your keyword and add endings (and occasional beginnings) to it. Some endings are words, and some are just suffixes. Here’s what I got:
+
+![Username Generator Sample](https://images.wondershare.com/filmora/article-images/youtube-username-generator-generated.jpg)
+
+## Part 2: How to Come Up With a Good YouTube Name – 3 Easy Steps
+
+The name of your YouTube channel needs to accomplish two things:
+
+1. Tell viewers what your channel is about
+2. Stick in viewer’s heads by being catchy and unique
+
+Here’s how you can brainstorm the perfect name for your channel!
+
+#### **Step 1: Gather up relevant words**
+
+Open up a journal (or a word document) and start writing down words that relate to you and your channel.
+
+You may want to make one list of ‘you’ words (personality traits, nicknames, titles, etc.) and another of words related to your channel’s category (i.e. gaming, makeup, or baking).
+
+#### **Step 2: Combinations**
+
+Start combining your ‘you’ words with your category words to see what sounds good. You may want to use one of the name generators above (anchor) for this part.
+
+Try to keep your name fairly short (3 words or less) so it’s easier for people to remember. Don’t include numbers if you can avoid it.
+
+#### **Step 3: Say it out loud**
+
+Once you have a shortlist of potential names, read them aloud to yourself to make sure they sound good. Ideally, you want to get that ‘oh, that has a nice ring to it!’ feeling.
+
+## Part 3: How to Change Your YouTube Name
+
+In the early days of YouTube, you couldn’t change your name, but now you can!
+
+1. Click on your account icon in the top right corner of YouTube and choose settings.
+2. Click **Edit on Google**.
+3. Update your name and click **OK**.
+
+## Part 4: Requesting a Custom URL for YouTube
+
+Here are several [types of YouTube channel URL](https://tools.techidaily.com/wondershare/filmora/download/), wouldn’t it be nice if, instead of a string of numbers and letters, your channel URL included your name? YouTube can do that for you!
+
+You need…
+
+1. 100 Subscribers
+2. to have been on YouTube for 30 days
+3. use a photo as your channel icon/profile picture
+4. have uploaded channel art
+
+Here’s how to get your custom URL:
+
+1. Click on your icon in the top right corner of YouTube and choose **Advanced** under **Settings**  / the gear icon.
+2. If you meet the qualifications above, you’ll see   **‘You’re eligible for a custom URL’**  under **Channel Settings**.
+3. YouTube will show you the custom URL you’re approved for in the **Get a custom URL**  box. You can’t change what’s there, but you can add to the end of it.
+4. Click **Change URL**  after reading the terms of use.
+
+You can delete your custom URL and claim a new one, but doing this might be confusing for your followers.
+
+If you already have a YouTube channel name – are you happy with it? How did you choose it?
+
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Liza Brown
+
+Liza Brown is a writer and a lover of all things video.
+
+Follow @Liza Brown
+
+##### Liza Brown
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+It’s important to have a good name for your YouTube channel – something that people will remember. The following is a list of the [**3 best YouTube name generators**](https://tools.techidaily.com/wondershare/filmora/download/), an easy step-by-step for **brainstorming**, and instructions for updating your YouTube name.
+
+Whether you’re a YouTuber beginner or want to improve your YouTube videos to the next level, a good [YouTube video editing software](https://tools.techidaily.com/wondershare/filmora/download/) will be a good helper. Wondershare Filmora is a video editor for all YouTube creators with plentiful effects and templates, and you can download it directly and have a try before purchasing.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+---
+
+1. [YouTube Name Generators](#generators)
+2. [How to Come Up With a Good YouTube Name](#goodname)
+3. [How to Change Your YouTube Name](#changename)
+4. [Requesting a Custom URL for YouTube](#custom)
+
+## Part 1: 3 Awesome YouTube Name Generators
+
+Need some help brainstorming your channel name? Here are 3 tools for getting started. Even if you don’t use one of the names you generate you’ll get some great inspiration.
+
+#### 1\. [SpinXO](http://www.spinxo.com/youtube-names/)
+
+**Key points:**
+
+ \- Lots of options
+
+ \- Checks availability
+
+This is a great generator. If you were brainstorming yourself, you’d probably write out a bunch of words related to yourself and the kinds of videos you want to make and see what goes together. SpinXO does that for you, and mixes in other words that sound good in usernames.
+
+Here’s what happened when I tried to name a hypothetical baking channel:
+
+![youtube name generator spinxo](https://images.wondershare.com/filmora/article-images/youtube-name-generator-spinxo.jpg)
+
+Not all of the results are great, but there are some cool sounding options in there.
+
+One of the most useful features of SpinXO is that you can check the availability of the usernames. I liked the sound of CupcakesCupola, and when I clicked on it I was able to see that nobody else was using it on other sites.
+
+![youtube name generator spinxo](https://images.wondershare.com/filmora/article-images/youtube-name-generator-spinxo-2.jpg)
+
+#### 2\. [Name Generator](http://www.namegenerator.biz/youtube-name-generator.php)
+
+**Key points:**
+
+ **\-**  Can be hilarious
+
+ **\-**  Names tend to be a bit long
+
+This is a fairly limited generator. You plunk in a prefix and a suffix, and it generates a random word or term to stuff between them. Here’s what I got for my fictional cupcake channel:
+
+![YouTube Name Generator](https://images.wondershare.com/filmora/article-images/namegenerator-biz-example.jpg)
+
+So, on one hand - that’s hilarious and I’m considering legally changing my name. On the other hand, all of the results look exactly like this (which means they’re all a bit too long). It shows you a longer list if you scroll down:
+
+![YouTube Name Generator](https://images.wondershare.com/filmora/article-images/namegenerator-biz-example-generated.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+You can pick your favorite names and it’ll list them out so you can easily copy them into a word document. That’ll be useful if you’re collecting options from several sites.
+
+#### 3\. [Username Generator](http://namegenerators.org/username-generator/)
+
+**Key points:**
+
+ **\-**  Can generate a huge number of names at once
+
+ **\-**  You only input one word
+
+For this name generator, you type in one important word and choose how many results you want to see. You can see up to 300 at once.
+
+![Username Generator](https://images.wondershare.com/filmora/article-images/youtube-username-generator.jpg)
+
+The generator will take your keyword and add endings (and occasional beginnings) to it. Some endings are words, and some are just suffixes. Here’s what I got:
+
+![Username Generator Sample](https://images.wondershare.com/filmora/article-images/youtube-username-generator-generated.jpg)
+
+## Part 2: How to Come Up With a Good YouTube Name – 3 Easy Steps
+
+The name of your YouTube channel needs to accomplish two things:
+
+1. Tell viewers what your channel is about
+2. Stick in viewer’s heads by being catchy and unique
+
+Here’s how you can brainstorm the perfect name for your channel!
+
+#### **Step 1: Gather up relevant words**
+
+Open up a journal (or a word document) and start writing down words that relate to you and your channel.
+
+You may want to make one list of ‘you’ words (personality traits, nicknames, titles, etc.) and another of words related to your channel’s category (i.e. gaming, makeup, or baking).
+
+#### **Step 2: Combinations**
+
+Start combining your ‘you’ words with your category words to see what sounds good. You may want to use one of the name generators above (anchor) for this part.
+
+Try to keep your name fairly short (3 words or less) so it’s easier for people to remember. Don’t include numbers if you can avoid it.
+
+#### **Step 3: Say it out loud**
+
+Once you have a shortlist of potential names, read them aloud to yourself to make sure they sound good. Ideally, you want to get that ‘oh, that has a nice ring to it!’ feeling.
+
+## Part 3: How to Change Your YouTube Name
+
+In the early days of YouTube, you couldn’t change your name, but now you can!
+
+1. Click on your account icon in the top right corner of YouTube and choose settings.
+2. Click **Edit on Google**.
+3. Update your name and click **OK**.
+
+## Part 4: Requesting a Custom URL for YouTube
+
+Here are several [types of YouTube channel URL](https://tools.techidaily.com/wondershare/filmora/download/), wouldn’t it be nice if, instead of a string of numbers and letters, your channel URL included your name? YouTube can do that for you!
+
+You need…
+
+1. 100 Subscribers
+2. to have been on YouTube for 30 days
+3. use a photo as your channel icon/profile picture
+4. have uploaded channel art
+
+Here’s how to get your custom URL:
+
+1. Click on your icon in the top right corner of YouTube and choose **Advanced** under **Settings**  / the gear icon.
+2. If you meet the qualifications above, you’ll see   **‘You’re eligible for a custom URL’**  under **Channel Settings**.
+3. YouTube will show you the custom URL you’re approved for in the **Get a custom URL**  box. You can’t change what’s there, but you can add to the end of it.
+4. Click **Change URL**  after reading the terms of use.
+
+You can delete your custom URL and claim a new one, but doing this might be confusing for your followers.
+
+If you already have a YouTube channel name – are you happy with it? How did you choose it?
+
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+Liza Brown
+
+Liza Brown is a writer and a lover of all things video.
+
+Follow @Liza Brown
+
+##### Liza Brown
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+It’s important to have a good name for your YouTube channel – something that people will remember. The following is a list of the [**3 best YouTube name generators**](https://tools.techidaily.com/wondershare/filmora/download/), an easy step-by-step for **brainstorming**, and instructions for updating your YouTube name.
+
+Whether you’re a YouTuber beginner or want to improve your YouTube videos to the next level, a good [YouTube video editing software](https://tools.techidaily.com/wondershare/filmora/download/) will be a good helper. Wondershare Filmora is a video editor for all YouTube creators with plentiful effects and templates, and you can download it directly and have a try before purchasing.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+---
+
+1. [YouTube Name Generators](#generators)
+2. [How to Come Up With a Good YouTube Name](#goodname)
+3. [How to Change Your YouTube Name](#changename)
+4. [Requesting a Custom URL for YouTube](#custom)
+
+## Part 1: 3 Awesome YouTube Name Generators
+
+Need some help brainstorming your channel name? Here are 3 tools for getting started. Even if you don’t use one of the names you generate you’ll get some great inspiration.
+
+#### 1\. [SpinXO](http://www.spinxo.com/youtube-names/)
+
+**Key points:**
+
+ \- Lots of options
+
+ \- Checks availability
+
+This is a great generator. If you were brainstorming yourself, you’d probably write out a bunch of words related to yourself and the kinds of videos you want to make and see what goes together. SpinXO does that for you, and mixes in other words that sound good in usernames.
+
+Here’s what happened when I tried to name a hypothetical baking channel:
+
+![youtube name generator spinxo](https://images.wondershare.com/filmora/article-images/youtube-name-generator-spinxo.jpg)
+
+Not all of the results are great, but there are some cool sounding options in there.
+
+One of the most useful features of SpinXO is that you can check the availability of the usernames. I liked the sound of CupcakesCupola, and when I clicked on it I was able to see that nobody else was using it on other sites.
+
+![youtube name generator spinxo](https://images.wondershare.com/filmora/article-images/youtube-name-generator-spinxo-2.jpg)
+
+#### 2\. [Name Generator](http://www.namegenerator.biz/youtube-name-generator.php)
+
+**Key points:**
+
+ **\-**  Can be hilarious
+
+ **\-**  Names tend to be a bit long
+
+This is a fairly limited generator. You plunk in a prefix and a suffix, and it generates a random word or term to stuff between them. Here’s what I got for my fictional cupcake channel:
+
+![YouTube Name Generator](https://images.wondershare.com/filmora/article-images/namegenerator-biz-example.jpg)
+
+So, on one hand - that’s hilarious and I’m considering legally changing my name. On the other hand, all of the results look exactly like this (which means they’re all a bit too long). It shows you a longer list if you scroll down:
+
+![YouTube Name Generator](https://images.wondershare.com/filmora/article-images/namegenerator-biz-example-generated.jpg)
+
+You can pick your favorite names and it’ll list them out so you can easily copy them into a word document. That’ll be useful if you’re collecting options from several sites.
+
+#### 3\. [Username Generator](http://namegenerators.org/username-generator/)
+
+**Key points:**
+
+ **\-**  Can generate a huge number of names at once
+
+ **\-**  You only input one word
+
+For this name generator, you type in one important word and choose how many results you want to see. You can see up to 300 at once.
+
+![Username Generator](https://images.wondershare.com/filmora/article-images/youtube-username-generator.jpg)
+
+The generator will take your keyword and add endings (and occasional beginnings) to it. Some endings are words, and some are just suffixes. Here’s what I got:
+
+![Username Generator Sample](https://images.wondershare.com/filmora/article-images/youtube-username-generator-generated.jpg)
+
+## Part 2: How to Come Up With a Good YouTube Name – 3 Easy Steps
+
+The name of your YouTube channel needs to accomplish two things:
+
+1. Tell viewers what your channel is about
+2. Stick in viewer’s heads by being catchy and unique
+
+Here’s how you can brainstorm the perfect name for your channel!
+
+#### **Step 1: Gather up relevant words**
+
+Open up a journal (or a word document) and start writing down words that relate to you and your channel.
+
+You may want to make one list of ‘you’ words (personality traits, nicknames, titles, etc.) and another of words related to your channel’s category (i.e. gaming, makeup, or baking).
+
+#### **Step 2: Combinations**
+
+Start combining your ‘you’ words with your category words to see what sounds good. You may want to use one of the name generators above (anchor) for this part.
+
+Try to keep your name fairly short (3 words or less) so it’s easier for people to remember. Don’t include numbers if you can avoid it.
+
+#### **Step 3: Say it out loud**
+
+Once you have a shortlist of potential names, read them aloud to yourself to make sure they sound good. Ideally, you want to get that ‘oh, that has a nice ring to it!’ feeling.
+
+## Part 3: How to Change Your YouTube Name
+
+In the early days of YouTube, you couldn’t change your name, but now you can!
+
+1. Click on your account icon in the top right corner of YouTube and choose settings.
+2. Click **Edit on Google**.
+3. Update your name and click **OK**.
+
+## Part 4: Requesting a Custom URL for YouTube
+
+Here are several [types of YouTube channel URL](https://tools.techidaily.com/wondershare/filmora/download/), wouldn’t it be nice if, instead of a string of numbers and letters, your channel URL included your name? YouTube can do that for you!
+
+You need…
+
+1. 100 Subscribers
+2. to have been on YouTube for 30 days
+3. use a photo as your channel icon/profile picture
+4. have uploaded channel art
+
+Here’s how to get your custom URL:
+
+1. Click on your icon in the top right corner of YouTube and choose **Advanced** under **Settings**  / the gear icon.
+2. If you meet the qualifications above, you’ll see   **‘You’re eligible for a custom URL’**  under **Channel Settings**.
+3. YouTube will show you the custom URL you’re approved for in the **Get a custom URL**  box. You can’t change what’s there, but you can add to the end of it.
+4. Click **Change URL**  after reading the terms of use.
+
+You can delete your custom URL and claim a new one, but doing this might be confusing for your followers.
+
+If you already have a YouTube channel name – are you happy with it? How did you choose it?
+
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Liza Brown
+
+Liza Brown is a writer and a lover of all things video.
+
+Follow @Liza Brown
+
+##### Liza Brown
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+It’s important to have a good name for your YouTube channel – something that people will remember. The following is a list of the [**3 best YouTube name generators**](https://tools.techidaily.com/wondershare/filmora/download/), an easy step-by-step for **brainstorming**, and instructions for updating your YouTube name.
+
+Whether you’re a YouTuber beginner or want to improve your YouTube videos to the next level, a good [YouTube video editing software](https://tools.techidaily.com/wondershare/filmora/download/) will be a good helper. Wondershare Filmora is a video editor for all YouTube creators with plentiful effects and templates, and you can download it directly and have a try before purchasing.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+---
+
+1. [YouTube Name Generators](#generators)
+2. [How to Come Up With a Good YouTube Name](#goodname)
+3. [How to Change Your YouTube Name](#changename)
+4. [Requesting a Custom URL for YouTube](#custom)
+
+## Part 1: 3 Awesome YouTube Name Generators
+
+Need some help brainstorming your channel name? Here are 3 tools for getting started. Even if you don’t use one of the names you generate you’ll get some great inspiration.
+
+#### 1\. [SpinXO](http://www.spinxo.com/youtube-names/)
+
+**Key points:**
+
+ \- Lots of options
+
+ \- Checks availability
+
+This is a great generator. If you were brainstorming yourself, you’d probably write out a bunch of words related to yourself and the kinds of videos you want to make and see what goes together. SpinXO does that for you, and mixes in other words that sound good in usernames.
+
+Here’s what happened when I tried to name a hypothetical baking channel:
+
+![youtube name generator spinxo](https://images.wondershare.com/filmora/article-images/youtube-name-generator-spinxo.jpg)
+
+Not all of the results are great, but there are some cool sounding options in there.
+
+One of the most useful features of SpinXO is that you can check the availability of the usernames. I liked the sound of CupcakesCupola, and when I clicked on it I was able to see that nobody else was using it on other sites.
+
+![youtube name generator spinxo](https://images.wondershare.com/filmora/article-images/youtube-name-generator-spinxo-2.jpg)
+
+#### 2\. [Name Generator](http://www.namegenerator.biz/youtube-name-generator.php)
+
+**Key points:**
+
+ **\-**  Can be hilarious
+
+ **\-**  Names tend to be a bit long
+
+This is a fairly limited generator. You plunk in a prefix and a suffix, and it generates a random word or term to stuff between them. Here’s what I got for my fictional cupcake channel:
+
+![YouTube Name Generator](https://images.wondershare.com/filmora/article-images/namegenerator-biz-example.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+So, on one hand - that’s hilarious and I’m considering legally changing my name. On the other hand, all of the results look exactly like this (which means they’re all a bit too long). It shows you a longer list if you scroll down:
+
+![YouTube Name Generator](https://images.wondershare.com/filmora/article-images/namegenerator-biz-example-generated.jpg)
+
+You can pick your favorite names and it’ll list them out so you can easily copy them into a word document. That’ll be useful if you’re collecting options from several sites.
+
+#### 3\. [Username Generator](http://namegenerators.org/username-generator/)
+
+**Key points:**
+
+ **\-**  Can generate a huge number of names at once
+
+ **\-**  You only input one word
+
+For this name generator, you type in one important word and choose how many results you want to see. You can see up to 300 at once.
+
+![Username Generator](https://images.wondershare.com/filmora/article-images/youtube-username-generator.jpg)
+
+The generator will take your keyword and add endings (and occasional beginnings) to it. Some endings are words, and some are just suffixes. Here’s what I got:
+
+![Username Generator Sample](https://images.wondershare.com/filmora/article-images/youtube-username-generator-generated.jpg)
+
+## Part 2: How to Come Up With a Good YouTube Name – 3 Easy Steps
+
+The name of your YouTube channel needs to accomplish two things:
+
+1. Tell viewers what your channel is about
+2. Stick in viewer’s heads by being catchy and unique
+
+Here’s how you can brainstorm the perfect name for your channel!
+
+#### **Step 1: Gather up relevant words**
+
+Open up a journal (or a word document) and start writing down words that relate to you and your channel.
+
+You may want to make one list of ‘you’ words (personality traits, nicknames, titles, etc.) and another of words related to your channel’s category (i.e. gaming, makeup, or baking).
+
+#### **Step 2: Combinations**
+
+Start combining your ‘you’ words with your category words to see what sounds good. You may want to use one of the name generators above (anchor) for this part.
+
+Try to keep your name fairly short (3 words or less) so it’s easier for people to remember. Don’t include numbers if you can avoid it.
+
+#### **Step 3: Say it out loud**
+
+Once you have a shortlist of potential names, read them aloud to yourself to make sure they sound good. Ideally, you want to get that ‘oh, that has a nice ring to it!’ feeling.
+
+## Part 3: How to Change Your YouTube Name
+
+In the early days of YouTube, you couldn’t change your name, but now you can!
+
+1. Click on your account icon in the top right corner of YouTube and choose settings.
+2. Click **Edit on Google**.
+3. Update your name and click **OK**.
+
+## Part 4: Requesting a Custom URL for YouTube
+
+Here are several [types of YouTube channel URL](https://tools.techidaily.com/wondershare/filmora/download/), wouldn’t it be nice if, instead of a string of numbers and letters, your channel URL included your name? YouTube can do that for you!
+
+You need…
+
+1. 100 Subscribers
+2. to have been on YouTube for 30 days
+3. use a photo as your channel icon/profile picture
+4. have uploaded channel art
+
+Here’s how to get your custom URL:
+
+1. Click on your icon in the top right corner of YouTube and choose **Advanced** under **Settings**  / the gear icon.
+2. If you meet the qualifications above, you’ll see   **‘You’re eligible for a custom URL’**  under **Channel Settings**.
+3. YouTube will show you the custom URL you’re approved for in the **Get a custom URL**  box. You can’t change what’s there, but you can add to the end of it.
+4. Click **Change URL**  after reading the terms of use.
+
+You can delete your custom URL and claim a new one, but doing this might be confusing for your followers.
+
+If you already have a YouTube channel name – are you happy with it? How did you choose it?
+
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -942,5 +903,21 @@ Follow @Liza Brown
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-efficient-passport-photography-our-top-10-low-cost-digital-options/"><u>[New] 2024 Approved Efficient Passport Photography Our Top 10 Low-Cost Digital Options</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-individual-songs-to-a-cohesive-collection-building-your-youtube-playlist/"><u>[New] From Individual Songs to a Cohesive Collection Building Your YouTube Playlist</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-skyline-growth-youtubes-top-tactics-with-video-outros/"><u>[New] Skyline Growth YouTube's Top Tactics with Video Outros</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-social-media-strategies-for-showcasing-your-video-content/"><u>[Updated] Social Media Strategies for Showcasing Your Video Content</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-a-step-by-step-to-adding-music-to-vimeo-videos/"><u>2024 Approved A Step-by-Step to Adding Music to Vimeo Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-giggles-galore-crafting-memes-in-adobe/"><u>2024 Approved Giggles Galore Crafting Memes in Adobe</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-overcome-no-image-problem-in-youtube-shorts/"><u>2024 Approved How To Overcome No Image Problem in YouTube Shorts</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/cutting-edge-anime-ideas-dominating-social-media-screens/"><u>Cutting-Edge Anime Ideas Dominating Social Media Screens</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-samsung-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Samsung Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-script-to-screen-building-a-youtube-trailer-in-filmora/"><u>In 2024, From Script to Screen Building a YouTube Trailer in Filmora</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-innovative-zooming-techniques-for-stunning-snaps/"><u>In 2024, Innovative Zooming Techniques for Stunning Snaps</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-thriving-on-youtube-the-guide-to-affiliates/"><u>In 2024, Thriving on YouTube The Guide to Affiliates</u></a></li>
+<li><a href="https://driver-download.techidaily.com/mastering-scanner-drivers-update-your-scansnap-s1300i-in-a-few-minutes/"><u>Mastering Scanner Drivers: Update Your ScanSnap S1300i in a Few Minutes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigate-with-ease-5-top-rated-gps-apps-for-your-iphone/"><u>Navigate with Ease: 5 Top-Rated GPS Apps for Your iPhone</u></a></li>
+</ul></div>
 

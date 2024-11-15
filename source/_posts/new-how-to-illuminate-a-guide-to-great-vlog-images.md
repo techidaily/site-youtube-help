@@ -1,7 +1,7 @@
 ---
 title: "\"[New] How to Illuminate  A Guide to Great Vlog Images\""
-date: 2024-10-29T00:48:07.434Z
-updated: 2024-11-04T17:49:02.951Z
+date: 2024-11-11T22:28:06.057Z
+updated: 2024-11-15T00:30:14.688Z
 tags:
   - ai video
   - ai youtube
@@ -45,19 +45,19 @@ The **fill light** is less bright than the primary source of light and it is pla
 The final step to creating three point lighting is to set up another light behind you. This is your 'Backlight', and it will help you stand out from your background. **Backlight or Hair light** is always placed behind and above the subject to create separation between the subject in the shot and the background. This basic lighting technique can be applied in almost every scene you shoot, which is why it is important to keep an open mind and to continue experimenting with possible light setups.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Watch Video! Top Lighting Tips for Vlogging
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Lightning Tips for Aspiring YouTube Videographers
@@ -93,10 +93,10 @@ If you are hosting a **beauty vlog** then you might consider a slightly differen
 ![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips02.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If you are using all of the lighting options available to you and your video still looks too dark then you can try brightening it by **opening up the aperture of your camera** lens/setting a lower f-stop. Letting more light into your camera can help your footage look brighter, although you also run the risk of making things look overexposed/ washed out if you are not careful.
@@ -106,10 +106,10 @@ If you are stuck shooting in **low light conditions** it is best to use a lens w
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -127,18 +127,14 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-adding-tunes-to-your-ios-clips-three-no-cost-ways-explored/"><u>[New] Adding Tunes to Your iOS Clips – Three No-Cost Ways Explored</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-navigating-the-world-of-youtube-keywords/"><u>[New] Navigating the World of YouTube Keywords</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-smooth-streaming-starts-with-these-cutting-edge-41-apps-for-android-devices/"><u>[New] Smooth Streaming Starts with These Cutting Edge 41 Apps for Android Devices</u></a></li>
-<li><a href="https://discover-community.techidaily.com/convertissez-facilement-un-fichier-qt-en-gif-avec-movavi-gratuit-en-ligne/"><u>Convertissez Facilement Un Fichier .QT en GIF Avec Movavi Gratuit en Ligne</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/easy-steps-to-audit-your-favorite-tiktok-sessions-for-2024/"><u>Easy Steps to Audit Your Favorite TikTok Sessions for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/enhance-your-aerial-imagery-dji-drones-get-20-free-luts/"><u>Enhance Your Aerial Imagery DJI Drones Get 20 FREE LUTS</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/flv-video-unification-techniques-for-2024/"><u>FLV Video Unification Techniques for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/immediate-mastery-skilled-thumbnails-for-valorants-highlights-for-2024/"><u>Immediate Mastery - Skilled Thumbnails for Valorant's Highlights for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-propel-content-to-prominence-leverage-tubebuddys-power/"><u>In 2024, Propel Content to Prominence Leverage TubeBuddy's Power</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-frequency-of-monetization-on-youtube/"><u>In 2024, The Frequency of Monetization on YouTube</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-get-creative-top-video-dubbing-tools-for-funny-videos-for-2024/"><u>New Get Creative Top Video Dubbing Tools for Funny Videos for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/secret-screensnappers-guide-discreet-techniques-for-photo-taking-for-2024/"><u>Secret ScreenSnapper's Guide Discreet Techniques for Photo-Taking for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-the-troubled-waters-of-outlooks-winerror-x/"><u>Tackling the Troubled Waters of Outlook's WinError X</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-mastering-the-art-of-voice-modification-the-ultimate-guide-to-morphvox/"><u>[Updated] In 2024, Mastering the Art of Voice Modification The Ultimate Guide to MorphVOX</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-stream-wars-unveiled-which-wins-obs-or-twitch/"><u>[Updated] Stream Wars Unveiled Which Wins, OBS or Twitch?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-essential-tips-for-a-novice-using-facebook-analytics/"><u>2024 Approved Essential Tips for a Novice Using Facebook Analytics</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-high-definition-ready-enabling-av1-on-youtube/"><u>2024 Approved High Definition Ready Enabling AV1 on YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-revolutionize-viewing-with-these-6-ultimate-youtube-shorts-downloader-apps/"><u>2024 Approved Revolutionize Viewing with These 6 Ultimate YouTube Shorts Downloader Apps</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/binge-your-way-into-animated-gifs-turning-youtube-content-without-downloads-for-2024/"><u>Binge Your Way Into Animated Gifs Turning YouTube Content Without Downloads for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/ideal-winter-settings-for-warmer-yt-videos-for-2024/"><u>Ideal Winter Settings for Warmer YT Videos for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-list-of-5-youtube-competitor-editors/"><u>In 2024, The Ultimate List of 5 YouTube Competitor Editors</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/sonic-storytelling-how-to-enhance-ig-stories-with-melodies-for-2024/"><u>Sonic Storytelling How to Enhance IG Stories with Melodies for 2024</u></a></li>
 </ul></div>
 
