@@ -1,7 +1,7 @@
 ---
 title: "[New] Personalize Your Youtube Watch Experience with Alerts & Notes"
-date: 2024-11-10T17:49:39.403Z
-updated: 2024-11-15T07:46:15.372Z
+date: 2024-11-18T18:59:21.832Z
+updated: 2024-11-24T19:40:00.003Z
 tags:
   - ai video
   - ai youtube
@@ -45,6 +45,10 @@ The main difference between annotation and cards is their outlook. Cards are mor
 * [Part 1: How to Add YouTube Cards](#part1)
 * [Part 2: How to Add YouTube Annotations](#part2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to add YouTube Cards
 
 YouTube **Cards** are similar to annotations but more interactive. They allow the owner of the video to add images and other links. A small box appears, clicking on which will activate the cards.
@@ -65,14 +69,11 @@ YouTube **Cards** are similar to annotations but more interactive. They allow th
 
 ![](https://images.wondershare.com/filmora/article-images/add-cards-to-youtube-video.jpg)
 
-* Apply changes and exit
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+* Apply changes and exit
 
 ## How to add YouTube annotations
 
@@ -85,10 +86,7 @@ YouTube Annotation is addition of a text layer, link or hotspots over your video
 ![](https://images.wondershare.com/filmora/article-images/add-annotations-to-youtube-video.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * On the right panel click on "+ Add Element" and select the kind of annotation you want to add
@@ -97,10 +95,7 @@ YouTube Annotation is addition of a text layer, link or hotspots over your video
 ![](https://images.wondershare.com/filmora/article-images/add-annotation-to-youtube-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Apply changes
@@ -142,10 +137,7 @@ No matter what kind of annotations you are using, you should never use more than
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -163,19 +155,21 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-golden-text-in-3d-selecting-quality-online-sites/"><u>[New] Golden Text in 3D Selecting Quality Online Sites</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-strategies-for-overcoming-black-screen-errors-during-youtube-viewing/"><u>[New] Strategies for Overcoming Black Screen Errors During YouTube Viewing</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-embrace-innovation-the-art-of-photo-video-making-with-pixiz-for-2024/"><u>[Updated] Embrace Innovation The Art of Photo-Video Making with Pixiz for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-celebratory-moments-captured-a-list-of-the-most-beautiful-wedding-videos-8/"><u>[Updated] In 2024, Celebratory Moments Captured A List of the Most Beautiful Wedding Videos (8)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-step-by-step-guide-to-brightening-gopro-footage-for-2024/"><u>[Updated] Step-by-Step Guide to Brightening GoPro Footage for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/fullscape-synergy-the-smart-mcn-picking-game-for-2024/"><u>FullScape Synergy The Smart MCN Picking Game for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-motorola-moto-g-stylus-2023-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Motorola Moto G Stylus (2023) Phone Forgot Password</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-exclusive-leaderboard-luminary-youtube-videographers-guide/"><u>In 2024, Exclusive Leaderboard Luminary YouTube Videographer's Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/maximize-engagement-mastering-sound-editing-for-youtube-for-2024/"><u>Maximize Engagement Mastering Sound Editing for YouTube for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/mr-beasts-wealth-estimated-net-worth-for-2024/"><u>Mr. Beast's Wealth Estimated Net Worth for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/new-nvidia-audio-drivers-in-windows-7-release/"><u>New NVIDIA Audio Drivers in Windows 7 Release</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211141899-9798888500477-raise-your-frequency-transform-your-life/"><u>Raise Your Frequency, Transform Your Life | Free Book</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-17-exceptional-tools-for-graphic-design-professionals/"><u>Unveiling 17 Exceptional Tools for Graphic Design Professionals</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-video-podcasts-everything-you-need-to-know-for-2024/"><u>Updated Video Podcasts Everything You Need to Know for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-profitability-playbook-the-ultimate-duo-of-dm-and-yo/"><u>[New] Profitability Playbook The Ultimate Duo of Dm & Yo</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-rapid-relay-youtube-playlists-to-the-public/"><u>2024 Approved Rapid Relay Youtube Playlists to the Public</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-stand-out-with-a-signature-style-a-guide-to-youtube-branding-mastery/"><u>2024 Approved Stand Out with a Signature Style A Guide to YouTube Branding Mastery</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-traditionalists-dream-unpacking-the-features-of-nzxt-h7-flow/"><u>A Traditionalist's Dream: Unpacking the Features of NZXT H7 Flow</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/crafting-compelling-narratives-in-tiktok-the-top-5-caption-techniques-to-try/"><u>Crafting Compelling Narratives in TikTok The Top 5 Caption Techniques to Try</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-oneplus-9-pro-a-fusion-of-sleek-aesthetics-swift-functionality-and-advanced-photography/"><u>Evaluating the OnePlus 9 Pro: A Fusion of Sleek Aesthetics, Swift Functionality, and Advanced Photography</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-vivo-s17-pro-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Vivo S17 Pro</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-fb-share-strategies-for-your-youtube-content/"><u>In 2024, FB Share Strategies for Your YouTube Content</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-benefits-of-tubebuddy-manage-your-youtube-channel/"><u>In 2024, The Benefits of TubeBuddy | Manage Your YouTube Channel</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/innovation-in-motion-youtube-angle-changes-for-2024/"><u>Innovation in Motion Youtube Angle Changes for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-gt-3-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme GT 3 Phone FRP Lock</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/live-streaming-made-simple-google-meet-to-youtube-guide-for-2024/"><u>Live Streaming Made Simple Google Meet to YouTube Guide for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-best-of-both-worlds-assessing-the-cost-effective-prowess-of-the-logitech-c615-camera/"><u>The Best of Both Worlds? Assessing the Cost-Effective Prowess of the Logitech C615 Camera</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/unleashing-creativity-how-to-master-io-screen-capture-for-2024/"><u>Unleashing Creativity How to Master IO Screen Capture for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-listen-up-write-it-down-comprehensive-guide-to-free-audio-to-text-apps-for-android-and-ios/"><u>Updated In 2024, Listen Up, Write It Down Comprehensive Guide to Free Audio-to-Text Apps for Android and iOS</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-vivo-y27s-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Vivo Y27s Phone Network-Ready</u></a></li>
 </ul></div>
 

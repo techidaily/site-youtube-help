@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Perfect Size  Crafting Engaging Thumbnails\""
-date: 2024-11-11T02:09:47.236Z
-updated: 2024-11-14T21:06:08.104Z
+date: 2024-11-22T17:09:45.705Z
+updated: 2024-11-24T16:12:11.756Z
 tags:
   - ai video
   - ai youtube
@@ -32,6 +32,10 @@ Making better YouTube thumbnails will help you get more views, and knowing the b
 2. [**Tips for Perfect Thumbnails**](#perfect)
 3. [**Making Better Thumbnails for YouTube**](#better)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **1\. What's the ideal YouTube thumbnail Size and Dimension?**
 
 An essential thing that every YouTube video developer needs to know is about the selection of the right side of the thumbnail for any video. As per the guidelines circulated by Google itself, the most appropriate size for the thumbnail image is 1280x720 pixels, where the recommended minimal pixel width is 640 pixels. Generally, the 16:9 ratio is considered as an ideal choice for Most of YouTube previews and players.
@@ -43,10 +47,7 @@ Here is one interesting thing that you need to know; the thumbnail of videos app
 [How to Download YouTube Thumbnail in 3 Ways \[Online/Win/Mac\] >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **2\. Tips for Perfect Thumbnails**
@@ -72,10 +73,7 @@ Window users are advised to access Windows Key with Print Screen option to get t
 Once you are ready with your video specific still image, then simply get it uploaded on YouTube using the edit video page.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Making Better Thumbnails for YouTube
@@ -109,19 +107,13 @@ If you want to find a video editing solution that empowers your imagination and 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://download.wondershare.com/filmora9-mac%5Ffull718.zip)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -139,21 +131,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-rhythms-ally-finding-best-dj-content-online/"><u>[New] Rhythm's Ally Finding Best DJ Content Online</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-obs-utilization-comprehensive-gameplay-recording/"><u>[Updated] In 2024, OBS Utilization Comprehensive Gameplay Recording</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-harness-the-power-of-youtubes-movie-maker-for-professionals/"><u>2024 Approved Harness the Power of YouTube's Movie Maker for Professionals</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-bypass-a-youtube-strike-and-keep-creating-videos/"><u>2024 Approved How to Bypass a YouTube Strike and Keep Creating Videos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-the-art-of-embedding-yt-videos-on-your-website/"><u>2024 Approved Mastering the Art of Embedding YT Videos on Your Website</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/crafting-connectivity-with-metaverse-strategies-for-2024/"><u>Crafting Connectivity with Metaverse Strategies for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/eight-essential-solutions-and-tricks-for-resolving-iphone-photo-library-hiccups/"><u>Eight Essential Solutions & Tricks for Resolving iPhone Photo Library Hiccups</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/elevate-your-email-campaigns-learn-advanced-html-techniques-for-engaging-newsletters-using-massmail-tools/"><u>Elevate Your Email Campaigns: Learn Advanced HTML Techniques for Engaging Newsletters Using Massmail Tools</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/global-youtube-rich-list-pinnacle-for-2024/"><u>Global YouTube Rich List Pinnacle for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-asus-rog-phone-8-phone-by-drfone-android/"><u>How to Reset a Locked Asus ROG Phone 8 Phone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oppo-a56s-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Oppo A56s 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-from-streaming-video-how-to-get-youtube-thumbnail-files-onlineos-wise/"><u>In 2024, From Streaming Video How to Get YouTube Thumbnail Files Online/OS-Wise</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-perfecting-your-channels-visual-impact-a-comprehensive-yt-banner-and-art-guide/"><u>In 2024, Perfecting Your Channel's Visual Impact A Comprehensive YT Banner & Art Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-ultimate-movie-watchlists-for-efficient-screen-time/"><u>In 2024, Ultimate Movie Watchlists for Efficient Screen Time</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/smartphone-image-editing-the-best-free-layers-and-tools-guide-top-10-for-2024/"><u>Smartphone Image Editing - The Best Free Layers & Tools Guide (Top 10) for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-budget-friendly-gopro-adds-for-2024/"><u>Ultimate Budget-Friendly GoPro Adds for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-audience-connection-implementing-a-triplet-of-copywriting-tactics-in-fb-ads/"><u>[New] Audience Connection Implementing a Triplet of Copywriting Tactics in FB Ads</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-entrepreneurs-blueprint-for-profiting-from-video-content/"><u>[Updated] 2024 Approved The Entrepreneur's Blueprint for Profiting From Video Content</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tweeting-with-videos-a-quick-tutorial/"><u>[Updated] 2024 Approved Tweeting with Videos A Quick Tutorial</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-keep-watching-youtube-on-the-go-with-iphoneandroid/"><u>2024 Approved Keep Watching YouTube On-the-Go with iPhone/Android</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/eradicating-jittery-video-performance-expert-tips/"><u>Eradicating Jittery Video Performance - Expert Tips</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-youtube-to-high-definition-prime-downloader-choices/"><u>From YouTube to High Definition Prime Downloader Choices</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Realme GT 3? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-cross-platform-content-sync-android-to-iphone/"><u>In 2024, Cross-Platform Content Sync Android to iPhone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-making-money-in-the-20-second-space-the-youtube-shorts-playbook/"><u>In 2024, Making Money in the 20-Second Space The YouTube Shorts Playbook</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-monetize-youtube-video-the-ultimate-guide-to-ad-revenue/"><u>In 2024, Monetize YouTube Video | The Ultimate Guide to Ad Revenue</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-optimizing-youtube-thumbnails-for-better-clickthrough-rates/"><u>In 2024, Optimizing YouTube Thumbnails for Better Clickthrough Rates</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-pioneering-brands-spotlight-on-top-9-free-youtube-logos-craftors/"><u>In 2024, Pioneering Brands Spotlight on Top 9 Free YouTube Logos Craftors</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-ultimate-guide-to-free-and-premium-short-video-clips/"><u>In 2024, Ultimate Guide to Free & Premium Short Video Clips</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigate-with-ease-best-7-android-browsers-without-pop-ups-for-2024/"><u>Navigate With Ease Best 7 Android Browsers Without Pop-Ups for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-futuristic-ai-enhanced-crime-solving-adventures-interactive-online-mysteries-and-brain-teasers/"><u>Top 4 Futuristic AI-Enhanced Crime Solving Adventures: Interactive Online Mysteries & Brain Teasers</u></a></li>
 </ul></div>
 

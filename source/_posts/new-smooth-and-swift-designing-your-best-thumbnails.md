@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Smooth & Swift  Designing Your Best Thumbnails\""
-date: 2024-11-07T22:21:44.701Z
-updated: 2024-11-15T07:52:25.591Z
+date: 2024-11-19T18:45:56.189Z
+updated: 2024-11-24T18:47:35.193Z
 tags:
   - ai video
   - ai youtube
@@ -43,6 +43,10 @@ With time, Filmora brings new and advanced features for its users to equip them 
 
 ![ai-portrait-thumbnail-step1](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 02:** Make sure that the aspect ratio of your project is 16:9\. To do that, click on a screen-shaped icon below the preview screen and select "Change Project Aspect Ratio."
 
 ![ai-portrait-thumbnail-step2](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step2.png)
@@ -55,6 +59,10 @@ With time, Filmora brings new and advanced features for its users to equip them 
 
 ![ai-portrait-thumbnail-step4](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 05:** If you want to use your custom background, you can import it into the Filmora by clicking import or dragging and dropping it in the media section.
 
 ![ai-portrait-thumbnail-step5](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step5.png)
@@ -66,6 +74,10 @@ With time, Filmora brings new and advanced features for its users to equip them 
 **Step 07:** Select your footage, go to the Effects tab and click on AI Portraits. It will open up all the effects related to AI Portraits. These AI Portrait features help you separate the human from a background without using a green screen or anything else.
 
 ![ai-portrait-thumbnail-step7](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 08:** Double click on any of these effects to see how they will look like on your footage.
 
@@ -83,6 +95,10 @@ With time, Filmora brings new and advanced features for its users to equip them 
 
 ![ai-portrait-thumbnail-step11](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step11.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 12:** Once you are satisfied with the final results, click on the Camera icon below the preview screen or press "Ctrl+Alt+S" to take the screenshot.
 
 ![ai-portrait-thumbnail-step12](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step12.png)
@@ -96,6 +112,10 @@ This article on making a thumbnail for your Youtube is just an idea for you, and
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -112,28 +132,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-optimal-mobile-photography-and-videography-on-ios-and-android/"><u>[New] Optimal Mobile Photography and Videography on iOS & Android</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-skyrocketing-your-youtube-business-the-famebit-approach-to-sponsorships/"><u>[New] Skyrocketing Your YouTube Business The FameBit Approach to Sponsorships</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-ultimate-stream-showcase-must-have-tech-for-successful-youtubers/"><u>2024 Approved Ultimate Stream Showcase Must-Have Tech for Successful Youtubers</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/come-eclissare-il-tuo-hard-disk-con-partizioni-gpt-su-ssd-utilizzando-windows-passi-semplificati-per-windows-111087/"><u>Come Eclissare Il Tuo Hard Disk Con Partizioni GPT Su SSD Utilizzando Windows: Passi Semplificati per Windows 11/10/8/7</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/converta-seus-videos-avi-com-excelencia-em-um-clique-solucoes-facilmente-navegaveis-pela-web-do-movavi/"><u>Converta Seus Vídeos AVI Com Excelência Em Um Clique – Soluções Facilmente Navegáveis Pela Web Do Movavi</u></a></li>
-<li><a href="https://extra-information.techidaily.com/delving-into-premium-free-lut-world-a-meticulous-rundown/"><u>Delving Into Premium-Free LUT World A Meticulous Rundown</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/from-script-to-screen-building-a-youtube-trailer-in-filmora-for-2024/"><u>From Script to Screen Building a YouTube Trailer in Filmora for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-poco-x6-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco X6 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-xr-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone XR Blacklist Removal Tips and Tools</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-atandt-iphone-7-plus-with-3-methods-by-drfone-ios/"><u>In 2024, How to Unlock AT&T iPhone 7 Plus with 3 Methods</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-key-takeaways-on-youtube-tv-an-overview-of-its-advantages/"><u>In 2024, Key Takeaways on YouTube TV An Overview of Its Advantages</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-streamline-your-youtube-presentations-with-captions/"><u>In 2024, Streamline Your YouTube Presentations with Captions</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-creativity-in-youtube-video-splitting/"><u>In 2024, Unlocking Creativity in YouTube Video Splitting</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-13-complimentary-pdf-editor-picks-july-2024-update/"><u>Top 13 Complimentary PDF Editor Picks - July 2024 Update</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-vivo-v30-pro-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo V30 Pro Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-this-article-introduces-how-sheila-become-a-youtuber-and-how-she-started-video-editing/"><u>Updated In 2024, This Article Introduces How Sheila Become a Youtuber and How She Started Video Editing</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-speedy-methods-for-shuffling-youtube-lists-on-devices/"><u>[New] Speedy Methods for Shuffling YouTube Lists on Devices</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-streamlining-your-storytelling-adding-captions-on-instagram/"><u>[New] Streamlining Your Storytelling Adding Captions on Instagram</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-retention-mastery-on-youtube-top-6-methods-for-engaged-audience-growth/"><u>[Updated] In 2024, Retention Mastery on YouTube Top 6 Methods for Engaged Audience Growth</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-psvrs-upcoming-must-try-titles-the-ultimate-5-list/"><u>[Updated] PSVR's Upcoming Must-Try Titles The Ultimate 5 List</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-uncover-recent-instagram-unfollow-patterns-for-2024/"><u>[Updated] Uncover Recent Instagram Unfollow Patterns for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-exploring-how-youtube-picks-most-engaging-comments/"><u>2024 Approved Exploring How YouTube Picks Most Engaging Comments</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mac-screen-alignment-rapid-video-format-changes/"><u>2024 Approved Mac Screen Alignment Rapid Video Format Changes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-secure-your-free-green-screen-assets-with-these-top-8-sites/"><u>2024 Approved Secure Your FREE Green Screen Assets with These Top 8 Sites</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-motorola-edge-2023-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Motorola Edge 2023 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conquer-the-dark-screen-dilemma-ultimate-guide-to-overcoming-nba-2k21-hangs/"><u>Conquer the Dark Screen Dilemma: Ultimate Guide to Overcoming NBA 2K21 Hangs</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-desktopmobile-adjust-youtube-video-pace/"><u>In 2024, Mastering Desktop/Mobile Adjust YouTube Video Pace</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unleashing-creativity-in-youtube-banner-and-thumbnail-design/"><u>In 2024, Unleashing Creativity in YouTube Banner & Thumbnail Design</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

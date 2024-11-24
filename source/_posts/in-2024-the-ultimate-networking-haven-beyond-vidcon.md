@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Ultimate Networking Haven  Beyond VidCon\""
-date: 2024-11-10T09:39:23.546Z
-updated: 2024-11-15T10:41:11.984Z
+date: 2024-11-22T16:52:17.297Z
+updated: 2024-11-24T18:03:33.536Z
 tags:
   - ai video
   - ai youtube
@@ -36,6 +36,10 @@ Want to meet your favorite creators? Or, do you want to become a better creator 
 6. [Amplify Live (Australia)](#amplify)
 7. [Summer in the City (UK)](#sitc)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **The Most Important YouTube Events**
 
 Want to be a youtube creator too? Go and get **Wondershare Filmora**, the video editing software for all creators.
@@ -51,6 +55,10 @@ Want to be a youtube creator too? Go and get **Wondershare Filmora**, the video 
 **VidCon Australia:** August/September
 
 ![VidCon-On-Spot](https://images.wondershare.com/filmora/VidCon-On-Spot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In 2017 over 30,000 YouTube enthusiasts – from fans to A-list creators – attended VidCon US, and that was thousands of more people than attended in 2016\. It’s hard to imagine that this event – the biggest convention for YouTube and online video – will do anything but grow over the next few years.
 
@@ -150,6 +158,10 @@ Sydney, Australia: February
 
 ![rtx](https://images.wondershare.com/filmora/rtx.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Brought to you by the creators behind Rooster Teeth, RTX is a celebration of internet culture and gaming. It includes exhibitors, live events, panels, and activities targeting gamers. Partners include Twitch and multiple gaming companies.
 
 **Passes:**
@@ -188,6 +200,10 @@ For VIP access, you can buy a **Deluxe** pass for $125-$150 AUD.
 
 ![summer-in-the-city](https://images.wondershare.com/filmora/summer-in-the-city.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This is the largest online video festival in the UK. It features discussion panels, workshops, and live performances targeted at creators, fans of online video, and industry professionals. YouTubers might hang out on the show floor meeting fans, and there are also Meet and Greet sessions for top creators. All ticket holders can submit online ballots for a chance at Meet and Greet access.
 
 Summer in the City even has its own awards show, SitC, to honor the best in online content. Previous winners include Dodie, Tomska, Jack & Dean, and Nathan Zed.
@@ -212,6 +228,10 @@ Have you ever attended an offline YouTube event? Which one, and how did you like
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -227,29 +247,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-navigating-the-pitfalls-of-youtube-monetization-mistakes/"><u>[New] Navigating the Pitfalls of YouTube Monetization Mistakes</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-react-and-relate-harness-the-power-of-alternate-perspectives-for-compelling-youtube-vids-2-pov-method/"><u>[New] React and Relate - Harness the Power of Alternate Perspectives for Compelling YouTube Vids (2 POV Method)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-join-the-journey-to-a-calmer-mind-games/"><u>[Updated] Join the Journey to a Calmer Mind (Games)</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-the-insiders-look-at-securing-fb-status-videos-for-2024/"><u>[Updated] The Insider’s Look at Securing FB Status Videos for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-investing-wisely-in-subscribers-get-more-for-less/"><u>2024 Approved Investing Wisely in Subscribers Get More for Less</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-premier-5-digital-camera-background-swap-tools-iphone-photos/"><u>2024 Approved Premier 5 Digital Camera Background Swap Tools IPhone Photos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-streamline-your-online-experience-blocking-youtube-channels-effectively/"><u>2024 Approved Streamline Your Online Experience Blocking Youtube Channels Effectively</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-oneplus-nord-n30-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/conquer-kinemaster-efficient-use-plus-top-online-gaming-platforms-reviewed-for-2024/"><u>Conquer KineMaster Efficient Use + Top Online Gaming Platforms Reviewed for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/diving-into-the-world-of-instagrams-reels-and-stories/"><u>Diving Into the World of Instagram's Reels & Stories</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/game-up-your-content-with-these-effective-freefire-video-hashtags-for-2024/"><u>Game Up Your Content with These Effective FreeFire Video Hashtags for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-exclusive-deals-and-previews-from-creators/"><u>In 2024, Exclusive Deals & Previews From Creators</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-facebooks-2023-video-strategy-emphasizing-conciseness-and-engagement/"><u>In 2024, Facebook's 2023 Video Strategy Emphasizing Conciseness and Engagement</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-gain-profit-power-the-secret-of-successful-youtube-marketing-and-500plus/"><u>In 2024, Gain Profit Power The Secret of Successful Youtube Marketing & 500+</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-news-endings-as-a-narrative-tool/"><u>In 2024, News Endings as a Narrative Tool</u></a></li>
-<li><a href="https://games-able.techidaily.com/unboxing-excellence-10-reasons-for-pc-over-console/"><u>Unboxing Excellence: 10 Reasons for PC over Console</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/66084848-what-is-filmora-certified-creative-program-and-how-to-become-an-fcc/"><u>What Is Filmora Certified Creative Program and How to Become an FCC?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-framecraft-videocutter/"><u>[New] FrameCraft VideoCutter</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-iconic-photographs-the-true-story/"><u>[New] Iconic Photographs The True Story</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-step-into-success-with-instant-youtube-thumbnail-skills/"><u>[New] Step Into Success with Instant YouTube Thumbnail Skills</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-shielding-your-media-what-does-unlisted-mean-in-youtube/"><u>2024 Approved Shielding Your Media What Does Unlisted Mean in YouTube?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-guide-to-no-cost-melodies-for-content-makers/"><u>2024 Approved The Ultimate Guide to No-Cost Melodies for Content Makers</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/abbyy-dominates-2022-spark-matrix-rankings-by-quadrant-knowledge-solutions-for-advanced-document-analysis/"><u>ABBYY Dominates 2022 SPARK Matrix Rankings by Quadrant Knowledge Solutions for Advanced Document Analysis</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-get-the-right-driver-pack-for-canon-all-in-one-printer-dr-c225-on-windows-10811/"><u>How to Get the Right Driver Pack for Canon All-in-One Printer DR-C225 on Windows 10/8/11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-comprehensive-guide-to-ice-cream-watching-tools/"><u>In 2024, Comprehensive Guide to Ice Cream Watching Tools</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-vivo-s18e-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Vivo S18e Phone? Unlock It Now</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-new-vloggers-guide-to-top-10-youtube-editing-techniques/"><u>In 2024, New Vloggers' Guide to Top 10 YouTube Editing Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/next-level-smart-features-how-apples-cutting-edge-artificial-intelligence-transforms-siri-and-app-usage/"><u>Next-Level Smart Features: How Apple's Cutting-Edge Artificial Intelligence Transforms Siri and App Usage</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/mline-content-advanced-youtube-video-editing-strategies/"><u>Streamline Content Advanced Youtube Video Editing Strategies</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

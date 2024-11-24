@@ -1,7 +1,7 @@
 ---
 title: "\"Master the Art of Budget-Friendly YouTubes Intros and Ends for 2024\""
-date: 2024-11-09T03:42:05.039Z
-updated: 2024-11-14T16:31:10.920Z
+date: 2024-11-22T16:27:58.116Z
+updated: 2024-11-24T20:23:06.406Z
 tags:
   - ai video
   - ai youtube
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 
 [How To Make an End Card](#how-to)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part1: Intros
 
 #### Elements of an Intro
@@ -68,6 +72,10 @@ You can create a simple intro card in **Filmora**.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Choose your background. You may want to use a short clip as your intro, or you may just want a colored background.
 2. Drag your clip or background into the video track of your timeline and trim it down to five seconds.
 3. If you have a logo, import it into Filmora and drag it into your picture-in-picture track.
@@ -78,10 +86,7 @@ You can create a simple intro card in **Filmora**.
 8. Export your video and save it for use in all of your other videos.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: End Cards
@@ -120,10 +125,7 @@ Some creators will leave their end cards at that and play music overtop, but it 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -141,24 +143,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-transcribe-speech-to-text-seamlessly-using-words-tools/"><u>[New] 2024 Approved Transcribe Speech to Text Seamlessly Using Word's Tools</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-the-art-of-speech-to-text-conversion-on-powerpoint-platform/"><u>[New] Mastering the Art of Speech-to-Text Conversion on PowerPoint Platform</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-perfect-size-crafting-engaging-thumbnails/"><u>[New] Perfect Size Crafting Engaging Thumbnails</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-quick-start-uploading-your-videos-to-instagram-via-pcmac/"><u>[Updated] In 2024, Quick Start Uploading Your Videos to Instagram via PC/Mac</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/2016-windows-server-cmd/"><u>2016年版 Windows Server起動準備手順 - CMD使い方詳解</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-youtube-notes-and-alerts-implementation/"><u>2024 Approved Mastering YouTube Notes & Alerts Implementation</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-path-to-youtube-riches-optimal-view-figures-for-monetization-success/"><u>2024 Approved Path to YouTube Riches Optimal View Figures for Monetization Success</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-guide-to-youtubes-best-music-responses/"><u>2024 Approved The Ultimate Guide to YouTube's Best Music Responses</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Samsung Galaxy A14 5G | Dr.fone</u></a></li>
-<li><a href="https://solve-help.techidaily.com/effizientes-cloning-von-windows-11-auf-eine-ssd-anleitung-und-tipps/"><u>Effizientes Cloning Von Windows 11 Auf Eine SSD - Anleitung Und Tipps</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/tless-entrepreneurship-top-10-easy-to-create-biz-channels-on-youtotube-for-2024/"><u>Effortless Entrepreneurship Top 10 Easy-to-Create Biz Channels on YouToTube for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-vanished-desktop-icons-in-windows-10-solved/"><u>How To Restore Vanished Desktop Icons In Windows 10 (Solved!)</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-harmonizing-youtube-content-with-audio-files/"><u>In 2024, Harmonizing YouTube Content with Audio Files</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-opening-doors-creating-an-account-on-youtube/"><u>In 2024, Opening Doors Creating an Account on YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-skyline-your-videos-reach-writing-captivating-youtube-descs-using-templates/"><u>In 2024, Skyline Your Video's Reach Writing Captivating Youtube Descs Using Templates</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-vlog-gear-list-17-edition/"><u>In 2024, The Ultimate Vlog Gear List (#17 Edition)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-top-10-best-gopro-cases-review/"><u>In 2024, Top 10 Best GoPro Cases Review</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-transforming-ones-and-twosies-into-avis-with-ease/"><u>In 2024, Transforming Ones and Twosies Into Avis with Ease</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-nubia-z50s-pro-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Nubia Z50S Pro? Here is How | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-finding-value-in-sport-photography-cameras-for-the-price-conscious/"><u>[New] 2024 Approved Finding Value in Sport Photography – Cameras for the Price-Conscious</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-breakdown-dji-inspire-2-analysis/"><u>[New] Full Breakdown DJI Inspire 2 Analysis</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-best-practices-leveraging-videos-to-boost-education/"><u>[Updated] In 2024, Best Practices Leveraging Videos to Boost Education</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-screencast-guide-to-flawless-presentations-and-demos/"><u>[Updated] The Screencast Guide to Flawless Presentations and Demos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-revenue-revolution-joining-elite-at-500-subs-level/"><u>2024 Approved Revenue Revolution Joining Elite at 500 Subs Level</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-skyrocket-to-success-mastering-seo-for-youtubers-and-beyond/"><u>2024 Approved Skyrocket to Success Mastering SEO for YouTubers and Beyond</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-social-media-showdown-comparing-igtv-and-youtubes-unique-aspects/"><u>2024 Approved Social Media Showdown Comparing IGTV and YouTube's Unique Aspects</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-youtube-masterpieces-with-powerful-hashtag-strategies-for-2024/"><u>Crafting YouTube Masterpieces with Powerful Hashtag Strategies for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/from-live-chat-to-large-screen-upload-twitch-streams-to-youtube-for-2024/"><u>From Live Chat to Large Screen Upload Twitch Streams to YouTube for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-t2-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo T2 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/jake-paul-unveiled-charting-the-path-of-youtube-stardom-for-2024/"><u>Jake Paul Unveiled Charting the Path of YouTube Stardom for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/keyboard-shortcuts-that-power-up-win11-for-2024/"><u>Keyboard Shortcuts That Power Up Win11 for 2024</u></a></li>
 </ul></div>
 

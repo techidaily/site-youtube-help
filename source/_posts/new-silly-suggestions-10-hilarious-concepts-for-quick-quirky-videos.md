@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Silly Suggestions  10 Hilarious Concepts for Quick, Quirky Videos\""
-date: 2024-11-11T08:59:22.211Z
-updated: 2024-11-14T16:50:21.288Z
+date: 2024-11-23T16:26:01.365Z
+updated: 2024-11-24T19:11:15.271Z
 tags:
   - ai video
   - ai youtube
@@ -29,6 +29,10 @@ YouTube is a well-known brand for videos globally. This time, it comes with its 
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-1.jpg)
 
 That sounds great, doesn’t it? Let’s move ahead to get a good grab over some funny, engaging, and eye-catching ideas to have YouTube Shorts videos here. No need for a lengthy tutorial to become the real YouTube Shorts champion with the following tips. Let’s roll on, guys!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Top 10 Funny YouTube Shorts Video Ideas
 
@@ -66,6 +70,10 @@ Life is indeed full of surprises, events, and glory. Then, why not tailor some o
 
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You need to keep your judging eyes open to catch all the moments, and you can also note it down to make a series so as not to miss any exciting experience.
 
 Living every moment creates a wonder. Let others also make a part of this journey and inspire them to build your YouTube shorts ideas.
@@ -84,6 +92,10 @@ Competition creates a zeal to lead, and if you add some flavor to it. Then, peop
 
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Funny competition can vary from a weird hairstyle, odd season festival celebration, or anything that you think of interesting, different, and eye-catching.
 
 #### Idea 7: Quirky Music
@@ -99,6 +111,10 @@ Just give it a try and dance with the music you create with all the worldwide li
 Kids love cartoons, but the hidden fact is that everyone enjoys watching cartoon or cartoon characters to a certain extent. Then why not try mimicking some cartoon characters. If you are a fun-loving person, and in your life, you mimic any person’s character, then try mimicking cartoon characters under YouTube Short Video ideas.
 
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Mixing some comedy flavor to life will add more fun and enjoyment to all those seeking funny moments to reflect their days. Come on; show up your humor with this unique style.
 
@@ -116,16 +132,13 @@ Everybody holds some unique talent. You just need to identify it. If you have so
 
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Here, you got to know about the top 10 funny ideas for YouTube Shorts videos. Choose the one that fits you and start creating YouTube Shorts Channel with these ideas.
 
 Wait, there is much more than these best YouTube Shorts ideas. Yes, you heard that right! The following paragraph will lead you to get some important tips, with the help of which you can raise YouTube Short Videos views. So, without waiting anymore, move on to the next paragraph to get a glimpse of it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: Tips to Get More Views for Your YouTube Shorts Videos
 
@@ -173,13 +186,6 @@ Thus, start utilizing these powerful ideas and tips and head towards your YouTub
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -195,24 +201,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-fast-lanes-for-jumbled-youtube-playlist-arrangement/"><u>[New] Fast Lanes for Jumbled YouTube Playlist Arrangement</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-how-to-illuminate-a-guide-to-great-vlog-images/"><u>[New] How to Illuminate A Guide to Great Vlog Images</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-maximizing-video-visibility-on-youtube-with-seo-insights/"><u>[New] Maximizing Video Visibility on YouTube with SEO Insights</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-personalize-your-screen-time-with-these-top-6-creator-identifying-questions/"><u>[New] Personalize Your Screen Time with These Top 6 Creator-Identifying Questions</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-rapid-growth-tactics-hit-and-maintain-a-stellar-10000-views-mark/"><u>[New] Rapid Growth Tactics Hit and Maintain a Stellar 10,000 Views Mark</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-arctic-acrobatics-2022s-olympians/"><u>[Updated] 2024 Approved Arctic Acrobatics 2022'S Olympians</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-navigating-the-start-of-a-zoom-call-android-edition/"><u>[Updated] 2024 Approved Navigating the Start of a Zoom Call Android Edition</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-pinnacle-of-recording-quality-9-mic-devices-rated-best/"><u>[Updated] Pinnacle of Recording Quality 9 Mic Devices Rated Best</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-unleash-your-dj-iq-with-free-luts-for-djis-minis-and-air-series/"><u>[Updated] Unleash Your DJ IQ with FREE LUTs for DJI's Minis & Air Series</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-screen-pleasures-for-all-top-10-free-movies-available-on-youtube/"><u>2024 Approved Screen Pleasures for All – Top 10 Free Movies Available on YouTube</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bootloader-interrupt-process-improved/"><u>Bootloader Interrupt Process Improved</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/essential-tips-for-recording-ps4-games-with-obs-for-2024/"><u>Essential Tips for Recording PS4 Games with OBS for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/high-performing-screenshot-software-post-windows-snipping-tool/"><u>High-Performing Screenshot Software, Post Windows Snipping Tool</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-monetization-face-off-analyzing-dailymovement-and-youtube-profits/"><u>In 2024, Monetization Face-Off Analyzing DailyMovement and Youtube Profits</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-transforming-ideas-into-viral-video-hits-on-youtube/"><u>In 2024, Transforming Ideas Into Viral Video Hits on YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-youtube-potential-editing-after-the-upload-process/"><u>In 2024, Unlocking YouTube Potential Editing After the Upload Process</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unraveling-the-process-of-uploading-360-footage-to-youtube/"><u>In 2024, Unraveling the Process of Uploading 360° Footage to YouTube</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-cutting-edge-computer-gear-expert-reviews/"><u>Tom's Tech Hub: Cutting-Edge Computer Gear Expert Reviews</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-altering-screenshot-file-types-on-a-macintosh/"><u>[New] Altering Screenshot File Types on a Macintosh</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-expert-advice-on-lighting-your-youtube-content-perfectly/"><u>[New] Expert Advice on Lighting Your YouTube Content Perfectly</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-pivot-your-playlists-with-these-straightforward-tricks/"><u>[New] Pivot Your Playlists with These Straightforward Tricks</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-perfecting-your-presence-mastery-of-title-and-tag-use-on-youtube/"><u>2024 Approved Perfecting Your Presence Mastery of Title and Tag Use on YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-polarr-mastery-manual-transforming-digital-imagery-with-ease/"><u>2024 Approved Polarr Mastery Manual Transforming Digital Imagery with Ease</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-pro-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Pro without Losing Any Content? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-one-off-to-firm-follower-an-ethical-approach/"><u>In 2024, From One-Off to Firm Follower An Ethical Approach</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-harnessing-youtubes-true-potential-in-studio/"><u>In 2024, Harnessing YouTube's True Potential in Studio</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-redmi-note-12t-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Redmi Note 12T Pro to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-protecting-integrity-while-boosting-your-youtube-followers-count/"><u>In 2024, Protecting Integrity While Boosting Your YouTube Followers Count</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-apple-iphone-12-mini-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Tracking Apps to Track Apple iPhone 12 mini without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210780138-9781633413122-magical-tarot/"><u>Magical Tarot | Free Book</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-oneplus-nord-n30-5g-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from OnePlus Nord N30 5G</u></a></li>
 </ul></div>
 

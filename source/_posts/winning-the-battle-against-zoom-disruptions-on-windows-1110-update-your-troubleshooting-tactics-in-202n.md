@@ -1,7 +1,7 @@
 ---
 title: Winning the Battle Against Zoom Disruptions on Windows 11/10 – Update Your Troubleshooting Tactics in 202N
-date: 2024-11-12T09:08:29.613Z
-updated: 2024-11-15T00:50:23.030Z
+date: 2024-11-18T20:39:21.007Z
+updated: 2024-11-24T16:44:55.229Z
 tags:
   - win11
   - win10
@@ -41,6 +41,10 @@ To clear Steam cache:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-2.png)
 3. Select**Web Browser** , then click**DELETE WEB BROWSER CACHE** and**DELETE ALL BROWSER COOKIES** respectively. Once finished, click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/1234.png)
 4. Exit Steam.
 
@@ -59,6 +63,10 @@ Here’s how to join or exit Steam Beta programs:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-2.png)
 3. Select**Account** , then in Beta participation section, click**Change…** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/change.png)
 4. In the window that pops up, choose an option that changes your participation state. Then, click**OK** .  
 
@@ -68,16 +76,7 @@ Here’s how to join or exit Steam Beta programs:
 6. Fire up Steam and see if your friends list is accessible. If yes, then congrats! If the error persists, please try**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your network adapter driver
@@ -93,13 +92,6 @@ Here’s how to join or exit Steam Beta programs:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-network-driver-2.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
@@ -107,10 +99,7 @@ Here’s how to join or exit Steam Beta programs:
 5. Sign into Steam to see if your friends list loads up properly. If yes, you’ve resolved the issue. If it’s no joy, please try**Fix 4** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Revert Steam to an older version
@@ -125,10 +114,7 @@ The steps are as below:
 3. Open Steam and see if you can have access to the friends list.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. If the problem still persist, then go back to your desktop and repeat step 1 to open the Properties window.
@@ -137,10 +123,7 @@ The steps are as below:
 6. Run Steam to check if the**Friends Network Unreachable** error has been fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Power cycle your modem & router
@@ -152,13 +135,6 @@ The steps are pretty easy:
 1. Unplug your modem (and your router, if it’s a separate device) from the power socket.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg) (a modem)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png) (a router)
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2. Wait **60 seconds**  for your modem (and your router) to cool off.
 
@@ -193,22 +169,19 @@ The steps are pretty easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-experience-voice-transformation-list-of-the-best-android-recording-change-apps/"><u>2024 Approved Experience Voice Transformation List of the Best Android Recording Change Apps</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-improve-engagement-with-skillful-use-of-jump-cuts/"><u>2024 Approved Improve Engagement with Skillful Use of Jump Cuts</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-youtube-link-building-a-strategic-guide/"><u>2024 Approved Mastering YouTube Link Building A Strategic Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-secure-footage-leading-stabilizers-on-youtube/"><u>2024 Approved Secure Footage Leading Stabilizers on YouTube</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comparing-iphone-video-converter-factory-vs-pro-version-key-features-and-benefits/"><u>Comparing iPhone Video Converter Factory Vs. Pro Version: Key Features & Benefits</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-listing-the-elite-selection-of-robot-mop-cleaners-for-202/"><u>Exclusive Listing: The Elite Selection of Robot Mop Cleaners for 202</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/flash-share-sharing-playlists-in-a-snap-for-2024/"><u>Flash-Share Sharing Playlists in a Snap for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/gamers-galaxy-100plus-spaces-of-play-for-2024/"><u>Gamer's Galaxy 100+ Spaces of Play for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/get-to-know-your-characters-on-windows-11/"><u>Get to Know Your Characters on Windows 11</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/how-to-optimize-your-channels-with-youtubes-featured-spotlight-for-2024/"><u>How to Optimize Your Channels with YouTube’s Featured Spotlight for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-realme-gt-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-14-pro-max-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone 14 Pro Max?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-poco-f5-pro-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Poco F5 Pro 5G FRP</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-gain-unlimited-stock-videos-through-essential-4-youtube-sources/"><u>In 2024, Gain Unlimited Stock Videos Through Essential 4 YouTube Sources</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-list-of-preferred-youtube-video-formats/"><u>In 2024, The Ultimate List of Preferred YouTube Video Formats</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-hardware-drivers-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated hardware drivers on Windows 11 & 10 & 7</u></a></li>
-<li><a href="https://win-lab.techidaily.com/yahoo-email-alert/"><u>Yahoo Email Alert: 即時回應你的電子郵件不再出現了！</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-comprehensive-tips-for-film-recording-on-multiple-platforms/"><u>[New] 2024 Approved Comprehensive Tips for Film Recording on Multiple Platforms</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-playbook-for-recording-live-gaming-events/"><u>[New] The Ultimate Playbook for Recording Live Gaming Events</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-uniting-digital-and-physical-worlds/"><u>[New] Uniting Digital and Physical Worlds</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-instagram-savvy-strategists-guide-to-understanding-engagement-figures/"><u>[Updated] 2024 Approved The Instagram Savvy Strategist’s Guide to Understanding Engagement Figures</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-thrifty-computer-solutions-through-perfect-obs-arrangement/"><u>[Updated] In 2024, Thrifty Computer Solutions Through Perfect OBS Arrangement</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-vlogs-to-virality-jake-paul-the-online-phenomenon/"><u>2024 Approved From Vlogs to Virality Jake Paul, the Online Phenomenon</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-investigating-the-power-of-4-second-youtube-subscriptions/"><u>2024 Approved Investigating the Power of 4-Second YouTube Subscriptions</u></a></li>
+<li><a href="https://article-files.techidaily.com/complete-analysis-breaking-down-the-google-podcast-app-for-2024/"><u>Complete Analysis Breaking Down the Google Podcast App for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-wellness-habits-opt-for-the-top-7-gpts/"><u>Enhance Wellness Habits: Opt for the Top 7 GPTs</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-vivo-g2-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Vivo G2 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-leveraging-google-trends-data-for-idea-genesis-in-videography/"><u>In 2024, Leveraging Google Trends Data for Idea Genesis in Videography</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-revenue-rise-at-the-half-million-club-500-subs-count/"><u>In 2024, Revenue Rise at the Half-Million Club 500 Subs Count</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-turbo-transfer-efficient-youtube-listings/"><u>In 2024, Turbo Transfer Efficient YouTube Listings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/winning-art-tools-comparison-chart-free-and-paid-apps-for-2024/"><u>Winning Art Tools Comparison Chart FREE & PAID Apps for 2024</u></a></li>
 </ul></div>
 

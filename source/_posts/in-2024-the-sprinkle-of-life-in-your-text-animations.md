@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Sprinkle of Life in Your Text Animations"
-date: 2024-11-13T00:06:25.901Z
-updated: 2024-11-15T08:32:06.680Z
+date: 2024-11-23T20:22:21.621Z
+updated: 2024-11-24T16:26:57.992Z
 tags:
   - ai video
   - ai youtube
@@ -56,6 +56,10 @@ You can customize the default effect by double-clicking the shake filter in the 
 
 ![Mild Shake filters adjust](https://images.wondershare.com/filmora/article-images/mild-shake-filter-adjust.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Export the Final Output**
 
 Click **EXPORT** from the top of the interface, go to the **Local** tab in the **Export** box, choose your preferred output format from the list in the left, make required customizations from the right pane, and click **EXPORT** from the bottom-right corner to export the video.
@@ -71,10 +75,7 @@ As explained before, Wondeshare Filmora makes the entire process of creating and
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Generate Animated Bouncing Texts Online
@@ -90,16 +91,7 @@ Website: <https://engfto.com/index/create%5Fanimated%5Fbouncing%5Ftext/0-26>
 ![Create Animated Bouncing Text with ENGFTO](https://images.wondershare.com/filmora/article-images/engfto-create-animated-bouncing-text.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can follow the instructions given below to use Engfto to generate bouncing text for your footages:
@@ -129,10 +121,7 @@ Launch your favorite web browser and go to <https://loading.io/animation/text/>.
 ![Create Animated Bouncing Text with Loading.io](https://images.wondershare.com/filmora/article-images/create-bouncing-text-with-loadingio.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Use the options available on the webpage to type your text, and change its font, color, background, transparency level etc. Select **Bounce** (or any of its variants) from the **Animation** drop-down list, and adjust the speed using the **Speed** slider.
@@ -150,10 +139,7 @@ Generating **bounce text** effect is much simpler when you use Wondershare Filmo
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -171,20 +157,24 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-youtubes-best-lighting-tools-ranked-17-1/"><u>[New] In 2024, YouTube's Best Lighting Tools Ranked #17-1</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-begin-with-no-cost-video-intro-tools/"><u>[Updated] 2024 Approved Begin with No-Cost Video Intro Tools</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-designing-a-trailer-blueprint-to-amplify-channel-income/"><u>[Updated] In 2024, Designing a Trailer Blueprint to Amplify Channel Income</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-ultimate-streamers-choice-is-obs-better-than-twitch-studio-for-2024/"><u>[Updated] The Ultimate Streamer's Choice Is OBS Better Than Twitch Studio for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-life-is-strange-true-colors-game-crashes-effectively/"><u>How To Resolve Life Is Strange: True Colors Game Crashes Effectively</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-11-video-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone 11 Video to Computer? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Meizu 21 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-optimize-engagement-and-analytics-harnessing-tubebuddys-insights/"><u>In 2024, Optimize Engagement & Analytics - Harnessing TubeBuddy's Insights</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-prime-platforms-for-asmr-experience/"><u>In 2024, Prime Platforms for ASMR Experience</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-streamlining-your-youtube-tracks-a-sound-guide/"><u>In 2024, Streamlining Your YouTube Tracks A Sound Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-strategies-for-building-impressive-youtube-teaser-vids/"><u>In 2024, Unveiling Strategies for Building Impressive YouTube Teaser Vids</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/interactive-subscription-buttons-filmoras-guide-to-animated-sign-up-bars-for-2024/"><u>Interactive Subscription Buttons - Filmora's Guide to Animated Sign-Up Bars for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/maximizing-video-impact-on-youtube-top-video-formats-for-2024/"><u>Maximizing Video Impact on YouTube – Top Video Formats for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/securely-transforming-youtube-videos-top-3-reliable-methods-for-2024/"><u>Securely Transforming YouTube Videos Top 3 Reliable Methods for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-oneplus-8t-impressive-velocity-marred-by-mediocre-camera-system/"><u>Unpacking the OnePlus 8T: Impressive Velocity Marred by Mediocre Camera System</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-maximize-view-count-best-yt-thumbnail-sizes/"><u>[New] Maximize View Count Best YT Thumbnail Sizes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-million-viewer-milestones-youtubes-pay-structure/"><u>[New] Million-Viewer Milestones YouTube's Pay Structure</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-streamline-your-360-videos-for-youtube-with-easy-upload-tricks/"><u>[New] Streamline Your 360 Videos for YouTube with Easy Upload Tricks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-mastering-mac-preview-a-compreranary-reference-guide/"><u>[Updated] Mastering Mac Preview A Compreranary Reference Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-professional-stabilizers-roundup-securing-smooth-cinematography/"><u>[Updated] Professional Stabilizers Roundup Securing Smooth Cinematography</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-going-against-the-tide-of-tradition-innovative-techniques-for-yt-rewinds/"><u>2024 Approved Going Against the Tide of Tradition Innovative Techniques for YT Rewinds</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-strategies-for-sustainable-income-via-product-based-videos/"><u>2024 Approved Strategies for Sustainable Income via Product-Based Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ballads-battlefield-poetic-giants-versus-gpt-shepherds-wooly-kinfolk/"><u>Ballads' Battlefield - Poetic Giants Versus GPT Shepherds, Wooly Kinfolk</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comparing-ipad-vs-ipad-air-key-features-and-specifications/"><u>Comparing iPad Vs. IPad Air: Key Features & Specifications</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/effortless-ways-to-transfer-data-from-your-apple-iphone-6s-plus-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Effortless Ways to Transfer Data from Your Apple iPhone 6s Plus to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/halt-youtube-suggested-content-now-for-2024/"><u>Halt YouTube Suggested Content Now for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-navigating-the-nooks-and-crannies-of-concurrent-youtube-watching/"><u>In 2024, Navigating the Nooks and Crannies of Concurrent YouTube Watching</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-pocket-playlist-portraits-actors-and-audio-art/"><u>In 2024, Pocket Playlist Portraits Actors & Audio Art</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-todays-biggest-bites-the-top-youtube-hits/"><u>In 2024, Today’s Biggest Bites The Top YouTube Hits</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-depth-analysis-understanding-the-google-podcast-app/"><u>In Depth Analysis Understanding the Google Podcast App</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/interactive-inspection-kits-facebook-live-for-2024/"><u>Interactive Inspection Kits Facebook Live for 2024</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Infinix Note 30 VIP Racing Edition</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-for-cd-dvd-and-blu-ray-drives-stuck-on-windowsmac/"><u>Step-by-Step Solution for CD, DVD, and Blu-Ray Drives Stuck on Windows/Mac</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-correcting-the-sxs-configuration-flaw-in-windows-11-a-detailed-fix-guide/"><u>Understanding and Correcting the SxS Configuration Flaw in Windows 11: A Detailed Fix Guide</u></a></li>
 </ul></div>
 
