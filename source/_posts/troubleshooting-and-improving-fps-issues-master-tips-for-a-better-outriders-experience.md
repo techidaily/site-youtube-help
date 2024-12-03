@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting and Improving FPS Issues: Master Tips for a Better Outriders Experience"
-date: 2024-11-23T19:03:38.914Z
-updated: 2024-11-24T19:44:25.547Z
+date: 2024-12-01T16:06:06.422Z
+updated: 2024-12-03T16:08:56.940Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
  The**error: connection to server timed out (code: leaf)** on Apex Legends is an old one, and it’s supposed to be fixed ages ago. But many players are still reporting getting it all the time. In this post, we’ll go through some working fixes step by step, so make sure you check them out below!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You don’t have to try them all; just work your way down the list until you find the one that does the trick!
@@ -34,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Check your Internet connection
@@ -48,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
  If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Install all the game updates
 
  This one may seem obvious, but it did help some players to solve the error code leaf when they try to join a match on Apex Legends, so you may want to make sure your game is updated all the time.
@@ -55,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
  The good new is, the Origin client and the Steam client will automatically download available updates and install them for you, so you don’t actually have to worry. However, if you’ve turned off the automatic updating option at some point before, make sure you turn it on or manually install the updates for your Apex Legends.
 
  If your game stays up-to-date but you still run into error code leaf, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Configure your DNS settings
 
@@ -82,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
 
 ## Fix 4: Update your network driver
@@ -98,19 +106,15 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. I’m using a graphics driver as an example here, since updating your graphics driver could solve many game issues (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
 
@@ -124,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -152,18 +152,20 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-finding-the-perfect-phrases-for-gamers-videos/"><u>[New] Finding the Perfect Phrases for Gamers' Videos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-essential-tips-for-wirecast-live-streaming-to-youtube/"><u>2024 Approved Essential Tips for WireCast Live Streaming to Youtube</u></a></li>
-<li><a href="https://discover-help.techidaily.com/1725289957048-avchdtsmovaviwmvflv/"><u>全ての形式対応動画変換手順：AVCHD、TS、MOV、AVI、WMV、FLVファイル自由操作</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cutting-edge-from-srt-to-subtitle-system/"><u>Cutting Edge From SRT to Subtitle System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/foster-robust-windows-application-connections-with-simple-fixes/"><u>Foster Robust Windows Application Connections with Simple Fixes</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-find-hotspots-for-online-video-dialogue/"><u>In 2024, Find Hotspots for Online Video Dialogue</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-xiaomi-redmi-k70-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Xiaomi Redmi K70 to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-hashtags-to-hit-6k-youtube-growth/"><u>In 2024, Mastering Hashtags to Hit $6K YouTube Growth</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/journey-into-the-future-with-youtubes-top-vr-cinematography-for-2024/"><u>Journey Into the Future with YouTube’s Top VR Cinematography for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/make-every-sound-count-comprehensive-guide-to-free-youtube-video-transcriptions-for-2024/"><u>Make Every Sound Count Comprehensive Guide to Free YouTube Video Transcriptions for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-airpod-resets-key-times-to-refresh-and-troubleshooting-tips-smartgadgetguide/"><u>Mastering AirPod Resets: Key Times to Refresh & Troubleshooting Tips | SmartGadgetGuide</u></a></li>
-<li><a href="https://win-special.techidaily.com/passare-a-un-nuovo-servizio-email-guida-completa-per-trasferire-da-gmail/"><u>Passare a Un Nuovo Servizio Email: Guida Completa per Trasferire Da Gmail</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/quick-tips-for-effortlessly-opening-zip-and-rar-compressed-file-collections/"><u>Quick Tips for Effortlessly Opening ZIP and RAR Compressed File Collections</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-green-screen-mastery-essential-free-lessons-from-youtubes-best-4-channels/"><u>[New] Green Screen Mastery Essential Free Lessons From YouTube's Best 4 Channels</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-youtube-partnership-reaching-10k-views-quickly/"><u>2024 Approved Mastering YouTube Partnership Reaching 10K Views Quickly</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-streamlining-youtube-edits-with-advanced-sony-vegas-techniques/"><u>2024 Approved Streamlining YouTube Edits with Advanced Sony Vegas Techniques</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-voice-to-text-an-all-inclusive-guide-to-googles-document-feature/"><u>2024 Approved Voice to Text An All-Inclusive Guide to Google's Document Feature</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-confirm-your-youtube-account-securely-in-2024/"><u>How to Confirm Your YouTube Account Securely, In 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-realme-v30-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/imagesplitter-pro-for-2024/"><u>ImageSplitter Pro for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-guard-your-images-with-top-photo-watermarks/"><u>In 2024, Guard Your Images with Top Photo Watermarks</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-halt-autoplay-youtube-recommendations/"><u>In 2024, Halt Autoplay YouTube Recommendations</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-jumpstart-success-with-top-30-youtube-intra-designers-insights/"><u>In 2024, Jumpstart Success with Top 30 YouTube Intra Designers' Insights</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/pioneering-tools-for-modern-gameplay-recording-for-2024/"><u>Pioneering Tools for Modern Gameplay Recording for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-8-enhanced-peripherals-for-a-richer-metaverse-experience-for-2024/"><u>Top 8 Enhanced Peripherals for a Richer Metaverse Experience for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/unlock-the-mystery-behind-phasmophobias-90-load-plateau-in-game-launches/"><u>Unlock the Mystery Behind Phasmophobia's 90% Load Plateau in Game Launches</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/windows-friendly-audio-interface-software-download-free-scarlett-solo-by-focusrite/"><u>Windows-Friendly Audio Interface Software - Download Free Scarlett Solo by Focusrite!</u></a></li>
 </ul></div>
 

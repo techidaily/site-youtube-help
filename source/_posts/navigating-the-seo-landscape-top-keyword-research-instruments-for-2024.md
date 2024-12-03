@@ -1,7 +1,7 @@
 ---
 title: "\"Navigating the SEO Landscape  Top Keyword Research Instruments for 2024\""
-date: 2024-11-18T17:58:42.323Z
-updated: 2024-11-24T20:26:11.034Z
+date: 2024-11-28T16:09:04.898Z
+updated: 2024-12-03T16:06:26.556Z
 tags:
   - ai video
   - ai youtube
@@ -55,10 +55,6 @@ When you start to search for something on YouTube, you'll probably notice that Y
 
 ![youtube keyword tool](https://images.wondershare.com/filmora/article-images/youtube-auto-complete.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 This means it's a great place to start building your keywords, and a fantastic YouTube keyword tool for your videos. Just start your search for your video (e.g. shoes for…) and see what comes up. In this case, we can see that the most popular keywords are 'girls', 'men', 'kids', 'summer' and 'boys'.
 
 #### 2\. Keywordtool.io
@@ -66,6 +62,10 @@ This means it's a great place to start building your keywords, and a fantastic Y
 Without doubt, this is one of the most powerful YouTube keyword tools out there, ranking hundreds of keywords by popularity. It captures data from YouTube autocomplete and allows you to create lists of keywords from that data. As well as autocompete data, you can also search for questions people are asking, which makes it highly beneficial as a YouTube SEO tool.
 
 ![youtube keyword tool](https://images.wondershare.com/filmora/article-images/keyword-io.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The downside to this particular tool is that it's fairly limited on the free version. Upgrading to Pro Basic will give you almost double the keyword results and will let you compare the volume of searches made for those terms too. However, this will set you back around $68 a year, so it's going to be something of an investment if you go for it.
 
@@ -77,6 +77,10 @@ SEO Chat is an amazing free tool that can generate keyword ideas from Google, Am
 
 ![SEOChat youtube keyword tool SEOChat](https://images.wondershare.com/filmora/article-images/seochat-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Simply scrolling through the results is going to give you loads of ideas for keywords and possibly content too. The tool also allows you to further expand your results by selecting a keyword and running 'part two' of the process, which expands those phrases even further. Your chosen keywords can be exported from the software, ready for use in your YouTube SEO tool.
 
 #### 4\. Gather keywords from your competitor
@@ -87,13 +91,13 @@ Click the videos tab to see their content, and sort them by 'most popular' to se
 
 ![youtube keyword tool](https://images.wondershare.com/filmora/article-images/most-popular-video-youtube-channel.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 That's not all though. To maximize your competitor research, let's dig a little deeper into the **tags** they have used for their videos too. Unfortunately, these are hidden on YouTube, but are easily seen using the page's HTML. Simply right click on the page and select 'view source'. Don't be alarmed at the great stream of HTML that pops up, it's easy to search using your search function (press ctrl + f on Windows or ⌘ + f on iOS) by typing in 'keywords' to the search box. The following terms are the tags used in the video.
 
 ![youtube keyword tool](https://images.wondershare.com/filmora/article-images/video-keywords-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If ploughing through HTML sounds somewhat taxing, there is a handy YouTube SEO tool you can use to display the tags on page. It's called [TubeBuddy](https://chrome.google.com/webstore/detail/tubebuddy-for-youtube/mhkhmbddkmdggbhaaaodilponhnccicb) and is a Chrome extension which you'll find in the Chrome store for free.
 
@@ -104,7 +108,7 @@ It's got a grand name, but it's actually really easy to use and a great place to
 ![tool for youtube keyword](https://images.wondershare.com/filmora/article-images/Keyword-tool-dominator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The drawback with this is that you can only perform three searches a day on the free version. Perhaps that's enough for you to begin with, but if you want to upgrade to the unlimited version, which will also give you search volumes, it's a one-off fee of $39.99.
@@ -133,19 +137,11 @@ Keyword Keg is definitely one of the most powerful YouTube keyword research tool
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-keyword-tools-keywordkeg.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 10\. Kparser
 
 Kparser is a YouTube keyword tool that you should notice. You can use it to find YouTube keywords free to use. More than finding the best core keywords, this tool can also give you suggestions on long tail keywords in every field. By use this, you don't need to worry that you can't the right keywords to use in title, description and tags. You also can selcet country and language when searching a YouTube keyword. For searching more than one keyword, remember to seperate them with coma.
 
 ![youtube keyword tool Kparser](https://images.wondershare.com/filmora/filmorapro/kparser.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Part 2: Bonus Tips - Google Video Result Keywords
 
@@ -158,6 +154,10 @@ To do this you'll need to find 'video result keywords' in Google, so that yours 
 There's a bit of trial and error involved as there is no YouTube keyword tool to find video result keywords… yet. But you can use Google to search your keywords and see if they are video result keywords. Just type them in, and if a video appears in the listings below, you've discovered a video result keyword that is well worth optimizing for.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -174,24 +174,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-how-you-can-get-paid-for-videos/"><u>[New] How You Can Get Paid for Videos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-flash-vids-unpacked-whats-inside/"><u>2024 Approved Flash Vids Unpacked What's Inside?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-turning-video-tutorials-into-virtual-income/"><u>2024 Approved Turning Video Tutorials Into Virtual Income</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unlocking-youtube-lives-thumbnail-code/"><u>2024 Approved Unlocking YouTube Live's Thumbnail Code</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-google-pixel-8-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-your-productivity-creating-auto-generated-texts-via-chatgpt-for-word-docs/"><u>Boost Your Productivity: Creating Auto-Generated Texts via ChatGPT for Word Docs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/discover-the-best-live-video-solutions-comparing-manycam-with-virtual-cam-options/"><u>Discover the Best Live Video Solutions: Comparing ManyCam with Virtual Cam Options</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-14-plus-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 14 Plus</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-ensuring-your-tweets-meet-aspect-ratio-norms/"><u>In 2024, Ensuring Your Tweets Meet Aspect Ratio Norms</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-instant-aspect-ratio-matching-youtube-on-mac-display/"><u>In 2024, Instant Aspect Ratio Matching YouTube on Mac Display</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mirrorless-innovation-taking-over-dslr-in-videos/"><u>In 2024, Mirrorless Innovation Taking Over DSLR in Videos?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-optimizing-video-income-on-youtube-a-practical-guide/"><u>In 2024, Optimizing Video Income on Youtube A Practical Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-streamer-profitability-analysis-and-verification/"><u>In 2024, Streamer Profitability Analysis and Verification</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-latest-on-youtube-ad-income-guidelines/"><u>In 2024, The Latest on YouTube Ad Income Guidelines</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-vivo-s18-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Vivo S18</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/powerful-scripts-to-detect-pcs-ip-and-mac/"><u>Powerful Scripts to Detect PC's IP and MAC</u></a></li>
-<li><a href="https://fox-http.techidaily.com/srt-file-accessibility-across-computers/"><u>SRT File Accessibility Across Computers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/upgrading-from-m3-to-m1-macbook-pro-is-it-worth-the-switch-a-comprehensive-review-for-tech-enthusiasts/"><u>Upgrading From M3 to M1 MacBook Pro: Is It Worth the Switch? A Comprehensive Review for Tech Enthusiasts</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Vivo Y36? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-compelling-list-of-premium-free-phone-video-chat-applications-iosandroid/"><u>[New] Compelling List of Premium-Free Phone Video Chat Applications (iOS/Android)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-secrets-revealed-6-strategies-to-keep-your-youtube-audience-hooked-and-returning/"><u>[New] Secrets Revealed 6 Strategies to Keep Your YouTube Audience Hooked and Returning</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-youtube-video-trapping-best-practices-explored/"><u>[Updated] YouTube Video Trapping Best Practices Explored</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-strategies-for-effective-video-markup-on-youtube/"><u>2024 Approved Strategies for Effective Video Markup on YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-art-of-viewing-several-youtube-videos-concurrently/"><u>2024 Approved The Art of Viewing Several Youtube Videos Concurrently</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-iphone-xr-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from iPhone XR or iPad?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-vivo-y100-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Vivo Y100 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-novice-to-vlogger-professional-video-making-on-mobile-devices/"><u>In 2024, From Novice to Vlogger Professional Video Making on Mobile Devices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-15-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone 15 Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-revolutionize-your-lessons-implementing-youtube-in-the-academic-realm/"><u>In 2024, Revolutionize Your Lessons Implementing YouTube in the Academic Realm</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unleashing-your-youtube-potential-a-comprehensively-tailored-upload-process/"><u>In 2024, Unleashing Your YouTube Potential A Comprehensively Tailored Upload Process</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-views-with-optimal-thumbnail-design/"><u>In 2024, Unlocking Views with Optimal Thumbnail Design</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unraveling-the-top-9-free-video-logo-creation-software-list/"><u>In 2024, Unraveling The Top 9 Free Video Logo Creation Software List</u></a></li>
+<li><a href="https://win-unique.techidaily.com/microsofts-latest-breakthroughs-at-the-surface-and-ai-event-unwrapped-comprehensive-coverage-by-zdnet/"><u>Microsoft's Latest Breakthroughs at the Surface & AI Event Unwrapped | Comprehensive Coverage by ZDNet</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-discover-the-top-10-android-video-editing-apps-free-and-paid/"><u>New Discover the Top 10 Android Video Editing Apps Free and Paid</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-exe-opener-blockage/"><u>Overcoming Windows EXE Opener Blockage</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
 </ul></div>
 

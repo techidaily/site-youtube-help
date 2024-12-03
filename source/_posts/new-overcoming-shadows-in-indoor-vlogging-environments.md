@@ -1,7 +1,7 @@
 ---
 title: "[New] Overcoming Shadows in Indoor Vlogging Environments"
-date: 2024-11-21T19:38:10.620Z
-updated: 2024-11-24T18:50:27.269Z
+date: 2024-11-26T16:14:16.573Z
+updated: 2024-12-03T16:08:11.743Z
 tags:
   - ai video
   - ai youtube
@@ -29,7 +29,7 @@ One of the best things you can do for your video quality is to ensure you have g
 Going outside and using natural light is the cheapest way to get a lot of light for your videos. If your vlog is not suited to the great outdoors then you need to get more strategic. You can turn on all the lights in your living room and still end up with a dark, grainy, video.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Video Lighting Basics: Three Point Lighting
@@ -37,7 +37,7 @@ Going outside and using natural light is the cheapest way to get a lot of light 
 ![Lighting for YouTube Video](https://images.wondershare.com/filmora/article-images/three-point-lighting.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The most common technique of lighting a scene is called **three-point lighting**. It involves three different sources of light in the shot and is used by portrait photographers, which is also a great method for lighting your vlog.
@@ -52,11 +52,11 @@ The **fill light** is less bright than the primary source of light and it is pla
 
 The final step to creating three point lighting is to set up another light behind you. This is your 'Backlight', and it will help you stand out from your background. **Backlight or Hair light** is always placed behind and above the subject to create separation between the subject in the shot and the background. This basic lighting technique can be applied in almost every scene you shoot, which is why it is important to keep an open mind and to continue experimenting with possible light setups.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Watch Video! Top Lighting Tips for Vlogging
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Lightning Tips for Aspiring YouTube Videographers
 
@@ -85,7 +85,7 @@ Sets of reflectors are often under $50, so they are fairly affordable. However, 
 ![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips01.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If your strong main light is too hard on your eyes then you can use a translucent 'reflector' to soften it. Set your translucent reflector, or other screen, up in front of your main light to diffuse it.
@@ -101,7 +101,7 @@ If you are stuck shooting in **low light conditions** it is best to use a lens w
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -119,17 +119,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-clearer-streams-youtube-video-borderless-adjustment/"><u>[New] 2024 Approved Clearer Streams YouTube Video Borderless Adjustment</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-exploring-youtubes-regular-pay-structure/"><u>[New] Exploring YouTube’s Regular Pay Structure</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-photoshop-strategies-for-pixelated-portrait-alteration/"><u>[New] Photoshop Strategies for Pixelated Portrait Alteration</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-quick-queries-character-and-sound-crossover/"><u>[New] Quick Queries Character & Sound Crossover</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-prime-performance-best-windows-player-apps-reviewed/"><u>[Updated] Prime Performance Best Windows Player Apps Reviewed</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-top-picks-the-most-advanced-online-mic-recorders-of-23/"><u>[Updated] Top Picks The Most Advanced Online Mic Recorders of '23</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-integrating-video-content-youtube-and-google-slides/"><u>2024 Approved Integrating Video Content YouTube & Google Slides</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-the-ultimate-guide-to-freebie-animation-tools/"><u>2024 Approved The Ultimate Guide to Freebie Animation Tools</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/phony-in-silence-mastering-audio-with-precision/"><u>A Symphony in Silence Mastering Audio with Precision</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-realigning-your-personal-soundtracks-from-spotify-to-youtube-music/"><u>In 2024, Realigning Your Personal Soundtracks From Spotify to YouTube Music</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-setup-and-strategies-for-youtube-gamers-live-sessions/"><u>In 2024, Setup and Strategies for YouTube Gamers' Live Sessions</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-windows-xp-error-code-0x80300024/"><u>Navigating Windows XP Error Code: 0X80300024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-sifting-through-cloud-costs-for-maximum-savings/"><u>[New] 2024 Approved Sifting Through Cloud Costs for Maximum Savings</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-choosing-youtube-premium-what-makes-it-worth-the-price/"><u>[New] In 2024, Choosing YouTube Premium What Makes It Worth the Price?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-notes-navigated-steps-for-sound-submissions-to-youtube/"><u>[New] Notes Navigated Steps for Sound Submissions to YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-shortcut-to-go-to-tags-maximizing-your-youtube-impact/"><u>[New] Shortcut to Go-To Tags Maximizing Your YouTube Impact</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-the-soundscape-strategy-incorporating-melodies-into-vimeo-videos/"><u>[Updated] 2024 Approved The Soundscape Strategy Incorporating Melodies Into Vimeo Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-fine-tune-youtube-video-pacing-desktopmobile/"><u>[Updated] Fine-Tune YouTube Video Pacing - Desktop/Mobile</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-insider-writers-on-popular-tiktok-wallpapers/"><u>2024 Approved Insider' Writers on Popular TikTok Wallpapers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-optimize-your-channels-an-introduction-to-youtube-statistics/"><u>2024 Approved Optimize Your Channels An Introduction to YouTube Statistics</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-who-wins-in-the-streamers-arena-twitch-vs-youtube-reviewed/"><u>2024 Approved Who Wins in the Streamer's Arena? Twitch vs YouTube Reviewed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enrich-your-status-with-harmony-notes/"><u>Enrich Your Status with Harmony Notes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-personalize-your-soundtrack-constructing-a-youtube-playlist-from-home-and-on-the-move/"><u>In 2024, Personalize Your Soundtrack Constructing a YouTube Playlist From Home & On-the-Move</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-retro-to-modern-radeon-transition/"><u>In 2024, Retro to Modern Radeon Transition</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-tecno-spark-10-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Tecno Spark 10 Pro with and without jailbreak | Dr.fone</u></a></li>
 </ul></div>
 

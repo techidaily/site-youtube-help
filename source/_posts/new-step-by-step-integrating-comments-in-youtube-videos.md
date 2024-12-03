@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step  Integrating Comments in YouTube Videos\""
-date: 2024-11-23T16:37:07.963Z
-updated: 2024-11-24T19:28:48.176Z
+date: 2024-11-28T16:07:29.161Z
+updated: 2024-12-03T16:13:17.049Z
 tags:
   - ai video
   - ai youtube
@@ -59,7 +59,7 @@ YouTube **Cards** are similar to annotations but more interactive. They allow th
 ![](https://images.wondershare.com/filmora/article-images/youtube-cards01.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * On the right panel click on "Add Card" drop down menu and select the type of card you want to add
@@ -70,10 +70,14 @@ YouTube **Cards** are similar to annotations but more interactive. They allow th
 ![](https://images.wondershare.com/filmora/article-images/add-cards-to-youtube-video.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Apply changes and exit
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to add YouTube annotations
 
@@ -86,17 +90,13 @@ YouTube Annotation is addition of a text layer, link or hotspots over your video
 ![](https://images.wondershare.com/filmora/article-images/add-annotations-to-youtube-video.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * On the right panel click on "+ Add Element" and select the kind of annotation you want to add
 * Adjust the position of Annotation, you can drag the rectangle to locate it at any position of the video, move the slide to set the start and end time of the annotation
 
 ![](https://images.wondershare.com/filmora/article-images/add-annotation-to-youtube-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Apply changes
 
@@ -137,7 +137,7 @@ No matter what kind of annotations you are using, you should never use more than
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -155,22 +155,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-discover-the-10-yt-channels-with-swift-ascendancy-and-intellect/"><u>[New] 2024 Approved Discover the 10 YT Channels with Swift Ascendancy and Intellect</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-prime-interactive-camera-spotlights/"><u>[Updated] 2024 Approved Prime Interactive Camera Spotlights</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-can-you-legally-capture-video-from-youtube-in-2024/"><u>[Updated] Can You Legally Capture Video From YouTube, In 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-netflix-memories-capturing-every-view-with-mac/"><u>[Updated] Netflix Memories Capturing Every View with Mac</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-life-lessons-video-ideas-for-self-expression-yt/"><u>2024 Approved Life Lessons Video Ideas for Self-Expression YT</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-more-than-just-likes-decoding-the-secrets-to-youtube-views/"><u>2024 Approved More than Just Likes Decoding the Secrets to YouTube Views</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-solutions-for-when-dbghelpdll-is-unavailable-or-missing/"><u>Effective Solutions for When dBghelp.dll Is Unavailable or Missing</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/hash-tags-that-catapult-you-to-6k-views-on-youtube-for-2024/"><u>Hash Tags That Catapult You to 6K Views on YouTube for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-capture-and-replay-top-four-strategies-for-gameplay-recording/"><u>In 2024, Capture & Replay Top Four Strategies for Gameplay Recording</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-expert-tactics-optimizing-freefire-video-content/"><u>In 2024, Expert Tactics Optimizing FreeFire Video Content</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-google-meet-broadcast-simplified-youtube-steps/"><u>In 2024, Google Meet Broadcast Simplified YouTube Steps</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-learn-how-to-add-descriptive-texts-to-your-youtube-videos/"><u>In 2024, Learn How to Add Descriptive Texts to Your YouTube Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-for-fixing-audacitys-failed-sound-device-openings-on-win-os/"><u>Methods for Fixing Audacity's Failed Sound Device Openings on Win OS</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/mjpeg-mpeg-movevi/"><u>MJPEGに自由に変換: オンラインMPEGファイルリダレーター - 無料Moveviツール</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/navigate-your-path-to-prominence-a-precise-guide-to-youtubes-featured-listings-for-2024/"><u>Navigate Your Path to Prominence A Precise Guide to Youtube's Featured Listings for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/navigating-youtube-cards-and-tags-for-2024/"><u>Navigating YouTube Cards and Tags for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/trasforma-i-tuoi-video-da-3gp-a-mov-online-e-gratuitamente-con-moveavi/"><u>Trasforma I Tuoi Video Da 3GP a MOV Online E Gratuitamente Con Moveavi</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-camera-roll-to-youtube-posting-short-clips-seamlessly/"><u>[New] From Camera Roll to YouTube Posting Short Clips Seamlessly</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-quick-guide-to-softening-youtube-videos-surroundings/"><u>[New] Quick Guide to Softening YouTube Videos' Surroundings</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-ultimate-streaming-platforms-for-authors/"><u>[Updated] In 2024, Ultimate Streaming Platforms for Authors</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-your-viewers-your-wealth-building-an-earning-strategy/"><u>[Updated] In 2024, Your Viewers, Your Wealth Building an Earning Strategy</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-ultimate-facebook-playbook-for-business-growth-30-key-points-for-2024/"><u>[Updated] The Ultimate Facebook Playbook for Business Growth (30 Key Points) for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-understanding-the-financial-demands-of-music-video-production-for-2024/"><u>[Updated] Understanding the Financial Demands of Music Video Production for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-unleash-the-power-of-subtitling-an-online-tool-compendium-for-2024/"><u>[Updated] Unleash the Power of Subtitling An Online Tool Compendium for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-key-principles-to-uphold-youtube-civility/"><u>2024 Approved Key Principles to Uphold YouTube Civility</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-leveraging-regular-content-posts-for-enhanced-youtube-traffic/"><u>2024 Approved Leveraging Regular Content Posts for Enhanced YouTube Traffic</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-the-ultimate-guide-to-free-youtube-intros-and-templates/"><u>2024 Approved The Ultimate Guide to Free YouTube Intros & Templates</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-unveiling-the-seven-best-youtube-live-streaming-tools-for-iphoneandroid/"><u>2024 Approved Unveiling The Seven Best YouTube Live Streaming Tools for iPhone/Android</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-finding-the-balance-adding-videos-to-text-on-a-budget/"><u>In 2024, Finding the Balance Adding Videos to Text on a Budget</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-in-depth-analysis-top-9-freeware-logo-designers-unveiled/"><u>In 2024, In-Depth Analysis Top 9 Freeware Logo Designers Unveiled</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-quick-tips-adding-captions-in-youtube-videos/"><u>In 2024, Quick Tips Adding Captions in YouTube Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-youtubes-top-tier-video-ad-creators-a-showcase/"><u>In 2024, Unveiling YouTube's Top-Tier Video Ad Creators A Showcase</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/protect-yourself-from-deception-comprehensive-guide-to-detecting-and-avoiding-phishing-emails/"><u>Protect Yourself From Deception: Comprehensive Guide to Detecting & Avoiding Phishing Emails</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-x100-pro-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo X100 Pro</u></a></li>
 </ul></div>
 

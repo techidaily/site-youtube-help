@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Sprinkle of Life in Your Text Animations"
-date: 2024-11-23T20:22:21.621Z
-updated: 2024-11-24T16:26:57.992Z
+date: 2024-11-28T16:18:22.491Z
+updated: 2024-12-03T16:13:05.677Z
 tags:
   - ai video
   - ai youtube
@@ -25,6 +25,10 @@ thumbnail: https://www.lifewire.com/thmb/MjDTenaULco1gu34wPM4hMvRH2g=/540x405/fi
  Mar 27, 2024• Proven solutions
 
 Earlier, you learned how to have a **[bounce text effect in Adobe After Effects](https://tools.techidaily.com/wondershare/filmora/download/)**. However, because AE is a complex application and has a steep learning curve, this section explains the two alternative ways to get the same effect on your existing video footage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1: How to Create Bouncing Text in Filmora Video Editor?
 
@@ -52,12 +56,16 @@ Go to **Effects** from the standard toolbar, expand the **Filters** category fro
 
 ![Shake filters in Filmora9](https://images.wondershare.com/filmora/article-images/shake-filter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can customize the default effect by double-clicking the shake filter in the timeline, using the sliders in the upper-left area of the interface to make necessary adjustments, and then clicking **OK** to save the changes and to get back to the previous interface.
 
 ![Mild Shake filters adjust](https://images.wondershare.com/filmora/article-images/mild-shake-filter-adjust.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4: Export the Final Output**
@@ -74,10 +82,6 @@ As explained before, Wondeshare Filmora makes the entire process of creating and
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 2: Generate Animated Bouncing Texts Online
 
 If you don’t want any heavy and resource-intensive app on your PC merely for some special text effects, you can try any of the online solutions instead. The benefit of using any such web app is that all the processing is done on site’s server, and it is only a web browser and an Internet connection that you need to have at your side.
@@ -91,7 +95,7 @@ Website: <https://engfto.com/index/create%5Fanimated%5Fbouncing%5Ftext/0-26>
 ![Create Animated Bouncing Text with ENGFTO](https://images.wondershare.com/filmora/article-images/engfto-create-animated-bouncing-text.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can follow the instructions given below to use Engfto to generate bouncing text for your footages:
@@ -121,7 +125,7 @@ Launch your favorite web browser and go to <https://loading.io/animation/text/>.
 ![Create Animated Bouncing Text with Loading.io](https://images.wondershare.com/filmora/article-images/create-bouncing-text-with-loadingio.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Use the options available on the webpage to type your text, and change its font, color, background, transparency level etc. Select **Bounce** (or any of its variants) from the **Animation** drop-down list, and adjust the speed using the **Speed** slider.
@@ -138,10 +142,6 @@ Generating **bounce text** effect is much simpler when you use Wondershare Filmo
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -157,24 +157,15 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-maximize-view-count-best-yt-thumbnail-sizes/"><u>[New] Maximize View Count Best YT Thumbnail Sizes</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-million-viewer-milestones-youtubes-pay-structure/"><u>[New] Million-Viewer Milestones YouTube's Pay Structure</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-streamline-your-360-videos-for-youtube-with-easy-upload-tricks/"><u>[New] Streamline Your 360 Videos for YouTube with Easy Upload Tricks</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-mastering-mac-preview-a-compreranary-reference-guide/"><u>[Updated] Mastering Mac Preview A Compreranary Reference Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-professional-stabilizers-roundup-securing-smooth-cinematography/"><u>[Updated] Professional Stabilizers Roundup Securing Smooth Cinematography</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-going-against-the-tide-of-tradition-innovative-techniques-for-yt-rewinds/"><u>2024 Approved Going Against the Tide of Tradition Innovative Techniques for YT Rewinds</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-strategies-for-sustainable-income-via-product-based-videos/"><u>2024 Approved Strategies for Sustainable Income via Product-Based Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ballads-battlefield-poetic-giants-versus-gpt-shepherds-wooly-kinfolk/"><u>Ballads' Battlefield - Poetic Giants Versus GPT Shepherds, Wooly Kinfolk</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comparing-ipad-vs-ipad-air-key-features-and-specifications/"><u>Comparing iPad Vs. IPad Air: Key Features & Specifications</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/effortless-ways-to-transfer-data-from-your-apple-iphone-6s-plus-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Effortless Ways to Transfer Data from Your Apple iPhone 6s Plus to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/halt-youtube-suggested-content-now-for-2024/"><u>Halt YouTube Suggested Content Now for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-navigating-the-nooks-and-crannies-of-concurrent-youtube-watching/"><u>In 2024, Navigating the Nooks and Crannies of Concurrent YouTube Watching</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-pocket-playlist-portraits-actors-and-audio-art/"><u>In 2024, Pocket Playlist Portraits Actors & Audio Art</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-todays-biggest-bites-the-top-youtube-hits/"><u>In 2024, Today’s Biggest Bites The Top YouTube Hits</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-depth-analysis-understanding-the-google-podcast-app/"><u>In Depth Analysis Understanding the Google Podcast App</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/interactive-inspection-kits-facebook-live-for-2024/"><u>Interactive Inspection Kits Facebook Live for 2024</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Infinix Note 30 VIP Racing Edition</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-for-cd-dvd-and-blu-ray-drives-stuck-on-windowsmac/"><u>Step-by-Step Solution for CD, DVD, and Blu-Ray Drives Stuck on Windows/Mac</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-correcting-the-sxs-configuration-flaw-in-windows-11-a-detailed-fix-guide/"><u>Understanding and Correcting the SxS Configuration Flaw in Windows 11: A Detailed Fix Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-building-the-ultimate-youtube-musical-collection/"><u>[New] Building the Ultimate YouTube Musical Collection</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-navigating-the-process-of-posting-4k-content-to-youtube/"><u>[New] Navigating the Process of Posting 4K Content to YouTube</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-fb-content-conversion-turn-vids-into-mp3s-in-seconds-for-2024/"><u>[Updated] FB Content Conversion Turn Vids Into MP3s in Seconds for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-swiftly-craft-custom-thumbnails-for-youtube-shorts-with-these-hacks/"><u>2024 Approved Swiftly Craft Custom Thumbnails for YouTube Shorts with These Hacks</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-enhance-your-os-with-psoft-menu-tools/"><u>How to Enhance Your OS with PSoft Menu Tools</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-harness-youtubes-creative-commons-in-video-making-for-2024/"><u>How to Harness YouTube's Creative Commons in Video Making for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-power-of-stories-in-youtube-expansion/"><u>In 2024, The Power of Stories in YouTube Expansion</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-computing-components-the-toms-hardware-essentials/"><u>Mastering Computing Components: The Tom's Hardware Essentials</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/unlocking-creative-potential-a-deep-dive-into-screenflow-for-mac-for-2024/"><u>Unlocking Creative Potential A Deep Dive Into ScreenFlow for Mac for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-to-expect-from-the-new-m4-mac-mini-rumored-features-launch-date-and-estimated-costs/"><u>What to Expect From the New M4 Mac Mini: Rumored Features, Launch Date & Estimated Costs</u></a></li>
 </ul></div>
 

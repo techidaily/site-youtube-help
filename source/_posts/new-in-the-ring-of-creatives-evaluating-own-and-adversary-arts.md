@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In the Ring of Creatives  Evaluating Own and Adversary Arts\""
-date: 2024-11-21T17:45:45.137Z
-updated: 2024-11-24T16:04:26.113Z
+date: 2024-12-01T16:04:15.457Z
+updated: 2024-12-03T16:03:08.679Z
 tags:
   - ai video
   - ai youtube
@@ -40,11 +40,19 @@ thumbnail: https://thmb.techidaily.com/6b81d20b1d6e26d0457009bbfe739603019d02e6b
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-views.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 2\.  Playback Location
 
  As 'Playback locations' of YouTube videos can reveal where does all the traffic come from, it would help your channel figure out for which location the video has fared well. It will guide you to reach the backlinks locations/sites. Knowing the popular locations for your YouTube video being played, you can know whether YouTube is the search engine or they have been diverted from somewhere else. Depending on the video playing locations, the views will be segregated in to embedded video, YouTube watch page, mobile devices, and YouTube channel page. Understanding location specific views would help you decide where should you focus to enhance the performance of your video.
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-playback-location.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 3\.  Demographics
 
@@ -65,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/6b81d20b1d6e26d0457009bbfe739603019d02e6b
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-audience-retention.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 6\.  Devices
@@ -81,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/6b81d20b1d6e26d0457009bbfe739603019d02e6b
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-likes-and-dislikes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 8\.  Subscribers
@@ -89,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/6b81d20b1d6e26d0457009bbfe739603019d02e6b
  YouTube analytics help you determine the engagement metrics to explain the origin of your subscribers. It includes both their geo-location, the date of subscription, and the source/medium they used to land with your video on YouTube. You can observe the number of people subscribing and unsubscribing from your YouTube channel.
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-subscribers.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The subscription stream enables your audience to get suggestions for new videos from your channel and offer better exposure to the service and products you offer.
 
@@ -106,29 +118,17 @@ thumbnail: https://thmb.techidaily.com/6b81d20b1d6e26d0457009bbfe739603019d02e6b
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-comments.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 11\.  Cards
 
  Cards is a new feature in YouTube analytics and aimed at replacing annotations. This will improve user interactivity of any video and accelerate the engagement. They will act as call to action for informing visitors regarding playlists, videos, merchandising, fan funding, and associated website etc.
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-cards.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 12\.  Sharing
 
  This aspect sums up the amount of shares of the YouTube video across different social networks along with the share date. Google ranking is influenced with the share numbers, as higher the number more the chances of unique backlinks for your videos.
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-sharing.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 13\.  Videos in playlists
 
@@ -137,7 +137,7 @@ thumbnail: https://thmb.techidaily.com/6b81d20b1d6e26d0457009bbfe739603019d02e6b
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-playlists.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to analyze your competitors
@@ -181,19 +181,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-expert-advice-for-embedding-youtube-playlists-with-ease/"><u>[New] Expert Advice for Embedding YouTube Playlists with Ease</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-shrink-it-down-youtubes-video-trimming-process/"><u>2024 Approved Shrink It Down YouTube's Video Trimming Process</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/directly-upload-and-share-videos-to-twitter-from-your-phone/"><u>Directly Upload and Share Videos to Twitter From Your Phone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-methods-to-resolve-haldll-error-messages-on-various-windows-operating-systems/"><u>Effective Methods to Resolve Hal.dll Error Messages on Various Windows Operating Systems</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-s17-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo S17 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-for-stunning-iphone-close-ups-and-macros/"><u>In 2024, Expert Tips for Stunning iPhone Close-Ups & Macros</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-key-conduct-criteria-in-the-youtube-sphere/"><u>In 2024, Key Conduct Criteria in the YouTube Sphere</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mix-masters-ideal-dj-videos-to-download/"><u>In 2024, Mix Masters Ideal DJ Videos to Download</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-start-your-affordable-webinar-journey-with-youtube/"><u>In 2024, Start Your Affordable Webinar Journey with YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/infographic-efficient-video-marketing-for-smalls-for-2024/"><u>Infographic Efficient Video Marketing for Smalls for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/maximize-your-creativity-a-detailed-instruction-manual-for-uploading-videos-on-youtube-for-2024/"><u>Maximize Your Creativity A Detailed Instruction Manual for Uploading Videos on YouTube for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/no-more-pdf-print-troubles-effective-remedies-for-immediate-relief/"><u>No More PDF Print Troubles - Effective Remedies for Immediate Relief</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-ai-integration-using-chatgpt-alongside-siri-on-ios-devices/"><u>Seamless AI Integration: Using ChatGPT Alongside Siri on iOS Devices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-brush-up-your-youtube-videos-with-color-correction-for-2024/"><u>[New] Brush Up Your Youtube Videos with Color Correction for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-extract-translate-and-save-youtube-subtitles-for-free/"><u>[New] Extract, Translate & Save YouTube Subtitles for FREE</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-share-across-platforms-instagram-meets-facebook/"><u>[Updated] In 2024, Share Across Platforms Instagram Meets Facebook</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-instant-thumbnails-for-fortnite-gameplay/"><u>2024 Approved Instant Thumbnails for Fortnite Gameplay</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-ios-and-android-tips-for-silent-youtube-viewing/"><u>2024 Approved IOS & Android Tips for Silent YouTube Viewing</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-fb-sharing-youtube-videos-directly/"><u>2024 Approved Mastering FB Sharing YouTube Videos Directly</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009321382-discord-struggle-no-more-proven-tips-for-dealing-with-unresponsive-launches-and-quick-fixes/"><u>Discord Struggle No More: Proven Tips for Dealing with Unresponsive Launches and Quick Fixes!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-latest-enhanced-preview-function-in-google-drive/"><u>Explore the Latest Enhanced Preview Function in Google Drive</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-oneplus-nord-ce-3-lite-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of OnePlus Nord CE 3 Lite 5G Without PUK Codes</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>How to View GPX Files Online and Offline Solutions Of Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-some-outdated-your-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>Identify some outdated your drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-restrict-viewership-of-your-youtube-content/"><u>In 2024, How to Restrict Viewership of Your YouTube Content</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-youtube-image-enlargement-technique/"><u>In 2024, Step-by-Step Youtube Image Enlargement Technique</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-plan-for-streaming-google-meet-on-youtube/"><u>In 2024, The Ultimate Plan for Streaming Google Meet on YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-tutorial-for-spreading-playlists/"><u>In 2024, The Ultimate Tutorial for Spreading Playlists</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-top-10-best-drones-for-kids-and-beginners/"><u>In 2024, Top 10 Best Drones for Kids and Beginners</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/instantly-professional-rapidly-crafting-valorant-game-imagery-for-2024/"><u>Instantly Professional Rapidly Crafting Valorant Game Imagery for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-ultimate-guide-top-techniques-for-efficient-video-backup-on-ios-and-android-devices/"><u>The Ultimate Guide: Top Techniques for Efficient Video Backup on iOS and Android Devices</u></a></li>
 </ul></div>
 

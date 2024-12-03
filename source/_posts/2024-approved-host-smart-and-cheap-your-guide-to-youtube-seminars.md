@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Host Smart and Cheap  Your Guide to Youtube Seminars\""
-date: 2024-07-29T19:32:52.990Z
-updated: 2024-07-30T19:32:52.990Z
+date: 2024-11-29T16:13:31.084Z
+updated: 2024-12-03T16:06:10.033Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/6ceaa9d96bf5780755ddbca816a35f96a83ab3ae5
 
 # How to Host a Webinar on YouTube for Free
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -31,14 +28,12 @@ Promoting products, offering educational content or in-depth tutorials on virtua
 
 An alternative solution is available if your budget is tight, but you'd still like to produce a great webinar. We are going to take you through all the steps you'll need to take if you'd like to host a webinar for free and help you spread the word about the products and services you're offering.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -54,14 +49,16 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Hosting a Webinar for Free
 
 The world's largest video sharing platform also features broadcasting options that enable its users to schedule events and thus host webinars free of charge. Previously known as the Google Hangouts on Air, the YouTube Live feature is fairly simple to set up, but before you start your first webinar you will need to choose a landing page and a chatbox. If you already have a website you can simply copy and paste the embed link and create a landing page for your webinar, or you can use landing pages software products such as [LeadPages](https://www.leadpages.net/) or [Unbounce](https://unbounce.com/) if you don't have your own online domain. For setting up chatboxes for your webinars we recommend using [Chatroll](https://chatroll.com/) or [RumbleTalk](https://www.rumbletalk.com/) platforms, although you'll have to pay a fee if you choose to chat with your audience using these computer programs. So here's how you can host your first webinar on YouTube for free.
@@ -90,10 +87,11 @@ Hit the Go Live Now button, when you are ready to start your first webinar and e
 
  **Read More to Get :** [10 Best Free Video Hosting Sites for Private/Business Online](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -101,12 +99,29 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-testing-the-capabilities-of-magix-image-viewer-for-2024/"><u>[Updated] Testing the Capabilities of MAGIX Image Viewer for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-track-lost-friends-on-instagram/"><u>[Updated] Track Lost Friends on Instagram</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-striking-a-balance-in-youtube-thumbnail-sizing/"><u>2024 Approved Striking a Balance in YouTube Thumbnail Sizing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-vr-shopping-experience-optimization/"><u>2024 Approved VR Shopping Experience Optimization</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-friendly-gaming-brilliance-our-selection-of-the-finest-1440p-displays/"><u>Budget-Friendly Gaming Brilliance: Our Selection of the Finest 1440P Displays</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-vivo-y56-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Vivo Y56 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-selfies-to-subscribers-jake-pauls-online-odyssey/"><u>In 2024, From Selfies to Subscribers Jake Paul’s Online Odyssey</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-y28-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Vivo Y28 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/1715860170250-in-2024-how-to-manual-for-creating-an-inclusive-and-productive-skype-chat-room-accessible-by-both-windows-and-mac-users/"><u>In 2024, How-To Manual for Creating an Inclusive and Productive Skype Chat Room Accessible by Both Windows & Mac Users.</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-subscriber-growth-and-its-impact-on-youtube-success/"><u>In 2024, Subscriber Growth and Its Impact on YouTube Success</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-insiders-guide-to-youtube-money-minimum-video-views-needed/"><u>In 2024, The Insider's Guide to YouTube Money Minimum Video Views Needed</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-guide-to-saving-youtube-tracks-and-dialogues/"><u>In 2024, The Ultimate Guide to Saving YouTube Tracks & Dialogues</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-flip-to-flash-with-android/"><u>In 2024, Transform Your Flip to Flash with Android</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/infographic-spotlight-on-emerging-23-trends-for-2024/"><u>Infographic Spotlight on Emerging '23 Trends for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-honor-80-pro-straight-screen-edition-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Honor 80 Pro Straight Screen Edition FRP</u></a></li>
+</ul></div>
 

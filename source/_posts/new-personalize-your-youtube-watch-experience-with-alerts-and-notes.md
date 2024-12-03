@@ -1,7 +1,7 @@
 ---
 title: "[New] Personalize Your Youtube Watch Experience with Alerts & Notes"
-date: 2024-11-18T18:59:21.832Z
-updated: 2024-11-24T19:40:00.003Z
+date: 2024-11-26T16:09:43.790Z
+updated: 2024-12-03T16:03:04.999Z
 tags:
   - ai video
   - ai youtube
@@ -45,10 +45,6 @@ The main difference between annotation and cards is their outlook. Cards are mor
 * [Part 1: How to Add YouTube Cards](#part1)
 * [Part 2: How to Add YouTube Annotations](#part2)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to add YouTube Cards
 
 YouTube **Cards** are similar to annotations but more interactive. They allow the owner of the video to add images and other links. A small box appears, clicking on which will activate the cards.
@@ -62,6 +58,10 @@ YouTube **Cards** are similar to annotations but more interactive. They allow th
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-cards01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * On the right panel click on "Add Card" drop down menu and select the type of card you want to add
 * Click on the create button which will open the corresponding video
 * Once you finish the subsequent information required click create card
@@ -70,10 +70,14 @@ YouTube **Cards** are similar to annotations but more interactive. They allow th
 ![](https://images.wondershare.com/filmora/article-images/add-cards-to-youtube-video.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Apply changes and exit
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to add YouTube annotations
 
@@ -85,17 +89,13 @@ YouTube Annotation is addition of a text layer, link or hotspots over your video
 
 ![](https://images.wondershare.com/filmora/article-images/add-annotations-to-youtube-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * On the right panel click on "+ Add Element" and select the kind of annotation you want to add
 * Adjust the position of Annotation, you can drag the rectangle to locate it at any position of the video, move the slide to set the start and end time of the annotation
 
 ![](https://images.wondershare.com/filmora/article-images/add-annotation-to-youtube-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Apply changes
@@ -137,7 +137,7 @@ No matter what kind of annotations you are using, you should never use more than
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -155,21 +155,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-profitability-playbook-the-ultimate-duo-of-dm-and-yo/"><u>[New] Profitability Playbook The Ultimate Duo of Dm & Yo</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-rapid-relay-youtube-playlists-to-the-public/"><u>2024 Approved Rapid Relay Youtube Playlists to the Public</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-stand-out-with-a-signature-style-a-guide-to-youtube-branding-mastery/"><u>2024 Approved Stand Out with a Signature Style A Guide to YouTube Branding Mastery</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/a-traditionalists-dream-unpacking-the-features-of-nzxt-h7-flow/"><u>A Traditionalist's Dream: Unpacking the Features of NZXT H7 Flow</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/crafting-compelling-narratives-in-tiktok-the-top-5-caption-techniques-to-try/"><u>Crafting Compelling Narratives in TikTok The Top 5 Caption Techniques to Try</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-oneplus-9-pro-a-fusion-of-sleek-aesthetics-swift-functionality-and-advanced-photography/"><u>Evaluating the OnePlus 9 Pro: A Fusion of Sleek Aesthetics, Swift Functionality, and Advanced Photography</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-vivo-s17-pro-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Vivo S17 Pro</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-fb-share-strategies-for-your-youtube-content/"><u>In 2024, FB Share Strategies for Your YouTube Content</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-benefits-of-tubebuddy-manage-your-youtube-channel/"><u>In 2024, The Benefits of TubeBuddy | Manage Your YouTube Channel</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/innovation-in-motion-youtube-angle-changes-for-2024/"><u>Innovation in Motion Youtube Angle Changes for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-gt-3-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme GT 3 Phone FRP Lock</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/live-streaming-made-simple-google-meet-to-youtube-guide-for-2024/"><u>Live Streaming Made Simple Google Meet to YouTube Guide for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-best-of-both-worlds-assessing-the-cost-effective-prowess-of-the-logitech-c615-camera/"><u>The Best of Both Worlds? Assessing the Cost-Effective Prowess of the Logitech C615 Camera</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/unleashing-creativity-how-to-master-io-screen-capture-for-2024/"><u>Unleashing Creativity How to Master IO Screen Capture for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-listen-up-write-it-down-comprehensive-guide-to-free-audio-to-text-apps-for-android-and-ios/"><u>Updated In 2024, Listen Up, Write It Down Comprehensive Guide to Free Audio-to-Text Apps for Android and iOS</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-vivo-y27s-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Vivo Y27s Phone Network-Ready</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-proven-techniques-for-counteracting-virtual-insults/"><u>[New] Proven Techniques for Counteracting Virtual Insults</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-snipperpro-suite/"><u>[New] SnipperPro Suite</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-unleashing-potential-with-the-powerful-polaroid-xs-100i/"><u>[Updated] In 2024, Unleashing Potential with the Powerful Polaroid XS 100I</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-basic-to-breakthrough-a-youtube-live-thumbnail-journey/"><u>2024 Approved From Basic to Breakthrough A YouTube Live Thumbnail Journey</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-historical-insights-at-your-fingertips-top-10-for-students/"><u>2024 Approved Historical Insights at Your Fingertips – Top 10 for Students</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-mixologists-approach-to-youtube-music/"><u>2024 Approved The Mixologist's Approach to YouTube Music</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725288682367-ai/"><u>提升影片品质：锦龙视频AI专业解码技术</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/battlefield-4-no-sound-heres-the-fix/"><u>Battlefield 4 No Sound? Here's The Fix</u></a></li>
+<li><a href="https://article-helps.techidaily.com/discerning-divergence-360-video-vs-virtual-reality/"><u>Discerning Divergence 360° Video Vs. Virtual Reality</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-last-to-first-deconstructing-your-video-watch-list/"><u>In 2024, From Last to First Deconstructing Your Video Watch List</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-generating-wealth-with-makeup-channels/"><u>In 2024, Generating Wealth with Makeup Channels</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-masterclass-youtube-music-arrangement/"><u>In 2024, Masterclass YouTube Music Arrangement</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unbound-zen-audio-releases/"><u>In 2024, Unbound Zen Audio Releases</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-your-system-essential-techniques-for-managing-windows-folders/"><u>Simplify Your System: Essential Techniques for Managing Windows Folders</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/supercharge-productivity-using-onlyoffice-docspace-features-and-chatgpt-technology/"><u>Supercharge Productivity Using ONLYOFFICE DocSpace Features and ChatGPT Technology</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-dvd-video-quality-what-does-dvd-resolution-mean-480p-720p-or-108n-p/"><u>Understanding DVD Video Quality: What Does DVD Resolution Mean – 480P, 720P, or 108N P?</u></a></li>
 </ul></div>
 

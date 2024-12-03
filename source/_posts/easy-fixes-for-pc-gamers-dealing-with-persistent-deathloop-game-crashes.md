@@ -1,7 +1,7 @@
 ---
 title: "Easy Fixes for PC Gamers: Dealing with Persistent Deathloop Game Crashes"
-date: 2024-11-23T16:00:45.686Z
-updated: 2024-11-24T19:36:48.867Z
+date: 2024-11-30T16:07:06.882Z
+updated: 2024-12-03T16:02:51.071Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/502b1cdc938497dc65859bd4dea7388cbc83b5388
 
  If you happen to be one of them, don’t worry. Here’re some working fixes that could bring back your game without frying your graphics card.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that does the charm.
@@ -35,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/502b1cdc938497dc65859bd4dea7388cbc83b5388
 4. [**Change in-game graphics settings**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Increase your virtual memory**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Delete specific game files](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Verify the integrity of game files
 
@@ -47,11 +47,11 @@ thumbnail: https://thmb.techidaily.com/502b1cdc938497dc65859bd4dea7388cbc83b5388
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-4.jpg)
 3. Allow the checking to complete. Then you can start New World and see if it crashes again.
 
-If the problem persists, take a look at the next fix below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+If the problem persists, take a look at the next fix below.
 
 ### Fix 2: Update your graphics driver
 
@@ -67,7 +67,7 @@ If the problem persists, take a look at the next fix below.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
@@ -92,15 +92,11 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
@@ -111,10 +107,6 @@ Here’s how you can check for updates manually:
 
 If your system is already up to date, you can try the next method.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Change in-game graphics settings
 
  Some players reported that turning off certain graphics settings might be the cure for the crash. You can try the same and see how things go:
@@ -124,7 +116,7 @@ If your system is already up to date, you can try the next method.
 2. In the left pane, select**Visuals** . Then set**Object details** to**High** or lower.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-2.jpg)
@@ -150,14 +142,18 @@ Now you can play and check if the crash stops.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/vritual-memory-set.jpg)
 5. Enter **Initial size** and **Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory (actual RAM) of my computer is 8 GB, so the **Initial size** for me here is **8 x 1024 x 1.5 = 12288 MB** , and the **Maximum size** should be **8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click **Set** , then click **OK**  to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-set-02.jpg)
 6. Restart your computer and check if New World crashes again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this trick doesn’t do the trick for you, take a look at the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Delete specific game files
 
@@ -168,6 +164,10 @@ Now you can play and check if the crash stops.
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**%appdata%** and click**OK** .  
 ![how to clean uninstall Discord](https://images.drivereasy.com/wp-content/uploads/2021/07/appdata.jpg)
 2. Go to**AGS > New World** and delete the following:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
    * The**savedata** folder  
    * The**user\_preload\_settings** file
@@ -192,18 +192,24 @@ Now you can play and check if the crash stops.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-profit-mastery-on-youtube-a-cross-device-guide/"><u>[New] Profit Mastery on YouTube A Cross-Device Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unveiling-the-secrets-of-successful-youtube-live-games/"><u>2024 Approved Unveiling the Secrets of Successful YouTube Live Games</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-vivo-y78t-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Vivo Y78t without App | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-duel-of-viewers-google-cardboard-vs-samsung-vr-for-2024/"><u>A Duel of Viewers Google Cardboard Vs. Samsung VR for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-eyevision-recorder-ultimate/"><u>In 2024, EyeVision Recorder Ultimate</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-samsung-galaxy-s24-ultra-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Samsung Galaxy S24 Ultra Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-perfect-shots-a-guide-to-capturing-engaging-youtube-content/"><u>In 2024, Perfect Shots A Guide to Capturing Engaging YouTube Content</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-pulse-of-the-party-free-impeccable-dj-template-videos/"><u>In 2024, Pulse of the Party Free, Impeccable DJ Template Videos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-reel-in-riches-a-guide-to-earning-on-youtube-shorts/"><u>In 2024, Reel In Riches A Guide to Earning on YouTube Shorts</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-stock-strategy-streams-the-most-valuable-online-sources/"><u>In 2024, Stock Strategy Streams The Most Valuable Online Sources</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/lock-your-motorola-g54-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Motorola G54 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/resusitasi-cabang-daya-ssd-langkah-langkah-yang-baik-untuk-mempertahankan-fungsi-hardware/"><u>Resusitasi Cabang Daya SSD: Langkah-Langkah Yang Baik Untuk Mempertahankan Fungsi Hardware</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/virtual-footprint-effective-methods-for-archiving-lives/"><u>Virtual Footprint Effective Methods for Archiving Lives</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-raw-footage-to-youtube-perfection-premiere-pro-techniques/"><u>[New] From Raw Footage to YouTube Perfection - Premiere Pro Techniques</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-navigating-youtube-skip-the-top-8-novice-missteps/"><u>[New] In 2024, Navigating YouTube Skip the Top 8 Novice Missteps!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-investing-in-success-budget-for-youtube-growth/"><u>[New] Investing in Success Budget for YouTube Growth</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-maximize-youtube-income-insights-and-techniques/"><u>[New] Maximize Youtube Income Insights and Techniques</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-guide-to-cross-platform-movie-capture/"><u>[New] The Ultimate Guide to Cross-Platform Movie Capture</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-essential-blueprint-for-converting-slides-into-videos/"><u>[Updated] 2024 Approved The Essential Blueprint for Converting Slides Into Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-how-to-begin-your-google-meet-on-devices-for-2024/"><u>[Updated] How to Begin Your Google Meet on Devices for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-creative-splitscreens-in-youtube-filmmaking/"><u>2024 Approved Mastering Creative Splitscreens in YouTube Filmmaking</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-podcasts-incorporating-audio-in-powerpoint-slides/"><u>2024 Approved Mastering Podcasts Incorporating Audio in PowerPoint Slides</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-nailing-the-desktopmobile-youtube-speed-control/"><u>2024 Approved Nailing the Desktop/Mobile YouTube Speed Control</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-you-put-your-faith-in-ais-for-economic-decisions/"><u>Can You Put Your Faith in AIs for Economic Decisions?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-reddits-latest-premium-advertisements-mirror-authentic-posts-analysis-by-zdnet/"><u>How Reddit’s Latest Premium Advertisements Mirror Authentic Posts | Analysis by ZDNet</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-ideal-mp4-slicer-for-mac-boost-your-vlog-game/"><u>In 2024, Ideal MP4 Slicer for Mac Boost Your Vlog Game</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-checklist-for-new-channels/"><u>In 2024, The Ultimate Checklist for New Channels</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-the-secrets-to-engaging-youtube-live-thumbnails/"><u>In 2024, Unveiling the Secrets to Engaging YouTube Live Thumbnails</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/innovative-measures-for-outstanding-ppt-video-quality-for-2024/"><u>Innovative Measures for Outstanding PPT Video Quality for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/interactive-achievements-the-click-based-reward-for-2024/"><u>Interactive Achievements The Click-Based Reward for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mirrorless-impact-on-professional-video-recording-for-2024/"><u>Mirrorless Impact on Professional Video Recording for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/evel-cams-for-aspiring-youtube-creators/"><u>Pro-Level Cams for Aspiring YouTube Creators</u></a></li>
 </ul></div>
 

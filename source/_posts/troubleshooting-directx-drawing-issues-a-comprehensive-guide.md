@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting DirectX Drawing Issues: A Comprehensive Guide"
-date: 2024-11-22T17:15:44.836Z
-updated: 2024-11-24T16:19:12.260Z
+date: 2024-11-28T16:14:03.582Z
+updated: 2024-12-03T16:03:46.407Z
 tags:
   - win11
   - win10
@@ -30,7 +30,7 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 * [Fix 9: Try Phasmophobia beta version](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Restart your computer
@@ -50,7 +50,7 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Under the**Installed Files** tab, click**Verify integrity of game files** .
@@ -62,7 +62,7 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 If Phasmophobia still crashes, move on to the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Delete corrupted game files
@@ -80,10 +80,6 @@ Game crashing issues might happen when your game files are corrupted.
 4) Delete everything except these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-44-34.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) Relaunch the game to test the issue.
 
@@ -112,10 +108,6 @@ If the game still crashes, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -137,6 +129,10 @@ If the crash still occurs, go ahead with the next fix.
 
  If you still experience crashing issues, then the issue is not with your game settings. You can change the settings back and try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Launch the game with DirectX 10
 
  Another workaround for some players is manually switching the game to DirectX 10\. Here’s how to do it:
@@ -149,17 +145,25 @@ If the crash still occurs, go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-22_16-23-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Launch the game to see if your problem has been resolved.
 
 If Phasmophobia crashing issues persist, try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Stop overlocking your GPU/CPU
 
  If you’ve manually overclocked your GPU or CPU, revert it to its default GPU/CPU clock. And if you are using overclocking software, such as MSI Afterburner, please also disable the software when running the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Disable fullscreen optimizations
 
@@ -170,10 +174,6 @@ If Phasmophobia crashing issues persist, try the next fix below.
  2) Under the Compatibility tab, check the box next to**Disable fullscreen optimizations** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_14-53-17.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Apply > OK** .
 
@@ -212,20 +212,14 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-sunrise-to-starry-nights-top-animated-youtubers-for-daily-joy/"><u>[New] 2024 Approved From Sunrise to Starry Nights - Top Animated YouTubers for Daily Joy</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-snapchat-cameos-catch-up-with-the-trendiest-trick/"><u>[New] 2024 Approved Snapchat Cameos Catch Up with the Trendiest Trick</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-discover-whats-hot-and-why-todays-top-8-videos-for-2024/"><u>[New] Discover What’s Hot and Why Today’s Top 8 Videos for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-financial-finesse-top-business-strategy-titles-reviewed/"><u>[New] In 2024, Financial Finesse Top Business Strategy Titles Reviewed</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-seize-the-money-opportunity-monetizing-on-youtube-through-mobile-devices/"><u>[New] Seize the Money Opportunity Monetizing on YouTube Through Mobile Devices</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-media-meld-space/"><u>2024 Approved Media Meld Space</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-organizing-soundtracks-formulating-a-youtube-music-list/"><u>2024 Approved Organizing Soundtracks Formulating a YouTube Music List</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-prevent-these-8-key-mishaps-on-your-youtube-journey/"><u>2024 Approved Prevent These 8 Key Mishaps on Your YouTube Journey</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-revolutionizing-video-views-conquering-youtube-millions/"><u>2024 Approved Revolutionizing Video Views, Conquering YouTube Millions</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-top-8-strategies-for-striking-thumbnails-in-youtube-circles/"><u>2024 Approved Top 8 Strategies for Striking Thumbnails in YouTube Circles</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-exclusive-free-mcb-visual-tools/"><u>In 2024, Exclusive Free MCB Visual Tools</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-samsung-galaxy-a14-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Samsung Galaxy A14 5G Devices</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/perfecting-iphone-footage-quick-trimming-sizing-hacks-for-2024/"><u>Perfecting iPhone Footage Quick Trimming, Sizing Hacks for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/secrets-revealed-how-to-convert-facebooks-hd-videos-to-mp4-for-free-for-2024/"><u>Secrets Revealed How to Convert Facebook's HD Videos to MP4 for Free for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721102275486-troubleshooting-guide-for-iphone-usb-device-connection-error-successful-solutions/"><u>Troubleshooting Guide for iPhone USB Device Connection Error - Successful Solutions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-comprehensive-snapshot-tool-az-reviews-and-substitutes/"><u>[New] 2024 Approved Comprehensive Snapshot Tool - AZ Reviews & Substitutes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-echoes-of-privacy-recovering-from-a-hack-for-2024/"><u>[New] Echoes of Privacy Recovering From a Hack for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-respecting-copyrights-when-converting-youtube-to-mp4/"><u>[New] Respecting Copyrights When Converting YouTube to MP4</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-innovating-with-youtube-studio-editor-for-next-gen-videos/"><u>2024 Approved Innovating with YouTube Studio Editor for Next-Gen Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-overcoming-youtube-copyright-strikes-expert-advice-revealed/"><u>2024 Approved Overcoming YouTube Copyright Strikes Expert Advice Revealed</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-overcoming-youtube-disqualification/"><u>2024 Approved Overcoming YouTube Disqualification</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723001011140-avatar-game-on-pc-now-running-smoothly-with-fixes-implemented/"><u>Avatar Game on PC - Now Running Smoothly with Fixes Implemented</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-vivo-y36i-by-drfone-android/"><u>How to Show Wi-Fi Password on Vivo Y36i</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1715701203578-utilizing-inbuilt-cameras-for-screen-recording-on-mate-and-p-series-smartphones-mate-10-mate-20-p20-p10/"><u>Utilizing Inbuilt Cameras for Screen Recording on Mate and P Series Smartphones (Mate 10, Mate 20; P20, P10).</u></a></li>
 </ul></div>
 
