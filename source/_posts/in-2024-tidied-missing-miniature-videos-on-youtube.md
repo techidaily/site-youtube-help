@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Tidied  Missing Miniature Videos on YouTube\""
-date: 2024-11-28T16:04:41.919Z
-updated: 2024-12-03T16:15:40.207Z
+date: 2024-12-07T10:04:28.782Z
+updated: 2024-12-10T02:23:18.992Z
 tags:
   - ai video
   - ai youtube
@@ -61,16 +61,12 @@ And, you must note that a YouTube Shorts video consists of two criteria as follo
 * The video has to be vertical (portrait-style)
 * The video must be 60 seconds or less
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How to Fix YouTube Shorts Not Showing Up?
 
 Here’s the section covering fixes on YouTube Shorts not showing. Please give it a read and resolve your issue happily!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update the YouTube App
@@ -82,26 +78,18 @@ Moreover, the option to upload Shorts is now hidden behind the **+** icon. Tap o
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-not-showing-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Check If Shorts Is Available in Your Country
 
 Now, YouTube Shorts is available globally, but there was a phase when YouTube Shorts was a beta feature. It was only available in India and the US, which could be why you could not view Shorts in the YouTube app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: YouTube Shorts Is Mobile-only
 
 As of now, YouTube Shorts is only available on a smartphone because it's still in beta version. However, you can create Shorts via smartphone and the camera option in YouTube mobile app. Hence, there's no point in searching for Shorts on your computer.
 
 You can upload Shorts videos from your laptop. The entire process is similar to uploading a regular video. However, you have to mention #Shorts in the title and description to differentiate it as a Shorts video.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Common Fixes to YouTube Shorts Not Working
 
@@ -114,6 +102,10 @@ You can upload Shorts videos from your laptop. The entire process is similar to 
 The fixes above are also applicable if the YouTube Shorts are not showing on iPhone as well.
 
 Or, you can try the VPN solution before contacting the YouTube team.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### If Videos Are Not Visible under YouTube Shorts
 
@@ -176,7 +168,7 @@ You can choose among three ways to open the Auto Reframe feature in Filmora.
 ![filmora](https://images.wondershare.com/filmora/guide/3-auto-reframe-tools.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2\. Adjust the Aspect Ratio and Motion Speed**
@@ -186,6 +178,10 @@ A separate dialog box will display once you have selected the **Auto Reframe** o
 There are multiple aspect ratio templates available such as square (1:1), vertical (9:16), standard (4:3), widescreen (16:9), and cinema (21:9). As you are making YouTube Shorts, so you need to select **9:16**.
 
 ![filmora](https://images.wondershare.com/filmora/guide/4-select-reframing-aspect-ratio.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can adjust the speed of your video in multiple options: keep it at **Auto** or make it **Slow** or **Fast** as per your requirements.
 
@@ -200,7 +196,7 @@ Then the video will be automatically and quickly reframed to your specified spee
 ![filmora](https://images.wondershare.com/filmora/guide/7-restart-reframing.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4\. Preview the Reframed Video and Check**
@@ -212,6 +208,10 @@ Lastly, you can preview your final video. If the video needs more work, you can 
 Finally, after all the final adjustments, you can hit the **Export** tab, name your file and choose the destination folder.
 
 ![filmora](https://images.wondershare.com/filmora/guide/9-export-reframed-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: FAQs about YouTube Shorts
 
@@ -268,16 +268,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-increasing-youtube-shorts-views-effective-tactics/"><u>[New] Increasing YouTube Shorts Views Effective Tactics</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-looking-to-access-the-whole-spectrum-of-shared-media-by-contacts/"><u>[Updated] 2024 Approved Looking to Access the Whole Spectrum of Shared Media by Contacts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-annual-salary-details-for-streaming-sensation-pewdiepie/"><u>[Updated] Annual Salary Details for Streaming Sensation PewDiePie</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-hilarious-highlights-reddit-and-twitters-best-bits-for-2024/"><u>[Updated] Hilarious Highlights Reddit and Twitter's Best Bits for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-broadcast-software-beyond-standard-obs/"><u>[Updated] In 2024, Broadcast Software Beyond Standard OBS</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-rising-stars-in-streaming-global-youtubes-subs-pantheon/"><u>2024 Approved Rising Stars in Streaming Global YouTube's Subs Pantheon</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-understanding-the-fundamental-contrasts-in-video-streaming/"><u>2024 Approved Understanding the Fundamental Contrasts in Video Streaming</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-yield-cash-reviewing-gadgets-apparel-and-more-on-the-web/"><u>2024 Approved Yield Cash Reviewing Gadgets, Apparel, and More on the Web</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ace-your-zoom-presentation-skills-with-these-essential-eight-tips-from-industry-experts/"><u>Ace Your Zoom Presentation Skills with These Essential Eight Tips From Industry Experts</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-make-a-creative-split-screen-video-for-youtube/"><u>In 2024, How to Make a Creative Split-Screen Video for YouTube?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-turning-views-into-revenue-mastering-youtubes-financial-landscape/"><u>In 2024, Turning Views Into Revenue Mastering YouTube's Financial Landscape</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-giggles-galore-curated-hits-of-hilarious-youtubers/"><u>[New] 2024 Approved Giggles Galore Curated Hits of Hilarious YouTubers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-navigating-the-seo-maze-a-guide-to-youtube-keywords/"><u>[New] Navigating the SEO Maze A Guide to YouTube Keywords</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-lasting-way-to-disconnect-from-youtube-shorts/"><u>[New] The Lasting Way to Disconnect From YouTube Shorts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-elevate-your-shots-top-photo-gear-for-mobile-cameras/"><u>[Updated] 2024 Approved Elevate Your Shots Top Photo Gear for Mobile Cameras</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-step-into-editing-excellence-with-youtube-studio-toolset/"><u>2024 Approved Step Into Editing Excellence with YouTube Studio Toolset</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-fifa-scoreboard-tactics-in-infographics/"><u>2024 Approved Top FIFA Scoreboard Tactics in Infographics</u></a></li>
+<li><a href="https://win-forum.techidaily.com/conquer-your-pc-how-to-enable-permanent-administrative-access-for-all-applications-in-windows-11/"><u>Conquer Your PC: How to Enable Permanent Administrative Access for All Applications in Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722968294136-download-plus-install-hp-drivers-hassle-free-in-minutes/"><u>Download + Install HP Drivers Hassle-Free in Minutes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-flaunt-your-brand-with-ease-the-top-10-youtube-theme-designers/"><u>In 2024, Flaunt Your Brand with Ease - The Top 10 YouTube Theme Designers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-civi-3-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Civi 3 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-maximize-content-impact-with-youtubes-movie-maker-tools/"><u>In 2024, Maximize Content Impact with YouTube's Movie Maker Tools</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/love-in-full-view-discovering-youtube-and-vimeos-top-7-wedding-movies-for-2024/"><u>Love in Full View Discovering Youtube & Vimeo's Top 7 Wedding Movies for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mjpeg/"><u>MJPEGファイルのオンライン無料変換 - 動画編集ソフトウェア</u></a></li>
 </ul></div>
 

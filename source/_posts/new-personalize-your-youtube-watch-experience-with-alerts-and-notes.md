@@ -1,7 +1,7 @@
 ---
 title: "[New] Personalize Your Youtube Watch Experience with Alerts & Notes"
-date: 2024-11-26T16:09:43.790Z
-updated: 2024-12-03T16:03:04.999Z
+date: 2024-12-03T12:09:21.842Z
+updated: 2024-12-10T04:44:26.047Z
 tags:
   - ai video
   - ai youtube
@@ -45,6 +45,10 @@ The main difference between annotation and cards is their outlook. Cards are mor
 * [Part 1: How to Add YouTube Cards](#part1)
 * [Part 2: How to Add YouTube Annotations](#part2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to add YouTube Cards
 
 YouTube **Cards** are similar to annotations but more interactive. They allow the owner of the video to add images and other links. A small box appears, clicking on which will activate the cards.
@@ -53,13 +57,17 @@ YouTube **Cards** are similar to annotations but more interactive. They allow th
 
 ![](https://images.wondershare.com/filmora/article-images/video-manager-in-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Click "Edit" tab under the video screen shot you want to add the card on
 * Click on the "Cards" tab
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-cards01.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * On the right panel click on "Add Card" drop down menu and select the type of card you want to add
@@ -69,15 +77,7 @@ YouTube **Cards** are similar to annotations but more interactive. They allow th
 
 ![](https://images.wondershare.com/filmora/article-images/add-cards-to-youtube-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Apply changes and exit
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to add YouTube annotations
 
@@ -95,7 +95,7 @@ YouTube Annotation is addition of a text layer, link or hotspots over your video
 ![](https://images.wondershare.com/filmora/article-images/add-annotation-to-youtube-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Apply changes
@@ -137,7 +137,7 @@ No matter what kind of annotations you are using, you should never use more than
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -155,22 +155,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-proven-techniques-for-counteracting-virtual-insults/"><u>[New] Proven Techniques for Counteracting Virtual Insults</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-snipperpro-suite/"><u>[New] SnipperPro Suite</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-unleashing-potential-with-the-powerful-polaroid-xs-100i/"><u>[Updated] In 2024, Unleashing Potential with the Powerful Polaroid XS 100I</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-from-basic-to-breakthrough-a-youtube-live-thumbnail-journey/"><u>2024 Approved From Basic to Breakthrough A YouTube Live Thumbnail Journey</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-historical-insights-at-your-fingertips-top-10-for-students/"><u>2024 Approved Historical Insights at Your Fingertips – Top 10 for Students</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-mixologists-approach-to-youtube-music/"><u>2024 Approved The Mixologist's Approach to YouTube Music</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725288682367-ai/"><u>提升影片品质：锦龙视频AI专业解码技术</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/battlefield-4-no-sound-heres-the-fix/"><u>Battlefield 4 No Sound? Here's The Fix</u></a></li>
-<li><a href="https://article-helps.techidaily.com/discerning-divergence-360-video-vs-virtual-reality/"><u>Discerning Divergence 360° Video Vs. Virtual Reality</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Asus ROG Phone 8 | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-from-last-to-first-deconstructing-your-video-watch-list/"><u>In 2024, From Last to First Deconstructing Your Video Watch List</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-generating-wealth-with-makeup-channels/"><u>In 2024, Generating Wealth with Makeup Channels</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-masterclass-youtube-music-arrangement/"><u>In 2024, Masterclass YouTube Music Arrangement</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unbound-zen-audio-releases/"><u>In 2024, Unbound Zen Audio Releases</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplify-your-system-essential-techniques-for-managing-windows-folders/"><u>Simplify Your System: Essential Techniques for Managing Windows Folders</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/supercharge-productivity-using-onlyoffice-docspace-features-and-chatgpt-technology/"><u>Supercharge Productivity Using ONLYOFFICE DocSpace Features and ChatGPT Technology</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/understanding-dvd-video-quality-what-does-dvd-resolution-mean-480p-720p-or-108n-p/"><u>Understanding DVD Video Quality: What Does DVD Resolution Mean – 480P, 720P, or 108N P?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-instantize-dynamic-images-in-photoshop/"><u>[New] Instantize Dynamic Images in Photoshop</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-pioneer-the-future-of-youtube-content-with-tubebuddy/"><u>[New] Pioneer the Future of YouTube Content with TubeBuddy</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-mastering-iphone-saving-and-utilizing-gifs-effectively-for-2024/"><u>[Updated] Mastering iPhone Saving & Utilizing GIFs Effectively for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-rapid-restoration-of-reddit-archives-removed/"><u>[Updated] Rapid Restoration of Reddit Archives Removed</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-going-against-the-tide-of-tradition-innovative-techniques-for-yt-rewinds/"><u>2024 Approved Going Against the Tide of Tradition Innovative Techniques for YT Rewinds</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-strategies-for-sustainable-income-via-product-based-videos/"><u>2024 Approved Strategies for Sustainable Income via Product-Based Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-tailoring-talent-to-treasure-the-proactive-pursuit-of-video-profitability/"><u>2024 Approved Tailoring Talent to Treasure The Proactive Pursuit of Video Profitability</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/freeze-the-frame-overcoming-shake-phenomena-for-2024/"><u>Freeze the Frame Overcoming Shake Phenomena for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-11-without-apple-id-by-drfone-ios/"><u>How to Erase an Apple iPhone 11 without Apple ID?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-harmonizing-your-spotify-queue-with-youtube-music-catalogs/"><u>In 2024, Harmonizing Your Spotify Queue with YouTube Music Catalogs</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-navigating-the-nooks-and-crannies-of-concurrent-youtube-watching/"><u>In 2024, Navigating the Nooks and Crannies of Concurrent YouTube Watching</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-secure-seamless-youtube-watching-across-devices-and-browsers/"><u>In 2024, Secure Seamless YouTube Watching Across Devices and Browsers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-todays-biggest-bites-the-top-youtube-hits/"><u>In 2024, Today’s Biggest Bites The Top YouTube Hits</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-facebook-page-setup-the-admin-role/"><u>Navigating Facebook Page Setup - The Admin Role</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125179294-score-the-best-deal-on-black-polycarbonate-filament-for-your-printer-only-16-per-kilo/"><u>Score the Best Deal on Black Polycarbonate Filament for Your Printer – Only $16 Per Kilo</u></a></li>
+<li><a href="https://windows11.techidaily.com/transforming-file-system-visibility-on-modern-windows-pcs/"><u>Transforming File System Visibility on Modern Windows PCs</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-lava-blaze-2-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Lava Blaze 2 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

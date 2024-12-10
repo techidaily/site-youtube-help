@@ -1,7 +1,7 @@
 ---
 title: "[New] From Zero to Hero in YouTube Traffic"
-date: 2024-11-08T03:59:11.369Z
-updated: 2024-11-15T09:34:31.957Z
+date: 2024-12-03T02:47:39.041Z
+updated: 2024-12-09T19:59:49.833Z
 tags:
   - ai video
   - ai youtube
@@ -38,6 +38,10 @@ Ready?
 
 Let’s Go!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Research Your Topic and Competitors
 
 [Come up with a video idea](https://tools.techidaily.com/wondershare/filmora/download/). Can’t come up with one? Let me help. I heard you can make a mean scrambled egg, why don’t you show the world how you do it?
@@ -57,6 +61,10 @@ Uh oh… your video will be competing against celebrities like Gordon Ramsay and
 Okay, don’t panic! There is a fantastic quote, credited to bestselling author, [Jon Acuff](https://acuff.me/), that goes:
 
 ![fantastic quote](https://images.wondershare.com/filmora/article-images/fantastic-quote-do-not-compare-beginning-to-middle.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 While researching your competition, you will feel overwhelmed, but remember, you are at the beginning, and Gordon Ramsay and Jamie Oliver are not even at their middle, they are way passed the finish line. You still have a long journey to go, so don’t get discouraged, get inspired!
 
@@ -156,13 +164,6 @@ Have the specific keywords at the top, followed by more general keywords, and th
 
 **Branded**: Gordon Ramsay scrambled eggs
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Make The Best Darn Video Possible
 
 It doesn’t matter how relevant your keywords are or how epic your title is, if you video sucks (i.e. your viewers click in and leave right away), YouTube will not show it in search.
@@ -197,13 +198,6 @@ For example, in this scrambled egg video you are making, at the end you can ask,
 
 ![Encourage Viewers to Engage in Video](https://images.wondershare.com/filmora/article-images/encourage-viewers-to-engage-min.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Who knows, who will respond.
 
 #### Step 9: Design a Thumbnail
@@ -214,6 +208,10 @@ Your viewers will absolutely judge your video by its cover so it’s important t
 
 ![Design a Thumbnail](https://images.wondershare.com/filmora/article-images/design-youtube-video-thumbnail.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Take a look at your competition. If they all look the same, do something different. Add text or a human face (preferably yours) to evoke emotion, as viewers are more likely to click into a video if they see an expressive image.
 
 Don’t want to pay money for a photo editing software such as Photoshop?
@@ -222,13 +220,6 @@ You can use an online service called [Canva](https://www.canva.com/) or download
 
 Want to know more thumbnail maker? Check our picks of the [best free YouTube thumbnail makers](https://tools.techidaily.com/wondershare/filmora/download/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: Publishing With Attention to Optimization
 
 Well done finishing the video! You are almost there… but not there yet.
@@ -236,10 +227,7 @@ Well done finishing the video! You are almost there… but not there yet.
 ![XDyocwuGRiSptxueJZ5aokKqKt-JXMbX](https://images.filmora.io/5/XDyocwuGRiSptxueJZ5aokKqKt-JXMbX.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Come on, keep going!
@@ -274,6 +262,10 @@ Besides considering YouTube SEO, you should make a good YouTube video as well. F
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Do you have any questions about SEO? Please leave us a comment below.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
@@ -293,14 +285,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-harnessing-powerful-tools-for-effective-youtubers-seo/"><u>[New] Harnessing Powerful Tools for Effective YouTubers' SEO</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-design-signature-symbols-use-free-templates-no-copyright/"><u>2024 Approved Design Signature Symbols - Use Free Templates, No Copyright</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-free-guide-recording-youtube-videos-on-screencasts/"><u>2024 Approved Free Guide Recording YouTube Videos on Screencasts</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mastery-in-captioning-a-youtube-creators-handbook/"><u>2024 Approved Mastery in Captioning A YouTube Creator's Handbook</u></a></li>
-<li><a href="https://extra-information.techidaily.com/codec-rivalry-assessing-the-next-step-in-video-encoding/"><u>Codec Rivalry Assessing the Next Step in Video Encoding</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-memorable-content-with-personalized-gifs-for-2024/"><u>Crafting Memorable Content with Personalized GIFS for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/tial-thumbnail-strategies-for-amplifying-viewership-on-youtube/"><u>Essential Thumbnail Strategies for Amplifying Viewership on YouTube</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-reno-10-proplus-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo Reno 10 Pro+ 5G Phones with/without a PC</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-perfect-thumbnail-size-for-click-through-rates/"><u>In 2024, Perfect Thumbnail Size for Click-Through Rates</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-generate-interest-making-your-own-youtube-intros/"><u>[New] Generate Interest Making Your Own YouTube Intros</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-step-by-step-strategy-crafting-video-ads-without-spending-a-dime/"><u>[New] Step-by-Step Strategy Crafting Video Ads without Spending a Dime</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-building-blocks-of-a-well-structured-youtube-video/"><u>[Updated] In 2024, Building Blocks of a Well-Structured YouTube Video</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-ipad-audio-excellence-top-3-techniques/"><u>2024 Approved IPad Audio Excellence Top 3 Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boosting-iphone-efficiency-unveiling-the-impact-of-integrating-google-gemini-into-ios-insights-from-zdnet/"><u>Boosting iPhone Efficiency: Unveiling the Impact of Integrating Google Gemini Into iOS - Insights From ZDNet</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/diagnosing-and-fixing-issues-with-non-readable-optical-drives-expertise-from-yl-software/"><u>Diagnosing and Fixing Issues with Non-Readable Optical Drives – Expertise From YL Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-best-7-chrome-plugins-boosting-ai-responses-with-chatgpt-integration/"><u>Discover the Best 7 Chrome Plugins Boosting AI Responses with ChatGPT Integration</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 On Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/elevating-video-production-the-advantages-of-bandicams-technology/"><u>Elevating Video Production The Advantages of Bandicam's Technology</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-flashing-feathersticks-short-film-characters-music/"><u>In 2024, Flashing Feathersticks Short Film Characters' Music</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-making-every-minute-count-youtube-length-reduction-techniques/"><u>In 2024, Making Every Minute Count YouTube Length Reduction Techniques</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamed-dialogue-scribe/"><u>In 2024, Streamed Dialogue Scribe</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-superior-scrutinizer-of-top-8-rankings-tracker/"><u>In 2024, Superior Scrutinizer of Top 8 Rankings Tracker</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-best-free-video-translation-youtubes-extractors-and-downloader-list/"><u>In 2024, The Best-Free Video Translation YouTube's Extractors & Downloader List</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-y77t-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo Y77t Device</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-top-8-youtube-images-that-captivate-and-convert-viewers/"><u>In 2024, Top 8 YouTube Images That Captivate and Convert Viewers</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/reclaim-your-memories-effective-strategies-for-restoring-missing-photos-in-iphone-dcim-directory-on-pc-windows-1110/"><u>Reclaim Your Memories: Effective Strategies for Restoring Missing Photos in iPhone DCIM Directory on PC Windows 11/10</u></a></li>
 </ul></div>
 

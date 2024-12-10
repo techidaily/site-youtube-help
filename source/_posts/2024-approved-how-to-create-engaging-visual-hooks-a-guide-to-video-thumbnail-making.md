@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Create Engaging Visual Hooks  A Guide to Video Thumbnail Making\""
-date: 2024-11-12T23:02:17.226Z
-updated: 2024-11-15T06:04:56.902Z
+date: 2024-12-07T13:48:31.078Z
+updated: 2024-12-09T20:23:31.576Z
 tags:
   - ai video
   - ai youtube
@@ -43,10 +43,7 @@ Here are 5 easy tips for creating thumbnails that get views.
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Have a Consistent Layout
@@ -129,6 +126,10 @@ People feel automatically connected and drawn into images that make eye contact.
 
 Also, if somebody recognizes you in your thumbnail from a previous video of yours, that will go a long way towards making them click.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Use Graphics/Emojis that are On Topic
 
 Anybody can take a screenshot of themselves in their video and use it as a thumbnail. To make your thumbnails look polished, consider using small images (like emojis or hearts) to stand out. This will add color and personality to your thumbnail.
@@ -140,6 +141,80 @@ Make sure the images you choose are relevant to the topic of your video.
 If you use text in your thumbnail (you don’t have to) then it should be to add context. For example, if the main image is just you smiling then you might need some text to let viewers know the video is a makeup tutorial.
 
 Thumbnails might look large while you’re putting them together in your image editor, but when they’re displayed on YouTube they’re a lot smaller. That goes double if a viewer is watching on their phone. So, make sure that any text you use is large enough that it can be read easily on small screens.
+
+## 5\. Keep it Clutter-Free
+
+It’s great to add text and emojis to your thumbnails, but you do need to be careful not to add too much. You never want your thumbnails to look cluttered. Viewers should be able to glance at your thumbnails and know exactly what kind of video to expect – that’s difficult to do if there’s too much to process.
+
+A good rule for text is to use only 1-3 words. That way they won’t clutter your screen, and you can make them large enough to read on small-screened devices.
+
+ [For even more tips on making great YouTube thumbnails, click here](https://tools.techidaily.com/wondershare/filmora/download/).
+
+Use these tips to make video thumbnails for YouTube, and tell us what kind of results you get!
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+The **video thumbnails** you use for YouTube are vital to getting views and subscribers. There are a lot of things that go into making people watch your videos, but your video thumbnail might be the most important factor.
+
+Here are 5 easy tips for creating thumbnails that get views.
+
+1. **[Have a Consistent Layout](#one)**
+2. **[Use Your Face](#two)**
+3. **[Use Graphics/Emojis That is On Topic](#three)**
+4. **[Make Your Text Huge](#four)**
+5. **[Keep It Clutter-Free!](#five)**
+
+ _Contest now closed._
+
+## Edit Your Videos Before Creating Video Thumbnails
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## 1\. Have a Consistent Layout
+
+Your thumbnails all must look like part of the same set. You want viewers to recognize your videos like yours, and they are more likely to do that if you build up a standard layout that they can start associating with you.
+
+An example of a standard layout could be you in the middle of the screen wearing an expression that matches the theme of your video, with your title written underneath your face. Every individual thumbnail would still be different, but you and the text would always be in the same spot.
+
+![Consistent Layout](https://images.wondershare.com/filmora/article-images/consistent-layout.jpg)
+
+## **2\. Use Your Face**
+
+People feel automatically connected and drawn into images that make eye contact. This makes thumbnails which feature faces more click-able than thumbnails which don’t, in most genres (i.e. if you make food videos then this may not apply – featuring the food might be more important than featuring your face). [Check out more tips like this here](https://tools.techidaily.com/wondershare/filmora/download/).
+
+Also, if somebody recognizes you in your thumbnail from a previous video of yours, that will go a long way towards making them click.
+
+## 3\. Use Graphics/Emojis that are On Topic
+
+Anybody can take a screenshot of themselves in their video and use it as a thumbnail. To make your thumbnails look polished, consider using small images (like emojis or hearts) to stand out. This will add color and personality to your thumbnail.
+
+Make sure the images you choose are relevant to the topic of your video.
+
+## 4\. Make Your Text Huge
+
+If you use text in your thumbnail (you don’t have to) then it should be to add context. For example, if the main image is just you smiling then you might need some text to let viewers know the video is a makeup tutorial.
+
+Thumbnails might look large while you’re putting them together in your image editor, but when they’re displayed on YouTube they’re a lot smaller. That goes double if a viewer is watching on their phone. So, make sure that any text you use is large enough that it can be read easily on small screens.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Keep it Clutter-Free
 
@@ -182,23 +257,11 @@ Here are 5 easy tips for creating thumbnails that get views.
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Have a Consistent Layout
@@ -215,92 +278,9 @@ People feel automatically connected and drawn into images that make eye contact.
 
 Also, if somebody recognizes you in your thumbnail from a previous video of yours, that will go a long way towards making them click.
 
-## 3\. Use Graphics/Emojis that are On Topic
-
-Anybody can take a screenshot of themselves in their video and use it as a thumbnail. To make your thumbnails look polished, consider using small images (like emojis or hearts) to stand out. This will add color and personality to your thumbnail.
-
-Make sure the images you choose are relevant to the topic of your video.
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-## 4\. Make Your Text Huge
-
-If you use text in your thumbnail (you don’t have to) then it should be to add context. For example, if the main image is just you smiling then you might need some text to let viewers know the video is a makeup tutorial.
-
-Thumbnails might look large while you’re putting them together in your image editor, but when they’re displayed on YouTube they’re a lot smaller. That goes double if a viewer is watching on their phone. So, make sure that any text you use is large enough that it can be read easily on small screens.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## 5\. Keep it Clutter-Free
-
-It’s great to add text and emojis to your thumbnails, but you do need to be careful not to add too much. You never want your thumbnails to look cluttered. Viewers should be able to glance at your thumbnails and know exactly what kind of video to expect – that’s difficult to do if there’s too much to process.
-
-A good rule for text is to use only 1-3 words. That way they won’t clutter your screen, and you can make them large enough to read on small-screened devices.
-
- [For even more tips on making great YouTube thumbnails, click here](https://tools.techidaily.com/wondershare/filmora/download/).
-
-Use these tips to make video thumbnails for YouTube, and tell us what kind of results you get!
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-The **video thumbnails** you use for YouTube are vital to getting views and subscribers. There are a lot of things that go into making people watch your videos, but your video thumbnail might be the most important factor.
-
-Here are 5 easy tips for creating thumbnails that get views.
-
-1. **[Have a Consistent Layout](#one)**
-2. **[Use Your Face](#two)**
-3. **[Use Graphics/Emojis That is On Topic](#three)**
-4. **[Make Your Text Huge](#four)**
-5. **[Keep It Clutter-Free!](#five)**
-
- _Contest now closed._
-
-## Edit Your Videos Before Creating Video Thumbnails
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## 1\. Have a Consistent Layout
-
-Your thumbnails all must look like part of the same set. You want viewers to recognize your videos like yours, and they are more likely to do that if you build up a standard layout that they can start associating with you.
-
-An example of a standard layout could be you in the middle of the screen wearing an expression that matches the theme of your video, with your title written underneath your face. Every individual thumbnail would still be different, but you and the text would always be in the same spot.
-
-![Consistent Layout](https://images.wondershare.com/filmora/article-images/consistent-layout.jpg)
-
-## **2\. Use Your Face**
-
-People feel automatically connected and drawn into images that make eye contact. This makes thumbnails which feature faces more click-able than thumbnails which don’t, in most genres (i.e. if you make food videos then this may not apply – featuring the food might be more important than featuring your face). [Check out more tips like this here](https://tools.techidaily.com/wondershare/filmora/download/).
-
-Also, if somebody recognizes you in your thumbnail from a previous video of yours, that will go a long way towards making them click.
 
 ## 3\. Use Graphics/Emojis that are On Topic
 
@@ -325,19 +305,6 @@ A good rule for text is to use only 1-3 words. That way they won’t clutter you
 Use these tips to make video thumbnails for YouTube, and tell us what kind of results you get!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -408,17 +375,73 @@ There are sites online that will allow you to edit images and use them in templa
 
 ![banner n thumb Canva](https://images.wondershare.com/filmora/article-images/banner-n-thumb-Canva.JPG)
 
+**Canva** has templates you can use to create YouTube banners, as well as a variety of stock images you can use in combination with your own when creating channel art. It is free to edit images on Canva, but they do have some premium features which cost $1 each to access. This service has both a desktop version and an iPad app.
+
+![banner n thumb PicMonkey](https://images.wondershare.com/filmora/article-images/banner-n-thumb-PicMonkey.JPG)
+
+**PicMonkey** lets you import images from your computer or social media accounts, edit them, and use them in templates for YouTube banners or other kinds of social media graphics. PicMonkey is free to use, but you can only access their more advanced editing tools if you buy a paid subscription. Monthly subscriptions are $4.99 per month, and yearly subscriptions are $2.75 per month.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+The art on your [YouTube channel](https://tools.techidaily.com/wondershare/filmora/download/) – banners, thumbnails, icons, and watermarks – will help to determine how viewers feel about your vlog. If your art does not look like it all goes together then people will get a sloppy, amateurish, impression of your channel. However, if your different pieces of channel art all seem to complement each other and match the tone and theme of your channel then it will help viewers to have a pleasant browsing experience. They will get the impression that you take your YouTube channel seriously and that they can trust you as a source of information, comedy, or general entertainment.
+
+## How to Make YouTube Banners and Thumbnails
+
+YouTube Banners and Thumbnails are two of the most important pieces of channel art you will need. This article will explain the best practices for both, and suggest sites where you will be able to build your own banners and thumbnails for free.
+
+#### 1\. YouTube Banners
+
+**Quick Tips:**
+
+1. The image you upload for your YouTube banner should be 2560 x 1440px (pixels).
+2. The 'safe area' for text, logos, and other important visual information (like faces) is 1546 x 423px.
+
+Your banner is probably the first thing that comes to mind when you think about channel art. Banners are the headers that rest at the tops of channel pages on YouTube. Your banner should be 2560 x 1440 px, although not all of it will always be visible. On a desktop computer or mobile device only a 1546 x 423 px ‘safe area’ will be visible. When viewed on a TV screen your entire image will be visible. YouTube does support PNG, but if your PNG file does not upload properly (as has been the case for some YouTubers) then changing your file type to JPEG might help.
+
+YouTube Banners are extremely important to the success of your channel. If you do not have a banner then it looks like you do not really care about your vlog. If you have a basic banner that is not at all personalized then it certainly looks like you care, but it might also look like you are new to YouTube.
+
+The best banners are customized to reflect the kind of experience you want viewers to have on your channel. The banner of a comedic YouTube channel might use bright colors, where the banner for a gaming channel will probably use darker colors similar to the ones that are in the games the vlogger plays. Connecting your banner to the theme of your channel is part of how you define the style of your vlog. It is the difference between being a Beauty Guru and a general YouTuber who gives makeup tips sometimes.
+
+Including a photo of yourself, or your logo if you have one, is a great way to personalize your banner.
+
+#### 2\. YouTube Thumbnails
+
+**Quick Tips:**
+
+1. Search for your video's topic to see the thumbnails your thumbnail will be competing against.
+2. Make any text huge so people can read it on their smartphone screens.
+3. Emojis, colored boarders, and graphics are all potential ways to stand out.
+
+Thumbnails are often ignored by newer YouTubers. YouTube selects a thumbnail for every one of your videos and it is always a still image from that video. You can choose which frame you want to use and a lot of people feel like that is good enough. When you create a custom thumbnail, however, you get to not only choose your image but insert a title.
+
+If you are choosing the images you are using for thumbnails you can make sure they are always similar frames. This will help people identify your videos quickly in searches. Using titles in your thumbnails will also help searchers identify your videos, if you always use the same title style. Another benefit of titles is that they capture the attention of people looking for your specific topic. Remember when building your thumbnails that they will appear smaller on YouTube than they probably are while you edit them. On mobile devices, they will look even smaller. So, if you are going to use text in your thumbnail, make sure it is huge.
+
+One thumbnail taboo that you should never break is using an image that has nothing to do with your video. Using an image of a cute cat for a vlog post that has nothing to do with cats is misleading and will anger viewers. You may draw in a lot of viewers who want to see a cat video, but they will leave right away when they do not see a cat and they will never watch anything by you again.
+
+#### 3.Where To Create Banners and Thumbnails
+
+There are sites online that will allow you to edit images and use them in templates for YouTube banners. You can also use these services to edit your thumbnails. Two of the most popular, free, online photo editors are PicMonkey.com and Canva.com.
+
+![banner n thumb Canva](https://images.wondershare.com/filmora/article-images/banner-n-thumb-Canva.JPG)
+
+**Canva** has templates you can use to create YouTube banners, as well as a variety of stock images you can use in combination with your own when creating channel art. It is free to edit images on Canva, but they do have some premium features which cost $1 each to access. This service has both a desktop version and an iPad app.
+
+![banner n thumb PicMonkey](https://images.wondershare.com/filmora/article-images/banner-n-thumb-PicMonkey.JPG)
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-**Canva** has templates you can use to create YouTube banners, as well as a variety of stock images you can use in combination with your own when creating channel art. It is free to edit images on Canva, but they do have some premium features which cost $1 each to access. This service has both a desktop version and an iPad app.
-
-![banner n thumb PicMonkey](https://images.wondershare.com/filmora/article-images/banner-n-thumb-PicMonkey.JPG)
-
 **PicMonkey** lets you import images from your computer or social media accounts, edit them, and use them in templates for YouTube banners or other kinds of social media graphics. PicMonkey is free to use, but you can only access their more advanced editing tools if you buy a paid subscription. Monthly subscriptions are $4.99 per month, and yearly subscriptions are $2.75 per month.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -434,6 +457,10 @@ Follow @Richard Bennett
  Mar 27, 2024• Proven solutions
 
 The art on your [YouTube channel](https://tools.techidaily.com/wondershare/filmora/download/) – banners, thumbnails, icons, and watermarks – will help to determine how viewers feel about your vlog. If your art does not look like it all goes together then people will get a sloppy, amateurish, impression of your channel. However, if your different pieces of channel art all seem to complement each other and match the tone and theme of your channel then it will help viewers to have a pleasant browsing experience. They will get the impression that you take your YouTube channel seriously and that they can trust you as a source of information, comedy, or general entertainment.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Make YouTube Banners and Thumbnails
 
@@ -478,64 +505,9 @@ There are sites online that will allow you to edit images and use them in templa
 
 ![banner n thumb PicMonkey](https://images.wondershare.com/filmora/article-images/banner-n-thumb-PicMonkey.JPG)
 
-**PicMonkey** lets you import images from your computer or social media accounts, edit them, and use them in templates for YouTube banners or other kinds of social media graphics. PicMonkey is free to use, but you can only access their more advanced editing tools if you buy a paid subscription. Monthly subscriptions are $4.99 per month, and yearly subscriptions are $2.75 per month.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-The art on your [YouTube channel](https://tools.techidaily.com/wondershare/filmora/download/) – banners, thumbnails, icons, and watermarks – will help to determine how viewers feel about your vlog. If your art does not look like it all goes together then people will get a sloppy, amateurish, impression of your channel. However, if your different pieces of channel art all seem to complement each other and match the tone and theme of your channel then it will help viewers to have a pleasant browsing experience. They will get the impression that you take your YouTube channel seriously and that they can trust you as a source of information, comedy, or general entertainment.
-
-## How to Make YouTube Banners and Thumbnails
-
-YouTube Banners and Thumbnails are two of the most important pieces of channel art you will need. This article will explain the best practices for both, and suggest sites where you will be able to build your own banners and thumbnails for free.
-
-#### 1\. YouTube Banners
-
-**Quick Tips:**
-
-1. The image you upload for your YouTube banner should be 2560 x 1440px (pixels).
-2. The 'safe area' for text, logos, and other important visual information (like faces) is 1546 x 423px.
-
-Your banner is probably the first thing that comes to mind when you think about channel art. Banners are the headers that rest at the tops of channel pages on YouTube. Your banner should be 2560 x 1440 px, although not all of it will always be visible. On a desktop computer or mobile device only a 1546 x 423 px ‘safe area’ will be visible. When viewed on a TV screen your entire image will be visible. YouTube does support PNG, but if your PNG file does not upload properly (as has been the case for some YouTubers) then changing your file type to JPEG might help.
-
-YouTube Banners are extremely important to the success of your channel. If you do not have a banner then it looks like you do not really care about your vlog. If you have a basic banner that is not at all personalized then it certainly looks like you care, but it might also look like you are new to YouTube.
-
-The best banners are customized to reflect the kind of experience you want viewers to have on your channel. The banner of a comedic YouTube channel might use bright colors, where the banner for a gaming channel will probably use darker colors similar to the ones that are in the games the vlogger plays. Connecting your banner to the theme of your channel is part of how you define the style of your vlog. It is the difference between being a Beauty Guru and a general YouTuber who gives makeup tips sometimes.
-
-Including a photo of yourself, or your logo if you have one, is a great way to personalize your banner.
-
-#### 2\. YouTube Thumbnails
-
-**Quick Tips:**
-
-1. Search for your video's topic to see the thumbnails your thumbnail will be competing against.
-2. Make any text huge so people can read it on their smartphone screens.
-3. Emojis, colored boarders, and graphics are all potential ways to stand out.
-
-Thumbnails are often ignored by newer YouTubers. YouTube selects a thumbnail for every one of your videos and it is always a still image from that video. You can choose which frame you want to use and a lot of people feel like that is good enough. When you create a custom thumbnail, however, you get to not only choose your image but insert a title.
-
-If you are choosing the images you are using for thumbnails you can make sure they are always similar frames. This will help people identify your videos quickly in searches. Using titles in your thumbnails will also help searchers identify your videos, if you always use the same title style. Another benefit of titles is that they capture the attention of people looking for your specific topic. Remember when building your thumbnails that they will appear smaller on YouTube than they probably are while you edit them. On mobile devices, they will look even smaller. So, if you are going to use text in your thumbnail, make sure it is huge.
-
-One thumbnail taboo that you should never break is using an image that has nothing to do with your video. Using an image of a cute cat for a vlog post that has nothing to do with cats is misleading and will anger viewers. You may draw in a lot of viewers who want to see a cat video, but they will leave right away when they do not see a cat and they will never watch anything by you again.
-
-#### 3.Where To Create Banners and Thumbnails
-
-There are sites online that will allow you to edit images and use them in templates for YouTube banners. You can also use these services to edit your thumbnails. Two of the most popular, free, online photo editors are PicMonkey.com and Canva.com.
-
-![banner n thumb Canva](https://images.wondershare.com/filmora/article-images/banner-n-thumb-Canva.JPG)
-
-**Canva** has templates you can use to create YouTube banners, as well as a variety of stock images you can use in combination with your own when creating channel art. It is free to edit images on Canva, but they do have some premium features which cost $1 each to access. This service has both a desktop version and an iPad app.
-
-![banner n thumb PicMonkey](https://images.wondershare.com/filmora/article-images/banner-n-thumb-PicMonkey.JPG)
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **PicMonkey** lets you import images from your computer or social media accounts, edit them, and use them in templates for YouTube banners or other kinds of social media graphics. PicMonkey is free to use, but you can only access their more advanced editing tools if you buy a paid subscription. Monthly subscriptions are $4.99 per month, and yearly subscriptions are $2.75 per month.
 
@@ -621,18 +593,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-mastering-visual-effects-on-a-budget-essential-tutorials-and-techniques-from-4-vfx-experts-videos/"><u>[New] Mastering Visual Effects on a Budget Essential Tutorials and Techniques From 4 VFX Experts' Videos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-navigating-rights-in-instagram-songs/"><u>[Updated] 2024 Approved Navigating Rights in Instagram Songs</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-navigate-to-recent-fb-views-with-ease-2023-guide/"><u>[Updated] Navigate to Recent FB Views with Ease, 2023 Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-conduct-cost-effective-seminars-using-youtube/"><u>2024 Approved Conduct Cost-Effective Seminars Using YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-expert-tips-for-dealing-with-youtube-copyright-notifications/"><u>2024 Approved Expert Tips for Dealing With YouTube Copyright Notifications</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unveiling-websites-your-source-for-youtube-branding-collabs/"><u>2024 Approved Unveiling Websites Your Source for YouTube Branding Collabs</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/fai-ripartire-i-tuoi-back-end-windows-server-soluzioni-rapide-per-risolvere-errori-di-backup-e-funzioni-difettose/"><u>Fai Ripartire I Tuoi Back-End Windows Server: Soluzioni Rapide per Risolvere Errori Di Backup E Funzioni Difettose</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/how-to-reverse-a-video-in-final-cut-pro/"><u>How to Reverse A Video in Final Cut Pro</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/hp-stream-11-your-gateway-to-effortless-basic-computing-on-the-go/"><u>HP Stream 11 - Your Gateway to Effortless Basic Computing on the Go</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-advanced-methods-for-bending-digital-images/"><u>In 2024, Advanced Methods for Bending Digital Images</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-oppo-k11-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Oppo K11 5G</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ipad-reset-mastery-learn-to-enable-recovery-mode-with-ease/"><u>IPad Reset Mastery – Learn to Enable Recovery Mode with Ease</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/learn-vfx-for-free-mastering-the-art-of-background-substitution-through-4-innovative-video-tutorials-for-2024/"><u>Learn VFX for Free Mastering the Art of Background Substitution Through 4 Innovative Video Tutorials for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-the-definitive-users-manual-for-youtube-tv/"><u>[New] 2024 Approved The Definitive User's Manual for YouTube TV</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exclusive-guide-365-days-of-no-cost-text-files/"><u>[New] Exclusive Guide 365 Days of No-Cost Text Files</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-finalizing-account-deletion-on-instagram-method-and-tips/"><u>[New] In 2024, Finalizing Account Deletion on Instagram Method and Tips</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-increasing-youtube-views-through-consistency-in-creative-commons-compliance/"><u>[New] Increasing YouTube Views Through Consistency in Creative Commons Compliance</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-launching-at-optimal-times-a-podcast-guide-for-2024/"><u>[New] Launching at Optimal Times A Podcast Guide for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-practical-steps-for-disabling-youtube-channels-on-devices/"><u>[New] Practical Steps for Disabling YouTube Channels on Devices</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-master-the-art-of-video-sending-from-youtube-to-dailymotion/"><u>2024 Approved Master the Art of Video Sending From YouTube to Dailymotion</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-revealed-the-best-thumbnail-dimensions-for-maximum-viewership-growth/"><u>2024 Approved Revealed! The Best Thumbnail Dimensions for Maximum Viewership Growth</u></a></li>
+<li><a href="https://win11.techidaily.com/add-ons-for-the-classics-mastering-achievements-via-retroarch-software-guide/"><u>Add-Ons for the Classics: Mastering Achievements via Retroarch Software Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-use-youtube-enhancements-for-2024/"><u>How to Use YouTube Enhancements for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-fix-youtube-shorts-thumbnail-not-showing-problem/"><u>In 2024, How to Fix YouTube Shorts Thumbnail Not Showing Problem</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-launchpad-equipment-the-beginners-checklist/"><u>In 2024, Launchpad Equipment The Beginner's Checklist</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-spark-10-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 10 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/vector-graphics-innovation-top-apps-to-transform-your-creations-for-2024/"><u>Vector Graphics Innovation Top Apps to Transform Your Creations for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp4-movavi-ogm-mpg/"><u>원클라이언스 오지에이구 매퍼플라우드 MP4 변환 - 무료 Movavi OGM MPG 교체</u></a></li>
 </ul></div>
 

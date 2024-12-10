@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unleashing Creativity  Essential Lenses for YouTube Vloggers\""
-date: 2024-09-27T16:34:36.055Z
-updated: 2024-10-01T21:08:42.167Z
+date: 2024-12-07T21:12:10.967Z
+updated: 2024-12-10T13:42:15.880Z
 tags:
   - ai video
   - ai youtube
@@ -39,6 +39,10 @@ In this article, I’m going to help you figure that out.
 * [Part 5: Aperture](#aperture)
 * [Part 6: Vlogging With a Fast Lens](#VloggingWithAFastLens)
 * [Part 7: Optical Image Stabilization](#OpticalImageStabilization)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Three Focal Length Groups: Wide, Standard, Telephoto
 
@@ -79,10 +83,7 @@ As telephoto lenses are even more zoomed in, you’ll need to be even further aw
   In the above video, Marcos Rocha compares different focal lengths for talking head videos. Which focal length range do you like the look of?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Crop Factor
@@ -91,14 +92,11 @@ Focal lengths in camera lenses are measured in millimeters. You can vlog yoursel
 
  ![Crop Factor](https://images.wondershare.com/filmora/article-images/camera-lenses-crop-factor.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In order to make up for the cropping that occurs, you will need to use a wider lens on cameras with smaller sensors to get the same shot you’d get with a full-frame camera.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Focal Length Equivalency Table
 
@@ -118,6 +116,10 @@ This table shows you the focal lengths needed to achieve the same shot between c
 ### Aperture
 
  ![Camera lenses Aperture](https://images.wondershare.com/filmora/article-images/camera-lenses-aperture.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The next thing to consider when you’re looking for a lens is the aperture, the hole (often adjustable) within the lens that lets light in. Aperture for camera lenses is measured in f-stops (f/1.4, f/1.8, f/2.0) - the smaller the f-stop number, the larger the aperture (bigger hole letting even more light in).
 
@@ -144,16 +146,7 @@ But do you even need a fast lens?
 * Better continuous autofocus performance needed when shooting moving subjects with a large aperture
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optical Image Stabilization
@@ -170,19 +163,6 @@ If, however, you are shooting most of your vlogs on a tripod, you won’t need a
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -198,22 +178,21 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-leverage-social-blades-platform-for-in-depth-video-analytics/"><u>[New] Leverage Social Blade's Platform for In-Depth Video Analytics</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-premier-popularity-prognosticator-for-video-charts/"><u>[New] Premier Popularity Prognosticator for Video Charts</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-professional-thumbnails-from-your-phone-for-youtube/"><u>[New] Professional Thumbnails From Your Phone for YouTube</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-a-visual-feast-delving-into-the-world-of-asuss-4k-uxga-screen/"><u>[Updated] A Visual Feast Delving Into the World of ASUS's 4K UXGA Screen</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-prime-8-transformative-lenses-for-virtual-conferencing/"><u>[Updated] In 2024, Prime 8 Transformative Lenses for Virtual Conferencing</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-key-to-discovery-perfecting-your-youtube-tags-game/"><u>2024 Approved Key to Discovery Perfecting Your YouTube Tags Game</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-streamline-your-videos-crop-and-export-tutorial-for-instagram/"><u>2024 Approved Streamline Your Videos Crop & Export Tutorial for Instagram</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unlocking-your-youtube-music-collection-a-detailed-guide/"><u>2024 Approved Unlocking Your YouTube Music Collection A Detailed Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/excellence-index-photoplustune-recording-software/"><u>Excellence Index Photo+Tune Recording Software</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/exclusive-guide-to-the-best-7-android-browsers-ad-free-for-2024/"><u>Exclusive Guide to the Best 7 Android Browsers, Ad-Free for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-xiaomi-redmi-note-13-proplus-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Xiaomi Redmi Note 13 Pro+ 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-fast-track-a-step-by-step-guide-for-swiftly-deleting-comments-on-youtube/"><u>In 2024, Fast Track A Step by Step Guide for Swiftly Deleting Comments on YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-jumpstart-your-youtube-channel-growth-with-key-editing-skills-from-sony-vegas/"><u>In 2024, Jumpstart Your YouTube Channel Growth with Key Editing Skills From Sony Vegas</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-transforming-your-film-with-advanced-color-separation/"><u>In 2024, Transforming Your Film with Advanced Color Separation</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-the-cumulus-pro-mat-elevating-comfort-levels-in-a-sit-stand-office-setup/"><u>In-Depth Look at the Cumulus PRO Mat: Elevating Comfort Levels in a Sit-Stand Office Setup</u></a></li>
-<li><a href="https://media-tips.techidaily.com/leverage-techspansions-open-source-tools-for-creating-isquint-and-visualhub/"><u>Leverage Techspansion’s Open-Source Tools for Creating iSquint & VisualHub</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-honor-by-fonelab-android-recover-music/"><u>The way to get back lost music from Honor</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-pioneering-the-past-selecting-top-historical-educational-yts/"><u>[New] Pioneering the Past Selecting Top Historical Educational YTs</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-step-by-step-tutorial-personalize-and-elevate-your-short-videos/"><u>[New] Step-by-Step Tutorial Personalize and Elevate Your Short Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-redefining-user-engagement-with-top-10-video-editors/"><u>[Updated] Redefining User Engagement with Top 10 Video Editors</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-digital-dialogues-comparing-the-impact-of-podcasts-and-youtube-platforms/"><u>2024 Approved Digital Dialogues Comparing the Impact of Podcasts and YouTube Platforms</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-pixelperfect-editor/"><u>2024 Approved PixelPerfect Editor</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-art-of-audience-engagement-emulate-your-idols-online/"><u>2024 Approved The Art of Audience Engagement Emulate Your Idols Online</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-oppo-reno-8t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discovering-pathways-to-access-apples-audio-treasury/"><u>Discovering Pathways to Access Apple's Audio Treasury</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/een-vriendelijk-quiz-oprichten-de-twee-veilige-wegwijzen/"><u>Een Vriendelijk Quiz Oprichten: De Twee Veilige Wegwijzen</u></a></li>
+<li><a href="https://network-issues.techidaily.com/expert-guide-to-counteracting-wow-bug-519/"><u>Expert Guide to Counteracting WoW Bug #519</u></a></li>
+<li><a href="https://techidaily.com/how-to-fix-a-persistent-caps-lock-on-windows-a-guide-to-adjusting-the-keyboard-settings/"><u>How to Fix a Persistent Caps Lock on Windows: A Guide to Adjusting the Keyboard Settings</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-cutting-edge-tutorial-for-enabling-automatic-voice-conversion-in-slides/"><u>In 2024, Cutting Edge Tutorial for Enabling Automatic Voice Conversion in Slides</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-often-should-you-upload-videos-to-youtube-to-get-more-views/"><u>In 2024, How Often Should You Upload Videos to YouTube to Get More Views</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-secrets-of-soaring-wealth-joshis-youtube-path/"><u>In 2024, Secrets of Soaring Wealth Joshi's Youtube Path</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-skyrocket-your-channels-with-these-essential-freegame-tags-for-youtube/"><u>In 2024, Skyrocket Your Channels with These Essential FreeGame Tags for YouTube</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-solving-the-binkw32dll-file-not-found-dilemma/"><u>Ultimate Guide: Solving the 'Binkw32.dll File Not Found' Dilemma</u></a></li>
 </ul></div>
 

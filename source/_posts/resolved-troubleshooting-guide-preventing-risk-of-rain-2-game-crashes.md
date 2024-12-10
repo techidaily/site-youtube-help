@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting Guide - Preventing Risk of Rain 2 Game Crashes"
-date: 2024-11-30T16:12:12.210Z
-updated: 2024-12-03T16:01:12.205Z
+date: 2024-12-05T21:52:41.009Z
+updated: 2024-12-10T07:28:00.330Z
 tags:
   - win11
   - win10
@@ -45,10 +45,6 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Under the**Installed Files** tab, click**Verify integrity of game files** .
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
@@ -56,10 +52,6 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 4) Restart the game after the process is complete.
 
 If Phasmophobia still crashes, move on to the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Delete corrupted game files
 
@@ -74,16 +66,24 @@ Game crashing issues might happen when your game files are corrupted.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-19-47.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Delete everything except these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-44-34.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5) Relaunch the game to test the issue.
 
 If the game still crashes, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -103,17 +103,13 @@ If the game still crashes, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -137,10 +133,6 @@ If the crash still occurs, go ahead with the next fix.
 
  If you still experience crashing issues, then the issue is not with your game settings. You can change the settings back and try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Launch the game with DirectX 10
 
  Another workaround for some players is manually switching the game to DirectX 10\. Here’s how to do it:
@@ -153,12 +145,16 @@ If the crash still occurs, go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-22_16-23-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Launch the game to see if your problem has been resolved.
 
 If Phasmophobia crashing issues persist, try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Stop overlocking your GPU/CPU
@@ -193,6 +189,10 @@ If the problem still exists, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_15-19-31.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hopefully, this article has solved your problem! Please feel free to leave a comment if you have any questions or suggestions.
 
 * [game crash](https://tools.techidaily.com/drivereasy/download/)
@@ -212,24 +212,16 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-how-to-crop-photo-online-for-2024/"><u>[New] How To Crop Photo Online for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-premium-content-at-a-low-price-the-ultimate-list-of-free-intros-makers/"><u>[New] Premium Content at a Low Price The Ultimate List of Free Intros Makers</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-professionals-choice-ranking-the-top-9-microphone-apps/"><u>[New] Professional's Choice Ranking the Top 9 Microphone Apps</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-stream-like-a-pro-optimizing-your-360-youtube-broadcasts/"><u>[New] Stream Like a Pro Optimizing Your 360° Youtube Broadcasts</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-dynamic-designs-the-hottest-snapchat-filters-explored/"><u>[Updated] Dynamic Designs The Hottest Snapchat Filters Explored</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-effortless-webcam-recordings-on-hp-systems/"><u>[Updated] Effortless Webcam Recordings on HP Systems</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-efficient-obs-fb-streaming-techniques/"><u>[Updated] In 2024, Efficient OBS-FB Streaming Techniques</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-quick-stitching-together-synchronizing-obs-and-zoom/"><u>[Updated] In 2024, Quick Stitching Together Synchronizing OBS and Zoom</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-metaverse-versus-multimeva-defining-their-differences-clearly/"><u>2024 Approved Metaverse Versus Multimeva Defining Their Differences Clearly</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-smartphone-guide-crafting-engaging-video-content/"><u>2024 Approved Smartphone Guide Crafting Engaging Video Content</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-transform-your-visual-storytelling-with-no-cost-green-screen-lessons-from-youtubes-best-experts/"><u>2024 Approved Transform Your Visual Storytelling with No-Cost Green Screen Lessons From YouTube's Best Experts</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unleash-potential-a-comprehensive-guide-to-youtube-backlink-building/"><u>2024 Approved Unleash Potential A Comprehensive Guide to YouTube Backlink Building</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-joyful-jests-crafting-top-humorous-content-ideas-for-youtubers/"><u>In 2024, Joyful Jests Crafting Top Humorous Content Ideas for YouTubers</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-learning-legends-esteemed-ed-streams-online/"><u>In 2024, Learning Legends Esteemed Ed Streams Online</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-sustained-engagement-determining-the-ideal-frequency-for-your-youtube-channel/"><u>In 2024, Sustained Engagement Determining the Ideal Frequency for Your YouTube Channel</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-tecno-camon-20-pro-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Tecno Camon 20 Pro 5G Users</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/navigating-adsense-income-on-youtube-per-1000-viewer-earning-for-2024/"><u>Navigating AdSense Income on YouTube Per 1,000 Viewer Earning for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/pro-level-prowess-the-best-video-editors-for-your-drone-footage/"><u>Pro-Level Prowess The Best Video Editors for Your Drone Footage</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/seamless-video-editing-in-windows-10-without-expensive-software-for-2024/"><u>Seamless Video Editing in Windows 10 Without Expensive Software for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-raw-feedback-a-critical-review-of-top-video-editors-for-youtube/"><u>[New] From Raw Feedback A Critical Review of Top Video Editors for YouTube</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-increase-video-playback-speed-on-instagram-for-2024/"><u>[Updated] Increase Video Playback Speed on Instagram for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-how-to-make-money-on-youtube/"><u>2024 Approved How To Make Money on YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-leverage-audience-engagement-through-strategic-posting/"><u>2024 Approved Leverage Audience Engagement Through Strategic Posting</u></a></li>
+<li><a href="https://win-answers.techidaily.com/arcadegeddon-pc-crashes-troubleshooting-guide-what-you-need-to-know/"><u>Arcadegeddon PC Crashes Troubleshooting Guide - What You Need to Know!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-chatgpt-predict-your-future-better-than-a-magazine-horoscope/"><u>Can ChatGPT Predict Your Future Better Than a Magazine Horoscope?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-vivo-v30-lite-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Vivo V30 Lite 5G?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-income-icons-top-earner-video-stars/"><u>In 2024, Income Icons Top Earner Video Stars</u></a></li>
+<li><a href="https://games-able.techidaily.com/metaquest-3-the-future-of-immersive-gaming/"><u>MetaQuest 3: The Future of Immersive Gaming</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/modify-youtube-video-visibility-with-ease-for-2024/"><u>Modify YouTube Video Visibility with Ease for 2024</u></a></li>
 </ul></div>
 

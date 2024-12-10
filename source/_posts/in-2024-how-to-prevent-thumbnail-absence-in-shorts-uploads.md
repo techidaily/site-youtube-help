@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Prevent Thumbnail Absence in Shorts Uploads"
-date: 2024-10-06T17:48:57.203Z
-updated: 2024-10-12T20:12:19.112Z
+date: 2024-12-08T10:23:13.291Z
+updated: 2024-12-09T19:33:25.075Z
 tags:
   - ai video
   - ai youtube
@@ -63,13 +63,6 @@ Unfortunately, there is no reliable fix to this problem yet. YouTubers have trie
 
 Some YouTubers have tried using different images. Others have experimented with changing the aspect ratio of the thumbnail or using Adobe editor for ratios. Clearing histories and cache, using different browsers, resizing, and changing the images' resolution have also been done. Sadly, these are all failed attempts.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Q4\. How To Boost Views When I Have no Control Over YouTube Shorts Thumbnails?
 
 Attracting viewers on Shorts is the same as attracting viewers on the main YouTube. You use interesting thumbnails and video titles. Since thumbnails are out of the options, selecting great video titles has become even more important.
@@ -92,6 +85,10 @@ The best thing is that you don't need to transfer the video from your phone to y
 
 Short-form video watchers love filters, transitions, and effects. And Filmora gives you access to all of that. It provides you with fun and amazing filters, effects, transitions, and stamps that can add a wow factor to your short-form video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Q6\. Do YouTube Shorts Make Money?
 
 Making money from YouTube Shorts was challenging. The platform pays content creators who are doing well through the Creator Fund. However, as Shorts grew, the payout became smaller.
@@ -99,6 +96,10 @@ Making money from YouTube Shorts was challenging. The platform pays content crea
 Luckily, that's going to change. Starting this year, Shorts will be a part of the YouTube Partner Program. This means that you can make money from the ads that people watch on Shorts. According to YouTube, creators will keep 45% of the revenue. It will be distributed based on your share of total Shorts views.
 
 YouTube also adjusted the requirements to qualify for the YPP. They made it easier for Shorts content creators to get into the program.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Q7\. How Do You Make YouTube Shorts Play Normal?
 
@@ -128,19 +129,6 @@ You can watch Shorts like normal YouTube videos where you can rewind when you wa
 
 ![watching a shorts video on mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-1.JPG)
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Like the Shorts video.
 
 ![liked a shorts video on mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-2.JPG)
@@ -148,6 +136,10 @@ You can watch Shorts like normal YouTube videos where you can rewind when you wa
 * Tap "Library"
 
 ![library tab on youtube mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-3.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Scroll down to find "Liked Videos." Click on it.
 
@@ -171,13 +163,6 @@ The best thing is that you don't need to transfer the video from your phone to y
 
 Short-form video watchers love filters, transitions, and effects. And Filmora gives you access to all of that. It provides you with fun and amazing filters, effects, transitions, and stamps that can add a wow factor to your short-form video.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Q6\. Do YouTube Shorts Make Money?
 
 Making money from YouTube Shorts was challenging. The platform pays content creators who are doing well through the Creator Fund. However, as Shorts grew, the payout became smaller.
@@ -208,6 +193,10 @@ You can watch Shorts like normal YouTube videos where you can rewind when you wa
 
 ![playing shorts video like normal video](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-pc-4.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### On a Mobile Phone
 
 * Open the YouTube app. Watch a Shorts video.
@@ -222,6 +211,10 @@ You can watch Shorts like normal YouTube videos where you can rewind when you wa
 
 ![library tab on youtube mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-3.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Scroll down to find "Liked Videos." Click on it.
 
 ![liked videos section on youtube mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-4.JPG)
@@ -229,6 +222,14 @@ You can watch Shorts like normal YouTube videos where you can rewind when you wa
 * Select the Shorts video you just watched. It should be at the top of the list.
 
 ![watching shorts like normal video mobile](https://images.wondershare.com/filmora/article-images/shorts-thumbnail-faqs-play-mobile-5.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -280,13 +281,6 @@ You can download 50 free YouTube channel art templates right here on filmora.io.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You will have the option of downloading either PSD files you can edit in Photoshop, or PNG files you can customize in a free online program like Canva.com. Click here (link) to learn more and download your free channel art templates.
 
 ## 2\. [Canva](https://www.canva.com)
@@ -369,13 +363,6 @@ Canva is a free online program you can use to create all kinds of graphics easil
 
 Although Canva is free to use, and includes many free options for graphics and stock photos, it does also have some premium images and clip art which cost $1 each to use. Making a free banner is as easy as making sure none of the paid elements are in your design (they’re watermarked, so you’ll know).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. [Wondershare PixStudio](https://tools.techidaily.com/wondershare/fotophire/download/)
 
 Wondershare PixStudio is an all-in-one and powerful online graphic design maker for everyone. It has various types of templates for YouTube Thumbnails, Logos, Posters, etc. You can create a beautiful design by simply dragging and dropping the elements and photos. The online platform is free to use all templates, just One-Click to download your creations and share to your Facebook, Instagram Story, and YouTube Thumbnails, etc. immediately.
@@ -394,29 +381,9 @@ The free version of Fotor will work well enough for most YouTubers, but you can 
 
 Visme offers 50 YouTube channel art templates which you can customize the text of for free. You just create a free account, choose the template that best suits your channel, insert your own text and edit that text’s font and color.
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. [YourTube](http://yourtubetheme.com/youtube-channel-art-templates/)
 
 YourTube has a ton of really nice looking channel art templates you can download for free. The downloads include both PSD (Photoshop) files and the background images without text. This is great because you’ll have an editable file you can build on in Photoshop, if you have it, and an image file you can use in combination with a free service like Canva if you don’t.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. [Banner Snack](https://www.bannersnack.com/youtube.html)
 
@@ -425,6 +392,10 @@ Banner Snack is for all kinds of social media graphics from YouTube channel art 
 Let us know if you know anywhere else to get free YouTube channel art templates!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -486,6 +457,10 @@ The free version of Fotor will work well enough for most YouTubers, but you can 
 
 Visme offers 50 YouTube channel art templates which you can customize the text of for free. You just create a free account, choose the template that best suits your channel, insert your own text and edit that text’s font and color.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. [YourTube](http://yourtubetheme.com/youtube-channel-art-templates/)
 
 YourTube has a ton of really nice looking channel art templates you can download for free. The downloads include both PSD (Photoshop) files and the background images without text. This is great because you’ll have an editable file you can build on in Photoshop, if you have it, and an image file you can use in combination with a free service like Canva if you don’t.
@@ -497,13 +472,6 @@ Banner Snack is for all kinds of social media graphics from YouTube channel art 
 Let us know if you know anywhere else to get free YouTube channel art templates!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -538,6 +506,10 @@ You can download 50 free YouTube channel art templates right here on filmora.io.
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 You will have the option of downloading either PSD files you can edit in Photoshop, or PNG files you can customize in a free online program like Canva.com. Click here (link) to learn more and download your free channel art templates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. [Canva](https://www.canva.com)
 
@@ -598,21 +570,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-from-followers-to-fans-a-guide-to-thriving-instagram-presence/"><u>[New] 2024 Approved From Followers to Fans A Guide to Thriving Instagram Presence</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-revenue-sharing-explained-maximizing-profits-with-snippet-videos/"><u>[New] Revenue Sharing Explained Maximizing Profits with Snippet Videos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-savvy-sponsorship-strategies-for-small-scale-sites/"><u>[New] Savvy Sponsorship Strategies for Small-Scale Sites</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-compreenas-record-your-life-in-hd-via-vlc-media-player-for-2024/"><u>[Updated] Compreenas Record Your Life in HD via VLC Media Player for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-youtube-video-free-transcription-techniques/"><u>2024 Approved Mastering YouTube Video Free Transcription Techniques</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-perfecting-audio-on-iphone-select-the-best-6-free-software-choices/"><u>2024 Approved Perfecting Audio on iPhone Select the Best 6 Free Software Choices</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-ultimate-guide-shifting-your-profile-picture-on-global-platforms/"><u>2024 Approved The Ultimate Guide Shifting Your Profile Picture on Global Platforms</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/boost-image-impact-top-iphone-and-android-sticker-augmenting-tools-for-2024/"><u>Boost Image Impact Top iPhone and Android Sticker Augmenting Tools for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/designing-your-digital-persona-for-the-metaverse/"><u>Designing Your Digital Persona for the Metaverse</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-optimize-and-compress-video-files-for-seamless-sharing-on-whatsapp-across-devices/"><u>How to Optimize and Compress Video Files for Seamless Sharing on WhatsApp Across Devices</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-enhancing-photo-stability-with-the-right-gimbal/"><u>In 2024, Enhancing Photo Stability with the Right Gimbal</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-flavorful-follows-top-food-vloggers-to-track/"><u>In 2024, Flavorful Follows Top Food Vloggers to Track</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-awesome-valorant-thumbnails-for-youtube-content/"><u>In 2024, Mastering Awesome Valorant Thumbnails for YouTube Content</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-authoritative-handbook-on-selecting-impactful-podcast-monikers-plus-examples/"><u>In 2024, The Authoritative Handbook on Selecting Impactful Podcast Monikers, Plus Examples</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-power-of-personal-storytelling-in-video-content/"><u>In 2024, The Power of Personal Storytelling in Video Content</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-itel-p55-by-drfone-android/"><u>Universal Unlock Pattern for Itel P55</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-youtube-copyright-concerns-for-recording-screens/"><u>[New] 2024 Approved YouTube Copyright Concerns for Recording Screens</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-put-a-stay-to-unsolicited-youtube-trails/"><u>[New] Put a Stay to Unsolicited YouTube Trails</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-achieving-cohesion-in-content-with-flv-video-integration-for-2024/"><u>[Updated] Achieving Cohesion in Content with FlV Video Integration for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-hidden-sound-scribes-unveiling-ios-and-android-stealth-recorders-for-2024/"><u>[Updated] Hidden Sound Scribes Unveiling iOS & Android Stealth Recorders for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-delving-into-the-realm-of-yis-action-video-potential/"><u>[Updated] In 2024, Delving Into the Realm of Yi's Action Video Potential</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-iphones-artistry-for-time-extended-cinematography/"><u>2024 Approved IPhone's Artistry for Time-Extended Cinematography</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mimicking-golden-age-filmmaking-in-contemporary-videos/"><u>2024 Approved Mimicking Golden Age Filmmaking in Contemporary Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-uncover-hidden-youtube-discussions/"><u>2024 Approved Uncover Hidden YouTube Discussions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/get-premium-banners-no-cost-just-click-for-2024/"><u>Get Premium Banners - No Cost, Just Click for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-essential-techniques-to-elevate-your-channels-visibility/"><u>In 2024, Essential Techniques to Elevate Your Channel's Visibility</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-transform-ads-with-green-screen-and-subs/"><u>In 2024, Transform Ads with Green Screen & Subs</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-content-distribution-a-close-look-at-igtv-and-youtube-for-2024/"><u>Navigating Content Distribution A Close Look at IGTV and YouTube for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/next-level-ui-design-with-argon-professional-bootstrap-n5-admin-suite-from-creative-tim/"><u>Next-Level UI Design with Argon: Professional Bootstrap N5 Admin Suite From Creative Tim</u></a></li>
 </ul></div>
 

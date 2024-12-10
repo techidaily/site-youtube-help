@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In-Depth Video Metrics at Your Fingertips  Social Blade for YouTube\""
-date: 2024-11-30T16:11:25.141Z
-updated: 2024-12-03T16:13:48.821Z
+date: 2024-12-04T17:15:36.176Z
+updated: 2024-12-10T11:24:24.177Z
 tags:
   - ai video
   - ai youtube
@@ -38,7 +38,7 @@ While many of the stats you can find on Social Blade are also available right on
 ![Social Blade for YouTube Analytics](https://images.wondershare.com/filmora/article-images/social-blade-youtube-analytics.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Social Blade is an excellent place to gauge the growth of your channel. It provides statistics on our subscribers, views, and estimated revenue.
@@ -60,7 +60,7 @@ If you scroll down to the second section you will be able to see your views, sub
 By looking at this chart you can see which videos benefited your channel most after they were posted (your videos are not listed, but you can see based on the day you posted them). This will give you a good idea of what your audience wants to see.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Spying on Other Channels
@@ -76,7 +76,7 @@ You can also use Social Blade to look up huge YouTube stars who you admire, just
  That's how you can use Social Blade for YouTube - have you ever used it?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Make Your Videos Stand Out with Powerful Video Editor
@@ -84,13 +84,13 @@ You can also use Social Blade to look up huge YouTube stars who you admire, just
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -108,18 +108,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-2023s-top-social-moment-infographics/"><u>[New] In 2024, 2023'S Top Social Moment Infographics</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ncrease-your-online-presence-youtube-methods-for-2024/"><u>[New] Increase Your Online Presence YouTube Methods for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-strategies-to-avoid-copyright-strikes-on-youtube-videos/"><u>[New] Strategies to Avoid Copyright Strikes on YouTube Videos</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-how-can-you-make-outstanding-youtube-outro-in-2024/"><u>[Updated] How Can You Make Outstanding YouTube Outro, In 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-innovative-approaches-for-unwavering-viewership-within-limit-for-2024/"><u>[Updated] Innovative Approaches for Unwavering Viewership (Within Limit) for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-10-streamers-for-real-time-television-content/"><u>[Updated] Top 10 Streamers for Real-Time Television Content</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-3-ways-to-export-contacts-from-apple-iphone-13-pro-max-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 3 Ways to Export Contacts from Apple iPhone 13 Pro Max to Excel CSV & vCard Easily | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-boost-your-snapchat-speed-a-basic-beginners-guide/"><u>In 2024, Boost Your Snapchat Speed A Basic Beginner's Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-itel-s23-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Itel S23 Phone? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-content-structure-elevated-templates-for-yt/"><u>In 2024, Mastering Content Structure Elevated Templates for YT</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-art-of-producing-alluring-haul-media/"><u>In 2024, The Art of Producing Alluring Haul Media</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-ultimate-guide-finalcut-pro-for-youtube-editing/"><u>In 2024, Ultimate Guide FinalCut Pro for YouTube Editing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-exclusive-youtube-snippet-access-high-quality-free-download/"><u>[New] In 2024, Exclusive YouTube Snippet Access - High Quality, Free Download!</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-silly-screens-top-youtube-humorists-worth-your-time/"><u>[New] Silly Screens Top YouTube Humorists Worth Your Time</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-skyrocket-your-youtube-speed-render-and-upload-hacks/"><u>[New] Skyrocket Your YouTube Speed - Render and Upload Hacks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-crafting-unique-cellphone-alerts-from-popular-tiktok-music/"><u>[Updated] 2024 Approved Crafting Unique Cellphone Alerts From Popular TikTok Music</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-much-income-arises-from-each-snapshot-video/"><u>2024 Approved How Much Income Arises From Each Snapshot (Video)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-guide-to-synchronized-recording-sound-plus-screen-max-156/"><u>Comprehensive Guide to Synchronized Recording: Sound + Screen (Max 156)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/executive-challenges-in-navigating-digital-shifts-c-suite-faces-25x-higher-disruption-levels-reveals-abbyy-research/"><u>Executive Challenges in Navigating Digital Shifts: C-Suite Faces 2.5X Higher Disruption Levels, Reveals ABBYY Research</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-easily-open-control-panel-in-windows-8/"><u>How to Easily Open Control Panel in Windows 8</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-play-7t-phone-without-password-by-drfone-android/"><u>How To Unlock Honor Play 7T Phone Without Password?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-itel-a05s-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Itel A05s</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-tags-the-ultimate-guide-for-video-optimization/"><u>In 2024, Mastering Tags The Ultimate Guide for Video Optimization</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-navigating-the-world-of-youtube-content-creation-with-flair/"><u>In 2024, Navigating the World of YouTube Content Creation with Flair</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-tailoring-tags-to-achieve-six-figures-in-views/"><u>In 2024, Tailoring #Tags to Achieve Six Figures in Views</u></a></li>
 </ul></div>
 

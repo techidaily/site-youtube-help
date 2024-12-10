@@ -1,7 +1,7 @@
 ---
 title: "\"Master the Art of Budget-Friendly YouTubes Intros and Ends for 2024\""
-date: 2024-11-28T16:07:54.778Z
-updated: 2024-12-03T16:12:34.147Z
+date: 2024-12-03T14:17:33.516Z
+updated: 2024-12-10T03:44:05.152Z
 tags:
   - ai video
   - ai youtube
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 [How To Make an End Card](#how-to)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part1: Intros
@@ -73,7 +73,7 @@ You can create a simple intro card in **Filmora**.
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Choose your background. You may want to use a short clip as your intro, or you may just want a colored background.
@@ -86,7 +86,7 @@ You can create a simple intro card in **Filmora**.
 8. Export your video and save it for use in all of your other videos.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: End Cards
@@ -125,7 +125,7 @@ Some creators will leave their end cards at that and play music overtop, but it 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -143,18 +143,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-tips-and-tricks-for-rearranging-your-youtube-playlists/"><u>[New] 2024 Approved Tips & Tricks for Rearranging Your YouTube Playlists</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-propel-your-youtube-presence-upwards-by-thousands/"><u>[New] Propel Your YouTube Presence Upwards by Thousands</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-list-of-beautiful-wedding-clips-youtube-and-vimeo/"><u>2024 Approved The Ultimate List of Beautiful Wedding Clips - Youtube & Vimeo</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/apple-iphone-13-mini-icloud-activation-lock-bypass-by-drfone-ios/"><u>Apple iPhone 13 mini iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/directdraw-error-solved/"><u>DirectDraw Error [SOLVED]</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-honor-100-pro-by-drfone-android/"><u>How to Show Wi-Fi Password on Honor 100 Pro</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-vivo-y02t-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Vivo Y02T</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-meeting-live-google-meet-to-youtube-broadcast-guide/"><u>In 2024, Meeting Live Google Meet to YouTube Broadcast Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-handbook-for-youtube-video-creation/"><u>In 2024, The Ultimate Handbook for YouTube Video Creation</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-asus-rog-phone-7-ultimate-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Asus ROG Phone 7 Ultimate Phones</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/samsung-leads-with-galaxy-ai-as-tech-giants-face-regulatory-scrutiny-in-global-innovation-rankings-zdnet/"><u>Samsung Leads with Galaxy AI as Tech Giants Face Regulatory Scrutiny in Global Innovation Rankings - ZDNet</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-best-hash-tracking-apps-a-comprehensive-review-fbtwitterinsta-for-2024/"><u>The Best Hash Tracking Apps A Comprehensive Review (FB/Twitter/Insta) for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/top-10-online-photo-editing-tools-to-unblur-photos-effectively/"><u>Top 10 Online Photo Editing Tools to Unblur Photos Effectively</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-experience-a-bundle-of-9-whole-film-christmas-treasures-for-free/"><u>[New] Experience a Bundle of 9 Whole-Film Christmas Treasures for Free</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-photo-framing-made-easy-leading-apps-and-sites-reviewed/"><u>[New] In 2024, Photo Framing Made Easy Leading Apps and Sites Reviewed</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-uncompromised-audio-with-ffmpegs-extraction-features/"><u>[New] In 2024, Uncompromised Audio with FFmpeg's Extraction Features</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-skyrocket-your-video-reach-with-these-top-5-youtube-strategies/"><u>[New] Skyrocket Your Video Reach with These #Top 5 YouTube Strategies</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-quick-tips-for-seamless-embedding-of-youtube-playlists-on-a-website/"><u>[Updated] 2024 Approved Quick Tips for Seamless Embedding of YouTube Playlists on a Website</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-why-testimonial-videos-are-essential-for-brands-today-for-2024/"><u>[Updated] Why Testimonial Videos Are Essential for Brands Today for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-exploring-the-world-of-youtube-channel-naming-innovative-ideas-for-vloggers-and-filmmakers-no-more-than-156-characters/"><u>2024 Approved Exploring the World of YouTube Channel Naming Innovative Ideas For Vloggers & Filmmakers (No More than 156 Characters)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-itel-p55-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Itel P55 5G Phone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-journey-to-digital-self-expression-the-vtuber-guide/"><u>In 2024, Journey to Digital Self-Expression – The Vtuber Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-no-barriers-only-creativity-learn-cost-free-background-substitution-with-4-youtube-pros/"><u>In 2024, No Barriers, Only Creativity Learn Cost-Free Background Substitution with 4 YouTube Pros</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-quick-recap-of-chromakey-and-green-screen-processes/"><u>In 2024, Quick Recap of Chromakey and Green Screen Processes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/is-it-illegal-to-document-video-on-youtube-platform-for-2024/"><u>Is It Illegal to Document Video on YouTube Platform for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/movavi-nef-png/"><u>Movavi의 원품: 인터넷을 통해 안전한 공급업법 - NEF 파일을 PNG로 무료 변환</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-the-digital-realm-uploading-with-premiere-and-youtube-for-2024/"><u>Navigating the Digital Realm Uploading with Premiere & YouTube for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/proficiency-through-practice-using-ez-grabber/"><u>Proficiency Through Practice Using EZ Grabber</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/top-10-photo-repair-tools-the-ultimate-guide-for-windows-and-macos-users/"><u>Top 10 Photo Repair Tools: The Ultimate Guide for Windows & macOS Users</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1728479173631-365/"><u>オフィス365 メール転送ができない原因と改善策</u></a></li>
 </ul></div>
 

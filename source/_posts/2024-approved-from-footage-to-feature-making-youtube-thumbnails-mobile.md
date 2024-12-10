@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Footage to Feature  Making YouTube Thumbnails (Mobile)\""
-date: 2024-11-11T00:41:43.501Z
-updated: 2024-11-14T22:37:49.402Z
+date: 2024-12-03T09:28:59.110Z
+updated: 2024-12-10T11:54:27.665Z
 tags:
   - ai video
   - ai youtube
@@ -52,9 +52,17 @@ Step4 To write or draw on the image, **tap** the **Markup** button. This will op
 
 ![ios photo markup](https://images.wondershare.com/filmora/article-images/ios-photo-markup.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step5 When you're satisfied with your thumbnail, **tap Done** in the top right corner of the screen.
 
 ![ios photo save](https://images.wondershare.com/filmora/article-images/ios-photo-save.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Pros
 
@@ -132,13 +140,6 @@ Step3 Tap on the video and tap the "**Edit**" button in the top right corner of 
 
 ![youtube edit video](https://images.wondershare.com/filmora/article-images/youtube-edit-video.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 Tap the **Custom thumbnail** button and **upload** the image you want to use from your photo library.
 
 ![youtube upload thumbnail](https://images.wondershare.com/filmora/article-images/youtube-upload-thumbnail.JPG)
@@ -169,13 +170,6 @@ Step1 Launch Filmora, add the picture to the timeline and **select** the AI Port
 
 ![filmora interface](https://images.wondershare.com/filmora/article-images/filmora-interface.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Scale up and reposition the photo.
 
 ![filmora import image](https://images.wondershare.com/filmora/article-images/filmora-import-image.JPG)
@@ -191,13 +185,6 @@ Step4 When you are done editing the thumbnail, take a **snapshot** by clicking t
 Step5 Locate the thumbnail in your local drive.
 
 ![filmora export thumbnail](https://images.wondershare.com/filmora/article-images/filmora-export-thumbnail.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 For more detailed instructions and a visual guide, you can watch the following video tutorial:
 
@@ -263,6 +250,10 @@ Step5 Change the resolution of the image to **1280 x 720 pixels**.
 
 ![pixellab change resolution](https://images.wondershare.com/filmora/article-images/pixellab-change-resolution.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step6 Save the image to your gallery by exporting it.
 
 ![pixellab export image](https://images.wondershare.com/filmora/article-images/pixellab-export-image.jpg)
@@ -290,9 +281,17 @@ Step1 Open the YouTube app on your mobile device and sign in to your account.
 
 ![youtube install](https://images.wondershare.com/filmora/article-images/youtube-home.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Tap on the **My Videos** tab to view a list of your uploaded videos.
 
 ![youtube select video](https://images.wondershare.com/filmora/article-images/youtube-select-video.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 Tap on the video and tap the "**Edit**" button in the top right corner of the screen.
 
@@ -366,19 +365,6 @@ The recommended size for YouTube thumbnails is 1280 x 720 pixels. This size bala
 
 For example, a thumbnail may be displayed at a larger size when it's shown as the main thumbnail for a video but smaller when it's shown in a list of related videos.
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Q3\. What Thumbnail Gets the Most Clicks?
 
 There is no one-size-fits-all answer to this question, as the thumbnail that gets the most clicks can vary depending on the topic of your video, your target audience, and other factors.
@@ -413,6 +399,10 @@ YouTube is a great way to make money online through sponsorship and selling merc
 
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part 1\. How Much Do YouTubers Make Per View?**
 
 Are you curious about how much YouTubers make per view? Most people are. The Influencer Marketing Hub estimates that the average YouTuber makes $0.018 per view. These rates vary from $0.10 to $0.30 per ad view depending on the type of video and location.
@@ -426,13 +416,6 @@ The YouTube monetization rates vary significantly because of various factors:
 * Ad blockers
 * Ad Quality
 * Video length
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Part 2\. How Much Do YouTubers Make Per 1,000 Views**
 
@@ -457,13 +440,6 @@ The figures above are just estimates. YouTubers often make more or less this amo
 To get paid from revenues, you need to be eligible for the YouTube Partner Program (YPP). The following is the eligibility criteria.
 
 ![ypp eligibility](https://images.wondershare.com/filmora/article-images/2023/youtube-cpm-rates-how-much-do-youtubers-make-3.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The specific eligibility criteria include the following:
 
@@ -555,6 +531,10 @@ Click on the Import Your Media icon, and add all the media files you want to use
 
 ![instant mode 3](https://images.wondershare.com/filmora/article-images/2023/youtube-cpm-rates-how-much-do-youtubers-make-12.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **Step 4 – Implement Text Titles**
 
 From the top-left corner of the screen, click the “Titles” category. Then choose from the options available for the required title template.
@@ -578,13 +558,6 @@ Once you are satisfied with your slideshow video, click on the Timeline button. 
 Click on the Play icon to preview the edited video. Then export it in MP4 format for quick upload to YouTube.
 
 ![instant mode 7](https://images.wondershare.com/filmora/article-images/2023/youtube-cpm-rates-how-much-do-youtubers-make-16.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Other Useful Filmora Video Editing Features**
 
@@ -666,6 +639,10 @@ YouTube creates a clear path for the birth of a new breed of celebrities. They h
 
 ![mr. beast](https://images.wondershare.com/filmora/article-images/2023/youtube-cpm-rates-how-much-do-youtubers-make-4.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ranked first among the highest-paid YouTubers, Jimmy has the most popular channel. With more than 150 million subscribers, he creates videos about challenges, pranks, and giveaways. The videos have accumulated billions of views, contributing to his estimated net worth of over $100 million. Another important source of income is the Mr. Beast Burger app and menu that lets fans order MrBeast-banded meals from over 1,600 restaurants across the country.
 
 ### 2\. [**Jake Paul - $45 million**](https://www.youtube.com/@jakepaul)
@@ -680,11 +657,19 @@ Jake Paul is a renowned American professional boxer. Widely famous on social med
 
 Markiplier makes videos about playing games. The YouTube channel, which started in 2021 is renowned for moving merch. In addition to ad revenue, Markiplier records high sales of T-shirts, hoodies, and other items tied to the Unus Annus series.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **4\.** [**Rhett and Link - $30 million**](https://www.youtube.com/channel/UCbochVIwBCzJb9I2lLGXGjQ)
 
 ![rhett and link](https://images.wondershare.com/filmora/article-images/2023/youtube-cpm-rates-how-much-do-youtubers-make-7.JPG)
 
 This YouTube channel started as the duo hosting a nerdy daily talk show called _Good Mythical Morning_. It quickly grew into an empire with brand extensions and spinoffs that boosted its views and earnings on YouTube.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **5\.** [**Unspeakable - $28.5 million**](https://www.youtube.com/channel/UCwIWAbIeu0xI0ReKWOcw3eg)
 
@@ -729,19 +714,6 @@ From the Instant Mode window, choose the video template you want to use. Click o
 Click on the Import Your Media icon, and add all the media files you want to use for the video. Make sure to import more media files for better use, and press the Auto Create icon to move to the next step.
 
 ![instant mode 3](https://images.wondershare.com/filmora/article-images/2023/youtube-cpm-rates-how-much-do-youtubers-make-12.JPG)
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### **Step 4 – Implement Text Titles**
 
@@ -794,19 +766,20 @@ Running a YouTube Channel is lucrative. Although it may take time to build a fol
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-supercharge-your-tweet-views-for-flawless-hd/"><u>[New] 2024 Approved Supercharge Your Tweet Views for Flawless HD</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-essential-guide-the-top-10-inexpensive-youtube-channels-for-visual-creators-for-2024/"><u>[New] Essential Guide The Top 10 Inexpensive YouTube Channels for Visual Creators for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-how-to-make-a-great-educational-video-for-youtube/"><u>[New] How to Make a Great Educational Video for YouTube?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-how-to-safely-increase-your-youtube-fanbase-to-one-million/"><u>[New] How to Safely Increase Your YouTube Fanbase To One Million</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-steps-to-clear-out-your-youtube-watch-later-collection/"><u>[New] Steps to Clear Out Your YouTube Watch Later Collection</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-full-vision-media-the-smart-mcn-selection-process-for-2024/"><u>[Updated] Full Vision Media The Smart MCN Selection Process for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-the-essentials-of-setting-up-and-assessing-fb-instream-ad-efficacy/"><u>[Updated] In 2024, The Essentials of Setting Up & Assessing FB Instream Ad Efficacy</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-subscription-made-simple-building-a-user-friendly-button-for-channels/"><u>2024 Approved Subscription Made Simple Building a User-Friendly Button for Channels</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-htc-u23-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring HTC U23 PC | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/avoiding-common-pitfalls-in-uploading-hd-videos-to-youtube-for-2024/"><u>Avoiding Common Pitfalls in Uploading HD Videos to YouTube for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-enhancing-moments-tips-for-creating-captivating-slow-motion-on-android/"><u>In 2024, Enhancing Moments Tips for Creating Captivating Slow Motion on Android</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-excellence-exchange-global-creators/"><u>In 2024, Excellence Exchange Global Creators</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-s-best-free-wmv-video-editing-software-for-splitting/"><u>Updated S Best Free WMV Video Editing Software for Splitting</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unravel-the-mystery-of-accessing-your-watchlist-on-facebook/"><u>[New] 2024 Approved Unravel the Mystery of Accessing Your Watchlist on Facebook</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-ideal-tags-elevating-your-contents-discovery-potential/"><u>[New] Ideal Tags Elevating Your Content's Discovery Potential</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-photo-memory-locker-at-no-cost-plus-elite-charged-cloud-spheres/"><u>[New] In 2024, Photo Memory Locker at No Cost, Plus Elite Charged Cloud Spheres</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-honor-play-40c-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Honor Play 40C Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/fifa-visuals-key-youtube-video-trends-for-2024/"><u>FIFA Visuals Key YouTube Video Trends for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-spark-10-4g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Spark 10 4G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-professional-content-creation-tools-review-studio-vs-beta/"><u>In 2024, Professional Content Creation Tools Review Studio Vs. Beta</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-ps5xbox-x-visuals-the-leading-game-screens-ranked/"><u>In 2024, PS5/Xbox X Visuals The Leading Game Screens Ranked</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlining-design-with-new-fonts-in-after-effects/"><u>In 2024, Streamlining Design with New Fonts in After Effects</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-editors-echo-chamber/"><u>In 2024, The Editor's Echo Chamber</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-filmmakers-toolkit-essential-tips-for-youtube-creators-with-smartphones/"><u>In 2024, The Filmmaker's Toolkit Essential Tips for YouTube Creators with Smartphones</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-motorola-moto-g13-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Motorola Moto G13 Location | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-secure-video-sharing-youtube-to-gmail-with-google-access/"><u>In 2024, Unlocking Secure Video Sharing YouTube to Gmail with Google Access</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/launching-a-youtube-channel-key-pieces-of-equipment-for-2024/"><u>Launching a YouTube Channel Key Pieces of Equipment for 2024</u></a></li>
 </ul></div>
 

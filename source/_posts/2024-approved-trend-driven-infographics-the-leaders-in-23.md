@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Trend-Driven Infographics  The Leaders in '23\""
-date: 2024-07-29T19:26:47.994Z
-updated: 2024-07-30T19:26:47.994Z
+date: 2024-12-05T12:43:55.932Z
+updated: 2024-12-10T10:52:35.068Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/a9af59315aea8cc232d9e9df37ddf4fb252ec7cdb
 
 # Infographic - Social Media Trends
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -31,10 +28,6 @@ The landscape of the social media has been constantly changing over the course o
 
 Scroll down to find out this infographic made by [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). And get to know more about the hottest social media trends in 2018 and feel free to let us know what you think in the comments section. Hit share and tell your friends and colleagues about the future of the Internet.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![top social media trends 2018](https://images.wondershare.com/filmora/article-images/top-social-media-trends-2018.jpg)
 
 In 2017, 90% of all content shared by Internet users is **video**, and this trend will continue in 2018 because all of the most popular social networks are investing in video features because they believe it can help them generate better user engagement. Furthermore, the ephemeral content, the type of content that is available for less than 24 hours, is on the rise, which means that Instagram or Snapchat stories must be considered as a channel for brand promotion in the next year and in years to come.
@@ -91,9 +84,6 @@ The landscape of the social media has been constantly changing over the course o
 
 Scroll down to find out this infographic made by [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). And get to know more about the hottest social media trends in 2018 and feel free to let us know what you think in the comments section. Hit share and tell your friends and colleagues about the future of the Internet.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![top social media trends 2018](https://images.wondershare.com/filmora/article-images/top-social-media-trends-2018.jpg)
 
 In 2017, 90% of all content shared by Internet users is **video**, and this trend will continue in 2018 because all of the most popular social networks are investing in video features because they believe it can help them generate better user engagement. Furthermore, the ephemeral content, the type of content that is available for less than 24 hours, is on the rise, which means that Instagram or Snapchat stories must be considered as a channel for brand promotion in the next year and in years to come.
@@ -106,9 +96,6 @@ One force on the market that needs to be reckoned with are **Smartphones**. The 
 
 As of today **Generation Z** already has $44 billion of buying power and this number will continue to grow as the time passes. For that reason, brands and companies will have to adjust their offers to meet the demands of this rising force on the market.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -161,10 +148,113 @@ Follow @Richard Bennett
 
 # How to structure YouTube videos
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+ Creating a YouTube channel and uploading video content is only one part of the key to your success. With so much competition on the platform, it's crucial that you stand out from the crowd with efficient, professional videos that are a pleasure to watch.
+
+ Without some planning and structure in mind before you begin filming, it's all too easy to get a bit lost and start to ramble or fumble your words. Video's filled with 'umm' and 'err' are neither pleasant to watch nor engaging.
+
+ If you're serious about making a great YouTube channel and developing a loyal fan base, you're going to need a workable structure for every video to help you stay on track. Here's what you need to know:
+
+**Quick Jump Menu**
+
+* [Why is structuring your video important?](#part1)
+* [How should you structure YouTube Video Content?](#part2)
+* [Ready to go out and make amazing videos?](#part3)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Why is structuring your video important?
+
+ The structure of your video can make all the difference between a successful YouTube channel and a big waste of time. Your objective is to get people watching more and watching all the way to the end. A great structure can:
+
+* **Build interest and engagement**: By keeping something in reserve and naturally building interest as you go along, people will be compelled to watch longer and interact more with your channel.
+* **Helps you rank higher**: Longer and higher numbers of views will demonstrate your position as an authority well. The YouTube algorithm uses these metrics as part of their ranking factor, so the more and longer views you get, the higher you'll rank in search.
+* **Builds consistency and familiarity**: If all your videos follow a typical structure, your fans will come to be familiar with your format. They'll know what to expect from your content and will watch more regularly as a result.
+
+ So, now you understand why structure is so important to your channel, let's take a look at ways in which you can create an amazing structure for every video you produce.
+
+## How should you structure YouTube video content?
+
+ There are some key elements of a YouTube video's structure which can make it more natural, more engaging and more fun to watch. When you're planning your structure, you should follow a logical timeline to take the viewer from start to finish easily, and to ensure you get the actions you want at the end.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### Intro
+
+ People love to be told what's about to happen, and an intro can be a crucial step in ensuring they are going to continue watching your content. By explaining clearly what they are about to see, why it's important to them and what problems you're aiming to solve, you'll keep them hooked and prevent them from browsing away to the next search result.
+
+ An introduction doesn't need to be long or particularly involved. Remember, you don't want to give away all your information here, as what you want is to encourage them to watch until the end. Something like "I'm going to show you … which will help you to …" is fine.
+
+![](https://images.wondershare.com/filmora/article-images/youtube-structure.jpg)
+
+ Your idea and purpose need to be conveyed fast and effectively if you're keen to get their interest. Most viewers will decide within the first three to five seconds of a video if they want to invest their time in watching, so it's crucial you capture their interest and engage them fast to stop them drifting away.
+
+### Main content
+
+ Once you've introduced your video, it's time to start working through your content. This should be done by:
+
+1. **Framing the problem**
+
+ What are the types of problems that your viewers will have encountered which your video can solve? How is the problem affecting you and your viewers? Take around two to three minutes to describe the problems that you hope your video will solve, and work on being empathetic so people can relate to you and the issue you're discussing.
+
+1. **Offer solutions with examples**
+
+ Move on to your solution to the problem. How did you find this solution? Is it easy to implement? Take around four to five minutes to address your solution and give examples of how it works in practice.
+
+ Now you've addressed the issue that your video content will solve, you're almost ready to ask them to take the next step. Almost. There's one more key element in your structure that you need to remember to include.
+
+### Hook
+
+ The hook can be placed anywhere in your content, although it's most successful when placed either in the introduction or while you are framing the problem. The hook is a tidbit that aims to encourage a full viewing of your video, so don't give away your solutions but do give them a reason to carry on watching.
+
+ If there's a particular point where you think they might become bored or distracted, this is a great time to insert your hook. Come up with a powerful hook, for instance 'with my solution I managed to go from ten views to two hundred in an hour' or 'when you hear this solution you'll understand how I tripled my profits overnight'. Give them a reason to want to stay to the end.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### Outro
+
+ Your outro shouldn't just be about signing off in your unique way with some lovely music and visuals. This is the point at which you can ask something back from your audience, whatever that may be. We call this a 'call to action', and it could eb something as simple as subscribing through to something more involved like visiting your website.
+
+ Think about what you want from your audience; what should they do next? Remember to ask via a strong call to action, otherwise you've simply given them some free advice with very little in the way of a return for you.
+
+### Script or no script?
+
+ Many YouTubers shy away from using any sort of script, feeling that this will make them less relatable and natural. Choosing whether or not to script is entirely up to you; some people feel more comfortable with a script to hand, whereas others prefer to just wing it as they go.
+
+ If you don't feel a script would work for you, do consider having a very rough outline of your structure and the points you want to make readily available while filming. It will help you regain control if you do happen to lose your place and will ensure you get all the information across that you'd planned to.
+
+ If you do think a full script would work better for you, make sure you are able to come across as naturally as possible while reading it. Write your script the same way you speak and run through a few times so you're not squinting at words while you're on camera. If you regularly wander off script, this could be a sign that a freer flowing style is more your thing.
+
+ **Read More to Get :** [How to Loop a YouTube Video >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## Ready to go out and make amazing videos?
+
+ Having a structure to your videos might seem a little unnatural at first, but there's plenty of evidence to show that people who take the time to plan their content get far better results than those who just improvise. If you're unsure of the best structure for your content, watch videos made by others in your niche to see how they organize theirs.
+
+ That's not to say you have to copy the leaders to be a success; indeed, you'll be far more successful on YouTube if you continue to be unique. But there's always room to learn from the best and to take inspiration from those who've been getting the very best results.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
 
 ##### Richard Bennett
 
@@ -192,32 +282,20 @@ Follow @Richard Bennett
 
  So, now you understand why structure is so important to your channel, let's take a look at ways in which you can create an amazing structure for every video you produce.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## How should you structure YouTube video content?
 
  There are some key elements of a YouTube video's structure which can make it more natural, more engaging and more fun to watch. When you're planning your structure, you should follow a logical timeline to take the viewer from start to finish easily, and to ensure you get the actions you want at the end.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Intro
 
  People love to be told what's about to happen, and an intro can be a crucial step in ensuring they are going to continue watching your content. By explaining clearly what they are about to see, why it's important to them and what problems you're aiming to solve, you'll keep them hooked and prevent them from browsing away to the next search result.
 
  An introduction doesn't need to be long or particularly involved. Remember, you don't want to give away all your information here, as what you want is to encourage them to watch until the end. Something like "I'm going to show you … which will help you to …" is fine.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/youtube-structure.jpg)
 
  Your idea and purpose need to be conveyed fast and effectively if you're keen to get their interest. Most viewers will decide within the first three to five seconds of a video if they want to invest their time in watching, so it's crucial you capture their interest and engage them fast to stop them drifting away.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Main content
 
  Once you've introduced your video, it's time to start working through your content. This should be done by:
@@ -232,23 +310,21 @@ Follow @Richard Bennett
 
  Now you've addressed the issue that your video content will solve, you're almost ready to ask them to take the next step. Almost. There's one more key element in your structure that you need to remember to include.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### Hook
 
  The hook can be placed anywhere in your content, although it's most successful when placed either in the introduction or while you are framing the problem. The hook is a tidbit that aims to encourage a full viewing of your video, so don't give away your solutions but do give them a reason to carry on watching.
 
  If there's a particular point where you think they might become bored or distracted, this is a great time to insert your hook. Come up with a powerful hook, for instance 'with my solution I managed to go from ten views to two hundred in an hour' or 'when you hear this solution you'll understand how I tripled my profits overnight'. Give them a reason to want to stay to the end.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Outro
 
  Your outro shouldn't just be about signing off in your unique way with some lovely music and visuals. This is the point at which you can ask something back from your audience, whatever that may be. We call this a 'call to action', and it could eb something as simple as subscribing through to something more involved like visiting your website.
 
  Think about what you want from your audience; what should they do next? Remember to ask via a strong call to action, otherwise you've simply given them some free advice with very little in the way of a return for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Script or no script?
 
@@ -260,15 +336,16 @@ Follow @Richard Bennett
 
  **Read More to Get :** [How to Loop a YouTube Video >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Ready to go out and make amazing videos?
 
  Having a structure to your videos might seem a little unnatural at first, but there's plenty of evidence to show that people who take the time to plan their content get far better results than those who just improvise. If you're unsure of the best structure for your content, watch videos made by others in your niche to see how they organize theirs.
 
  That's not to say you have to copy the leaders to be a success; indeed, you'll be far more successful on YouTube if you continue to be unique. But there's always room to learn from the best and to take inspiration from those who've been getting the very best results.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -337,9 +414,6 @@ Follow @Richard Bennett
 
  If there's a particular point where you think they might become bored or distracted, this is a great time to insert your hook. Come up with a powerful hook, for instance 'with my solution I managed to go from ten views to two hundred in an hour' or 'when you hear this solution you'll understand how I tripled my profits overnight'. Give them a reason to want to stay to the end.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Outro
 
  Your outro shouldn't just be about signing off in your unique way with some lovely music and visuals. This is the point at which you can ask something back from your audience, whatever that may be. We call this a 'call to action', and it could eb something as simple as subscribing through to something more involved like visiting your website.
@@ -356,125 +430,12 @@ Follow @Richard Bennett
 
  **Read More to Get :** [How to Loop a YouTube Video >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Ready to go out and make amazing videos?
 
  Having a structure to your videos might seem a little unnatural at first, but there's plenty of evidence to show that people who take the time to plan their content get far better results than those who just improvise. If you're unsure of the best structure for your content, watch videos made by others in your niche to see how they organize theirs.
 
  That's not to say you have to copy the leaders to be a success; indeed, you'll be far more successful on YouTube if you continue to be unique. But there's always room to learn from the best and to take inspiration from those who've been getting the very best results.
 
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
- Creating a YouTube channel and uploading video content is only one part of the key to your success. With so much competition on the platform, it's crucial that you stand out from the crowd with efficient, professional videos that are a pleasure to watch.
-
- Without some planning and structure in mind before you begin filming, it's all too easy to get a bit lost and start to ramble or fumble your words. Video's filled with 'umm' and 'err' are neither pleasant to watch nor engaging.
-
- If you're serious about making a great YouTube channel and developing a loyal fan base, you're going to need a workable structure for every video to help you stay on track. Here's what you need to know:
-
-**Quick Jump Menu**
-
-* [Why is structuring your video important?](#part1)
-* [How should you structure YouTube Video Content?](#part2)
-* [Ready to go out and make amazing videos?](#part3)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
-## Why is structuring your video important?
-
- The structure of your video can make all the difference between a successful YouTube channel and a big waste of time. Your objective is to get people watching more and watching all the way to the end. A great structure can:
-
-* **Build interest and engagement**: By keeping something in reserve and naturally building interest as you go along, people will be compelled to watch longer and interact more with your channel.
-* **Helps you rank higher**: Longer and higher numbers of views will demonstrate your position as an authority well. The YouTube algorithm uses these metrics as part of their ranking factor, so the more and longer views you get, the higher you'll rank in search.
-* **Builds consistency and familiarity**: If all your videos follow a typical structure, your fans will come to be familiar with your format. They'll know what to expect from your content and will watch more regularly as a result.
-
- So, now you understand why structure is so important to your channel, let's take a look at ways in which you can create an amazing structure for every video you produce.
-
-## How should you structure YouTube video content?
-
- There are some key elements of a YouTube video's structure which can make it more natural, more engaging and more fun to watch. When you're planning your structure, you should follow a logical timeline to take the viewer from start to finish easily, and to ensure you get the actions you want at the end.
-
-### Intro
-
- People love to be told what's about to happen, and an intro can be a crucial step in ensuring they are going to continue watching your content. By explaining clearly what they are about to see, why it's important to them and what problems you're aiming to solve, you'll keep them hooked and prevent them from browsing away to the next search result.
-
- An introduction doesn't need to be long or particularly involved. Remember, you don't want to give away all your information here, as what you want is to encourage them to watch until the end. Something like "I'm going to show you … which will help you to …" is fine.
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.wondershare.com/filmora/article-images/youtube-structure.jpg)
-
- Your idea and purpose need to be conveyed fast and effectively if you're keen to get their interest. Most viewers will decide within the first three to five seconds of a video if they want to invest their time in watching, so it's crucial you capture their interest and engage them fast to stop them drifting away.
-
-### Main content
-
- Once you've introduced your video, it's time to start working through your content. This should be done by:
-
-1. **Framing the problem**
-
- What are the types of problems that your viewers will have encountered which your video can solve? How is the problem affecting you and your viewers? Take around two to three minutes to describe the problems that you hope your video will solve, and work on being empathetic so people can relate to you and the issue you're discussing.
-
-1. **Offer solutions with examples**
-
- Move on to your solution to the problem. How did you find this solution? Is it easy to implement? Take around four to five minutes to address your solution and give examples of how it works in practice.
-
- Now you've addressed the issue that your video content will solve, you're almost ready to ask them to take the next step. Almost. There's one more key element in your structure that you need to remember to include.
-
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
-### Hook
-
- The hook can be placed anywhere in your content, although it's most successful when placed either in the introduction or while you are framing the problem. The hook is a tidbit that aims to encourage a full viewing of your video, so don't give away your solutions but do give them a reason to carry on watching.
-
- If there's a particular point where you think they might become bored or distracted, this is a great time to insert your hook. Come up with a powerful hook, for instance 'with my solution I managed to go from ten views to two hundred in an hour' or 'when you hear this solution you'll understand how I tripled my profits overnight'. Give them a reason to want to stay to the end.
-
-### Outro
-
- Your outro shouldn't just be about signing off in your unique way with some lovely music and visuals. This is the point at which you can ask something back from your audience, whatever that may be. We call this a 'call to action', and it could eb something as simple as subscribing through to something more involved like visiting your website.
-
- Think about what you want from your audience; what should they do next? Remember to ask via a strong call to action, otherwise you've simply given them some free advice with very little in the way of a return for you.
-
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
-### Script or no script?
-
- Many YouTubers shy away from using any sort of script, feeling that this will make them less relatable and natural. Choosing whether or not to script is entirely up to you; some people feel more comfortable with a script to hand, whereas others prefer to just wing it as they go.
-
- If you don't feel a script would work for you, do consider having a very rough outline of your structure and the points you want to make readily available while filming. It will help you regain control if you do happen to lose your place and will ensure you get all the information across that you'd planned to.
-
- If you do think a full script would work better for you, make sure you are able to come across as naturally as possible while reading it. Write your script the same way you speak and run through a few times so you're not squinting at words while you're on camera. If you regularly wander off script, this could be a sign that a freer flowing style is more your thing.
-
- **Read More to Get :** [How to Loop a YouTube Video >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## Ready to go out and make amazing videos?
-
- Having a structure to your videos might seem a little unnatural at first, but there's plenty of evidence to show that people who take the time to plan their content get far better results than those who just improvise. If you're unsure of the best structure for your content, watch videos made by others in your niche to see how they organize theirs.
-
- That's not to say you have to copy the leaders to be a success; indeed, you'll be far more successful on YouTube if you continue to be unique. But there's always room to learn from the best and to take inspiration from those who've been getting the very best results.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -519,16 +480,14 @@ Follow @Richard Bennett
 
  An introduction doesn't need to be long or particularly involved. Remember, you don't want to give away all your information here, as what you want is to encourage them to watch until the end. Something like "I'm going to show you … which will help you to …" is fine.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/youtube-structure.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Your idea and purpose need to be conveyed fast and effectively if you're keen to get their interest. Most viewers will decide within the first three to five seconds of a video if they want to invest their time in watching, so it's crucial you capture their interest and engage them fast to stop them drifting away.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Main content
 
  Once you've introduced your video, it's time to start working through your content. This should be done by:
@@ -543,9 +502,6 @@ Follow @Richard Bennett
 
  Now you've addressed the issue that your video content will solve, you're almost ready to ask them to take the next step. Almost. There's one more key element in your structure that you need to remember to include.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Hook
 
  The hook can be placed anywhere in your content, although it's most successful when placed either in the introduction or while you are framing the problem. The hook is a tidbit that aims to encourage a full viewing of your video, so don't give away your solutions but do give them a reason to carry on watching.
@@ -558,6 +514,10 @@ Follow @Richard Bennett
 
  Think about what you want from your audience; what should they do next? Remember to ask via a strong call to action, otherwise you've simply given them some free advice with very little in the way of a return for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Script or no script?
 
  Many YouTubers shy away from using any sort of script, feeling that this will make them less relatable and natural. Choosing whether or not to script is entirely up to you; some people feel more comfortable with a script to hand, whereas others prefer to just wing it as they go.
@@ -569,9 +529,9 @@ Follow @Richard Bennett
  **Read More to Get :** [How to Loop a YouTube Video >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Ready to go out and make amazing videos?
 
  Having a structure to your videos might seem a little unnatural at first, but there's plenty of evidence to show that people who take the time to plan their content get far better results than those who just improvise. If you're unsure of the best structure for your content, watch videos made by others in your niche to see how they organize theirs.
@@ -579,6 +539,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  That's not to say you have to copy the leaders to be a success; indeed, you'll be far more successful on YouTube if you continue to be unique. But there's always room to learn from the best and to take inspiration from those who've been getting the very best results.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -599,5 +563,19 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-get-real-with-your-logitech-webcam-recording/"><u>[New] In 2024, Get Real with Your Logitech Webcam Recording</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-puns-and-plots-developing-7-funny-video-storylines/"><u>[New] Puns & Plots Developing 7 Funny Video Storylines</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-full-motion-assessment-2023/"><u>[Updated] Full Motion Assessment 2023</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-shadow-play-with-iphone-pro-photography-tips-for-2024/"><u>[Updated] Shadow Play with iPhone Pro Photography Tips for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-your-comprehensive-manual-for-creating-an-accessible-and-effective-chat-room-within-skype-compatible-with-both-windows-and-macos-platforms/"><u>[Updated] Your Comprehensive Manual for Creating an Accessible and Effective Chat Room Within Skype, Compatible with Both Windows & MacOS Platforms</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-entering-the-fullscreen-realm-choosing-a-cms/"><u>2024 Approved Entering the Fullscreen Realm Choosing a CMS</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-switching-spotify-playlists-transferring-to-youtube-music-format/"><u>2024 Approved Switching Spotify Playlists Transferring to YouTube Music Format</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unlock-8-youtube-fitness-ideas-for-viewers-active-participation/"><u>2024 Approved Unlock 8 YouTube Fitness Ideas for Viewers' Active Participation</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/bereinigen-sie-ihren-desktop-schnell-beheben-der-windows-11-quick-access-probleme-mit-drei-strategien/"><u>Bereinigen Sie Ihren Desktop Schnell: Beheben Der Windows 11 Quick-Access-Probleme Mit Drei Strategien</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-apple-iphone-13-pro-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your Apple iPhone 13 Pro without Security Questions?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-the-process-of-identifying-youtube-audience/"><u>In 2024, Unveiling the Process of Identifying YouTube Audience</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-threat-within-detecting-and-disabling-wacatacbml-trojan-on-pcs/"><u>The Threat Within: Detecting and Disabling Wacatac.B!ml Trojan on PCs</u></a></li>
+</ul></div>
 

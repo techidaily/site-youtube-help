@@ -1,7 +1,7 @@
 ---
 title: "Mastering Stability: Prevent Guardians of the Galaxy From Collapsing on Your PC with Our Tricks"
-date: 2024-11-30T16:07:45.305Z
-updated: 2024-12-03T16:13:03.057Z
+date: 2024-12-06T17:03:12.107Z
+updated: 2024-12-10T13:45:06.477Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/d4c7cd2172ccba4bdb571077b4ff8032d0659877f
 
 Although Marvel’s Guardians of the Galaxy has received generally positive reviews from critics, there are still many PC gamers complaining that**Marvel’s Guardians of the Galaxy keeps crashing** on their Windows PC. If you’re in the same boat, don’t worry! The good news is, you’ve come to the right place. After reading this article, should be able to fix this issue easily.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Whether the game crashes on startup or crashes in the middle of the game, you can find a fix to try in this article. You don’t need to try them all, just work your way down the list until you find the one that works for you.
@@ -29,10 +33,6 @@ Although Marvel’s Guardians of the Galaxy has received generally positive revi
 6. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Check the system requirements
 
@@ -53,6 +53,10 @@ Marvel’s Guardians of the Galaxy system requirements
 
  If it keeps crashing on your powerful PC, just read on and try the fixes below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Update your graphics driver
 
  Graphics driver is essential to the functioning of video games. If Marvel’s Guardians of the Galaxy keeps crashing on your PC, it’s likely that you have a corrupted or outdated graphic driver on your PC. So you should update your drivers to see if it fixes the game crashing issues.
@@ -68,12 +72,12 @@ Marvel’s Guardians of the Galaxy system requirements
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 
@@ -88,6 +92,10 @@ Marvel’s Guardians of the Galaxy system requirements
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  Depending on the size of the game files, it may take some time to verify all your game files.
@@ -95,10 +103,6 @@ Marvel’s Guardians of the Galaxy system requirements
  Launch Marvel’s Guardians of the Galaxy after the verifying process is complete. See if it crashes again.
 
 If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Install the latest game patch
 
@@ -118,15 +122,7 @@ If this issue persists, try the next fix, below.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features (e.g. Nvidia GeForce Experience, Discord, Twitch, etc.), make sure you’ve disabled the in-game overlay in those apps feature.
 
@@ -159,19 +155,23 @@ If this fix didn’t work, try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Wait for Fortect to scan your PC. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. After the scanning process is completed, Fortect will provide you with the PC scan summary.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If there’s any issue, then click the Start Repair button on the lower-right corner, and with just one click, Fortect will start to repair the Windows OS on your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Fortect-start-repair.png)  
  Note: This is a paid service with a 60-day Money-Back Guarantee, which means that you’ll need to buy the full version to start repair.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Perform a clean boot
@@ -195,7 +195,7 @@ If this fix didn’t work, try the next fix, below.
 6. Click **Restart** to restart your PC.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
@@ -233,24 +233,22 @@ If this fix didn’t work, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-essential-knowledge-for-capturing-stellar-tiktok-videos/"><u>[New] 2024 Approved Essential Knowledge for Capturing Stellar TikTok Videos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-top-10-editors-elevate-your-webcam-recordings-for-2024/"><u>[New] Top 10 Editors Elevate Your Webcam Recordings for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/op-10-strategies-for-youtube-shorts-that-make-an-impact-for-2024/"><u>[New] Top 10 Strategies for Youtube Shorts That Make an Impact for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-stealthy-stroll-through-facebook-episodes/"><u>[Updated] 2024 Approved Stealthy Stroll Through Facebook Episodes</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-achieve-gentle-edges-in-photo-sharpening/"><u>[Updated] Achieve Gentle Edges in Photo Sharpening</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-swift-and-simple-mac-images-identifying-the-best-5-screenshot-methods/"><u>[Updated] In 2024, Swift & Simple Mac Images Identifying the Best 5 Screenshot Methods</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-independent-artists-guide-to-personalized-visual-tricks/"><u>2024 Approved Independent Artists' Guide to Personalized Visual Tricks</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-is-investing-in-a-monthly-youtube-premium-worthwhile/"><u>2024 Approved Is Investing in a Monthly YouTube Premium Worthwhile?</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-navigating-the-complex-world-of-lipos-for-drones/"><u>2024 Approved Navigating the Complex World of LiPos for Drones</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/guide-complet-comment-proteger-vos-donnees-avec-le-disque-externe-wd-my-passport-sur-windows-1087/"><u>Guide Complet: Comment Protéger Vos Données Avec Le Disque Externe WD My Passport Sur Windows (10/8/7)</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/how-much-could-you-make-on-youtube-snippets-for-2024/"><u>How Much Could You Make on YouTube Snippets for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-expert-tips-top-8-verified-video-marketing-strategies/"><u>In 2024, Expert Tips Top 8 Verified Video Marketing Strategies</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-infinix-hot-40-pro-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Infinix Hot 40 Pro Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-make-a-stunning-lyric-video-with-lyric-video-maker/"><u>In 2024, How to Make a Stunning Lyric Video with Lyric Video Maker</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-leap-from-youtube-to-dailymotion-with-ease/"><u>In 2024, Leap From YouTube to Dailymotion with Ease</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-live-to-share-top-tech-for-high-quality-youtube-livestreams/"><u>In 2024, Live to Share Top Tech For High-Quality YouTube Livestreams</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-best-software-to-start-your-youtube-videos-off-strongly/"><u>In 2024, The Best Software to Start Your YouTube Videos Off Strongly</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/is-it-lawful-to-screen-capture-youtube-content-in-2024/"><u>Is It Lawful to Screen-Capture YouTube Content, In 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/new-era-microsofts-ai-on-bing-search/"><u>New Era: Microsoft's AI on Bing Search</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-indulge-in-9-holiday-blockbusters-free-online-christmas-viewing/"><u>[New] Indulge in 9 Holiday Blockbusters Free Online Christmas Viewing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-nintendo-switch-prime-capture-experience/"><u>[New] Nintendo Switch Prime Capture Experience</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-thrifty-filmmakers-action-camera-options/"><u>[Updated] 2024 Approved Thrifty Filmmaker's Action Camera Options</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-groan-inducing-humor-in-hits/"><u>2024 Approved Groan-Inducing Humor in Hits</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-art-of-video-grading-a-practical-handbook/"><u>2024 Approved The Art of Video Grading A Practical Handbook</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/el-to-checkbook-conversion-the-path-from-adsense-to-banking/"><u>Channel to Checkbook Conversion The Path From AdSense to Banking</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/finding-the-middle-ground-working-and-youtube-for-2024/"><u>Finding the Middle Ground Working & YouTube for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-convert-youtube-to-mp3-in-3-ways-safe-for-2024/"><u>How to Convert YouTube to MP3 in 3 Ways [Safe] for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-avoidance-and-remedy-of-live-video-interruption-issues-fb/"><u>In 2024, Avoidance & Remedy of Live Video Interruption Issues (FB)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-niche-networking-smaller-bizs-video-strategies/"><u>In 2024, Niche Networking Smaller Biz's Video Strategies</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unraveling-youtubes-monetization-shifts/"><u>In 2024, Unraveling YouTube's Monetization Shifts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/maximizing-engagement-how-to-pick-perfect-youtube-collaborators-for-2024/"><u>Maximizing Engagement How to Pick Perfect YouTube Collaborators for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-the-monetization-maze-on-youtube-for-2024/"><u>Navigating the Monetization Maze on Youtube for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionizing-hearables-apples-strategy-to-integrate-cameras-into-airpods-expected-in-2026-reveals-zdnet/"><u>Revolutionizing Hearables: Apple's Strategy to Integrate Cameras Into AirPods Expected in 2026, Reveals ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-guide-to-stop-minecraft-dungeon-from-freezing-and-crashing-on-windows/"><u>Step-by-Step Guide to Stop Minecraft Dungeon From Freezing and Crashing on Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unpacking-whatsapps-telephony-and-messaging-system/"><u>Unpacking WhatsApp's Telephony and Messaging System</u></a></li>
 </ul></div>
 

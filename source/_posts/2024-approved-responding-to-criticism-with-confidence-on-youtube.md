@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Responding to Criticism with Confidence on YouTube\""
-date: 2024-07-29T19:31:10.730Z
-updated: 2024-07-30T19:31:10.730Z
+date: 2024-12-06T19:44:08.989Z
+updated: 2024-12-10T06:53:22.010Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
 # How To Deal with YouTube Trolls and Negative Comments
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -30,8 +27,9 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
  If you have put a lot of work into your YouTube videos then it only makes sense that you have an emotional investment in them. When someone leaves a mean, negative comment on one of your videos it will likely affect you. It may make you angry, hurt your feelings, or just leave you baffled over how someone could come away from your video with out-of-the-blue opinion the hater has posted. ‘Do not feed the trolls’ is a mantra that can be hard to abide by. This article will explain why you should not engage trolls and how to talk to them if you find yourself doing it anyways.
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Deal with Negative Comments on YouTube
 
 #### 1\. Identifying Trolls / When Is A Troll Not a Troll?
@@ -58,10 +56,11 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
  You will not get the troll to say they were wrong or apologize so that should never be your goal. What you can do is create a public record of the troll being corrected for others to judge for themselves. If you maintain a calm, unaffected, tone then the troll will find you boring.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -69,12 +68,33 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-guide-to-amplifying-your-video-presence-with-seo-tips/"><u>[New] Guide to Amplifying Your Video Presence with SEO Tips</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-shifting-from-spotify-playlists-to-customized-youtube-music-catalogs/"><u>[New] Shifting From Spotify Playlists to Customized YouTube Music Catalogs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-blueprints-to-locate-top-tier-videographers/"><u>[Updated] Blueprints to Locate Top-Tier Videographers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-superior-video-capture-leading-webcams-for-podcasts/"><u>[Updated] In 2024, Superior Video Capture Leading Webcams for Podcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-budget-friendly-timer-tools/"><u>[Updated] Top Budget-Friendly Timer Tools</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-graph-gems-2017s-statistical-youtube-surprises/"><u>2024 Approved Graph Gems 2017'S Statistical YouTube Surprises</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-steps-to-clear-out-your-youtube-watch-later-collection/"><u>2024 Approved Steps to Clear Out Your YouTube Watch Later Collection</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-transform-free-channel-into-a-profitable-venture-with-500plus-subscribers/"><u>2024 Approved Transform Free Channel Into a Profitable Venture - With 500+ Subscribers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-how-to-find-and-download-user-manuals-for-all-iphone-models/"><u>Comprehensive Guide: How to Find and Download User Manuals for All iPhone Models</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-oneplus-nord-n30-se-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to OnePlus Nord N30 SE Phones? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-x-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone X To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-explore-the-top-10-youtube-to-mp3-services/"><u>In 2024, Explore the Top 10 YouTube-to-MP3 Services</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-spotlight-on-8-trusted-youtube-growth-services/"><u>In 2024, Spotlight on 8 Trusted Youtube Growth Services</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-swift-guide-image-to-youtube-thumbnail-transformation-techniques/"><u>In 2024, Swift Guide Image to YouTube Thumbnail Transformation Techniques</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ipad3-iphoneipad/"><u>IPadとパソコンを一体化させる3つのシンプルな同期手段 - iPhone、iPad連携ガイド</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/leveraging-yt-playlist-features-for-site-enhancement-for-2024/"><u>Leveraging YT Playlist Features for Site Enhancement for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/melodies-meet-graphics-adding-soundtracks-to-powerpoint/"><u>Melodies Meet Graphics Adding Soundtracks to PowerPoint</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/two-effective-methods-for-cloud-based-synology-nas-backup-a-step-by-step-guide/"><u>Two Effective Methods for Cloud-Based Synology NAS Backup: A Step-by-Step Guide</u></a></li>
+</ul></div>
 

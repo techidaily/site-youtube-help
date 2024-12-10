@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Overcoming MSI Afterburner's Inability to Detect Graphics Card on Modern Windows Versions"
-date: 2024-11-27T16:11:18.925Z
-updated: 2024-12-03T16:13:56.933Z
+date: 2024-12-09T09:16:25.641Z
+updated: 2024-12-09T19:27:53.391Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 5. **[Disable antivirus software](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Flush your DNS and Renew your IP](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Reboot your network
 
  Before you try any of the fixes below, you may want to simply restart your game and router. If restarting the game multiple times failed to launch the game, you’ll need to restart your network:
@@ -47,7 +51,7 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 7. Launch your game again and see if Hitman 3 works properly now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Allow Hitman 3 to run through Windows Firewall
@@ -58,20 +62,16 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 ![Windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/Windows-firewall.jpg)
 2. On the left pane, click **Allow an app or feature through Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-app.jpg)
 3. Make sure your Hitman 3 is on the list, and also make sure it’s ticked for**Private** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. If you don’t find Hitman 3, click**Change settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/change-settings.jpg)
 5. Click**Allow another app…**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![change settings](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-another-app.jpg)
 6. Add your Hitman 3 executable file. If you’re not sure where the game is installed, please follow these steps:  
@@ -83,7 +83,7 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 7. Now launch your game again and test if the**Hitman 3 connection failed error** has been solved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Update your network driver
@@ -103,8 +103,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to a flagged network adapter driver to automatically download and install the correct version of this driver (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-network-adapter-driver.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 
@@ -121,7 +129,7 @@ OR
 3. Next time you open your game launcher, it will launch in admin mode.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Disable antivirus software
@@ -141,17 +149,9 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap8-5.jpg)
 3. You will be prompted for permission. Click **Yes** to run the **Command Prompt** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Type the command line **ipconfig /flushdns**  and press **Enter**  on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap9-5.jpg)
 5. Then type the command line **ipconfig /release**  and press **Enter**  on your keyboard.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap11-5.jpg)
 6. Type the command line **ipconfig /renew**  and press **Enter**  on your keyboard.  
@@ -184,17 +184,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-fresh-camera-lens-captured-analysis-with-backup-titles-for-2024/"><u>[New] Fresh Camera Lens Captured Analysis with Backup Titles for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-going-pro-with-gs-effects-exclusive-free-lessons-from-4-premier-video-channels/"><u>[New] Going Pro with GS Effects Exclusive Free Lessons From 4 Premier Video Channels</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-samsungs-virtual-world-enhanced-by-compatible-smartphones-2023-guide/"><u>[New] Samsung's Virtual World Enhanced by Compatible Smartphones - 2023 Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-seamlessly-personalize-your-youtube-shorts-with-custom-thumbnails/"><u>[New] Seamlessly Personalize Your Youtube Shorts with Custom Thumbnails</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-understanding-du-recorder-through-this-guide/"><u>[Updated] 2024 Approved Understanding Du Recorder Through This Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-lineup-top-10-sources-for-vector-imagery/"><u>2024 Approved Exclusive Lineup Top 10 Sources for Vector Imagery</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-flipping-scripts-generating-parody-content/"><u>2024 Approved Flipping Scripts Generating Parody Content</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-five-ideas-of-winter-youtube-background-to-warm-up-your-videos/"><u>In 2024, Five Ideas of Winter YouTube Background to Warm Up Your Videos</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-leveraging-tools-for-top-tier-video-captures-in-adobe-presenter/"><u>In 2024, Leveraging Tools for Top-Tier Video Captures in Adobe Presenter</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-monetizing-mastery-a-triple-step-approach-to-understanding-youtube-revenue/"><u>In 2024, Monetizing Mastery A Triple Step Approach to Understanding YouTube Revenue</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/understanding-the-soul-of-german-speech-select-25-phrases/"><u>Understanding the Soul of German Speech - Select 25 Phrases</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-the-future-of-branding-10-indispensable-marketing-podcasts-on-social-media-integration/"><u>Updated The Future of Branding 10 Indispensable Marketing Podcasts on Social Media Integration</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-exploring-income-average-creator-revenue-from-adverts-on-youtube/"><u>[New] Exploring Income Average Creator Revenue From Adverts on YouTube?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-shutter-speed-mastery-for-chromebook-users-method-4-for-2024/"><u>[New] Shutter Speed Mastery for Chromebook Users (Method #4) for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-quick-filmmaking-tricks-save-time-and-money-at-home/"><u>[Updated] Quick Filmmaking Tricks Save Time & Money at Home</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-7-nft-generating-marvels-for-modern-digital-artists-needs/"><u>[Updated] Top 7 NFT-Generating Marvels for Modern Digital Artists' Needs</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-raw-to-radiant-youtubes-art-of-visual-aesthetic/"><u>2024 Approved From Raw to Radiant Youtube's Art of Visual Aesthetic</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-make-a-youtube-trailer/"><u>2024 Approved How To Make a YouTube Trailer</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-through-numbers-a-full-guide-for-measuring-youtube-success/"><u>2024 Approved Navigating Through Numbers A Full Guide for Measuring YouTube Success</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808328772-arch-bluetooth-mouse-trouble-get-it-working-again-after-the-windows-11-creators-release/"><u>Arch Bluetooth Mouse Trouble? Get It Working Again After the Windows 11 Creators Release</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/iphone-pertanyaan-model-model-terpopuler-dan-jumlah-waktu-menunggu-sebelum-dapatinya-pandangan-zdnet/"><u>IPhone Pertanyaan! Model-Model Terpopuler Dan Jumlah Waktu Menunggu Sebelum Dapatinya - Pandangan ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unleash-your-inner-fan-with-apple-sports-discover-the-ultimate-complimentary-experience-on-your-iphone-exclusively-featured-by-zdnet/"><u>Unleash Your Inner Fan with Apple Sports: Discover the Ultimate Complimentary Experience on Your iPhone - Exclusively Featured by ZDNet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oneplus-open-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On OnePlus Open Device</u></a></li>
 </ul></div>
 
