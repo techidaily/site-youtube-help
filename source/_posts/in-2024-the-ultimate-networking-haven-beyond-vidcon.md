@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Ultimate Networking Haven  Beyond VidCon\""
-date: 2024-12-09T01:46:06.410Z
-updated: 2024-12-09T23:40:14.646Z
+date: 2024-12-13T17:25:24.581Z
+updated: 2024-12-16T17:07:40.696Z
 tags:
   - ai video
   - ai youtube
@@ -37,7 +37,7 @@ Want to meet your favorite creators? Or, do you want to become a better creator 
 7. [Summer in the City (UK)](#sitc)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **The Most Important YouTube Events**
@@ -57,7 +57,7 @@ Want to be a youtube creator too? Go and get **Wondershare Filmora**, the video 
 ![VidCon-On-Spot](https://images.wondershare.com/filmora/VidCon-On-Spot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In 2017 over 30,000 YouTube enthusiasts – from fans to A-list creators – attended VidCon US, and that was thousands of more people than attended in 2016\. It’s hard to imagine that this event – the biggest convention for YouTube and online video – will do anything but grow over the next few years.
@@ -87,6 +87,10 @@ You have a two-week window (usually the first half of May) to submit your choice
 **Washington DC:** September
 
 ![Playlistlive](https://images.wondershare.com/filmora/Playlistlive.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Playlist Live is a YouTube event for creators and their supporters that has a particular focus on music. Where VidCon is advertised using images of sunshine, crowded convention halls, and speakers, Playlist Live is advertised with images of city skylines, concerts, and fireworks.
 
@@ -122,10 +126,6 @@ There is also business **Passes** with Merch and Deluxe (Business Deluxe can cos
 
 ![beautycon-festivals](https://images.wondershare.com/filmora/beautycon-festivals.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Beautycon is an event meant to highlight innovators in the fields of Beauty, Makeup, and Lifestyle. They bring together online creators, fans, celebrities, and brands for two-day festivals full of fun, panel discussions, shopping, and free samples.
 
 In 2017, 30,000 people attended Beautycon festivals internationally.
@@ -151,7 +151,7 @@ These events are customized to the wherever festival is visiting, so you’re al
 ![youtube-fanfest](https://images.wondershare.com/filmora/youtube-fanfest.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 There is not a steady annual schedule for FanFests, but it has visited these cities in the past: Manila, Mumbai, Seoul, Toronto, Sao Paulo, Jakarta, Tokyo, Jeddah, Bangkok, Ho Chi Minh City, Hong Kong, and Washington, DC.
@@ -205,7 +205,7 @@ For VIP access, you can buy a **Deluxe** pass for $125-$150 AUD.
 ![summer-in-the-city](https://images.wondershare.com/filmora/summer-in-the-city.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This is the largest online video festival in the UK. It features discussion panels, workshops, and live performances targeted at creators, fans of online video, and industry professionals. YouTubers might hang out on the show floor meeting fans, and there are also Meet and Greet sessions for top creators. All ticket holders can submit online ballots for a chance at Meet and Greet access.
@@ -247,24 +247,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-optimizing-youtube-videos-with-the-right-tags/"><u>[New] Optimizing YouTube Videos with the Right Tags</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-extract-your-favorites-best-playlist-tools-reviewed-and-rated/"><u>[Updated] Extract Your Favorites Best Playlist Tools Reviewed and Rated</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harnessing-the-power-of-dynamic-images-in-ios/"><u>[Updated] Harnessing the Power of Dynamic Images in iOS</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-elite-ai-for-high-fidelity-image-editing/"><u>[Updated] In 2024, Elite AI for High-Fidelity Image Editing</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-increase-your-streams-value-youtube-monetizing-techniques-worldwide/"><u>2024 Approved Increase Your Stream's Value YouTube Monetizing Techniques Worldwide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-se-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock Apple iPhone SE After Forgetting the Passcode?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-steps-to-correct-haldll-file-not-found-issues-in-windows-xp/"><u>Essential Steps to Correct 'hal.dll' File Not Found Issues in Windows XP</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/expert-tips-for-post-upload-video-improvement-for-2024/"><u>Expert Tips for Post-Upload Video Improvement for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/fixed-youtubes-missing-minute-media-for-2024/"><u>Fixed YouTube's Missing Minute Media for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/gopro-hero9-black-review-the-best-of-gopro-comes-at-a-price/"><u>GoPro HERO9 Black Review: The Best of GoPro Comes at a Price</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-itel-a60-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Itel A60 Phone Screen?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-broken-or-unresponsive-turtle-beach-elite-atlas-microphone/"><u>How to Fix a Broken or Unresponsive Turtle Beach Elite Atlas Microphone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-sony-xperia-5-v-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-haste-in-playlist-distribution-youtube-guide/"><u>In 2024, Haste in Playlist Distribution YouTube Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-loop-youtube-videos-on-tv/"><u>In 2024, How to Loop YouTube Videos on TV</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-investing-right-choosing-the-best-camera-and-gear/"><u>In 2024, Investing Right Choosing the Best Camera and Gear</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-streamline-your-content-with-these-20-essential-youtube-hacks/"><u>In 2024, Streamline Your Content with These 20 Essential YouTube Hacks</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/navigating-video-dimensions-a-focused-look-at-aspect-ratios-for-2024/"><u>Navigating Video Dimensions A Focused Look at ASPECT RATIOS for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-failed-steam-game-updates-on-your-pc-or-mac/"><u>Troubleshooting Failed Steam Game Updates on Your PC or Mac</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-expert-insights-on-incorporating-hashtags-for-game-streams/"><u>[New] Expert Insights on Incorporating Hashtags for Game Streams</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-syma-x5c-the-ideal-drone-to-elevate-your-aerial-introduction/"><u>[New] Syma X5C The Ideal Drone to Elevate Your Aerial Introduction</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-incorporating-side-content-a-filmmakers-guide/"><u>[Updated] Incorporating Side Content A Filmmaker's Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-swift-techniques-mastering-effective-double-exposure/"><u>2024 Approved Swift Techniques Mastering Effective Double Exposure</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-understanding-gb-requirement-for-a-days-film/"><u>2024 Approved Understanding GB Requirement for a Day's Film</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-buys-labor-day-deal-alert-hp-challenger-victus-15-now-within-reach-with-350-off-offer/"><u>Best Buy's Labor Day Deal Alert: HP Challenger Victus 15 Now Within Reach With $350 Off Offer!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/captivating-brain-teasing-games-akin-to-the-room-and-myst-for-apple-tablets-and-phones/"><u>Captivating Brain-Teasing Games Akin to 'The Room' And 'Myst' For Apple Tablets & Phones</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/comment-synchronisation-entre-une-version-portable-et-bureau-sur-windows-11-guide-complet/"><u>Comment Synchronisation Entre Une Version Portable Et Bureau Sur Windows 11 : Guide Complet</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/first-steps-in-the-digital-dollar-youtube-earning-hacks-for-2024/"><u>First Steps in the Digital Dollar - YouTube Earning Hacks for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/free-film-and-image-repository-highlights-for-2024/"><u>Free Film and Image Repository Highlights for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/from-novice-to-specialist-a-step-by-step-journey-through-adobe-ps-background-removal-techniques/"><u>From Novice to Specialist A Step-by-Step Journey Through Adobe PS Background Removal Techniques</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-make-a-cooking-video-in-steps-an-ultimate-guide-for-2024/"><u>How to Make a Cooking Video in Steps - an Ultimate Guide for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-exclusive-sneak-peek-at-apples-finest-facebook-video-extractor-apps/"><u>In 2024, Exclusive Sneak Peek at Apple's Finest Facebook Video Extractor Apps</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-exploring-biggest-fifa-footage-trends-in-graphics/"><u>In 2024, Exploring Biggest FIFA Footage Trends in Graphics</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-video-edits-in-youtube-studios-editor/"><u>In 2024, Mastering Video Edits in YouTube Studio's Editor</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-for-compelling-haul-video-crafting/"><u>In 2024, Step-by-Step for Compelling Haul Video Crafting</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-understanding-youtube-shorts-earnings-for-maker-income/"><u>In 2024, Understanding YouTube Shorts Earnings for Maker Income</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-to-motorola-moto-g-stylus-5g-2023-converter-convert-mkv-for-motorola-moto-g-stylus-5g-2023-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV to Motorola Moto G Stylus 5G (2023) converter - convert MKV for Motorola Moto G Stylus 5G (2023)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/say-goodbye-to-paywalls-with-free-video-handling-tools-for-2024/"><u>Say Goodbye to Paywalls with Free Video Handling Tools for 2024</u></a></li>
 </ul></div>
 

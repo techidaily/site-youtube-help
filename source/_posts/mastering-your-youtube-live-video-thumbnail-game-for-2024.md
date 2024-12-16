@@ -1,7 +1,7 @@
 ---
 title: "Mastering Your YouTube Live Video Thumbnail Game for 2024"
-date: 2024-12-05T21:37:57.076Z
-updated: 2024-12-09T23:41:08.585Z
+date: 2024-12-15T18:44:55.413Z
+updated: 2024-12-16T17:14:31.536Z
 tags:
   - ai video
   - ai youtube
@@ -85,16 +85,8 @@ Suppose you want to change the YouTube live stream thumbnail the uld-fashioned w
 
 ![going to youtube studio](https://images.wondershare.com/filmora/article-images/youtube-live-thumbnail-classic-5.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Select the thumbnail image you have prepared. Click "Open."
 * Wait for the thumbnail image to refresh.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3\. Upload a Thumbnail to YouTube Live With Mobile Phones
 
@@ -119,6 +111,10 @@ Perhaps you are live-streaming a trip somewhere. There are other ways to do it n
 
 ![editing youtube live thumbnail](https://images.wondershare.com/filmora/article-images/youtube-live-thumbnail-mobile-7.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Select "Upload thumbnail."
 
 ![upload thumbnail option](https://images.wondershare.com/filmora/article-images/youtube-live-thumbnail-mobile-8.JPG)
@@ -136,6 +132,10 @@ Perhaps you are live-streaming a trip somewhere. There are other ways to do it n
 
 So you now know how to change the live stream thumbnail. There's one more thing we need to address. Where will you get the custom thumbnails? There are a number of good YouTube thumbnail makers out there. Let's discuss this.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Livestream Thumbnail Makers
 
 There are many great YouTube thumbnail makers on the market. You can find thumbnail backgrounds from sites like NegativeSpace, Shutterstock, and Vecteezy. Then, edit them to your liking using photo editing apps. Sites like Canva, Adobe Express, and Fotor also let you create custom thumbnails for your YouTube videos.
@@ -145,10 +145,6 @@ There are many great YouTube thumbnail makers on the market. You can find thumbn
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Steps to Make an Amazing YouTube Livestream Thumbnail
 
@@ -161,6 +157,10 @@ Here is a tutorial on how to create a YouTube Livestream thumbnail using Wonders
 * Click "Effect."
 
 ![effects tab on filmora](https://images.wondershare.com/filmora/article-images/youtube-live-thumbnail-filmora-2.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Drag the "Human Segmentation" effect to your image on the timeline. Do the same with "Human Border." Alternatively, click "Touls" > "Video" > "AI Portrait" > "Ok."
 
@@ -182,10 +182,6 @@ Here is a tutorial on how to create a YouTube Livestream thumbnail using Wonders
 
 ![revealing thumbnail image in explorer](https://images.wondershare.com/filmora/article-images/youtube-live-thumbnail-filmora-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Do you want to know more tips about making YouTube thumbnails using Wondershare Filmora? If so, watch this video:
 
 ### How To Customize YouTube Livestream Thumbnail Online
@@ -197,6 +193,10 @@ Do you want to know more tips about making YouTube thumbnails using Wondershare 
 * Select "Thumbnail" under Livestreaming.
 
 ![youtube live thumbnail templates on wave](https://images.wondershare.com/filmora/article-images/youtube-live-thumbnail-wave-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Select a template that fits your idea.
 
@@ -219,10 +219,6 @@ Do you want to know more tips about making YouTube thumbnails using Wondershare 
 
 ![downloading the custom thumbnail from wave](https://images.wondershare.com/filmora/article-images/youtube-live-thumbnail-wave-9.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Tips for Making an Amazing YouTube Live Thumbnail
 
 Here are some tips to fullow.
@@ -230,6 +226,10 @@ Here are some tips to fullow.
 ### Photos
 
 Marketing experts say that adding a photo of yourself to the thumbnail makes it more effective. Needless to say, you should not choose just any photo. You must ensure it is of high quality. Using good cameras and lighting equipment is recommended.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Expressions
 
@@ -260,16 +260,12 @@ Here is a tutorial on how to create a YouTube Livestream thumbnail using Wonders
 ![effects tab on filmora](https://images.wondershare.com/filmora/article-images/youtube-live-thumbnail-filmora-2.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Drag the "Human Segmentation" effect to your image on the timeline. Do the same with "Human Border." Alternatively, click "Touls" > "Video" > "AI Portrait" > "Ok."
 
 ![adding human segmentation effect on filmora](https://images.wondershare.com/filmora/article-images/youtube-live-thumbnail-filmora-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Select the photo on the timeline. Scale it and move it to where you want it to be.
 
@@ -282,6 +278,10 @@ Here is a tutorial on how to create a YouTube Livestream thumbnail using Wonders
 * Click the "Camera" icon below the video preview to save the thumbnail. Select a format and a target fulder. Click "Ok."
 
 ![taking a snapshot on filmora](https://images.wondershare.com/filmora/article-images/youtube-live-thumbnail-filmora-6.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Right-click the screenshot on the Media panel. Select "Reveal in Explorer." That will open the fulder where the thumbnail image is saved.
 
@@ -319,10 +319,6 @@ Do you want to know more tips about making YouTube thumbnails using Wondershare 
 * Please wait for it to finish, then click "Download."
 
 ![downloading the custom thumbnail from wave](https://images.wondershare.com/filmora/article-images/youtube-live-thumbnail-wave-9.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Tips for Making an Amazing YouTube Live Thumbnail
 
@@ -378,10 +374,6 @@ The Nutcracker is a holiday classic that many people seek out every year on the 
 
 A Smoky Mountain Christmas is a film from 1986 directed by Harry Winkler and starring Lee Majors and Dolly Parton. The full musical fairy tale can be found online on YouTube and it's about a country singer who is trying to spend a quiet Christmas holiday at home. She suddenly becomes involved with a mysterious mountain man, an evil witch and is forced to protect seven orphans over the holidays. This film can be found at:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3. Ernest saves Christmas
 
 This film from 1989 features Jim Varney and his most famous character Ernest in a holiday Christmas movie that is an instant classic. This film is very funny and a favorite amongst some of the Ernest films for many. This Christmas movie from 1989 can be found at:
@@ -490,10 +482,6 @@ This film from 1989 features Jim Varney and his most famous character Ernest in 
 
 A Christmas story has long been one of the favorite Christmas movies for many families. In this film from 1983 we travel back in time to a traditional 1940s Christmas. In this film we follow the nine-year-old Ralphie who is looking for the famous red Ryder BB gun for Christmas and will stop at absolutely nothing to get it. A Christmas story can be found at:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5. Richie Rich's Christmas wish
 
 In this film from 1998 we hear the story of the richest kid in the world on Christmas. In this film we see the richest in the world wishing that he had never been born with the wish coming true. Richie needs to find himself a new wishing machine and a way out of the parallel universe he gets stuck in to get back to his family. You can find this film at:
@@ -505,6 +493,10 @@ This film stars the hulk Mark Ruffalo in one of his earlier roles as a store emp
 ### 7. Santa Who?
 
 Santa who is a film from the year 2000 starring Leslie Nielsen. In this holiday classic Santa suffers a severe case of amnesia on Christmas Eve and needs to recover for Christmas day in order to make it through and deliver presents to all of the good children of the world. See if Santa gets his Christmas memories back by watching Santa Who here:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8. A Christmas Carol
 
@@ -528,9 +520,17 @@ Follow @Shanoon Cox
 
 If you are looking for Christmas entertainment this season you may be quick to look towards a provider like iTunes or Netflix to give you some excellent Christmas movies. The good news is that you can also find a number of excellent classic Christmas movies on YouTube. Accessing these movies on YouTube while to save your rental fees as well as make sure that you can have a steady stream of Christmas entertainment whoever you might be visiting over the holiday season. Here are some of the top 10 classic movies that you can find for free on YouTube right now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1. The nutcracker 1990
 
 The Nutcracker is a holiday classic that many people seek out every year on the stage. This family ballet classic was filmed by the Pacific Northwest ballet in a huge and lavish version of the production in 1986\. This still stands as one of the best versions of the Nutcracker ever captured on film and you can watch it for free on YouTube. You can find the Nutcracker at :
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2. A smoky mountain Christmas
 
@@ -587,19 +587,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-from-zero-to-million-in-minutes-rapidly-rise-as-an-instagram-influencer-with-these-top-tips-for-2024/"><u>[New] From Zero to Million in Minutes Rapidly Rise as an Instagram Influencer with These Top Tips for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-navigating-the-pitfalls-of-youtube-monetization-mistakes/"><u>[New] Navigating the Pitfalls of YouTube Monetization Mistakes</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-protecting-privacy-during-youtube-to-mp4-conversion/"><u>[New] Protecting Privacy During YouTube-to-MP4 Conversion</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-rapid-audio-to-video-conversion-for-youtube-fans/"><u>[New] Rapid Audio-to-Video Conversion for YouTube Fans</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/caling-success-the-tactics-for-increasing-youtube-audiences/"><u>[New] Scaling Success The Tactics for Increasing YouTube Audiences</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-crafting-instagram-stories-polls-your-complete-playbook/"><u>[Updated] Crafting Instagram Stories Polls - Your Complete Playbook</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-technological-testing-and-tracking-the-vll-method/"><u>2024 Approved Technological Testing and Tracking The VLL Method</u></a></li>
-<li><a href="https://fox-search.techidaily.com/cloning-in-different-industries-real-deal-or-mimicry/"><u>Cloning in Different Industries: Real Deal or Mimicry?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/game-up-your-content-with-these-effective-freefire-video-hashtags-for-2024/"><u>Game Up Your Content with These Effective FreeFire Video Hashtags for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-gain-profit-power-the-secret-of-successful-youtube-marketing-and-500plus/"><u>In 2024, Gain Profit Power The Secret of Successful Youtube Marketing & 500+</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-vivo-y100a-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Vivo Y100A with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-ultimate-a-list-viewing-channel-guide-for-films/"><u>In 2024, Ultimate A-List Viewing Channel Guide for Films</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/prime-aviation-gadgets-purchase-now-for-2024/"><u>Prime Aviation Gadgets, Purchase Now for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/turbocharge-your-yard-care-with-futuristic-racecar-inspired-robot-mowers-for-picture-perfect-lawns/"><u>Turbocharge Your Yard Care with Futuristic Racecar-Inspired Robot Mowers for Picture-Perfect Lawns</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-alternatives-to-windows-traditional-video-editing-for-2024/"><u>[New] Alternatives to WIndows' Traditional Video Editing for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-execute-flawless-wirecast-broadcasts-on-youtube/"><u>[New] How to Execute Flawless WireCast Broadcasts on YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-recycle-and-relish-continuous-playback-of-youtube-on-tv/"><u>[New] Recycle and Relish Continuous Playback of YouTube on TV</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-navigating-youtubes-rules-the-safe-way-for-2024/"><u>[Updated] Navigating YouTube's Rules The Safe Way for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-zero-to-hero-youtube-intro-wonders-with-imovie/"><u>2024 Approved From Zero to Hero YouTube Intro Wonders with iMovie</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-innovators-roundtable-for-youtube/"><u>2024 Approved Innovators’ Roundtable for YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-integrating-your-day-job-with-passionate-online-content/"><u>2024 Approved Integrating Your Day Job with Passionate Online Content</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-securely-accessing-your-fb-status-video/"><u>2024 Approved Securely Accessing Your FB Status Video</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-surging-channel-growth-with-optimal-video-hashes/"><u>2024 Approved Surging Channel Growth with Optimal Video Hashes</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-tailored-soundtracks-at-your-fingertips-constructing-youtube-music-collections-webmobile/"><u>In 2024, Tailored Soundtracks at Your Fingertips Constructing YouTube Music Collections (Web/Mobile)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063554629-instant-usb-enhancement-universal-adb-downloads-here/"><u>Instant USB Enhancement – Universal ADB Downloads Here!</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/masterful-video-analytics-unlocking-potential-with-social-blade-and-youtube-for-2024/"><u>Masterful Video Analytics Unlocking Potential with Social Blade & YouTube for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/next-gen-methods-for-breathtaking-android-time-lapses-for-2024/"><u>Next-Gen Methods for Breathtaking Android Time-Lapses for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/registro-de-sonido-para-windows-y-macos-sin-costo/"><u>Registro De Sonido Para Windows Y macOS Sin Costo</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-for-resolving-sim-card-not-provided-message-mmi-mm2-issue/"><u>Troubleshooting Steps for Resolving SIM Card 'Not Provided, Message MMI' (MM2) Issue</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ultimate-sound-connection-a-podcasters-guide/"><u>Ultimate Sound Connection A Podcaster's Guide</u></a></li>
 </ul></div>
 

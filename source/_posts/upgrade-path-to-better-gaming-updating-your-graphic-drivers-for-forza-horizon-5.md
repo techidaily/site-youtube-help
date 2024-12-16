@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Path to Better Gaming: Updating Your Graphic Drivers for Forza Horizon 5"
-date: 2024-12-04T06:41:08.867Z
-updated: 2024-12-09T23:54:55.352Z
+date: 2024-12-09T16:06:47.807Z
+updated: 2024-12-16T16:27:50.555Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/94949839e44613400bd5d58f4fe6242909222f901
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-driver-outdated-featured.jpg)
 
  After the Minecraft update, many players start reporting an**Drivers Outdated message** telling that they need to update their graphics driver. If you’re on the same boat, you’re in the right place. In this tutorial, we’ll show you how to get rid of this message.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -45,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/94949839e44613400bd5d58f4fe6242909222f901
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -53,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/94949839e44613400bd5d58f4fe6242909222f901
  After updating your graphics driver, restart your PC and check if Minecraft is running fine.
 
 If the update message pops up again, check out the next method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Check the versions of Minecraft and your system
 
@@ -72,7 +68,15 @@ You can use the following steps to check for Minecraft updates.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-1.jpg)
 2. On the top left corner, click**Get updates** and wait for the process to complete.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Java edition
 
@@ -80,27 +84,27 @@ You can use the following steps to check for Minecraft updates.
 2. If you’re not seeing an update prompt, to the right of the Play button, click the arrow and select Latest release.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Make sure you’re on the latest Windows
 
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  Once you’ve installed all system updates, restart your PC and check if the issue persists.
 
 If you’re still seeing the message, continue to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Scan and repair Windows
 
@@ -113,19 +117,15 @@ If you’re still seeing the message, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 Once done, restart Windows and try again in Minecraft.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Check your default GPU
 
@@ -145,14 +145,14 @@ Here’s how you can check the preferred GPU of Minecraft:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-1.jpg)
 4. Click **Options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-2.jpg)
 5. Click**High performance** and then**Save** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you can restart Minecraft and check if the message is still there.
 
@@ -177,20 +177,20 @@ Now you can restart Minecraft and check if the message is still there.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-for-beginners-leveraging-facebook-data-with-ease/"><u>[New] 2024 Approved For Beginners Leveraging Facebook Data with Ease</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-invisible-pathways-advanced-techniques-for-chat-file-extraction/"><u>[New] 2024 Approved Invisible Pathways Advanced Techniques for Chat File Extraction</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-navigate-the-top-8-fb-movie-downloader-choices/"><u>[New] 2024 Approved Navigate the Top 8 FB Movie Downloader Choices</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-font-powerhouses-for-captivating-youtube-thumbnails/"><u>[New] Font Powerhouses for Captivating YouTube Thumbnails</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-from-newbie-to-pro-your-complete-guide-to-creator-studio/"><u>[New] From Newbie to Pro Your Complete Guide to Creator Studio</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-stream-away-the-leading-online-video-havens/"><u>[New] Stream Away The Leading Online Video Havens</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-step-by-step-breakdown-hassle-free-ios-device-recordings/"><u>[Updated] 2024 Approved Step-by-Step Breakdown Hassle-Free iOS Device Recordings</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-foremost-techniques-for-transforming-seminars-into-videos/"><u>2024 Approved The Foremost Techniques for Transforming Seminars Into Videos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-tiny-videos-deciphered-crucial-elements/"><u>2024 Approved Tiny Videos Deciphered Crucial Elements</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/2024-approved-vintage-film-effect-1920s-how-to-make/"><u>2024 Approved Vintage Film Effect 1920S - How to Make</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/beyond-facetime-transformative-webcam-uses-for-2024/"><u>Beyond FaceTime Transformative Webcam Uses for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/expert-tips-to-master-camera-snap-in-zoom-calls/"><u>Expert Tips to Master Camera Snap in Zoom Calls</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-say-no-to-youtube-shorts-forever-your-guide/"><u>In 2024, Say No to YouTube Shorts Forever Your Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-script-strategies-for-captivating-youtube-audiences/"><u>In 2024, Script Strategies for Captivating YouTube Audiences</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-unlock-chromebooks-full-potential-install-linux-for-2024/"><u>Updated Unlock Chromebooks Full Potential Install Linux for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-channel-finale-101-insider-tricks-for-successful-outros/"><u>[New] 2024 Approved Channel Finale 101 Insider Tricks for Successful Outros</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-free-to-fortune-the-500-sub-club/"><u>[New] From Free to Fortune The 500-Sub Club</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-high-altitude-escapades-the-husqvarna-h501s-review-explored-for-2024/"><u>[New] High Altitude Escapades - The Husqvarna H501S Review Explored for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-download-part-of-youtube-video/"><u>[New] How to Download Part of YouTube Video?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-quick-fire-methods-to-record-and-save-your-virtual-gatherings-windows-and-mac/"><u>[New] In 2024, Quick-Fire Methods to Record and Save Your Virtual Gatherings (Windows & Mac)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-mind-matters-top-educational-youtube-picks/"><u>[New] Mind Matters Top Educational YouTube Picks</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/treamlined-conversion-at-your-fingertips-top-6-free-apps-for-youtube-and-mp3/"><u>[New] Streamlined Conversion at Your Fingertips Top 6 Free Apps for YouTube & MP3</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-prime-picks-easy-youtube-template-downloads/"><u>2024 Approved Prime Picks Easy YouTube Template Downloads</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-honor-90-lite-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Honor 90 Lite Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a34-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A34 5G Phone without Google Account?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-the-craft-of-youtubers-music-reaction-videos-essentials/"><u>In 2024, Mastering the Craft of Youtubers Music Reaction Videos Essentials</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-youtubers-overture-orchestrating-video-triumphs/"><u>In 2024, The YouTuber’s Overture Orchestrating Video Triumphs</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-top-converter-mp4-to-facebook-social-media-pro/"><u>In 2024, Top Converter MP4 to Facebook (Social Media Pro)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-honor-x50iplus-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Honor X50i+ FRP Without Computer</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-the-art-of-video-conferencing-on-xbox-one-for-2024/"><u>Mastering the Art of Video Conferencing on Xbox One for 2024</u></a></li>
 </ul></div>
 

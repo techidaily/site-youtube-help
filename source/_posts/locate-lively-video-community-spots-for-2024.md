@@ -1,7 +1,7 @@
 ---
 title: "Locate Lively Video Community Spots for 2024"
-date: 2024-12-07T01:22:33.854Z
-updated: 2024-12-10T02:06:48.304Z
+date: 2024-12-14T16:53:31.167Z
+updated: 2024-12-16T16:08:11.067Z
 tags:
   - ai video
   - ai youtube
@@ -45,6 +45,10 @@ YT Comment Finder is one of the most user-friendly and straightforward comment f
 
 ![YTComment Finder interface](https://images.wondershare.com/filmora/article-images/ytcomment-youtube-comment-finder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * In the next step, you will find a complete list of videos with the same title. Choose your video and click on Search This Video**.**
 * A new search bar will appear for any comments you choose to look up.
 
@@ -73,10 +77,6 @@ It is one of the most user-friendly and ad-free random comment pickers available
 * In the next step, you will be redirected to another pop-up with two buttons- 'View Comments' and 'View Statistics.' Click on View Comments to check the first, second and all the other comments in ascending order.
 * **Unique feature 1:** By clicking the View Statistics button, you can get a track of the popular words used in the comment section and the top questions asked by your followers.
 * **Unique feature 2:** Along with the comment, details of the user, time of commenting, and many more things can be extracted from Hadzy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Part 2:** **How to Find the First Comments You Have Posted on YouTube?**
 
@@ -134,6 +134,10 @@ YouTube Comments Finder helps you keep track of the good and bad comments in you
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -173,7 +177,7 @@ YT Comment Finder is one of the most user-friendly and straightforward comment f
 With YTComment, you can see the basic information about the YouTube video or channel, and to find a comment, all you have to do is type in a word you want to search, and you'll get a list of all the comments relevant to that term or its synonyms as well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. YouTube First Comment Finder
@@ -198,10 +202,6 @@ It is one of the most user-friendly and ad-free random comment pickers available
 * **Unique feature 1:** By clicking the View Statistics button, you can get a track of the popular words used in the comment section and the top questions asked by your followers.
 * **Unique feature 2:** Along with the comment, details of the user, time of commenting, and many more things can be extracted from Hadzy.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part 2:** **How to Find the First Comments You Have Posted on YouTube?**
 
 There are times when you regret what you've commented on in the past or wish to go back and look up your first message on YouTube. However, it is not always possible to recall the channel or video where you left the comment.
@@ -214,10 +214,6 @@ Everything you have to do now follows the steps below. For the following methods
 * At the right corner, choose History type as 'community.' Below that, click on the 'Comments' option. Finally, a new tab would open with all your YouTube comment history.
 
 ![  YouTube comment  history search ](https://images.wondershare.com/filmora/article-images/youtube-history-comments-menu.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 By these basic steps, enjoy editing or deleting your comments and replies directly on YouTube!
 
@@ -240,6 +236,10 @@ These steps are convenient both for pc as well as a mobile app. Just follow thre
 
 * Click on the bell icon at the top right corner and there you would receive notifications regarding all the comment activities. Click on the particular notification to go to that comment.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus: How to Change the Comments View Order?
 
 Did you know you can also customize your comment section as per your need? On the watch page for your video, you can rearrange the order of the comments. You may sort the comments by top comments or by date added. It's just simple steps ahead.
@@ -248,6 +248,10 @@ Did you know you can also customize your comment section as per your need? On th
 * From the left bar, select Content, click a video's thumbnail, and click on Show More in video details page.
 
 ![  YouTube comment  and rating settings ](https://images.wondershare.com/filmora/article-images/set-up-comment-ratings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Under 'Comments and ratings,' select Sort by, and then choose between "Top" and "Newest."
 * Save the changes, and you are done!
@@ -308,10 +312,6 @@ Although YouTube has settings to know about the first comment in a video, that i
 * Paste the URL of your YouTube video in the search box. Click on the FIND There you go! The name of the first commenter of the video will come right in front of you, and you can even see what the comment is and the date of commenting.
 * **Unique Feature:** This website comes with a tutorial and you can find out the first comment of the YouTube quickly with it. However, the feature of this tool is limited.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Hadzy
 
 It is one of the most user-friendly and ad-free random comment pickers available for YouTube. Hadzy is quick and can handle more comments than other sites. Hadzy YouTube comment picker is popular among most of the Tubers.
@@ -326,10 +326,6 @@ It is one of the most user-friendly and ad-free random comment pickers available
 * **Unique feature 1:** By clicking the View Statistics button, you can get a track of the popular words used in the comment section and the top questions asked by your followers.
 * **Unique feature 2:** Along with the comment, details of the user, time of commenting, and many more things can be extracted from Hadzy.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part 2:** **How to Find the First Comments You Have Posted on YouTube?**
 
 There are times when you regret what you've commented on in the past or wish to go back and look up your first message on YouTube. However, it is not always possible to recall the channel or video where you left the comment.
@@ -342,6 +338,10 @@ Everything you have to do now follows the steps below. For the following methods
 * At the right corner, choose History type as 'community.' Below that, click on the 'Comments' option. Finally, a new tab would open with all your YouTube comment history.
 
 ![  YouTube comment  history search ](https://images.wondershare.com/filmora/article-images/youtube-history-comments-menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 By these basic steps, enjoy editing or deleting your comments and replies directly on YouTube!
 
@@ -372,6 +372,10 @@ Did you know you can also customize your comment section as per your need? On th
 * From the left bar, select Content, click a video's thumbnail, and click on Show More in video details page.
 
 ![  YouTube comment  and rating settings ](https://images.wondershare.com/filmora/article-images/set-up-comment-ratings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Under 'Comments and ratings,' select Sort by, and then choose between "Top" and "Newest."
 * Save the changes, and you are done!
@@ -405,7 +409,7 @@ Now, YouTube has not yet come up with a complete comment modification kit. With 
 This thread is a guide for selecting the best YouTube comment finder and a tutorial to use existing YouTube tools to control comments.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Best Free YouTube Comments Finder
@@ -427,10 +431,6 @@ YT Comment Finder is one of the most user-friendly and straightforward comment f
 ![YTComment Finder  search feature](https://images.wondershare.com/filmora/article-images/ytcomment-comment-search.jpg)
 
 With YTComment, you can see the basic information about the YouTube video or channel, and to find a comment, all you have to do is type in a word you want to search, and you'll get a list of all the comments relevant to that term or its synonyms as well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. YouTube First Comment Finder
 
@@ -470,10 +470,6 @@ Everything you have to do now follows the steps below. For the following methods
 By these basic steps, enjoy editing or deleting your comments and replies directly on YouTube!
 
 However, you will have to scroll down a long way before you hit the end to see your first comment posted on YouTube.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How to Find the Latest Comments you have received on YouTube?
 
@@ -544,82 +540,40 @@ Follow @Richard Bennett
 
  It is fun to be able to record a vlog entry whenever inspiration strikes you, and your smartphone is a great choice for recording on the go. Smartphones have really great cameras, and you probably always have your phone with you. You can even post directly from your phone to YouTube!
 
-## How To Make YouTube Videos on Your Smartphone
-
- Making a video on your smartphone is similar to making a video with any other camera in a lot of ways. There are also a lot of ways in which it is different. You always have to watch out for camera shake, for example, but it can be even harder to control when you’re walking around shooting on your mobile device. Here are three things to keep in mind when vlogging with your smartphone.
-
-#### Part 1\. Keep It Steady
-
- For a nice, smooth, shot consider resting your hand up on a railing, table, or anything else that will keep it steady while you film. Camera shake is always distracting to viewers, and smartphone videos are notoriously unstable because you are almost always holding your phone in your hand.
-
- There is equipment you can use to cut out camera shake. You can get a smartphone mount for your tripod, or you can even stabilize your phone using a selfie stick. Many of the very newest smartphones have built in hardware called ‘OIS’ – optical image stabilization – that helps reduce shakiness.
-
-#### Part 2\. Be Heard
-
- You have a lot to say, so make sure people can hear you say it! Smartphones do not tend to have very good microphones built in (neither do most cameras), so try to vlog from somewhere without a lot of background noise. It will help a lot if your voice has nothing to compete with.
-
- Ideally, you should get an external mic to record your voice while you vlog on your phone. There are shotgun mics you can plug directly into the audio jack on your phone which will record great audio, or you can get a high quality MP3 recorder and carry it around in your pocket.
-
-#### Part 3\. Tilt Your Phone
-
- When recording on the spur of the moment with your smartphone it is easy to automatically hold it the same way you would while texting or taking a selfie. If you record a video with your phone held so that it is tall – a ‘portrait’ shot – then your video will have thick black bars on either side when you post it to YouTube. If you tilt your phone so that it is wide you will record a ‘landscape’ shot, which will match the dimensions YouTube plays videos in.
-
- The exception to this is videos you plan to post on Instagram. On Instagram everything is cropped into a square, and it is easier to imagine what your footage will look like as a square when you hold your phone strait up. Simply focus on the top of your screen and treat a portion of the bottom of your screen as if it is not there. When you hold your phone horizontally you need to try and estimate how much of the middle of your screen will make it in to your Instagram video, which can be awkward.
-
- Those are the three main things to keep in mind, but if you are planning on posting directly to YouTube from your phone then you should also make sure you have a mobile app you can use to edit it first.
-
-[Filmora](https://tools.techidaily.com/wondershare/filmora/download/)is a full-feature video editing app available for both Android and iPhone operating systems. With Filmora you can make awesome YouTube videos quickly using Filmora’s one-touch themes, or take a little bit more time personalizing your creation. One-touch themes are sets of related features, like filters and animated titles, which you can apply to your videos all at once. Filmora’s simple interface also makes it easy to apply filters, titles, overlays, transitions, and even royalty free music to your project one at a time.
-
- After you’ve edited your video in Filmora you can post it directly to YouTube or other social media sites right from the app.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
- It is fun to be able to record a vlog entry whenever inspiration strikes you, and your smartphone is a great choice for recording on the go. Smartphones have really great cameras, and you probably always have your phone with you. You can even post directly from your phone to YouTube!
-
-## How To Make YouTube Videos on Your Smartphone
-
- Making a video on your smartphone is similar to making a video with any other camera in a lot of ways. There are also a lot of ways in which it is different. You always have to watch out for camera shake, for example, but it can be even harder to control when you’re walking around shooting on your mobile device. Here are three things to keep in mind when vlogging with your smartphone.
-
-#### Part 1\. Keep It Steady
-
- For a nice, smooth, shot consider resting your hand up on a railing, table, or anything else that will keep it steady while you film. Camera shake is always distracting to viewers, and smartphone videos are notoriously unstable because you are almost always holding your phone in your hand.
-
- There is equipment you can use to cut out camera shake. You can get a smartphone mount for your tripod, or you can even stabilize your phone using a selfie stick. Many of the very newest smartphones have built in hardware called ‘OIS’ – optical image stabilization – that helps reduce shakiness.
-
-#### Part 2\. Be Heard
-
- You have a lot to say, so make sure people can hear you say it! Smartphones do not tend to have very good microphones built in (neither do most cameras), so try to vlog from somewhere without a lot of background noise. It will help a lot if your voice has nothing to compete with.
-
- Ideally, you should get an external mic to record your voice while you vlog on your phone. There are shotgun mics you can plug directly into the audio jack on your phone which will record great audio, or you can get a high quality MP3 recorder and carry it around in your pocket.
-
-#### Part 3\. Tilt Your Phone
-
- When recording on the spur of the moment with your smartphone it is easy to automatically hold it the same way you would while texting or taking a selfie. If you record a video with your phone held so that it is tall – a ‘portrait’ shot – then your video will have thick black bars on either side when you post it to YouTube. If you tilt your phone so that it is wide you will record a ‘landscape’ shot, which will match the dimensions YouTube plays videos in.
-
- The exception to this is videos you plan to post on Instagram. On Instagram everything is cropped into a square, and it is easier to imagine what your footage will look like as a square when you hold your phone strait up. Simply focus on the top of your screen and treat a portion of the bottom of your screen as if it is not there. When you hold your phone horizontally you need to try and estimate how much of the middle of your screen will make it in to your Instagram video, which can be awkward.
-
- Those are the three main things to keep in mind, but if you are planning on posting directly to YouTube from your phone then you should also make sure you have a mobile app you can use to edit it first.
-
-[Filmora](https://tools.techidaily.com/wondershare/filmora/download/)is a full-feature video editing app available for both Android and iPhone operating systems. With Filmora you can make awesome YouTube videos quickly using Filmora’s one-touch themes, or take a little bit more time personalizing your creation. One-touch themes are sets of related features, like filters and animated titles, which you can apply to your videos all at once. Filmora’s simple interface also makes it easy to apply filters, titles, overlays, transitions, and even royalty free music to your project one at a time.
-
- After you’ve edited your video in Filmora you can post it directly to YouTube or other social media sites right from the app.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+## How To Make YouTube Videos on Your Smartphone
+
+ Making a video on your smartphone is similar to making a video with any other camera in a lot of ways. There are also a lot of ways in which it is different. You always have to watch out for camera shake, for example, but it can be even harder to control when you’re walking around shooting on your mobile device. Here are three things to keep in mind when vlogging with your smartphone.
+
+#### Part 1\. Keep It Steady
+
+ For a nice, smooth, shot consider resting your hand up on a railing, table, or anything else that will keep it steady while you film. Camera shake is always distracting to viewers, and smartphone videos are notoriously unstable because you are almost always holding your phone in your hand.
+
+ There is equipment you can use to cut out camera shake. You can get a smartphone mount for your tripod, or you can even stabilize your phone using a selfie stick. Many of the very newest smartphones have built in hardware called ‘OIS’ – optical image stabilization – that helps reduce shakiness.
+
+#### Part 2\. Be Heard
+
+ You have a lot to say, so make sure people can hear you say it! Smartphones do not tend to have very good microphones built in (neither do most cameras), so try to vlog from somewhere without a lot of background noise. It will help a lot if your voice has nothing to compete with.
+
+ Ideally, you should get an external mic to record your voice while you vlog on your phone. There are shotgun mics you can plug directly into the audio jack on your phone which will record great audio, or you can get a high quality MP3 recorder and carry it around in your pocket.
+
+#### Part 3\. Tilt Your Phone
+
+ When recording on the spur of the moment with your smartphone it is easy to automatically hold it the same way you would while texting or taking a selfie. If you record a video with your phone held so that it is tall – a ‘portrait’ shot – then your video will have thick black bars on either side when you post it to YouTube. If you tilt your phone so that it is wide you will record a ‘landscape’ shot, which will match the dimensions YouTube plays videos in.
+
+ The exception to this is videos you plan to post on Instagram. On Instagram everything is cropped into a square, and it is easier to imagine what your footage will look like as a square when you hold your phone strait up. Simply focus on the top of your screen and treat a portion of the bottom of your screen as if it is not there. When you hold your phone horizontally you need to try and estimate how much of the middle of your screen will make it in to your Instagram video, which can be awkward.
+
+ Those are the three main things to keep in mind, but if you are planning on posting directly to YouTube from your phone then you should also make sure you have a mobile app you can use to edit it first.
+
+[Filmora](https://tools.techidaily.com/wondershare/filmora/download/)is a full-feature video editing app available for both Android and iPhone operating systems. With Filmora you can make awesome YouTube videos quickly using Filmora’s one-touch themes, or take a little bit more time personalizing your creation. One-touch themes are sets of related features, like filters and animated titles, which you can apply to your videos all at once. Filmora’s simple interface also makes it easy to apply filters, titles, overlays, transitions, and even royalty free music to your project one at a time.
+
+ After you’ve edited your video in Filmora you can post it directly to YouTube or other social media sites right from the app.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -631,6 +585,52 @@ Follow @Richard Bennett
  Mar 27, 2024• Proven solutions
 
  It is fun to be able to record a vlog entry whenever inspiration strikes you, and your smartphone is a great choice for recording on the go. Smartphones have really great cameras, and you probably always have your phone with you. You can even post directly from your phone to YouTube!
+
+## How To Make YouTube Videos on Your Smartphone
+
+ Making a video on your smartphone is similar to making a video with any other camera in a lot of ways. There are also a lot of ways in which it is different. You always have to watch out for camera shake, for example, but it can be even harder to control when you’re walking around shooting on your mobile device. Here are three things to keep in mind when vlogging with your smartphone.
+
+#### Part 1\. Keep It Steady
+
+ For a nice, smooth, shot consider resting your hand up on a railing, table, or anything else that will keep it steady while you film. Camera shake is always distracting to viewers, and smartphone videos are notoriously unstable because you are almost always holding your phone in your hand.
+
+ There is equipment you can use to cut out camera shake. You can get a smartphone mount for your tripod, or you can even stabilize your phone using a selfie stick. Many of the very newest smartphones have built in hardware called ‘OIS’ – optical image stabilization – that helps reduce shakiness.
+
+#### Part 2\. Be Heard
+
+ You have a lot to say, so make sure people can hear you say it! Smartphones do not tend to have very good microphones built in (neither do most cameras), so try to vlog from somewhere without a lot of background noise. It will help a lot if your voice has nothing to compete with.
+
+ Ideally, you should get an external mic to record your voice while you vlog on your phone. There are shotgun mics you can plug directly into the audio jack on your phone which will record great audio, or you can get a high quality MP3 recorder and carry it around in your pocket.
+
+#### Part 3\. Tilt Your Phone
+
+ When recording on the spur of the moment with your smartphone it is easy to automatically hold it the same way you would while texting or taking a selfie. If you record a video with your phone held so that it is tall – a ‘portrait’ shot – then your video will have thick black bars on either side when you post it to YouTube. If you tilt your phone so that it is wide you will record a ‘landscape’ shot, which will match the dimensions YouTube plays videos in.
+
+ The exception to this is videos you plan to post on Instagram. On Instagram everything is cropped into a square, and it is easier to imagine what your footage will look like as a square when you hold your phone strait up. Simply focus on the top of your screen and treat a portion of the bottom of your screen as if it is not there. When you hold your phone horizontally you need to try and estimate how much of the middle of your screen will make it in to your Instagram video, which can be awkward.
+
+ Those are the three main things to keep in mind, but if you are planning on posting directly to YouTube from your phone then you should also make sure you have a mobile app you can use to edit it first.
+
+[Filmora](https://tools.techidaily.com/wondershare/filmora/download/)is a full-feature video editing app available for both Android and iPhone operating systems. With Filmora you can make awesome YouTube videos quickly using Filmora’s one-touch themes, or take a little bit more time personalizing your creation. One-touch themes are sets of related features, like filters and animated titles, which you can apply to your videos all at once. Filmora’s simple interface also makes it easy to apply filters, titles, overlays, transitions, and even royalty free music to your project one at a time.
+
+ After you’ve edited your video in Filmora you can post it directly to YouTube or other social media sites right from the app.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+ It is fun to be able to record a vlog entry whenever inspiration strikes you, and your smartphone is a great choice for recording on the go. Smartphones have really great cameras, and you probably always have your phone with you. You can even post directly from your phone to YouTube!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How To Make YouTube Videos on Your Smartphone
 
@@ -725,16 +725,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-exquisite-couple-clips-the-best-weddings-online-8-picks/"><u>[New] Exquisite Couple Clips The Best Weddings Online (8 Picks)</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-real-time-recorder-battle-go-obs-vs-shadowplay/"><u>[New] Real-Time Recorder Battle Go OBS! Vs. ShadowPlay</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-audio-adjustment-on-youtube-devices/"><u>2024 Approved Mastering Audio Adjustment on YouTube Devices</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-rapid-response-sharing-plays-with-pizzazz/"><u>2024 Approved Rapid Response Sharing Plays with Pizzazz</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-tecno-camon-20-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/demystifying-royal-match-understanding-its-multi-level-framework/"><u>Demystifying 'Royal Match': Understanding Its Multi-Level Framework</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/o-choose-best-free-youtube-video-editor-apps-on-ios-for-2024/"><u>How to Choose Best-Free YouTube Video Editor Apps on iOS for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-how-frequent-uploads-can-skyro-cookie-sales-on-your-youtube-channel/"><u>In 2024, How Frequent Uploads Can Skyro Cookie Sales on Your YouTube Channel</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-strategies-to-triple-your-earnings-on-youtube-shorts/"><u>In 2024, Strategies to Triple Your Earnings on Youtube Shorts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/low-cost-high-quality-4k-capture-devices-for-2024/"><u>Low-Cost, High-Quality 4K Capture Devices for 2024</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/lyrx-celebrates-second-anniversary-final-call-on-discounted-rate/"><u>LYRX Celebrates Second Anniversary: Final Call on Discounted Rate!</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-videos-to-vault-ajays-revenue-journey-on-youtube/"><u>[New] From Videos to Vault AJay’s Revenue Journey on YouTube</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-troubleshooting-iphone-x-regaining-access-via-facial-id/"><u>[New] In 2024, Troubleshooting iPhone X Regaining Access via Facial ID</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-saving-youtube-videos-a-legal-overview/"><u>[New] Saving YouTube Videos A Legal Overview</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-digital-delight-dive-from-snapshots-to-sprites-easy-and-fast/"><u>[Updated] 2024 Approved Digital Delight Dive From Snapshots to Sprites, Easy & Fast</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-microtones-and-monikers-shorts-sound-roles/"><u>[Updated] In 2024, Microtones and Monikers Shorts' Sound Roles</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-hack-the-youtube-timeline-increase-or-decrease-sound/"><u>2024 Approved Hack the YouTube Timeline Increase or Decrease Sound</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-honor-magic-v2-frp-bypass-by-drfone-android/"><u>About Honor Magic V2 FRP Bypass</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/grandview-alliance-how-to-settle-on-a-cms-for-2024/"><u>Grandview Alliance How to Settle on a CMS for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-speed-up-your-itunes-experience-a-complete-guide-with-10-effective-steps/"><u>How to Speed Up Your iTunes Experience: A Complete Guide with 10 Effective Steps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-giggle-genesis-app/"><u>In 2024, Giggle Genesis App</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-gourmet-gurus-who-you-should-subscribe-to/"><u>In 2024, Gourmet Gurus Who You Should Subscribe To</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-rhythm-reversal-top-10-audio-distortors-for-devices/"><u>In 2024, Rhythm Reversal Top 10 Audio Distortors for Devices</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-tutorial-posting-restricted-youtube-to-gmail-accounts/"><u>In 2024, Tutorial Posting Restricted YouTube to Gmail Accounts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-ultimate-list-hashtags-for-maximum-video-engagement-in-games/"><u>In 2024, Ultimate List Hashtags for Maximum Video Engagement in Games</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-youtube-gaming-pros-choice-of-5-microphones/"><u>In 2024, YouTube Gaming Pros' Choice of 5 Microphones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-volume-control-tips-for-louder-sounds-on-windows-10/"><u>Mastering Volume Control: Tips for Louder Sounds on Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-fix-how-to-take-out-your-personal-pin-on-windows-11/"><u>Quick Fix: How to Take Out Your Personal Pin on Windows 11</u></a></li>
 </ul></div>
 

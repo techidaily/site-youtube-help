@@ -1,7 +1,7 @@
 ---
 title: "Easy Fixes for PC Gamers: Dealing with Persistent Deathloop Game Crashes"
-date: 2024-12-07T12:28:20.248Z
-updated: 2024-12-09T17:41:56.556Z
+date: 2024-12-14T18:11:57.807Z
+updated: 2024-12-16T16:14:21.379Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/502b1cdc938497dc65859bd4dea7388cbc83b5388
 
  If you happen to be one of them, don’t worry. Here’re some working fixes that could bring back your game without frying your graphics card.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that does the charm.
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/502b1cdc938497dc65859bd4dea7388cbc83b5388
 5. [**Increase your virtual memory**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Delete specific game files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Verify the integrity of game files
 
  AAA titles tend to be large, and they’re likely to crash when there’re missing or corrupted game files. To make sure the data is intact and up to date, you need to**verify the integrity of your game files** .
@@ -44,17 +44,17 @@ thumbnail: https://thmb.techidaily.com/502b1cdc938497dc65859bd4dea7388cbc83b5388
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-3.jpg)
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-4.jpg)
 3. Allow the checking to complete. Then you can start New World and see if it crashes again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If the problem persists, take a look at the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
@@ -69,6 +69,10 @@ If the problem persists, take a look at the next fix below.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
@@ -89,19 +93,15 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
@@ -119,7 +119,15 @@ If your system is already up to date, you can try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-1.jpg)
 2. In the left pane, select**Visuals** . Then set**Object details** to**High** or lower.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you can play and check if the crash stops.
 
@@ -136,28 +144,20 @@ Now you can play and check if the crash stops.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/system-advanced-performance-virtual-memory.jpg)
 3. In the pop-up window, navigate to the **Advanced**  tab. Under the **Virtual memory** section, click **Change…** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
 4. Deselect the **Automatically manage paging file size for all drives** checkbox. Then select **Customize size** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/vritual-memory-set.jpg)
 5. Enter **Initial size** and **Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory (actual RAM) of my computer is 8 GB, so the **Initial size** for me here is **8 x 1024 x 1.5 = 12288 MB** , and the **Maximum size** should be **8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click **Set** , then click **OK**  to save the changes.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-set-02.jpg)
 6. Restart your computer and check if New World crashes again.
 
  If this trick doesn’t do the trick for you, take a look at the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Delete specific game files
 
@@ -192,19 +192,17 @@ Now you can play and check if the crash stops.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/levate-your-content-game-studio-aptitude-essentials/"><u>[New] Elevate Your Content Game Studio Aptitude Essentials</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-how-to-see-your-subscribers-on-youtube/"><u>[New] How to See Your Subscribers on YouTube</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-iconic-music-library-app-android-focused/"><u>[New] Iconic Music Library App, Android-Focused</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-speedy-spread-of-youtube-playlists-techniques/"><u>2024 Approved Speedy Spread of Youtube Playlists Techniques</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-step-by-step-creating-your-channels-simple-subscribe-button/"><u>2024 Approved Step by Step Creating Your Channel's Simple Subscribe Button</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unlock-insights-into-video-popularity-via-rank-trackers/"><u>2024 Approved Unlock Insights Into Video Popularity via Rank Trackers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/expedite-your-file-format-journey-from-srt-to-txt/"><u>Expedite Your File Format Journey From SRT to TXT</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/explore-free-youtube-pic-themes-for-2024/"><u>Explore Free YouTube Pic Themes for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/g9-x-ii-the-ultimate-blend-of-classic-and-contemporary/"><u>G9 X II: The Ultimate Blend of Classic & Contemporary</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-successfully-cast-your-pcs-display-on-a-smart-hdtv-using-windows-11-a-step-by-step-guide/"><u>How to Successfully Cast Your PC's Display on a Smart HDTV Using Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unveil-your-narrative-transforming-photos-to-videos-using-your-phone/"><u>In 2024, Unveil Your Narrative Transforming Photos to Videos Using Your Phone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/stop-fluctuating-pixels-7-effective-fixes-for-your-phones-flickering-screen/"><u>Stop Fluctuating Pixels: 7 Effective Fixes for Your Phone's Flickering Screen</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-the-secrets-of-prestigious-discord-groups/"><u>Unlock the Secrets of Prestigious Discord Groups</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/why-apple-discontinued-final-cut-express-for-2024-what-are-the-major-differences-between-final-cut-express-and-final-cut-pro/"><u>Why Apple Discontinued Final Cut Express for 2024 What Are the Major Differences Between Final Cut Express and Final Cut Pro?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-unlocking-your-most-watched-fb-movies/"><u>[New] Unlocking Your Most-Watched Fb Movies</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-ideal-remote-recording-gear/"><u>2024 Approved Ideal Remote Recording Gear</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mac-basics-for-creating-attractive-first-youtube-videos/"><u>2024 Approved Mac Basics for Creating Attractive First Youtube Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-summary-of-short-videos-simplicity-included/"><u>2024 Approved Summary of Short Videos, Simplicity Included</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/crafting-a-successful-mukbang-video-journey-for-2024/"><u>Crafting a Successful Mukbang Video Journey for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-monetizing-micro-vlogs-a-step-by-step-guide/"><u>In 2024, Monetizing Micro-Vlogs A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-polishing-audio-in-home-recordings-on-youtube/"><u>In 2024, Polishing Audio in Home Recordings on YouTube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-ultimate-terraria-enhancements-list/"><u>In 2024, Ultimate Terraria Enhancements List</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/perfecting-your-photos-from-the-sky-how-to-select-the-right-drone-gimbal/"><u>Perfecting Your Photos From the Sky How To Select The Right Drone Gimbal</u></a></li>
+<li><a href="https://win-community.techidaily.com/problematische-contacts-app-auf-dem-iphone-was-zu-tun-ist-eine-losung-mit-fonebackup-anbieten/"><u>Problematische Contacts-App Auf Dem iPhone: Was Zu Tun Ist – Eine Lösung Mit FoneBackup Anbieten!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-freestyle2-blue-the-premier-customization-toolkit-for-your-mac-device/"><u>Unveiling Freestyle2 Blue: The Premier Customization Toolkit for Your Mac Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/what-if-unreal-engine-suffers-from-d3d-vanishing/"><u>What if Unreal Engine Suffers From D3D Vanishing?</u></a></li>
 </ul></div>
 

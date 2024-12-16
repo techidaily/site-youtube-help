@@ -1,7 +1,7 @@
 ---
 title: "\"More than Just Likes and Watch Time  The Complexity of YouTube's View Tally for 2024\""
-date: 2024-12-07T21:52:57.542Z
-updated: 2024-12-10T07:41:58.752Z
+date: 2024-12-12T16:52:54.675Z
+updated: 2024-12-16T17:08:09.001Z
 tags:
   - ai video
   - ai youtube
@@ -37,7 +37,7 @@ How does YouTube count views? It’s not as simple as the number of clicks your 
 7. [The 301 Mark](#seven)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best YouTube Video Editor - Filmora
@@ -64,7 +64,7 @@ You May Also Like:
 [5 Tips To Get More Views With YouTube Optimization \[Free Checklist\] >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How Does YouTube’s View Count Algorithm Work?
@@ -83,6 +83,10 @@ We are adding ‘likely’ here because, despite this 30-second rule which has b
 
 Try to watch the same video numerous times in a single day. You will find that the count will add up at first, but after some time it will stop. YouTube knows that a lot of times people replay some videos over and over when they really enjoy them, and so they want to factor replays into their algorithm because they suggest quality. However, to avoid spam views, the counter will stop after a certain point.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Account Tracking Factors - Some Viewers Don't Count
 
 Something else that can affect whether a view is counted is the behavior of the account which watches it prior to landing on your video’s watch page. Sometimes, YouTube might feel that there is an increased chance a particular account is actually a bot, and then views from that account might not be added.
@@ -96,7 +100,7 @@ Any bot-like action will result in an account’s views do not be added to your 
 It’s not uncommon for viewers to watch a video for say five seconds, skip forwards a bit and watch for another ten seconds as they look for a specific part. It is hard to say whether skipping through a video, but watching a scattered 30 seconds, would count as a view or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Frozen YouTube View Counts
@@ -104,10 +108,6 @@ It’s not uncommon for viewers to watch a video for say five seconds, skip forw
 Sometimes YouTube will freeze a view count in order to check that it is accurate. When the count is unfrozen, the count may jump up as views are validated or it can go down if YouTube detects a problem.
 
 You can use [YouTube’s analytics reports](https://blog.hootsuite.com/youtube-analytics/) to monitor an estimate of your potential views, but there is no assurance that this data will completely match your official view count.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. The 301 Mark
 
@@ -117,6 +117,10 @@ This is why view counts are often frozen at 301\. The employees at YouTube then 
 
 During the period when the view count is frozen every legitimate view is still counted, just not added immediately. Once the YouTube team is sure that your videos are not getting fake traffic, your view count will be updated to include views that were registered during the frozen phase. However, [YouTube says](https://www.theverge.com/2015/8/5/9100759/youtube-301-view-count-freeze-going-away) it won't flag videos at 301 views anymore.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In short, we know YouTube expects a viewer to watch a video for around 30 seconds before it counts a view, that views from suspicious accounts are not counted, and that YouTube can decide to freeze your view count while they review your views. They are protecting the site from becoming saturated with videos that only look popular because of bots. Ultimately, ‘how does YouTube count views’ isn’t a question anyone but YouTube can answer for sure, but we do know it isn’t as simple as ‘a view is someone clicking on your video’.
@@ -124,10 +128,6 @@ In short, we know YouTube expects a viewer to watch a video for around 30 second
 If you want to engage your audience with cool effects and Filmora is the best choice to make a split-screen and green screen video for YouTubers. Download it now to have a try!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -146,21 +146,14 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-elevate-editing-professional-kinemaster-transition-tactics/"><u>[New] In 2024, Elevate Editing Professional Kinemaster Transition Tactics</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-srt-file-fundamentals-from-basics-to-advanced-techniques/"><u>[Updated] In 2024, SRT File Fundamentals From Basics to Advanced Techniques</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-find-my-playlist-on-youtube/"><u>2024 Approved How to Find My Playlist on YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-manual-for-crafting-youtube-playlists/"><u>2024 Approved How-To Manual for Crafting YouTube Playlists</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-instant-techniques-to-shuffle-youtube-song-sequences/"><u>2024 Approved Instant Techniques to Shuffle YouTube Song Sequences</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/filmoras-quick-start-approach-for-youtube-trailers-for-2024/"><u>Filmora's Quick-Start Approach for YouTube Trailers for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-updated-nvidia-driver-pack-for-geforce-rtx-2070-on-windows-os/"><u>Get Updated NVIDIA Driver Pack for GeForce RTX 2070 on Windows OS</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-guide-to-producing-effective-youtube-promo-videos/"><u>In 2024, Guide to Producing Effective YouTube Promo Videos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-seamless-integration-share-confidential-youtube-videos-on-gmail/"><u>In 2024, Seamless Integration Share Confidential YouTube Videos on Gmail</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/is-it-illegal-to-archive-your-youtube-watch-history-in-2024/"><u>Is It Illegal to Archive Your YouTube Watch History, In 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/mobile-scanning-and-ocr-technology-for-documents-convert-pdf-jpg-to-text-with-iphone-app/"><u>Mobile Scanning & OCR Technology for Documents - Convert PDF, JPG to Text with iPhone App</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/resolve-your-issue-troubleshooting-when-5kplayer-fails-to-start-or-stream/"><u>Resolve Your Issue: Troubleshooting When 5KPlayer Fails to Start or Stream</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/step-by-step-guide-to-control-video-pace-in-instagram/"><u>Step-by-Step Guide to Control Video Pace in Instagram</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-best-ssds-for-202n4-price-smart-sata-to-high-performance-nvme-options/"><u>Unveiling the Best SSDs for 202N4: Price-Smart SATA to High-Performance NVMe Options</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-hdr-techniques-for-photoshop-pros-a-step-by-step-guide/"><u>2024 Approved HDR Techniques for Photoshop Pros A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-sky-high-streamer-success-channel-growth-through-monetizing-every-device/"><u>2024 Approved Sky-High Streamer Success Channel Growth Through Monetizing Every Device</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-spoof-spectacle-steps-to-create-a-parody/"><u>2024 Approved Spoof Spectacle Steps to Create a Parody</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/equipment-list-for-homebound-filmmakers/"><u>Equipment List for Homebound Filmmakers</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-skyrocket-your-youtube-speed-with-effective-render-techniques/"><u>In 2024, Skyrocket Your YouTube Speed with Effective Render Techniques</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-tailoring-audio-rate-on-mobile-and-desktops-for-youtube/"><u>In 2024, Tailoring Audio Rate on Mobile and Desktops for YouTube</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-reducing-ping-fluctuations-in-bless-unleashed-on-your-gaming-pc/"><u>Ultimate Guide to Reducing Ping Fluctuations in Bless Unleashed on Your Gaming PC</u></a></li>
 </ul></div>
 

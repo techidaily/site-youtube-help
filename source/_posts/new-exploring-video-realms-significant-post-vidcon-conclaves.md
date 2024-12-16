@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Exploring Video Realms  Significant Post-VidCon Conclaves\""
-date: 2024-12-03T02:52:52.836Z
-updated: 2024-12-09T19:37:55.877Z
+date: 2024-12-14T18:19:24.146Z
+updated: 2024-12-16T17:20:40.174Z
 tags:
   - ai video
   - ai youtube
@@ -36,10 +36,6 @@ Want to meet your favorite creators? Or, do you want to become a better creator 
 6. [Amplify Live (Australia)](#amplify)
 7. [Summer in the City (UK)](#sitc)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **The Most Important YouTube Events**
 
 Want to be a youtube creator too? Go and get **Wondershare Filmora**, the video editing software for all creators.
@@ -57,7 +53,7 @@ Want to be a youtube creator too? Go and get **Wondershare Filmora**, the video 
 ![VidCon-On-Spot](https://images.wondershare.com/filmora/VidCon-On-Spot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In 2017 over 30,000 YouTube enthusiasts – from fans to A-list creators – attended VidCon US, and that was thousands of more people than attended in 2016\. It’s hard to imagine that this event – the biggest convention for YouTube and online video – will do anything but grow over the next few years.
@@ -123,7 +119,7 @@ There is also business **Passes** with Merch and Deluxe (Business Deluxe can cos
 ![beautycon-festivals](https://images.wondershare.com/filmora/beautycon-festivals.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Beautycon is an event meant to highlight innovators in the fields of Beauty, Makeup, and Lifestyle. They bring together online creators, fans, celebrities, and brands for two-day festivals full of fun, panel discussions, shopping, and free samples.
@@ -150,6 +146,10 @@ These events are customized to the wherever festival is visiting, so you’re al
 
 ![youtube-fanfest](https://images.wondershare.com/filmora/youtube-fanfest.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 There is not a steady annual schedule for FanFests, but it has visited these cities in the past: Manila, Mumbai, Seoul, Toronto, Sao Paulo, Jakarta, Tokyo, Jeddah, Bangkok, Ho Chi Minh City, Hong Kong, and Washington, DC.
 
 #### 5. ** RTX
@@ -163,7 +163,7 @@ Sydney, Australia: February
 ![rtx](https://images.wondershare.com/filmora/rtx.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Brought to you by the creators behind Rooster Teeth, RTX is a celebration of internet culture and gaming. It includes exhibitors, live events, panels, and activities targeting gamers. Partners include Twitch and multiple gaming companies.
@@ -204,6 +204,10 @@ For VIP access, you can buy a **Deluxe** pass for $125-$150 AUD.
 
 ![summer-in-the-city](https://images.wondershare.com/filmora/summer-in-the-city.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This is the largest online video festival in the UK. It features discussion panels, workshops, and live performances targeted at creators, fans of online video, and industry professionals. YouTubers might hang out on the show floor meeting fans, and there are also Meet and Greet sessions for top creators. All ticket holders can submit online ballots for a chance at Meet and Greet access.
 
 Summer in the City even has its own awards show, SitC, to honor the best in online content. Previous winners include Dodie, Tomska, Jack & Dean, and Nathan Zed.
@@ -228,10 +232,6 @@ Have you ever attended an offline YouTube event? Which one, and how did you like
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -247,19 +247,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-tele-loop-triumph-youtube-videos-endlessly-enjoyable-on-tv/"><u>[New] 2024 Approved Tele-Loop Triumph YouTube Videos, Endlessly Enjoyable on Tv</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-best-sites-to-buy-monetized-youtube-channels-for-beginners/"><u>[New] Best Sites to Buy Monetized YouTube Channels for Beginners</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-harmonic-haven-best-dj-template-selections/"><u>[New] Harmonic Haven Best DJ Template Selections</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-talk-turned-type-essential-apps-for-offline-speech-recognition/"><u>[New] Talk Turned Type Essential Apps for Offline Speech Recognition</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-enhancing-video-discoverability-with-ideal-thumbnail-widths-and-height/"><u>[Updated] In 2024, Enhancing Video Discoverability with Ideal Thumbnail Widths and Height</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-who-reigns-supreme-obs-vs-twitch-live/"><u>[Updated] In 2024, Who Reigns Supreme? OBS vs Twitch Live</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-exquisite-couple-clips-the-best-weddings-online-8-picks/"><u>2024 Approved Exquisite Couple Clips The Best Weddings Online (8 Picks)</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-top-picks-7-exceptional-android-adblocking-apps/"><u>2024 Approved Top Picks 7 Exceptional Android AdBlocking Apps</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/apc-ups-model-1500va-in-depth-review-maximum-power-output-convenient-ports-and-battery-replacement/"><u>APC UPS Model 1500VA - In-Depth Review: Maximum Power Output, Convenient Ports & Battery Replacement</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-understanding-the-economics-youtubes-new-model-for-content-creators-and-viewers/"><u>In 2024, Understanding the Economics YouTube's New Model for Content Creators and Viewers</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/making-fx-magic-a-novices-step-into-animated-worlds-for-2024/"><u>Making FX Magic A Novice's Step Into Animated Worlds for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/setting-up-for-success-an-instagram-business-account-blueprint-for-2024/"><u>Setting Up for Success An Instagram Business Account Blueprint for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-guide-top-10-premier-webm-to-mp4-video-converter-apps-compatible-with-windows-10-11-and-macos/"><u>Ultimate Guide: Top 10 Premier WebM to MP4 Video Converter Apps Compatible with Windows 10, 11 and macOS</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/youtube-live-thumbnails-a-comprehensive-look/"><u>YouTube Live Thumbnails A Comprehensive Look</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-boost-your-game-presence-with-free-voice-alteration-tips-for-free-fire/"><u>[New] Boost Your Game Presence with Free Voice Alteration Tips for Free Fire</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-streamline-accessibility-a-compreenas-top-free-tts-apps-list-for-mac-users/"><u>[Updated] 2024 Approved Streamline Accessibility A Compreenas Top Free TTS Apps List for Mac Users</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-recovering-from-a-mistaken-tiktok-reload/"><u>[Updated] In 2024, Recovering From a Mistaken TikTok Reload</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-editors-edge-advanced-tactics-for-youtube-video-spins-guide/"><u>2024 Approved The Editor's Edge Advanced Tactics for YouTube Video Spins (Guide)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-top-25-secrets-for-effective-win10-use/"><u>2024 Approved Top 25 Secrets for Effective Win10 Use</u></a></li>
+<li><a href="https://driver-download.techidaily.com/comprehensive-installation-of-sony-vaio-pcg-fixpack-enhancing-your-windows-experience/"><u>Comprehensive Installation of Sony Vaio PCG Fixpack – Enhancing Your Windows Experience</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ensure-peak-performance-latest-epson-wf-372-printer-driver-downloads-and-updates-await/"><u>Ensure Peak Performance: Latest Epson WF 372# Printer Driver Downloads and Updates Await!</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/first-offset-guide-affordable-channel-buys-to-monetize-for-2024/"><u>First Offset Guide Affordable Channel Buys to Monetize for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-amplify-computer-sound-on-a-windows-10-operating-system/"><u>How to Amplify Computer Sound on a Windows 10 Operating System</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-navigating-backwards-youtubes-way-to-rearrange-watch-queue/"><u>In 2024, Navigating Backwards YouTube’s Way to Rearrange Watch Queue</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-skyrocket-your-view-count-youtube-success-via-sony-vegas-editing/"><u>In 2024, Skyrocket Your View Count YouTube Success via Sony Vegas Editing</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-solution-for-non-shown-shorts-thumbnails-on-youtube/"><u>In 2024, Step-by-Step Solution for Non-Shown Shorts Thumbnails on YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlock-creative-potential-with-these-top-9-free-editors/"><u>In 2024, Unlock Creative Potential with These Top 9 Free Editors</u></a></li>
+<li><a href="https://fox-that.techidaily.com/lost-in-translation-make-sure-your-android-delivers-texts-to-your-iphone-without-fail/"><u>Lost in Translation? Make Sure Your Android Delivers Texts to Your iPhone Without Fail</u></a></li>
 </ul></div>
 

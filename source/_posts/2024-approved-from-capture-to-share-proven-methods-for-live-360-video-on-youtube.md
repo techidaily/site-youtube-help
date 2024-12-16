@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Capture to Share  Proven Methods for Live 360° Video on Youtube\""
-date: 2024-07-29T19:19:34.293Z
-updated: 2024-07-30T19:19:34.293Z
+date: 2024-12-15T17:27:40.089Z
+updated: 2024-12-16T17:02:23.159Z
 tags:
   - ai video
   - ai youtube
@@ -27,19 +27,17 @@ thumbnail: https://www.lifewire.com/thmb/N3leTNiPss-gtYMmm8iFNKAGbMI=/400x300/fi
 * [Part1.Stream 360 to Youtube via Ricoh Theta S and OBS on PC](#part1)
 * [Part2.Live Stream from Allie 360 Camera to YouTube on Mobile](#part2)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## 1\. Stream 360 to Youtube via Ricoh Theta S and OBS on PC
 
 **Step 1:** First of all you need to get ready with your Ricoh Theta S 360 camera unit.
 
 **Step 2:** Now visit the [official website](https://theta360.com/en/support/download/) of Theta 360 in order to download your dedicated live streaming application.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![official website](https://images.wondershare.com/filmora/article-images/official-website.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Get your application and install it on your Mac or PC as per need.
 
@@ -51,9 +49,17 @@ thumbnail: https://www.lifewire.com/thmb/N3leTNiPss-gtYMmm8iFNKAGbMI=/400x300/fi
 
 ![click OK](https://images.wondershare.com/filmora/article-images/click-ok.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6:**  You will find option to register to application with your respective device. Select and hit register.
 
 ![Click register](https://images.wondershare.com/filmora/article-images/click-register.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 7:** As soon as your registration process is complete then un-plug your USB cable.
 
@@ -61,11 +67,12 @@ thumbnail: https://www.lifewire.com/thmb/N3leTNiPss-gtYMmm8iFNKAGbMI=/400x300/fi
 
 ![bottom video](https://images.wondershare.com/filmora/article-images/bottom-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 9:** Once your device enters into Live Stream mode then a Led will start blinking on your device that represents your device is live at this moment.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![led](https://images.wondershare.com/filmora/article-images/led.jpg)
 
 **Step 10:** Now you need to plug in the USB cable again with your computer.
@@ -74,9 +81,6 @@ thumbnail: https://www.lifewire.com/thmb/N3leTNiPss-gtYMmm8iFNKAGbMI=/400x300/fi
 
 **Step 12:** Go to create scene option and then switch to create sources.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![Create scene](https://images.wondershare.com/filmora/article-images/create-scene.jpg)
 
 **Step 13:** Select video capture device as your source from drop down menu.
@@ -91,6 +95,10 @@ thumbnail: https://www.lifewire.com/thmb/N3leTNiPss-gtYMmm8iFNKAGbMI=/400x300/fi
 
 ![screen](https://images.wondershare.com/filmora/article-images/screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 16:** Now move to YouTube and then hit New Live Events option.
 
 ![new live events](https://images.wondershare.com/filmora/article-images/new-live-events.jpg)
@@ -103,10 +111,11 @@ thumbnail: https://www.lifewire.com/thmb/N3leTNiPss-gtYMmm8iFNKAGbMI=/400x300/fi
 
 **Step 19:** Now complete the ingesting settings and finally select create new stream option.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![new stream option](https://images.wondershare.com/filmora/article-images/new-stream-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 20:** As soon as your event is created then you will be able to find your stream name on screen, copy it and simply paste it on OBS window.
 
@@ -114,32 +123,22 @@ thumbnail: https://www.lifewire.com/thmb/N3leTNiPss-gtYMmm8iFNKAGbMI=/400x300/fi
 
 **Step 21:** It is time to return to OBS settings and then you need to paste that copied name on stream key option.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![paste to obs](https://images.wondershare.com/filmora/article-images/paste-to-obs.jpg)
 
 **Step 22:** Once all above settings are complete then click start stream option from your OBS window and you will soon be able to find your 360 live on YouTube.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![stream key](https://images.wondershare.com/filmora/article-images/stream-key.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![360 live](https://images.wondershare.com/filmora/article-images/360-live.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2.Live Stream from Allie 360 Camera to YouTube on Mobile
 
 **Step 1:** Get ready with your Allie 360 camera unit.
@@ -153,9 +152,6 @@ thumbnail: https://www.lifewire.com/thmb/N3leTNiPss-gtYMmm8iFNKAGbMI=/400x300/fi
 
 **Step 4:** As soon as you have downloaded your app then simply turn on the Bluetooth, Wi-Fi and air plane mode on your device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![air plane mode](https://images.wondershare.com/filmora/article-images/air-plane-mode.jpg)
 
 **Step 5:** Simply open your Allie application and then connect your camera.
@@ -164,9 +160,6 @@ thumbnail: https://www.lifewire.com/thmb/N3leTNiPss-gtYMmm8iFNKAGbMI=/400x300/fi
 
 **Step 6:** Now users need to hit stream icon on screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![icon on](https://images.wondershare.com/filmora/article-images/icon-on.jpg)
 
 **Step 7:** You will be asked to fill the necessary information about your video. It is also possible to make adjustments regarding video quality. Once you are done with all required settings then hit Submit option.
@@ -177,10 +170,11 @@ thumbnail: https://www.lifewire.com/thmb/N3leTNiPss-gtYMmm8iFNKAGbMI=/400x300/fi
 
 ![SNS platform](https://images.wondershare.com/filmora/article-images/sns-platform.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -188,12 +182,27 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/xploring-adsense-revenue-streams-on-youtube-for-every-1k-watcher/"><u>[New] Exploring AdSense Revenue Streams on YouTube for Every 1K Watcher</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-micro-vids-unpacked-whats-the-score/"><u>[New] Micro Vids Unpacked What's the Score?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-ultimate-guide-to-quieter-skype-talks/"><u>[Updated] 2024 Approved The Ultimate Guide to Quieter Skype Talks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-essential-guide-for-proficiently-playing-games-with-switch-pro-in-steam/"><u>[Updated] The Essential Guide for Proficiently Playing Games with Switch Pro in Steam</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-the-art-of-hashtag-usage-a-primer-for-gamers-yt/"><u>2024 Approved Mastering the Art of Hashtag Usage A Primer for Gamers YT</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-mastering-the-art-of-transforming-social-media-videos-to-gifs/"><u>2024 Approved Mastering the Art of Transforming Social Media Videos to GIFs</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-roadmap-to-making-money-with-personal-videos/"><u>2024 Approved The Roadmap to Making Money with Personal Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-handbook-for-youtube-video-creation/"><u>2024 Approved The Ultimate Handbook for YouTube Video Creation</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Huawei Nova Y71? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-build-youtube-backlinks-for-your-channel/"><u>In 2024, How to Build YouTube Backlinks for Your Channel</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-precision-and-performance-gamers-equipment-showcase/"><u>In 2024, Precision & Performance Gamer's Equipment Showcase</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/running-ai-conversations-with-chatgpt-on-windows-quick-setup-instructions/"><u>Running AI Conversations with ChatGPT on Windows – Quick Setup Instructions</u></a></li>
+</ul></div>
 

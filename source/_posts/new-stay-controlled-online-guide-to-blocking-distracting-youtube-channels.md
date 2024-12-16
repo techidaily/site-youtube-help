@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Stay Controlled Online  Guide to Blocking Distracting YouTube Channels\""
-date: 2024-12-08T10:45:39.920Z
-updated: 2024-12-09T17:13:36.877Z
+date: 2024-12-11T18:23:11.711Z
+updated: 2024-12-16T17:03:14.399Z
 tags:
   - ai video
   - ai youtube
@@ -45,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7
 
 ![find about option](https://images.wondershare.com/filmora/article-images/find-about-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * 3\. On the right-hand side right under the **Stats**, you will find a **flag** icon. Press the icon and it will show a drop-down menu, select **Block user**.
 
 ![block user](https://images.wondershare.com/filmora/article-images/block-user2.jpg)
@@ -54,7 +58,11 @@ thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7
 ![submit and confirm](https://images.wondershare.com/filmora/article-images/submit2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 2: How to block YouTube channels on Mobile Phones (Android & iPhone)**
@@ -67,16 +75,12 @@ thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7
 
 ![find users](https://images.wondershare.com/filmora/article-images/find-users.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * 4\. When you’re on the account page, open the menu at the top-right corner of the screen and tap Block user.
 
 ![tap block users](https://images.wondershare.com/filmora/article-images/tap-block-user2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 3: Block content on YouTube kids**
@@ -89,17 +93,9 @@ thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7
 
 ![confirm parent](https://images.wondershare.com/filmora/article-images/a-parent3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * 2\. Sign in with your preferred Google account.
 
 ![parent account](https://images.wondershare.com/filmora/article-images/parent-account4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * 3\. Here you’ll see a button **Send Parental Consent Emai**l, press it.
 * 4\. You’ll get an activation code on your email address.
@@ -107,11 +103,19 @@ thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7
 
  Now as you’re signed in as a parent you can block channels and specific content.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **I. Block on Home screen**
 
 * 1\. On the Home screen press the dotted menu next to the video
 
 ![home screen](https://images.wondershare.com/filmora/article-images/home-screen5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * 2\. In the menu list, you will see **Block this video**, tap it.
 * 3\. You’ll be asked to enter the numbers written on the screen or a custom passcode.
@@ -130,17 +134,13 @@ thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7
 ![block this channel](https://images.wondershare.com/filmora/article-images/block-this-channel8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * 4\. Select any of the two options and then press **Block** again.
 * 5\. Enter the numbers you calculate from the presented numbers or a custom passcode.
 
 ![get passcode again](https://images.wondershare.com/filmora/article-images/pass-code-again8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -163,14 +163,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-top-10-screen-recording-devices-for-enterprise-use/"><u>2024 Approved Top 10 Screen Recording Devices for Enterprise Use</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unleash-creativity-with-top-9-free-tools-to-craft-your-brand/"><u>2024 Approved Unleash Creativity with Top 9 Free Tools to Craft Your Brand</u></a></li>
-<li><a href="https://win-online.techidaily.com/mov-vob-movavi/"><u>免費線上 MOV到 VOB的高效轉換器 - 使用 Movavi</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-gaming-experience-subscribe-via-prime/"><u>Enhance Gaming Experience: Subscribe via Prime</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-honor-magic-5-lite-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Honor Magic 5 Lite? Try These Fixes</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-tutorial-purging-your-youtube-download-history/"><u>In 2024, Tutorial Purging Your YouTube Download History</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-uncovering-the-truth-behind-4-second-youtube-subscriptions/"><u>In 2024, Uncovering the Truth Behind 4-Second YouTube Subscriptions</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamlessly-access-lately-used-documents-in-windows/"><u>Seamlessly Access Lately Used Documents in Windows</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/1728482727697-windows-server-2016/"><u>Windows Server 2016用に選ばれたベストのディスクイメージ生成ツール</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-asmr-unveiled-benefits-for-your-well-being-for-2024/"><u>[New] ASMR Unveiled Benefits for Your Well-Being for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-fresh-face-finds-budget-friendly-platforms-to-purchase/"><u>[New] Fresh Face Finds Budget-Friendly Platforms to Purchase</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-micro-movie-maker/"><u>[New] Micro Movie Maker</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-premium-8-editors-compatible-with-linux/"><u>[New] Premium 8 Editors Compatible with Linux</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nleashing-creativity-how-to-make-a-hit-music-reaction-video-on-yotube-for-2024/"><u>[New] Unleashing Creativity How to Make a Hit Music Reaction Video on YoTube for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/1716806221212-updated-how-to-record-good-audio-without-a-microphone/"><u>[Updated] How to Record Good Audio Without a Microphone?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-wavmp4/"><u>「完全無料！Movavi WAVファイルをMP4に簡単変換ツール」</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-strategic-steps-making-your-private-yt-videos-public-via-google/"><u>2024 Approved Strategic Steps Making Your Private YT Videos Public via Google</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-understanding-youtube-post-upload-process/"><u>2024 Approved Understanding YouTube Post-Upload Process</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp4mp3/"><u>優化發現：MP4到MP3自由變換技術 - 快速無需付錢！</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apple-wwdc-2025-a-sneak-peek-at-future-technologies-and-tools/"><u>Apple WWDC 2025 – A Sneak Peek at Future Technologies and Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-how-to-restore-the-lost-binkw32dll-component-effectively/"><u>Guide: How to Restore the Lost binkw32.dll Component Effectively</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-download-youtube-thumbnail-in-3-ways-onlinewinmac/"><u>In 2024, How to Download YouTube Thumbnail in 3 Ways [Online/Win/Mac]</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/maximize-your-youtube-income-with-effective-mobile-device-strategies-for-2024/"><u>Maximize Your YouTube Income with Effective Mobile Device Strategies for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/seamless-preservation-of-your-messages-syncing-whatsapp-chats-with-google-drive-tips-for-smartphones-and-tablets/"><u>Seamless Preservation of Your Messages: Syncing WhatsApp Chats with Google Drive - Tips for Smartphones and Tablets</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/viral-hits-top-10-video-watches-in-an-hour-for-2024/"><u>Viral Hits Top 10 Video Watches in an Hour for 2024</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/yl-softwares-guide-how-well-does-windows-defender-protect-against-new-cybersecurity-risks/"><u>YL Software's Guide: How Well Does Windows Defender Protect Against New Cybersecurity Risks?</u></a></li>
 </ul></div>
 

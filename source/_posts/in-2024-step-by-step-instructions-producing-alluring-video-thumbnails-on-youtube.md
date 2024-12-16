@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Step-by-Step Instructions  Producing Alluring Video Thumbnails on YouTube\""
-date: 2024-12-06T20:54:12.640Z
-updated: 2024-12-10T12:01:11.817Z
+date: 2024-12-14T17:15:35.163Z
+updated: 2024-12-16T16:09:00.754Z
 tags:
   - ai video
   - ai youtube
@@ -62,11 +62,19 @@ Anybody can take a screenshot of themselves in their video and use it as a thumb
 
 Make sure the images you choose are relevant to the topic of your video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Make Your Text Huge
 
 If you use text in your thumbnail (you don’t have to) then it should be to add context. For example, if the main image is just you smiling then you might need some text to let viewers know the video is a makeup tutorial.
 
 Thumbnails might look large while you’re putting them together in your image editor, but when they’re displayed on YouTube they’re a lot smaller. That goes double if a viewer is watching on their phone. So, make sure that any text you use is large enough that it can be read easily on small screens.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Keep it Clutter-Free
 
@@ -122,10 +130,6 @@ People feel automatically connected and drawn into images that make eye contact.
 
 Also, if somebody recognizes you in your thumbnail from a previous video of yours, that will go a long way towards making them click.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Use Graphics/Emojis that are On Topic
 
 Anybody can take a screenshot of themselves in their video and use it as a thumbnail. To make your thumbnails look polished, consider using small images (like emojis or hearts) to stand out. This will add color and personality to your thumbnail.
@@ -150,6 +154,10 @@ Use these tips to make video thumbnails for YouTube, and tell us what kind of re
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -173,10 +181,6 @@ Here are 5 easy tips for creating thumbnails that get views.
 5. **[Keep It Clutter-Free!](#five)**
 
  _Contest now closed._
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Edit Your Videos Before Creating Video Thumbnails
 
@@ -196,25 +200,21 @@ People feel automatically connected and drawn into images that make eye contact.
 
 Also, if somebody recognizes you in your thumbnail from a previous video of yours, that will go a long way towards making them click.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Use Graphics/Emojis that are On Topic
 
 Anybody can take a screenshot of themselves in their video and use it as a thumbnail. To make your thumbnails look polished, consider using small images (like emojis or hearts) to stand out. This will add color and personality to your thumbnail.
 
 Make sure the images you choose are relevant to the topic of your video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Make Your Text Huge
 
 If you use text in your thumbnail (you don’t have to) then it should be to add context. For example, if the main image is just you smiling then you might need some text to let viewers know the video is a makeup tutorial.
 
 Thumbnails might look large while you’re putting them together in your image editor, but when they’re displayed on YouTube they’re a lot smaller. That goes double if a viewer is watching on their phone. So, make sure that any text you use is large enough that it can be read easily on small screens.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Keep it Clutter-Free
 
@@ -263,6 +263,10 @@ Your thumbnails all must look like part of the same set. You want viewers to rec
 An example of a standard layout could be you in the middle of the screen wearing an expression that matches the theme of your video, with your title written underneath your face. Every individual thumbnail would still be different, but you and the text would always be in the same spot.
 
 ![Consistent Layout](https://images.wondershare.com/filmora/article-images/consistent-layout.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **2\. Use Your Face**
 
@@ -311,6 +315,10 @@ Follow @Richard Bennett
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Secrets to Profit From Youtube Shorts: Fundamentals and Earning Prospects
 
@@ -323,7 +331,7 @@ YouTube Shorts have grown in popularity since the launch of the platform in 2021
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 1\. YouTube Shorts Monetization: Eligibility Criteria**
@@ -340,6 +348,10 @@ The easiest way to monetize Shorts on YouTube is to access the fan-funding progr
 * At least 3 million public Shorts views in the last 90 days
 
 ![youtube shorts fund](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-from-youtube-shorts-requirements-and-earning-potential-1.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Eligibility for Monetizing Shorts and Videos**
 
@@ -376,10 +388,6 @@ Can you monetize YouTube shorts? Yes, in more than one way. The easiest is throu
 In the top right of the YouTube page, click on your profile picture. From the pop-up menu that appears, select **YouTube Studio**.
 
 ![youtube studio](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-from-youtube-shorts-requirements-and-earning-potential-3.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step 3In the left menu, Click on **Earn**
 
@@ -418,7 +426,7 @@ The money-making feature monetizes Shorts in exciting ways. To start monetizing 
 Monetizing YouTube Shorts has the potential to make decent earnings. Although the amount is not as much as a long-form videos, it is a great way of making money on YouTube quickly. Most YouTube Shorts creators agree that the revenue per thousand views (RPM) for short-form content is currently around $0.05 - $0.07\. This means that for a million Shorts views, you will make $50 - $70.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Factors** **That Influence Earnings**
@@ -473,10 +481,6 @@ YouTube Shorts have become immensely popular. They tend to have a higher ROI and
 
 With short monetization options, you can monetize your short-firm content by joining the YouTube Partner Program (YPP). Being a member of this program gives you access to all tools for making money on YouTube. This includes the ability to place ads on your videos or make money directly from your audience through fan funding.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Eligibility Requirements for Monetizing Shorts**
 
 The easiest way to monetize Shorts on YouTube is to access the fan-funding program. This program gives you access to special tools that you can use to generate revenue by interacting with views. This is a great option for creators who primarily make short-form videos. The requirements for this option are as follows:
@@ -518,6 +522,10 @@ Can you monetize YouTube shorts? Yes, in more than one way. The easiest is throu
 
 ![youtube sign in](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-from-youtube-shorts-requirements-and-earning-potential-2.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 2Select YouTube Studio
 
 In the top right of the YouTube page, click on your profile picture. From the pop-up menu that appears, select **YouTube Studio**.
@@ -556,17 +564,9 @@ The instructions shared above are for applying for the YPP using a computer or d
 
 The money-making feature monetizes Shorts in exciting ways. To start monetizing with Super Thanks fan funding, click Supers on the Earn tab in YouTube Studio. Then click Get Started, and follow the presented prompts. The same process is applicable for Channel Memberships, and other fan-funding options.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part 3\. YouTube Shorts Monetization: A Realistic Look at Earnings Potential**
 
 Monetizing YouTube Shorts has the potential to make decent earnings. Although the amount is not as much as a long-form videos, it is a great way of making money on YouTube quickly. Most YouTube Shorts creators agree that the revenue per thousand views (RPM) for short-form content is currently around $0.05 - $0.07\. This means that for a million Shorts views, you will make $50 - $70.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Factors** **That Influence Earnings**
 
@@ -627,16 +627,22 @@ YouTube Shorts have become immensely popular. They tend to have a higher ROI and
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-safekeeping-sensitive-visuals-from-public-eyes/"><u>[New] In 2024, Safekeeping Sensitive Visuals From Public Eyes</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-streamlining-in-stream-ads-on-facebook-your-step-by-step-playbook/"><u>[New] In 2024, Streamlining In-Stream Ads on Facebook Your Step-by-Step Playbook</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-enhance-your-digital-diaries-for-free-extensions-and-mobile-edition-for-2024/"><u>[Updated] Enhance Your Digital Diaries for Free – Extensions & Mobile Edition for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-essential-checklist-for-yt-creator-mastery/"><u>2024 Approved The Essential Checklist for YT Creator Mastery</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-top-8-proven-video-growth-and-promotion-strategies/"><u>2024 Approved Top 8 Proven Video Growth & Promotion Strategies</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/1728503436935-windows111087/"><u>最佳Windows平台（11、10、8、7）遞送硬盤軟件解決方案</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-roku-subtitle-troubles-a-comprehensive-tutorial/"><u>Fixing Roku Subtitle Troubles: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-sound-and-filter-integration-in-windows-10-photos-app/"><u>In 2024, Mastering Sound & Filter Integration in Windows 10 Photos App</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-top-7-android-adblockers-seamless-browsing-experience/"><u>In 2024, Top 7 Android AdBlockers Seamless Browsing Experience</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/launch-free-youtube-events-a-step-by-step-guide-for-2024/"><u>Launch Free Youtube Events A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-turbocharge-video-on-snapchat-new-users-edition/"><u>[New] 2024 Approved Turbocharge Video on Snapchat New Users Edition</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-income-investigation-the-streamlined-3-part-method-to-assess-your-youtube-income-levels/"><u>[New] Income Investigation The Streamlined 3-Part Method to Assess Your YouTube Income Levels</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-road-to-profitable-facebook-marketing-through-engaging-ads/"><u>[Updated] 2024 Approved The Road to Profitable Facebook Marketing Through Engaging Ads</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-shrink-it-down-youtubes-video-trimming-process/"><u>2024 Approved Shrink It Down YouTube's Video Trimming Process</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-transforming-raw-audio-into-high-quality-youtube-videos/"><u>2024 Approved Transforming Raw Audio Into High-Quality YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/advanced-conversion-mp4-to-facebook-2023/"><u>Advanced Conversion MP4 to FaceBook 2023</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apples-latest-surprise-the-compelling-appeal-of-the-349-ipad-revealed-at-revolutionary-event-insights/"><u>Apple's Latest Surprise: The Compelling Appeal of the $349 iPad Revealed at Revolutionary Event Insights</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/harnessing-the-power-of-filmora-for-youtube-video-promotions-for-2024/"><u>Harnessing the Power of Filmora for YouTube Video Promotions for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-key-conduct-criteria-in-the-youtube-sphere/"><u>In 2024, Key Conduct Criteria in the YouTube Sphere</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mix-masters-ideal-dj-videos-to-download/"><u>In 2024, Mix Masters Ideal DJ Videos to Download</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-start-your-affordable-webinar-journey-with-youtube/"><u>In 2024, Start Your Affordable Webinar Journey with YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-excellent-video-keywords-on-youtube/"><u>In 2024, Unveiling Excellent Video Keywords on YouTube</u></a></li>
+<li><a href="https://win-hot.techidaily.com/key-factors-in-picking-the-right-liability-insurance-for-your-dj-business-with-pcdj-tips/"><u>Key Factors in Picking the Right Liability Insurance for Your DJ Business with PCDJ Tips</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/1728494241842-pc3/"><u>PC上で失われた動画を迅速かつ安価に回復する3つのテクニック</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/professionally-enhancing-photos-with-effective-use-of-3d-lut-filters/"><u>Professionally Enhancing Photos with Effective Use of 3D LUT Filters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trusting-robot-generated-passwords-think-again-win-11-edition/"><u>Trusting Robot-Generated Passwords? Think Again! (Win 11 Edition)</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-fcpx-hacks-smooth-skin-without-breaking-the-bank-or-using-plugins/"><u>Updated 2024 Approved FCPX Hacks Smooth Skin without Breaking the Bank (or Using Plugins)</u></a></li>
 </ul></div>
 

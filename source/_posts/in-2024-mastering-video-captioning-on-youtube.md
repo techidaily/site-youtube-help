@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering Video Captioning on YouTube"
-date: 2024-07-29T19:22:10.185Z
-updated: 2024-07-30T19:22:10.185Z
+date: 2024-12-09T17:25:54.445Z
+updated: 2024-12-16T17:53:25.693Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/c16b1e731514b90b733ef5726536377276b9f0da4
 
 # How To Add Captions to YouTube Videos
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -32,17 +29,18 @@ By captioning your YouTube videos you help to make them accessible to more poten
 This article will first explain how you can turn on subtitles for the videos you watch and then walk you through adding captions to your own videos.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How To Turn On Captions on YouTube
 
 In order for you to be able to view subtitles for a YouTube video the uploader of the video will need to have added them, unless you change your account settings to display automatic captions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![captions](https://images.wondershare.com/filmora/article-images/captions-how-to-turn-on.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To toggle subtitles on and off click on the Closed Captioning icon in the bottom right of your video player.
 
@@ -51,8 +49,9 @@ If the creator of the video has not added captions then you can enable automatic
 If you want to change the language of the subtitles click on the settings icon (the one that looks like a gear) next to the closed captioning icon and choose your language next to   **Subtitles/CC** . If the language you want is not there select **Auto-Translate**  and then pick a language. Google Translate will be used to generate subtitles in your chosen language.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Adding YouTube Captions in 4 Steps
 
 1\. Go to **Video Manager** in your **Creator Studio** and then look at your videos. Decide which one you want to add captions to.
@@ -75,10 +74,11 @@ If you want to change the language of the subtitles click on the settings icon (
 
 The easiest way to add subtitles to your videos is to use **Automatic Captioning**. However, Automatic Captioning is imperfect and may result in your viewers getting a sloppy, skewed, interpretation of your video. Automatic captions are also not indexed by YouTube and Google the way subtitles you create or upload are. This means that they will not have any value to your SEO strategy. If you do not input your own captions or transcript you are missing out on an opportunity for better search engine rankings. Automatic Captions are great if you do not have time to input subtitles and need a temporary solution, though.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -86,12 +86,31 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-a-treasure-trove-sifting-through-the-top-10-economical-online-art-hubs/"><u>[New] 2024 Approved A Treasure Trove Sifting Through the Top 10 Economical Online Art Hubs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevating-profits-via-celebrity-skincare-channels/"><u>[New] 2024 Approved Elevating Profits via Celebrity Skincare Channels</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-harvest-cost-free-visuals-from-leading-4-youtube-hubs/"><u>[New] Harvest Cost-Free Visuals From Leading 4 YouTube Hubs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-mov-file-handling-in-windows-11/"><u>[New] In 2024, The Ultimate Guide to MOV File Handling in Windows 11</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-pioneering-the-perfect-playlist-for-youtube-music-enthusiasts/"><u>[New] Pioneering the Perfect Playlist for YouTube Music Enthusiasts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-7-gratis-youtube-tags-extractor-tools/"><u>2024 Approved Top 7 Gratis Youtube Tags Extractor Tools</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-ultimate-livestream-guidebook-recommended-tools-and-devices-compilation/"><u>2024 Approved Ultimate Livestream Guidebook Recommended Tools and Devices Compilation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-chatgpts-co-pilot-features-and-functionality-insights/"><u>Demystifying ChatGPT's Co-Pilot: Features and Functionality Insights</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/download-any-videos-with-ease-discover-allavsoft-the-leading-video-grabber-for-macwindows-users/"><u>Download Any Videos with Ease: Discover Allavsoft, the Leading Video Grabber for Mac/Windows Users</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-elevate-your-channel-vision-selecting-ideal-content-strategies/"><u>In 2024, Elevate Your Channel Vision Selecting Ideal Content Strategies</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-premier-select-affordable-youtube-sbs-extraction/"><u>In 2024, Premier Select Affordable YouTube SBS Extraction</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-snapchat-to-subscribers-how-jake-crafted-youtube-magic/"><u>In 2024, Snapchat to Subscribers How Jake Crafted YouTube Magic</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-tailoring-your-content-youtube-video-length-reduction-guide/"><u>In 2024, Tailoring Your Content YouTube Video Length Reduction Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-top-10-youtube-video-to-mp3-converter-withwithout-editor/"><u>In 2024, Top 10 YouTube Video to Mp3 Converter With/Without Editor</u></a></li>
+<li><a href="https://win-superb.techidaily.com/top-strategies-for-shielding-your-windows-pc-from-malware-infections-insights-by-yl-computing/"><u>Top Strategies for Shielding Your Windows PC From Malware Infections - Insights by YL Computing</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/troubleshooting-teracopy-issues-on-windows-11-a-step-by-step-guide/"><u>Troubleshooting Teracopy Issues on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/windowsdvd-winx-dvd-ripper/"><u>Windows用最新DVDリッピングツールを紹介します: WinX DVD Ripperフリー版配布</u></a></li>
+</ul></div>
 

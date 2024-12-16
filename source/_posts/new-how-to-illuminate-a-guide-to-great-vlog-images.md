@@ -1,7 +1,7 @@
 ---
 title: "\"[New] How to Illuminate  A Guide to Great Vlog Images\""
-date: 2024-12-05T09:41:48.028Z
-updated: 2024-12-10T11:37:00.123Z
+date: 2024-12-10T16:03:29.909Z
+updated: 2024-12-16T16:20:41.315Z
 tags:
   - ai video
   - ai youtube
@@ -29,16 +29,12 @@ One of the best things you can do for your video quality is to ensure you have g
 Going outside and using natural light is the cheapest way to get a lot of light for your videos. If your vlog is not suited to the great outdoors then you need to get more strategic. You can turn on all the lights in your living room and still end up with a dark, grainy, video.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Video Lighting Basics: Three Point Lighting
 
 ![Lighting for YouTube Video](https://images.wondershare.com/filmora/article-images/three-point-lighting.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The most common technique of lighting a scene is called **three-point lighting**. It involves three different sources of light in the shot and is used by portrait photographers, which is also a great method for lighting your vlog.
 
@@ -53,6 +49,10 @@ The **fill light** is less bright than the primary source of light and it is pla
 The final step to creating three point lighting is to set up another light behind you. This is your 'Backlight', and it will help you stand out from your background. **Backlight or Hair light** is always placed behind and above the subject to create separation between the subject in the shot and the background. This basic lighting technique can be applied in almost every scene you shoot, which is why it is important to keep an open mind and to continue experimenting with possible light setups.
 
 ### Watch Video! Top Lighting Tips for Vlogging
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Lightning Tips for Aspiring YouTube Videographers
 
@@ -81,7 +81,7 @@ Sets of reflectors are often under $50, so they are fairly affordable. However, 
 ![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips01.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If your strong main light is too hard on your eyes then you can use a translucent 'reflector' to soften it. Set your translucent reflector, or other screen, up in front of your main light to diffuse it.
@@ -91,7 +91,7 @@ If you are hosting a **beauty vlog** then you might consider a slightly differen
 ![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips02.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If you are using all of the lighting options available to you and your video still looks too dark then you can try brightening it by **opening up the aperture of your camera** lens/setting a lower f-stop. Letting more light into your camera can help your footage look brighter, although you also run the risk of making things look overexposed/ washed out if you are not careful.
@@ -101,7 +101,7 @@ If you are stuck shooting in **low light conditions** it is best to use a lens w
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -119,18 +119,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-decoding-editing-excellence-can-pickup-outshine-the-competition-on-android/"><u>[Updated] 2024 Approved Decoding Editing Excellence Can PickUp Outshine the Competition on Android?</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-explore-the-limitless-potential-of-fb-vr-upload-tips/"><u>[Updated] Explore the Limitless Potential of FB VR Upload Tips</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-focused-growth-instagrams-must-use-tags-to-watch-out-for/"><u>[Updated] In 2024, Focused Growth Instagram's Must-Use Tags to Watch Out For</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-performer-freedom-agreement-form/"><u>[Updated] Performer Freedom Agreement Form</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-sonic-streamline-the-playlist-conveyor-belt-trick-for-2024/"><u>[Updated] Sonic Streamline The Playlist Conveyor Belt Trick for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-livestream-titans-clash-facebook-youtube-and-twitspaces/"><u>2024 Approved Livestream Titans Clash FACEbook, YOUTube, and TWITSpaces</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/from-views-to-valuables-the-ultimate-video-income-play-for-2024/"><u>From Views to Valuables The Ultimate Video Income Play for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/from-virality-to-value-ajays-playbook-for-profitable-content-creation-for-2024/"><u>From Virality to Value Ajay’s Playbook for Profitable Content Creation for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/giggles-galore-celebrating-the-funniest-web-content-creators-for-2024/"><u>Giggles Galore Celebrating the Funniest Web Content Creators for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-samsung-galaxy-s21-fe-5g-2023-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Samsung Galaxy S21 FE 5G (2023) FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-the-basics-of-asmr-video-content/"><u>In 2024, Mastering the Basics of ASMR Video Content</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtubing-success-final-stages-and-top-resources/"><u>In 2024, YouTubing Success Final Stages and Top Resources</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-sound-of-you-how-to-add-a-personal-touch-with-ringtones-and-alerts-on-android-phones/"><u>The Sound of You How to Add a Personal Touch with Ringtones and Alerts on Android Phones</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-exploring-sierra-icloud-drives-a-complete-overview/"><u>[New] Exploring Sierra iCloud Drives – A Complete Overview</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-the-art-of-collage-creation/"><u>[New] Mastering the Art of Collage Creation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-secret-sauce-for-stellar-telegram-campaigns/"><u>[Updated] The Secret Sauce for Stellar Telegram Campaigns</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-afternoons-examination-alternative-perspectives/"><u>2024 Approved Afternoon's Examination Alternative Perspectives</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-free-video-credits-expertise-top-6-maker-guide/"><u>2024 Approved Free Video Credits Expertise - Top 6 Maker Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-video-migration-youtube-to-dailymotion-process/"><u>2024 Approved Navigating Video Migration YouTube to Dailymotion Process</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-subscriber-supremacy-youtubes-front-runners/"><u>2024 Approved Subscriber Supremacy YouTube's Front-Runners</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-the-new-wave-of-youtube-branding-best-titles-for-vloggers-and-filmmakers-keep-it-under-or-at-156-characters/"><u>2024 Approved The New Wave of YouTube Branding Best Titles for Vloggers & Filmmakers (Keep It Under or at 156 Characters)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/exploring-many-youtube-courses-together-for-2024/"><u>Exploring Many YouTube Courses Together for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/football-video-analysis-top-youtube-infographics-for-2024/"><u>Football Video Analysis Top YouTube Infographics for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-navigating-the-process-of-verifying-your-youtube-id/"><u>In 2024, Navigating the Process of Verifying Your YouTube ID</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-top-10-yogic-streams-for-optimal-health-and-fitness/"><u>In 2024, Top 10 Yogic Streams for Optimal Health & Fitness</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mastering-content-visibility-on-youtube-your-guide-to-effective-featured-channels-for-2024/"><u>Mastering Content Visibility on YouTube Your Guide to Effective Featured Channels for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-map-integration-your-guide-for-windows-users/"><u>Mastering Map Integration: Your Guide for Windows Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-eliminating-the-btballoondll-undetectedlost-issue/"><u>Step-by-Step Guide: Eliminating the BTBalloon.dll Undetected/Lost Issue</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-s18e-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo S18e Device</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Honor Magic Vs 2 | Dr.fone</u></a></li>
 </ul></div>
 

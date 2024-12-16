@@ -1,7 +1,7 @@
 ---
 title: "\"Master the Art of Budget-Friendly YouTubes Intros and Ends for 2024\""
-date: 2024-12-03T14:17:33.516Z
-updated: 2024-12-10T03:44:05.152Z
+date: 2024-12-13T16:15:17.509Z
+updated: 2024-12-16T17:39:48.272Z
 tags:
   - ai video
   - ai youtube
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 [How To Make an End Card](#how-to)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part1: Intros
@@ -73,7 +73,7 @@ You can create a simple intro card in **Filmora**.
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Choose your background. You may want to use a short clip as your intro, or you may just want a colored background.
@@ -86,7 +86,7 @@ You can create a simple intro card in **Filmora**.
 8. Export your video and save it for use in all of your other videos.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: End Cards
@@ -125,7 +125,7 @@ Some creators will leave their end cards at that and play music overtop, but it 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -143,22 +143,19 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-experience-a-bundle-of-9-whole-film-christmas-treasures-for-free/"><u>[New] Experience a Bundle of 9 Whole-Film Christmas Treasures for Free</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-photo-framing-made-easy-leading-apps-and-sites-reviewed/"><u>[New] In 2024, Photo Framing Made Easy Leading Apps and Sites Reviewed</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-uncompromised-audio-with-ffmpegs-extraction-features/"><u>[New] In 2024, Uncompromised Audio with FFmpeg's Extraction Features</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-skyrocket-your-video-reach-with-these-top-5-youtube-strategies/"><u>[New] Skyrocket Your Video Reach with These #Top 5 YouTube Strategies</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-quick-tips-for-seamless-embedding-of-youtube-playlists-on-a-website/"><u>[Updated] 2024 Approved Quick Tips for Seamless Embedding of YouTube Playlists on a Website</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-why-testimonial-videos-are-essential-for-brands-today-for-2024/"><u>[Updated] Why Testimonial Videos Are Essential for Brands Today for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-exploring-the-world-of-youtube-channel-naming-innovative-ideas-for-vloggers-and-filmmakers-no-more-than-156-characters/"><u>2024 Approved Exploring the World of YouTube Channel Naming Innovative Ideas For Vloggers & Filmmakers (No More than 156 Characters)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-itel-p55-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Itel P55 5G Phone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-journey-to-digital-self-expression-the-vtuber-guide/"><u>In 2024, Journey to Digital Self-Expression – The Vtuber Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-no-barriers-only-creativity-learn-cost-free-background-substitution-with-4-youtube-pros/"><u>In 2024, No Barriers, Only Creativity Learn Cost-Free Background Substitution with 4 YouTube Pros</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-quick-recap-of-chromakey-and-green-screen-processes/"><u>In 2024, Quick Recap of Chromakey and Green Screen Processes</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/is-it-illegal-to-document-video-on-youtube-platform-for-2024/"><u>Is It Illegal to Document Video on YouTube Platform for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/movavi-nef-png/"><u>Movavi의 원품: 인터넷을 통해 안전한 공급업법 - NEF 파일을 PNG로 무료 변환</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/navigating-the-digital-realm-uploading-with-premiere-and-youtube-for-2024/"><u>Navigating the Digital Realm Uploading with Premiere & YouTube for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/proficiency-through-practice-using-ez-grabber/"><u>Proficiency Through Practice Using EZ Grabber</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/top-10-photo-repair-tools-the-ultimate-guide-for-windows-and-macos-users/"><u>Top 10 Photo Repair Tools: The Ultimate Guide for Windows & macOS Users</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/1728479173631-365/"><u>オフィス365 メール転送ができない原因と改善策</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-struggling-youtuber-to-industry-leader-the-hub-of-creator-studios-wisdom/"><u>[New] From Struggling Youtuber to Industry Leader The Hub of Creator Studio's Wisdom</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/avigating-account-creation-on-youtube-for-2024/"><u>[New] Navigating Account Creation on YouTube for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-advanced-photo-manipulation-focus-on-content-not-backdrop/"><u>[Updated] 2024 Approved Advanced Photo Manipulation Focus on Content, Not Backdrop</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-9-leading-live-gaming-services-for-2024/"><u>[Updated] 9 Leading Live Gaming Services for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-achieving-vibrant-colors-srgb-techniques/"><u>[Updated] Achieving Vibrant Colors Srgb Techniques</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-skyrocket-subscribers-and-engagement-top-12-video-promotion-tactics/"><u>2024 Approved Skyrocket Subscribers and Engagement - Top 12 Video Promotion Tactics</u></a></li>
+<li><a href="https://fox-links.techidaily.com/cartooncraft-master-guide-24-report/"><u>CartoonCraft Master Guide '24 Report</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/raft-designer/"><u>ClipCraft Designer</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/freesync-review-the-latest-from-lg-27uhd68-monitor/"><u>FreeSync Review The Latest From LG 27UHD68 Monitor</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-honor-90-gt-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Honor 90 GT in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-strategic-backlink-building-for-enhanced-online-traction/"><u>In 2024, Strategic Backlink Building for Enhanced Online Traction</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-secret-to-viral-videos-get-the-best-thumbnail-size-guide/"><u>In 2024, The Secret to Viral Videos? Get the Best Thumbnail Size Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-top-purchasers-for-monetized-yt-channels-for-2024/"><u>Navigating Top Purchasers for Monetized YT Channels for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Oppo A56s 5G? | Dr.fone</u></a></li>
 </ul></div>
 

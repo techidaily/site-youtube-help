@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Sprinkle of Life in Your Text Animations"
-date: 2024-12-06T23:07:11.866Z
-updated: 2024-12-09T21:19:12.741Z
+date: 2024-12-11T16:06:32.034Z
+updated: 2024-12-16T16:16:34.799Z
 tags:
   - ai video
   - ai youtube
@@ -26,6 +26,10 @@ thumbnail: https://www.lifewire.com/thmb/MjDTenaULco1gu34wPM4hMvRH2g=/540x405/fi
 
 Earlier, you learned how to have a **[bounce text effect in Adobe After Effects](https://tools.techidaily.com/wondershare/filmora/download/)**. However, because AE is a complex application and has a steep learning curve, this section explains the two alternative ways to get the same effect on your existing video footage.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: How to Create Bouncing Text in Filmora Video Editor?
 
 When talking about [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), the application is populated with several presets for texts and titles, animations, effects, filters, and much more.
@@ -46,10 +50,6 @@ In the timeline, double-click the title you just added, use the upper-left secti
 
 ![Create Bouncing Text video Filmora9](https://images.wondershare.com/filmora/article-images/add-up-down-animation-to-bounce.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3: Add Shake Filters**
 
 Go to **Effects** from the standard toolbar, expand the **Filters** category from the left pane, and click **Shake**. From the Library window, click and drag your preferred shake filter to the timeline. Here, I will choose Mild.
@@ -57,22 +57,22 @@ Go to **Effects** from the standard toolbar, expand the **Filters** category fro
 ![Shake filters in Filmora9](https://images.wondershare.com/filmora/article-images/shake-filter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can customize the default effect by double-clicking the shake filter in the timeline, using the sliders in the upper-left area of the interface to make necessary adjustments, and then clicking **OK** to save the changes and to get back to the previous interface.
 
 ![Mild Shake filters adjust](https://images.wondershare.com/filmora/article-images/mild-shake-filter-adjust.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Export the Final Output**
 
 Click **EXPORT** from the top of the interface, go to the **Local** tab in the **Export** box, choose your preferred output format from the list in the left, make required customizations from the right pane, and click **EXPORT** from the bottom-right corner to export the video.
 
 ![Filmora9 Export Options](https://images.wondershare.com/filmora/article-images/export-filmora9-video.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now, you can add the bouncing text video and the background video to the timeline, and then place the bouncing text video above the background video track.
 
@@ -81,10 +81,6 @@ Double click the text track, go to the **Chroma Key** effect, select the **Color
 As explained before, Wondeshare Filmora makes the entire process of creating and adding **bounce text** effect pretty simple. With all the pre-build templates, and the versatility of the options that can be used to customize those presets, you can come up with the effects that are usually obtained when you start generating them from the scratch.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Generate Animated Bouncing Texts Online
 
@@ -97,6 +93,10 @@ Some most trusted websites to generate **bounce text** are listed below:
 Website: <https://engfto.com/index/create%5Fanimated%5Fbouncing%5Ftext/0-26>
 
 ![Create Animated Bouncing Text with ENGFTO](https://images.wondershare.com/filmora/article-images/engfto-create-animated-bouncing-text.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can follow the instructions given below to use Engfto to generate bouncing text for your footages:
 
@@ -139,7 +139,7 @@ Generating **bounce text** effect is much simpler when you use Wondershare Filmo
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -157,22 +157,17 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-snappy-film-maker/"><u>[New] In 2024, Snappy Film Maker</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-streamline-video-analytics-a-guide-to-youtube-statistics-with-social-blade/"><u>[New] Streamline Video Analytics A Guide to YouTube Statistics with Social Blade</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-stepwise-blend-integrating-obs-and-zoom/"><u>2024 Approved Stepwise Blend Integrating OBS and Zoom</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unveiling-aspect-ratios-your-pathway-to-youtube-excellence/"><u>2024 Approved Unveiling Aspect Ratios Your Pathway to YouTube Excellence</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-on-apple-iphone-7-plus-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 On Apple iPhone 7 Plus</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/full-assessment-macs-screenflow-studio-experience/"><u>Full Assessment Mac's ScreenFlow Studio Experience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-fixing-laptop-speaker-issues-without-professional-help/"><u>Guide: Fixing Laptop Speaker Issues Without Professional Help</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-from-individualist-to-institutional-influence-in-the-youtube-universe/"><u>In 2024, From Individualist to Institutional Influence in the YouTube Universe</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-multimedia-annotator/"><u>In 2024, Multimedia Annotator</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-navigating-social-media-preferences-tiktok-versus-youtube-shorts/"><u>In 2024, Navigating Social Media Preferences TikTok Versus YouTube Shorts</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-motorola-moto-g34-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Motorola Moto G34 5G to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unraveling-monetization-strategies-in-the-realm-of-video-shorts/"><u>In 2024, Unraveling Monetization Strategies in the Realm of Video Shorts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-visionblend-editor/"><u>In 2024, VisionBlend Editor</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/maximize-earnings-navigating-youtubes-partner-program-updates-for-2024/"><u>Maximize Earnings Navigating YouTube's Partner Program Updates for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/navigating-mobility-in-film-crafting-youtubes-best-thumbnails-for-2024/"><u>Navigating Mobility in Film Crafting YouTubes' Best Thumbnails for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/quick-and-easy-convert-your-dvds-into-high-quality-mp4-files-in-just-5-minutes-with-winx-dvd-ripper-platinum/"><u>Quick & Easy: Convert Your DVDs Into High-Quality MP4 Files in Just 5 Minutes with WinX DVD Ripper Platinum!</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/unveiling-the-spectrum-of-hand-tracking-technologies-for-2024/"><u>Unveiling the Spectrum of Hand Tracking Technologies for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ree-youtube-revenue-predictor-tools/"><u>[New] Free YouTube Revenue Predictor Tools</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-quick-overview-of-colour-difference-filming/"><u>2024 Approved Quick Overview of Colour Difference Filming</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-the-art-of-producing-high-impact-slack-channels/"><u>2024 Approved The Art of Producing High-Impact Slack Channels</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-guide-sharing-your-private-youtube-snippets-via-email/"><u>2024 Approved The Ultimate Guide Sharing Your Private YouTube Snippets via Email</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/expert-tips-on-inserting-captions-into-youtube-videos-for-2024/"><u>Expert Tips on Inserting Captions Into YouTube Videos for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/exploring-the-essence-of-youtube-live-imagery-language-for-2024/"><u>Exploring the Essence of YouTube Live Imagery Language for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-xiaomi-redmi-note-13-proplus-5g-lock-screen-password-by-drfone-android/"><u>How To Change Xiaomi Redmi Note 13 Pro+ 5G Lock Screen Password?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/important-considerations-for-acquiring-an-experienced-ipad-owners-unit/"><u>Important Considerations for Acquiring an Experienced iPad Owner’s Unit</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Motorola Moto G34 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-snapshot-speaks-the-leading-captioning-apps-iosandroid/"><u>In 2024, Snapshot Speaks The Leading Captioning Apps (iOS/Android)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-v30tfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme V30TFRP Lock</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-smartphone-gadgets-for-aspiring-vloggers-to-upgrade-their-craft-for-2024/"><u>Top 9 Smartphone Gadgets for Aspiring Vloggers to Upgrade Their Craft for 2024</u></a></li>
 </ul></div>
 

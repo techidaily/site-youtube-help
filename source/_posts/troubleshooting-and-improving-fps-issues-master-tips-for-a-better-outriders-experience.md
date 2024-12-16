@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting and Improving FPS Issues: Master Tips for a Better Outriders Experience"
-date: 2024-12-05T06:20:00.359Z
-updated: 2024-12-10T04:37:50.932Z
+date: 2024-12-11T18:09:56.240Z
+updated: 2024-12-16T18:30:47.774Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
  The**error: connection to server timed out (code: leaf)** on Apex Legends is an old one, and it’s supposed to be fixed ages ago. But many players are still reporting getting it all the time. In this post, we’ll go through some working fixes step by step, so make sure you check them out below!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You don’t have to try them all; just work your way down the list until you find the one that does the trick!
@@ -34,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Check your Internet connection
@@ -67,19 +71,11 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -89,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
@@ -113,7 +109,7 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
@@ -125,6 +121,10 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 3. When you’re prompted to exit the game, click**Cancel** to go back to the main page.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/exit-game.png)
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
@@ -152,18 +152,21 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-unveiling-the-secrets-to-flawless-gopro-4k-edits/"><u>[New] In 2024, Unveiling the Secrets to Flawless GoPro 4K Edits</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-grandview-media-mastering-the-art-of-selecting-a-cms/"><u>2024 Approved Grandview Media Mastering the Art of Selecting a CMS</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-influencing-earnings-through-channel-partnerships/"><u>2024 Approved Influencing Earnings Through Channel Partnerships</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-benefits-of-tubebuddy-manage-your-youtube-channel-more-easily/"><u>2024 Approved The Benefits of TubeBuddy | Manage Your YouTube Channel More Easily</u></a></li>
-<li><a href="https://win-trending.techidaily.com/expert-tutorial-on-mastering-raid-0-data-restoration-techniques/"><u>Expert Tutorial on Mastering RAID 0 Data Restoration Techniques</u></a></li>
-<li><a href="https://fox-that.techidaily.com/get-your-airdrop-up-and-running-again-with-these-essential-16-troubleshooting-steps/"><u>Get Your AirDrop Up and Running Again with These Essential 16 Troubleshooting Steps</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-get-the-latest-update-for-your-canon-mp56n-driver-with-ease/"><u>How To Get The Latest Update For Your Canon MP56n Driver With Ease!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-avoidance-tactics-no-more-recommended-podcasts-on-spotify/"><u>In 2024, Avoidance Tactics No More Recommended Podcasts on Spotify</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-from-capturing-moments-to-sharing-them-editing-with-adobe-premiere/"><u>In 2024, From Capturing Moments to Sharing Them Editing with Adobe Premiere</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-tips-for-youtube-thumbnail-size-aspect-ratio-included/"><u>In 2024, Tips for YouTube Thumbnail Size [Aspect Ratio Included]</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-vivo-x100-pro-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Vivo X100 Pro Phone Pattern Lock</u></a></li>
-<li><a href="https://article-tips.techidaily.com/unveiling-trillers-unique-strategy-in-the-world-of-online-videos-for-2024/"><u>Unveiling Triller's Unique Strategy in the World of Online Videos for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-x-recorder-download-for-pc/"><u>[New] 2024 Approved X-Recorder Download for PC</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-compact-5-listing-visuals-with-accompaniment-recorders-for-2024/"><u>[New] Compact 5 Listing Visuals with Accompaniment Recorders for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-strategic-insightfulness-comparing-your-channel-to-competitors-crafts/"><u>[New] Strategic Insightfulness Comparing Your Channel to Competitors' Crafts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-for-optimizing-your-srt-setup/"><u>[Updated] Expert Tips for Optimizing Your SRT Setup</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-perfecting-vlog-shots-how-to-use-a-tripod-like-a-pro-for-2024/"><u>[Updated] Perfecting Vlog Shots How to Use a Tripod Like a Pro for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-the-path-of-global-storytelling-through-film/"><u>2024 Approved Navigating the Path of Global Storytelling Through Film</u></a></li>
+<li><a href="https://article-files.techidaily.com/decoding-the-magic-of-dynamic-range-capture-for-2024/"><u>Decoding the Magic of Dynamic Range Capture for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-graph-gala-2017-an-illuminated-expedition-into-yt-data/"><u>In 2024, Graph Gala 2017 An Illuminated Expedition Into YT Data</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-master-the-visuals-top-tips-for-dynamic-and-appealing-live-videos/"><u>In 2024, Master the Visuals Top Tips for Dynamic and Appealing Live Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-million-visioners-dissecting-the-money-behind-the-numbers/"><u>In 2024, Million Visioners Dissecting the Money Behind the Numbers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-stop-unsolicited-youtube-suggestion-rollouts/"><u>In 2024, Stop Unsolicited YouTube Suggestion Rollouts</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/key-view-figures-for-earning-living-on-youtube-for-2024/"><u>Key View Figures for Earning Living on YouTube for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/master-the-art-of-messaging-in-discord-apps/"><u>Master the Art of Messaging in Discord Apps</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-save-money-make-movies-4-simple-ways-to-get-filmora-discount-codes-for-2024/"><u>New Save Money, Make Movies 4 Simple Ways to Get Filmora Discount Codes for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/k-free-designs-download-banners-for-youtube-creators/"><u>Unlock Free Designs Download Banners for YouTube Creators</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Add Video to Text for Free\""
-date: 2024-12-06T03:35:10.271Z
-updated: 2024-12-10T04:18:43.310Z
+date: 2024-12-11T18:23:20.867Z
+updated: 2024-12-16T16:10:06.363Z
 tags:
   - ai video
   - ai youtube
@@ -28,10 +28,6 @@ It may be challenging to capture the attention of your audience if the video ope
 
 Luckily, video editing and presentation software products offer the tools you will need to combine video and text. In this article, we are going to show you how to add a video to text in PowerPoint and Filmora.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Add Video to Text for Free with PowerPoint?
 
 An effective PowerPoint presentation should contain proportionate amounts of textual and visual elements. Using too many images, videos or animations can make following a presentation difficult, just as too much text can render a presentation too static.
@@ -44,19 +40,23 @@ Head over to the Insert tab, select Rectangle from the Shapes menu, and create a
 
 ![Add video to text - Powerpoint- insert shape](https://images.wondershare.com/filmora/article-images/insert-rectangle-shape.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The next step you will have to take is to create the cut-out of the text within the rectangle. Select both the text and shape you placed in the background before clicking on the Format tab that is located near the end of PowerPoint’s ribbon.
 
 Find the Insert Shape option and choose Subtract from the Merge Shapes drop-down menu. The shape of the text in the textbox will be applied to the object in the background, which enables you to add a video to that text.
 
 ![Add video to text - Powerpoint- substract](https://images.wondershare.com/filmora/article-images/subtract-from-merge-shapes.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Click on the Insert tab, and then choose the Video option from the Media menu. You can [insert a video](https://tools.techidaily.com/wondershare/filmora/download/) that is stored on a local hard drive or the Internet to PowerPoint. The video will cover the entire slide, so you must right-click on it and select the Send to Back option.
 
 You can then fine-tune the video playback settings from the Playback tab. Preview the results before you move on to the next slide in your presentation, and make necessary adjustments if you don’t like how the video merged with the text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: Adding Video to Text in Filmora
 
@@ -69,22 +69,22 @@ You should start by creating a new project in Filmora and importing the video yo
 ![Add video to text - Filmora9](https://images.wondershare.com/filmora/article-images/add-title-effects.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Set the preferred duration of the title by dragging one of its ends to the left or right after you place it on the timeline, and then double-click on it to customize it. Click on the Advanced button once the Text tab opens and insert the text into the Input Text box.
 
 ![Add video to text - Filmora9 Advanced Editing](https://images.wondershare.com/filmora/article-images/make-text-video-advanced-text-edit.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Proceed to select a font and adjust the text size before deciding if you want to [animate the text](https://tools.techidaily.com/wondershare/filmora/download/). When done, you should export the title as a video file, and then import it back into your project.
 
 Now it’s time to add the text video and the background video to the project media library, and then place the two videos one above the other. Since we’re adding video to text, the text video should be placed above the background video.
 
 ![Add video to text - Filmora9 Compositing](https://images.wondershare.com/filmora/article-images/compositing-video-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Click on the video that contains text to gain access to the Video tab of the Editor panel and then expand the Compositing menu. Change the Blending Mode to Multiply, and the text in the overlaying video should be filled with the parts of the footage from the video below it.
 
@@ -99,7 +99,7 @@ Merging text with video is equally easy in PowerPoint and Filmora, so you just h
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -117,15 +117,15 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-stepping-stones-from-youtube-ads-to-monetary-success/"><u>[New] Stepping Stones From YouTube Ads to Monetary Success</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-live-stream-to-youtube-with-obs-step-by-step-guide-for-beginners/"><u>2024 Approved Live Stream to Youtube with OBS Step by Step Guide for Beginners</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-getting-started-with-youtube-tv-a-must-read-article/"><u>In 2024, Getting Started with YouTube TV A Must-Read Article</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-top-video-formats-for-maximum-youtube-engagement/"><u>In 2024, Top Video Formats for Maximum YouTube Engagement</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/income-investigation-the-streamlined-3-part-method-to-assess-your-youtube-income-levels-for-2024/"><u>Income Investigation The Streamlined 3-Part Method to Assess Your YouTube Income Levels for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-score-a-bargain-on-final-cut-pro-with-our-education-bundle-guide/"><u>New 2024 Approved Score a Bargain on Final Cut Pro with Our Education Bundle Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/seamlessly-change-your-dvd-format-a-step-by-step-guide-on-converting-pal-to-ntsc-using-handbrake/"><u>Seamlessly Change Your DVD Format: A Step-by-Step Guide on Converting PAL to NTSC Using Handbrake</u></a></li>
-<li><a href="https://extra-information.techidaily.com/streamline-editing-how-to-load-music-in-inshot/"><u>Streamline Editing How to Load Music in InShot</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-strategic-steps-for-effective-annotations-and-cards-on-your-youtube-videos/"><u>[New] Strategic Steps for Effective Annotations & Cards on Your YouTube Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-best-livestream-capturing-gear-for-online-content-makers/"><u>[Updated] 2024 Approved Best Livestream Capturing Gear for Online Content Makers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-quick-access-to-files-on-windows-os/"><u>[Updated] In 2024, Quick Access to Files on Windows OS</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-craft-powerful-tags-for-maximum-youtube-engagement/"><u>2024 Approved How to Craft Powerful Tags for Maximum Youtube Engagement</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-transform-your-video-presentation-with-updated-covers/"><u>2024 Approved Transform Your Video Presentation with Updated Covers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/dynamic-visual-logging-services-for-2024/"><u>Dynamic Visual Logging Services for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-tailored-broadcasting-strategies-for-various-platforms-yt-fb-twitch/"><u>In 2024, Tailored Broadcasting Strategies for Various Platforms (YT, FB, Twitch)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-thumbnail-design-101-for-video-promotion-on-youtube/"><u>In 2024, Thumbnail Design 101 for Video Promotion on YouTube</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Lava Blaze 2 | Dr.fone</u></a></li>
 </ul></div>
 

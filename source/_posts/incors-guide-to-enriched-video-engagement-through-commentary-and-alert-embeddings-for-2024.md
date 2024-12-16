@@ -1,7 +1,7 @@
 ---
 title: "Incor's Guide to Enriched Video Engagement Through Commentary and Alert Embeddings for 2024"
-date: 2024-07-29T19:21:04.145Z
-updated: 2024-07-30T19:21:04.145Z
+date: 2024-12-11T16:42:44.816Z
+updated: 2024-12-16T16:02:36.422Z
 tags:
   - ai video
   - ai youtube
@@ -45,30 +45,21 @@ The main difference between annotation and cards is their outlook. Cards are mor
 * [Part 1: How to Add YouTube Cards](#part1)
 * [Part 2: How to Add YouTube Annotations](#part2)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to add YouTube Cards
 
 YouTube **Cards** are similar to annotations but more interactive. They allow the owner of the video to add images and other links. A small box appears, clicking on which will activate the cards.
 
 * Click on the "Video Manager" tab
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/video-manager-in-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Click "Edit" tab under the video screen shot you want to add the card on
 * Click on the "Cards" tab
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/youtube-cards01.png)
 
 * On the right panel click on "Add Card" drop down menu and select the type of card you want to add
@@ -76,12 +67,17 @@ No advertising on the website.
 * Once you finish the subsequent information required click create card
 * Select the timeline for the playhead to appear which leads to the card slide
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/add-cards-to-youtube-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Apply changes and exit
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to add YouTube annotations
 
@@ -96,10 +92,11 @@ YouTube Annotation is addition of a text layer, link or hotspots over your video
 * On the right panel click on "+ Add Element" and select the kind of annotation you want to add
 * Adjust the position of Annotation, you can drag the rectangle to locate it at any position of the video, move the slide to set the start and end time of the annotation
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/add-annotation-to-youtube-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Apply changes
 
@@ -137,10 +134,11 @@ The best outros also include a subscribe button, which can be created using anno
 
 No matter what kind of annotations you are using, you should never use more than two of them at a time anywhere except for your outro. You should also never place annotations at the very top of your screen, or in the middle at the bottom. If your video is embedding on a separate website then the player will cover annotations at the top of the screen, and ads might cover annotations placed in the bottom-middle of the screen. Keep in mind when using annotations that they will not be visible to users watching your videos on mobile devices. If mobile traffic is very important to you then consider using YouTube Cards.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -148,12 +146,31 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-innovative-template-packs-for-effective-business-communications/"><u>[New] 2024 Approved Innovative Template Packs for Effective Business Communications</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-profitable-pathways-8-steps-for-youtube-earning/"><u>[New] Profitable Pathways 8 Steps for YouTube Earning</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-break-free-the-chuckles-ranking-20-hilarious-fb-detention-scenes/"><u>2024 Approved Break Free the Chuckles Ranking 20 Hilarious FB Detention Scenes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-fullview-pacts-the-art-of-media-company-selection/"><u>2024 Approved FullView Pacts The Art of Media Company Selection</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-optimal-strategies-for-editing-and-upgrading-youtube-profiles/"><u>2024 Approved Optimal Strategies for Editing and Upgrading YouTube Profiles</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-swift-strategies-randomize-your-video-playlist-quickly/"><u>2024 Approved Swift Strategies Randomize Your Video Playlist Quickly</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-guide-to-youtube-adsense-optimization/"><u>2024 Approved The Ultimate Guide to YouTube AdSense Optimization</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-ultimate-playbook-navigating-youtube-etiquette/"><u>2024 Approved Ultimate Playbook Navigating YouTube Etiquette</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-implemented-how-to-resolve-diablo-ii-re-released-game-crashing-issues/"><u>Fixes Implemented: How To Resolve Diablo II Re-Released Game Crashing Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-fixing-the-recurring-crashes-of-ascent-in-pc-version-solved/"><u>Guide to Fixing the Recurring Crashes of Ascent in PC Version - Solved</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-samsung-galaxy-z-fold-5-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Samsung Galaxy Z Fold 5</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-journey-through-youtubes-spectacular-vr-realms/"><u>In 2024, Journey Through YouTube's Spectacular VR Realms</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-triumphs-in-transparency-reddits-top-posts-reviewed-10/"><u>In 2024, Triumphs in Transparency Reddit's Top Posts Reviewed (10)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-the-secrets-of-youtube-music-curation/"><u>In 2024, Unveiling the Secrets of YouTube Music Curation</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-video-construction-lab/"><u>In 2024, Video Construction Lab</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/le-ottime-iniziative-di-ia-per-la-modifica-e-il-potenziamento-dei-video-raccomandazioni-top-6/"><u>Le Ottime Iniziative Di IA per La Modifica E Il Potenziamento Dei Video: Raccomandazioni Top 6</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-setting-up-a-new-gmail-account-on-your-android-smartphone/"><u>Step-by-Step Guide: Setting Up a New Gmail Account on Your Android Smartphone</u></a></li>
+</ul></div>
 

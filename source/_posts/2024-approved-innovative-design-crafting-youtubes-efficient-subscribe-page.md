@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Innovative Design  Crafting YouTube's Efficient Subscribe Page\""
-date: 2024-12-06T11:50:05.987Z
-updated: 2024-12-09T16:09:34.854Z
+date: 2024-12-15T17:27:47.229Z
+updated: 2024-12-16T16:12:28.915Z
 tags:
   - ai video
   - ai youtube
@@ -128,6 +128,10 @@ A subscribe link is a link to your channel page which takes the person who click
 
 A YouTube subscribe link is one of the best ways to share a link on your website, in social media posts, or anywhere you mention your channel.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Get a YouTube Subscribe Link
 
 YouTube subscribe links aren’t some kind of exclusive perk – anyone can have one!
@@ -149,6 +153,10 @@ That's a link for Wondershare Filmora Video Editor's YouTube channel. With the m
 _<https://www.youtube.com/channel/UCY\_LMaDAoa6hwHKBE4Dx56w?sub\_confirmation=1>_
 
 Getting subscribers is tough, but you’ll get more if you ask and this is just another way of asking. The process for creating a YouTube subscribe link is easy and accessible to everyone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Touch Up Your YouTube Videos with Filmora
 
@@ -246,10 +254,6 @@ Creating a thumbnail for your Valorant YouTube video is an important step in the
 
 When someone comes across your video in their feed, the thumbnail is often the first thing they see, so it's crucial to make it as eye-catching and compelling as possible. A strong thumbnail can help increase your views and engagement and establish your brand as a content creator. By putting effort into designing a professional and relevant thumbnail, you can set your video apart from the competition and entice viewers to click and watch.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How To Make a Valorant Thumbnail for Free?
 
 If you want to create a Valorant thumbnail for your YouTube videos but don't want to spend any money, you still have plenty of options. One way to create a thumbnail for free is by using a free online design tool or thumbnail maker. Or, you can try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -274,10 +278,6 @@ Step3 Import the screenshot into the media library by **clicking** the "**Import
 
 ![filmora import media](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 Drag the screenshot from the media library into the timeline.
 
 ![filmora add screenshot](https://images.wondershare.com/filmora/article-images/filmora-add-screenshot.jpg)
@@ -302,6 +302,10 @@ Step9 Add a background to the track below the screenshot by **dragging** a backg
 
 ![filmora add background](https://images.wondershare.com/filmora/article-images/filmora-add-background.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step10 Add an effect, such as a gun effect, by **searching** for the desired effect in the "**Effects**" tab and **dragging** it into the timeline.
 
 ![filmora add effect](https://images.wondershare.com/filmora/article-images/filmora-add-effect.jpg)
@@ -318,6 +322,10 @@ Step13 Customize the appearance and rotation of the fire effect as desired.
 
 ![filmora edit title](https://images.wondershare.com/filmora/article-images/filmora-edit-title.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step14 Edit the texts and **adjust** the appearance of the texts in the Titles window.
 
 ![filmora edit text](https://images.wondershare.com/filmora/article-images/filmora-edit-text.jpg)
@@ -326,13 +334,13 @@ Step15 Choose a still frame that you like and take a snapshot of it.
 
 ![filmora add frame](https://images.wondershare.com/filmora/article-images/filmora-add-frame.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step16 Select the snapshot format and storage path. The snapshot will appear in the media library.
 
 ![filmora save location](https://images.wondershare.com/filmora/guide/get-started-with-filmora-05.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step17 Right-click on the snapshot and **select** "**Reveal in Explorer**" to find the file on your computer. You can now use it as your Valorant thumbnail.
 
@@ -358,10 +366,6 @@ By following these tips, you can create an eye-catching and effective thumbnail 
 
 If you're interested in becoming a Valorant YouTuber, there are many successful content creators in the Valorant community whom you can learn from. Here are five Valorant YouTubers that are worth checking out:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. [Shroud](https://www.youtube.com/c/shroud) – Well-Known Valorant YouTuber With 6.8M Subscribers
 
 Shroud is a well-known and respected content creator and player in the Valorant community. He has a strong background in professional CS:GO and has continued to thrive in the competitive Valorant scene despite being older than many other eSports players.
@@ -371,7 +375,7 @@ He is known for his gameplay videos and relaxed, easygoing personality, contribu
 ![shroud](https://images.wondershare.com/filmora/article-images/shroud.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. [TenZ](https://www.youtube.com/c/TenZ) – Popular Valorant Player With 1.6M Subscribers
@@ -381,6 +385,10 @@ TenZ is a highly skilled and popular Valorant player and content creator known f
 In addition to his full matches and 1v1 videos, TenZ also produces educational content, providing tips and tricks to his viewers. Despite facing some challenges and setbacks, TenZ has remained a prominent figure in the Valorant community and continues to be highly respected for his skills and contributions.
 
 ![tenz](https://images.wondershare.com/filmora/article-images/tenz.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. [n0ted](https://www.youtube.com/c/noted/featured) – Prolific Valorant YouTuber With 614k Subscribers
 
@@ -398,10 +406,6 @@ Hiko is currently a content creator for 100 Thieves, a gaming organization he re
 
 ![hiko](https://images.wondershare.com/filmora/article-images/hiko.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. [C9 meL](https://www.youtube.com/c/C9meL) – Professional Valorant Player With 33.6K YouTube Subscribers
 
 C9 meL is a highly respected professional Valorant player and leader of the team Cloud 9 White. She is known for her sense of humor, helpful tips, and Agent tutorials and montages. As the in-game leader for her team, MeL has developed exceptional game sense and strategic skills, making her a valuable teacher and resource for other players.
@@ -409,10 +413,6 @@ C9 meL is a highly respected professional Valorant player and leader of the team
 In addition to her instructional content, MeL's videos often feature a mix of comedy and skill, making them enjoyable for entertainment and improvement purposes. Overall, MeL is a talented and well-respected member of the Valorant community.
 
 ![c9 mel](https://images.wondershare.com/filmora/article-images/c9-mel.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -462,6 +462,10 @@ Step9 Add a background to the track below the screenshot by **dragging** a backg
 
 ![filmora add background](https://images.wondershare.com/filmora/article-images/filmora-add-background.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step10 Add an effect, such as a gun effect, by **searching** for the desired effect in the "**Effects**" tab and **dragging** it into the timeline.
 
 ![filmora add effect](https://images.wondershare.com/filmora/article-images/filmora-add-effect.jpg)
@@ -514,10 +518,6 @@ By following these tips, you can create an eye-catching and effective thumbnail 
 
 If you're interested in becoming a Valorant YouTuber, there are many successful content creators in the Valorant community whom you can learn from. Here are five Valorant YouTubers that are worth checking out:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. [Shroud](https://www.youtube.com/c/shroud) – Well-Known Valorant YouTuber With 6.8M Subscribers
 
 Shroud is a well-known and respected content creator and player in the Valorant community. He has a strong background in professional CS:GO and has continued to thrive in the competitive Valorant scene despite being older than many other eSports players.
@@ -525,6 +525,10 @@ Shroud is a well-known and respected content creator and player in the Valorant 
 He is known for his gameplay videos and relaxed, easygoing personality, contributing to his widespread popularity and admiration among fans. In addition to his professional gameplay, Shroud is highly skilled and continues to compete at a high level, further solidifying his reputation as a top Valorant player.
 
 ![shroud](https://images.wondershare.com/filmora/article-images/shroud.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. [TenZ](https://www.youtube.com/c/TenZ) – Popular Valorant Player With 1.6M Subscribers
 
@@ -550,10 +554,6 @@ Hiko is currently a content creator for 100 Thieves, a gaming organization he re
 
 ![hiko](https://images.wondershare.com/filmora/article-images/hiko.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. [C9 meL](https://www.youtube.com/c/C9meL) – Professional Valorant Player With 33.6K YouTube Subscribers
 
 C9 meL is a highly respected professional Valorant player and leader of the team Cloud 9 White. She is known for her sense of humor, helpful tips, and Agent tutorials and montages. As the in-game leader for her team, MeL has developed exceptional game sense and strategic skills, making her a valuable teacher and resource for other players.
@@ -563,7 +563,7 @@ In addition to her instructional content, MeL's videos often feature a mix of co
 ![c9 mel](https://images.wondershare.com/filmora/article-images/c9-mel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -587,20 +587,21 @@ Additionally, there are many successful Valorant YouTubers who offer a range of 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-secure-swift-airdrop-connections-on-all-apple-devices-fix-guide/"><u>[New] 2024 Approved Secure Swift Airdrop Connections on All Apple Devices - Fix Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-from-zero-to-hero-in-youtube-traffic/"><u>[New] From Zero to Hero in YouTube Traffic</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-secure-online-methods-convert-youtube-audio-to-mp3-effortlessly-and-safely/"><u>[New] Secure Online Methods Convert YouTube Audio to MP3 Effortlessly & Safely</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-smartphone-guide-crafting-engaging-video-content/"><u>[New] Smartphone Guide Crafting Engaging Video Content</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-twitter-gif-retrieval-3-easy-methods-for-pcs-for-2024/"><u>[Updated] Twitter Gif Retrieval 3 Easy Methods for PCs for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-ultimate-shot-selection-best-stabilizers-reviewed/"><u>2024 Approved Ultimate Shot Selection - Best Stabilizers Reviewed</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/best-5-youtube-video-editor-alternatives/"><u>Best 5 YouTube Video Editor Alternatives</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/bioscrucial-ssd2/"><u>BIOSによるCrucial SSDの認識不具合解消法：2つの効果的な方法</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/explore-the-finest-7-android-ad-free-browsers-for-2024/"><u>Explore the Finest 7 Android Ad-Free Browsers for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-data-from-apple-iphone-15-plus-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from Apple iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-methods-to-validate-youtube-login/"><u>In 2024, Methods to Validate YouTube Login</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-motorola-moto-g34-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Motorola Moto G34 5G Device</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/master-the-mass-effect-legendary-edition-on-pc-or-xbox-ultimate-guide-to-prevent-game-crashing-issues/"><u>Master the Mass Effect Legendary Edition on PC or Xbox – Ultimate Guide to Prevent Game-Crashing Issues</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/monetization-verification-maximizing-streamer-incomes-for-2024/"><u>Monetization Verification Maximizing Streamer Incomes for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-players-unleashed-youtubes-female-elite-for-2024/"><u>Power Players Unleashed YouTube’s Female Elite for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/kyrocket-your-video-discovery-with-these-essential-youtube-seo-insights/"><u>[New] Skyrocket Your Video Discovery with These Essential YouTube SEO Insights</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-knowledge-hub-leading-educational-youtube-sources/"><u>2024 Approved Knowledge Hub Leading Educational YouTube Sources</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-maximizing-youtube-gains-a-comprehensive-approach-for-mobile-monetization/"><u>2024 Approved Maximizing YouTube Gains A Comprehensive Approach for Mobile Monetization</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-uncovering-the-dynamics-of-youtubes-post-upload-system/"><u>2024 Approved Uncovering the Dynamics of YouTube's Post-Upload System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-gta-5-wont-open-a-comprehensive-guide-to-get-you-playing-soon/"><u>Fixes for 'GTA 5 Won't Open': A Comprehensive Guide to Get You Playing Soon</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comparative-study-of-premium-video-services/"><u>In 2024, Comparative Study of Premium Video Services</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-professionally-recorded-audio-via-audacity/"><u>In 2024, Crafting Professionally Recorded Audio via Audacity</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-football-vids-premier-insights-into-youtube-tracks/"><u>In 2024, Football Vids Premier Insights Into YouTube Tracks</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-grassroots-video-marketing-strategies/"><u>In 2024, Grassroots Video Marketing Strategies</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-ultimate-live-band-webcasts/"><u>In 2024, Ultimate Live Band Webcasts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-sites-that-link-you-to-youtube-promo-deals/"><u>In 2024, Unveiling Sites That Link You to YouTube Promo Deals</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/innovative-strategies-for-hosting-zero-cost-online-courses-for-2024/"><u>Innovative Strategies for Hosting Zero-Cost Online Courses for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/optimizing-chromebook-prime-zoom-features-for-2024/"><u>Optimizing Chromebook Prime Zoom Features for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/secure-personal-space-with-facebook-memory-blocking/"><u>Secure Personal Space with Facebook Memory Blocking</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-a-shimmering-window-title-bar-in-win11/"><u>Tips for A Shimmering Window Title Bar in Win11</u></a></li>
 </ul></div>
 
