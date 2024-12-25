@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Harnessing Viral Power  Your Pathway to YouTube Fame\""
-date: 2024-12-06T21:28:17.934Z
-updated: 2024-12-10T03:34:16.259Z
+date: 2024-12-21T07:41:30.967Z
+updated: 2024-12-24T17:10:10.652Z
 tags:
   - ai video
   - ai youtube
@@ -38,10 +38,6 @@ A trending topic is a subject which a lot of people are currently interested in.
 
 [![guide-to-grow-youtube-subscribers](https://images.wondershare.com/filmora/guide-to-grow-youtube-subscribers-download-btn.png)](https://www.filmora.io/free-youtube-subscribers?utm%5Fsource=blog&utm%5Fcampaign=get%5Fsubs%5Fevergreen&utm%5Fcontent=blog%202)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **1\. Think of ‘Trending’ as Relevant**
 
 Instead of thinking of a trending video as a video that everyone is doing, think of it as a subject that is relevant to a lot of people. You want to cover topics that a lot of people care about.
@@ -61,96 +57,9 @@ If you do need help determining trends, here are 2 ways to do it:
 1. Visit 3 of the most popular channels in your genre (i.e. gaming, beauty, or prank) and see if there’s any overlap in the themes of their most recent videos.
 2. Go to [Google Trends](https://trends.google.ca/trends/) and look at the categories most relevant to your genre. [To learn how to use Google Trends](https://tools.techidaily.com/wondershare/filmora/download/).
 
-## **3\. Aim for Number 1**
-
-**![think-in-divergent-way](https://images.wondershare.com/filmora/article-images/think-in-divergent-way.jpg)**
-
-Being trendy doesn’t mean you can’t be original. If you know what’s popular in your genre then that will enable you to ask yourself ‘what’s on-trend, but not being covered yet?’.
-
-For example, if you know that relationship videos – topics like ‘how do you know a guy likes you?’ – are doing well then you can think about what other aspects of dating people might be interested in that don’t have many videos on them yet. If you’re one of the first to tackle something that’s on-trend you have a much better chance of getting that number 1 search engine ranking, and higher ranked videos always get more views.
-
-## **4\. Success Doesn't Mean Making a Viral Video**
-
-**![viral-video](https://images.wondershare.com/filmora/article-images/viral-video.png)**
-
-There’s a common misconception that in order to grow your channel you need to make your videos go viral. The truth is that having one or two viral videos probably won’t help you much. People don’t subscribe to one video, they subscribe for consistently good content.
-
-It’s much better to have 10 videos on a popular topic that are doing alright than it is to have that one big viral hit. Those 10 videos will consistently bring in new viewers to your channel who are more likely to subscribe because they can see you have other content they’re interested in.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-## **5\. The Subscriber Snowball Effect**
-
-**![snowball-effect](https://images.wondershare.com/filmora/article-images/snowball-effect.jpg)**
-
-When you make multiple videos around a trending topic, they’re more likely to come up as ‘related’ to each other than if you only cover the topic in one video. If someone enjoys one of your videos on that topic and can see there’s another right there in the related videos, there’s a good chance they’ll click on it.
-
-This gets you more views on multiple videos, and more subscribers because it builds the expectation that you’re going to continue to keep covering relevant topics. Having viewers click from video to video on your channel also increases your watch time, which YouTube’s algorithm takes as a sign that they should rank your videos higher in search results (getting you even more views).
-
-Do you have any of your own tips for how to get a YouTube video trending?
-
-Finding the trend is integral for YouTube channel growth. A user-friendly video editing software will simplify the process of editing videos and saves your efforts. Get **Wondershare Filmora** by clicking the button below to make the coolest videos and see your viewers boom.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-Ever think about how to get a YouTube video trending? It can come down to picking a topic that's trending.
-
-A trending topic is a subject which a lot of people are currently interested in. If you learn how to tap into what’s popular and cover it in creative and innovative ways then that will help your channel grow more quickly. You’ll get more views, more subscribers, and higher search rankings by following these simple tips.
-
-1. **[Think of 'Trending' as Relevant](#relevant)**
-2. **[Find Trending Topics Within Your Niche](#niche)**
-3. **[Aim for Number 1](#aim)**
-4. **[Success Doesn't Mean Making a Viral Video](#viral)**
-5. **[The Subscriber Snowball Effect](#snowball)**
-
-[![guide-to-grow-youtube-subscribers](https://images.wondershare.com/filmora/guide-to-grow-youtube-subscribers-download-btn.png)](https://www.filmora.io/free-youtube-subscribers?utm%5Fsource=blog&utm%5Fcampaign=get%5Fsubs%5Fevergreen&utm%5Fcontent=blog%202)
-
-## **1\. Think of ‘Trending’ as Relevant**
-
-Instead of thinking of a trending video as a video that everyone is doing, think of it as a subject that is relevant to a lot of people. You want to cover topics that a lot of people care about.
-
-A lot of YouTubers see huge channels have a lot of success posting videos that are very focused on the personal life of the creator (i.e. ‘I had the WORST day’) or which have very vague or sensational titles (i.e. ‘The horse knows what it did’) and decide that those are the kinds of videos they want to do too. However, the only reason large channels are able to be successful with these kinds of videos and titles is that they are already big. These creators have already grown themselves huge audiences of people who know and are interested in them personally.
-
-As a smaller creator, you will not be successful if you only aim to do videos that are focused on you and your life. For example, if you have 100 subscribers and make a vlog about how your day went, then you have 100 people who may potentially find that interesting. The content might be good, but it won’t help you grow.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## **2\. Find Trending Topics Within Your Niche**
-
-**![find your niche](https://images.wondershare.com/filmora/article-images/niche-find-your-niche.jpg)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Taking on trending topics shouldn’t mean taking on topics you aren’t actually interested in or don’t care about. Every genre on YouTube has its own trends, and you will often know about them just by virtue of watching other channels in your genre and talking to people who are interested in the same things as you. For example, if you’re a Gamer and your friends are also Gamers then you probably already know what Gamers are currently interested in.
-
-If you do need help determining trends, here are 2 ways to do it:
-
-1. Visit 3 of the most popular channels in your genre (i.e. gaming, beauty, or prank) and see if there’s any overlap in the themes of their most recent videos.
-2. Go to [Google Trends](https://trends.google.ca/trends/) and look at the categories most relevant to your genre. [To learn how to use Google Trends](https://tools.techidaily.com/wondershare/filmora/download/).
 
 ## **3\. Aim for Number 1**
 
@@ -181,6 +90,10 @@ Do you have any of your own tips for how to get a YouTube video trending?
 Finding the trend is integral for YouTube channel growth. A user-friendly video editing software will simplify the process of editing videos and saves your efforts. Get **Wondershare Filmora** by clicking the button below to make the coolest videos and see your viewers boom.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -247,6 +160,10 @@ It’s much better to have 10 videos on a popular topic that are doing alright t
 
 **![snowball-effect](https://images.wondershare.com/filmora/article-images/snowball-effect.jpg)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When you make multiple videos around a trending topic, they’re more likely to come up as ‘related’ to each other than if you only cover the topic in one video. If someone enjoys one of your videos on that topic and can see there’s another right there in the related videos, there’s a good chance they’ll click on it.
 
 This gets you more views on multiple videos, and more subscribers because it builds the expectation that you’re going to continue to keep covering relevant topics. Having viewers click from video to video on your channel also increases your watch time, which YouTube’s algorithm takes as a sign that they should rank your videos higher in search results (getting you even more views).
@@ -283,9 +200,88 @@ A trending topic is a subject which a lot of people are currently interested in.
 
 [![guide-to-grow-youtube-subscribers](https://images.wondershare.com/filmora/guide-to-grow-youtube-subscribers-download-btn.png)](https://www.filmora.io/free-youtube-subscribers?utm%5Fsource=blog&utm%5Fcampaign=get%5Fsubs%5Fevergreen&utm%5Fcontent=blog%202)
 
+## **1\. Think of ‘Trending’ as Relevant**
+
+Instead of thinking of a trending video as a video that everyone is doing, think of it as a subject that is relevant to a lot of people. You want to cover topics that a lot of people care about.
+
+A lot of YouTubers see huge channels have a lot of success posting videos that are very focused on the personal life of the creator (i.e. ‘I had the WORST day’) or which have very vague or sensational titles (i.e. ‘The horse knows what it did’) and decide that those are the kinds of videos they want to do too. However, the only reason large channels are able to be successful with these kinds of videos and titles is that they are already big. These creators have already grown themselves huge audiences of people who know and are interested in them personally.
+
+As a smaller creator, you will not be successful if you only aim to do videos that are focused on you and your life. For example, if you have 100 subscribers and make a vlog about how your day went, then you have 100 people who may potentially find that interesting. The content might be good, but it won’t help you grow.
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## **2\. Find Trending Topics Within Your Niche**
+
+**![find your niche](https://images.wondershare.com/filmora/article-images/niche-find-your-niche.jpg)**
+
+Taking on trending topics shouldn’t mean taking on topics you aren’t actually interested in or don’t care about. Every genre on YouTube has its own trends, and you will often know about them just by virtue of watching other channels in your genre and talking to people who are interested in the same things as you. For example, if you’re a Gamer and your friends are also Gamers then you probably already know what Gamers are currently interested in.
+
+If you do need help determining trends, here are 2 ways to do it:
+
+1. Visit 3 of the most popular channels in your genre (i.e. gaming, beauty, or prank) and see if there’s any overlap in the themes of their most recent videos.
+2. Go to [Google Trends](https://trends.google.ca/trends/) and look at the categories most relevant to your genre. [To learn how to use Google Trends](https://tools.techidaily.com/wondershare/filmora/download/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## **3\. Aim for Number 1**
+
+**![think-in-divergent-way](https://images.wondershare.com/filmora/article-images/think-in-divergent-way.jpg)**
+
+Being trendy doesn’t mean you can’t be original. If you know what’s popular in your genre then that will enable you to ask yourself ‘what’s on-trend, but not being covered yet?’.
+
+For example, if you know that relationship videos – topics like ‘how do you know a guy likes you?’ – are doing well then you can think about what other aspects of dating people might be interested in that don’t have many videos on them yet. If you’re one of the first to tackle something that’s on-trend you have a much better chance of getting that number 1 search engine ranking, and higher ranked videos always get more views.
+
+## **4\. Success Doesn't Mean Making a Viral Video**
+
+**![viral-video](https://images.wondershare.com/filmora/article-images/viral-video.png)**
+
+There’s a common misconception that in order to grow your channel you need to make your videos go viral. The truth is that having one or two viral videos probably won’t help you much. People don’t subscribe to one video, they subscribe for consistently good content.
+
+It’s much better to have 10 videos on a popular topic that are doing alright than it is to have that one big viral hit. Those 10 videos will consistently bring in new viewers to your channel who are more likely to subscribe because they can see you have other content they’re interested in.
+
+## **5\. The Subscriber Snowball Effect**
+
+**![snowball-effect](https://images.wondershare.com/filmora/article-images/snowball-effect.jpg)**
+
+When you make multiple videos around a trending topic, they’re more likely to come up as ‘related’ to each other than if you only cover the topic in one video. If someone enjoys one of your videos on that topic and can see there’s another right there in the related videos, there’s a good chance they’ll click on it.
+
+This gets you more views on multiple videos, and more subscribers because it builds the expectation that you’re going to continue to keep covering relevant topics. Having viewers click from video to video on your channel also increases your watch time, which YouTube’s algorithm takes as a sign that they should rank your videos higher in search results (getting you even more views).
+
+Do you have any of your own tips for how to get a YouTube video trending?
+
+Finding the trend is integral for YouTube channel growth. A user-friendly video editing software will simplify the process of editing videos and saves your efforts. Get **Wondershare Filmora** by clicking the button below to make the coolest videos and see your viewers boom.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+Ever think about how to get a YouTube video trending? It can come down to picking a topic that's trending.
+
+A trending topic is a subject which a lot of people are currently interested in. If you learn how to tap into what’s popular and cover it in creative and innovative ways then that will help your channel grow more quickly. You’ll get more views, more subscribers, and higher search rankings by following these simple tips.
+
+1. **[Think of 'Trending' as Relevant](#relevant)**
+2. **[Find Trending Topics Within Your Niche](#niche)**
+3. **[Aim for Number 1](#aim)**
+4. **[Success Doesn't Mean Making a Viral Video](#viral)**
+5. **[The Subscriber Snowball Effect](#snowball)**
+
+[![guide-to-grow-youtube-subscribers](https://images.wondershare.com/filmora/guide-to-grow-youtube-subscribers-download-btn.png)](https://www.filmora.io/free-youtube-subscribers?utm%5Fsource=blog&utm%5Fcampaign=get%5Fsubs%5Fevergreen&utm%5Fcontent=blog%202)
 
 ## **1\. Think of ‘Trending’ as Relevant**
 
@@ -309,6 +305,10 @@ If you do need help determining trends, here are 2 ways to do it:
 ## **3\. Aim for Number 1**
 
 **![think-in-divergent-way](https://images.wondershare.com/filmora/article-images/think-in-divergent-way.jpg)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Being trendy doesn’t mean you can’t be original. If you know what’s popular in your genre then that will enable you to ask yourself ‘what’s on-trend, but not being covered yet?’.
 
@@ -384,9 +384,75 @@ Here are 5 easy tips for creating thumbnails that get views.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+## 1\. Have a Consistent Layout
+
+Your thumbnails all must look like part of the same set. You want viewers to recognize your videos like yours, and they are more likely to do that if you build up a standard layout that they can start associating with you.
+
+An example of a standard layout could be you in the middle of the screen wearing an expression that matches the theme of your video, with your title written underneath your face. Every individual thumbnail would still be different, but you and the text would always be in the same spot.
+
+![Consistent Layout](https://images.wondershare.com/filmora/article-images/consistent-layout.jpg)
+
+## **2\. Use Your Face**
+
+People feel automatically connected and drawn into images that make eye contact. This makes thumbnails which feature faces more click-able than thumbnails which don’t, in most genres (i.e. if you make food videos then this may not apply – featuring the food might be more important than featuring your face). [Check out more tips like this here](https://tools.techidaily.com/wondershare/filmora/download/).
+
+Also, if somebody recognizes you in your thumbnail from a previous video of yours, that will go a long way towards making them click.
+
+## 3\. Use Graphics/Emojis that are On Topic
+
+Anybody can take a screenshot of themselves in their video and use it as a thumbnail. To make your thumbnails look polished, consider using small images (like emojis or hearts) to stand out. This will add color and personality to your thumbnail.
+
+Make sure the images you choose are relevant to the topic of your video.
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## 4\. Make Your Text Huge
+
+If you use text in your thumbnail (you don’t have to) then it should be to add context. For example, if the main image is just you smiling then you might need some text to let viewers know the video is a makeup tutorial.
+
+Thumbnails might look large while you’re putting them together in your image editor, but when they’re displayed on YouTube they’re a lot smaller. That goes double if a viewer is watching on their phone. So, make sure that any text you use is large enough that it can be read easily on small screens.
+
+## 5\. Keep it Clutter-Free
+
+It’s great to add text and emojis to your thumbnails, but you do need to be careful not to add too much. You never want your thumbnails to look cluttered. Viewers should be able to glance at your thumbnails and know exactly what kind of video to expect – that’s difficult to do if there’s too much to process.
+
+A good rule for text is to use only 1-3 words. That way they won’t clutter your screen, and you can make them large enough to read on small-screened devices.
+
+ [For even more tips on making great YouTube thumbnails, click here](https://tools.techidaily.com/wondershare/filmora/download/).
+
+Use these tips to make video thumbnails for YouTube, and tell us what kind of results you get!
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+The **video thumbnails** you use for YouTube are vital to getting views and subscribers. There are a lot of things that go into making people watch your videos, but your video thumbnail might be the most important factor.
+
+Here are 5 easy tips for creating thumbnails that get views.
+
+1. **[Have a Consistent Layout](#one)**
+2. **[Use Your Face](#two)**
+3. **[Use Graphics/Emojis That is On Topic](#three)**
+4. **[Make Your Text Huge](#four)**
+5. **[Keep It Clutter-Free!](#five)**
+
+ _Contest now closed._
+
+## Edit Your Videos Before Creating Video Thumbnails
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## 1\. Have a Consistent Layout
 
@@ -397,7 +463,7 @@ An example of a standard layout could be you in the middle of the screen wearing
 ![Consistent Layout](https://images.wondershare.com/filmora/article-images/consistent-layout.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **2\. Use Your Face**
@@ -405,6 +471,10 @@ An example of a standard layout could be you in the middle of the screen wearing
 People feel automatically connected and drawn into images that make eye contact. This makes thumbnails which feature faces more click-able than thumbnails which don’t, in most genres (i.e. if you make food videos then this may not apply – featuring the food might be more important than featuring your face). [Check out more tips like this here](https://tools.techidaily.com/wondershare/filmora/download/).
 
 Also, if somebody recognizes you in your thumbnail from a previous video of yours, that will go a long way towards making them click.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Use Graphics/Emojis that are On Topic
 
@@ -472,6 +542,10 @@ People feel automatically connected and drawn into images that make eye contact.
 
 Also, if somebody recognizes you in your thumbnail from a previous video of yours, that will go a long way towards making them click.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Use Graphics/Emojis that are On Topic
 
 Anybody can take a screenshot of themselves in their video and use it as a thumbnail. To make your thumbnails look polished, consider using small images (like emojis or hearts) to stand out. This will add color and personality to your thumbnail.
@@ -531,80 +605,6 @@ Your thumbnails all must look like part of the same set. You want viewers to rec
 An example of a standard layout could be you in the middle of the screen wearing an expression that matches the theme of your video, with your title written underneath your face. Every individual thumbnail would still be different, but you and the text would always be in the same spot.
 
 ![Consistent Layout](https://images.wondershare.com/filmora/article-images/consistent-layout.jpg)
-
-## **2\. Use Your Face**
-
-People feel automatically connected and drawn into images that make eye contact. This makes thumbnails which feature faces more click-able than thumbnails which don’t, in most genres (i.e. if you make food videos then this may not apply – featuring the food might be more important than featuring your face). [Check out more tips like this here](https://tools.techidaily.com/wondershare/filmora/download/).
-
-Also, if somebody recognizes you in your thumbnail from a previous video of yours, that will go a long way towards making them click.
-
-## 3\. Use Graphics/Emojis that are On Topic
-
-Anybody can take a screenshot of themselves in their video and use it as a thumbnail. To make your thumbnails look polished, consider using small images (like emojis or hearts) to stand out. This will add color and personality to your thumbnail.
-
-Make sure the images you choose are relevant to the topic of your video.
-
-## 4\. Make Your Text Huge
-
-If you use text in your thumbnail (you don’t have to) then it should be to add context. For example, if the main image is just you smiling then you might need some text to let viewers know the video is a makeup tutorial.
-
-Thumbnails might look large while you’re putting them together in your image editor, but when they’re displayed on YouTube they’re a lot smaller. That goes double if a viewer is watching on their phone. So, make sure that any text you use is large enough that it can be read easily on small screens.
-
-## 5\. Keep it Clutter-Free
-
-It’s great to add text and emojis to your thumbnails, but you do need to be careful not to add too much. You never want your thumbnails to look cluttered. Viewers should be able to glance at your thumbnails and know exactly what kind of video to expect – that’s difficult to do if there’s too much to process.
-
-A good rule for text is to use only 1-3 words. That way they won’t clutter your screen, and you can make them large enough to read on small-screened devices.
-
- [For even more tips on making great YouTube thumbnails, click here](https://tools.techidaily.com/wondershare/filmora/download/).
-
-Use these tips to make video thumbnails for YouTube, and tell us what kind of results you get!
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-The **video thumbnails** you use for YouTube are vital to getting views and subscribers. There are a lot of things that go into making people watch your videos, but your video thumbnail might be the most important factor.
-
-Here are 5 easy tips for creating thumbnails that get views.
-
-1. **[Have a Consistent Layout](#one)**
-2. **[Use Your Face](#two)**
-3. **[Use Graphics/Emojis That is On Topic](#three)**
-4. **[Make Your Text Huge](#four)**
-5. **[Keep It Clutter-Free!](#five)**
-
- _Contest now closed._
-
-## Edit Your Videos Before Creating Video Thumbnails
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## 1\. Have a Consistent Layout
-
-Your thumbnails all must look like part of the same set. You want viewers to recognize your videos like yours, and they are more likely to do that if you build up a standard layout that they can start associating with you.
-
-An example of a standard layout could be you in the middle of the screen wearing an expression that matches the theme of your video, with your title written underneath your face. Every individual thumbnail would still be different, but you and the text would always be in the same spot.
-
-![Consistent Layout](https://images.wondershare.com/filmora/article-images/consistent-layout.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **2\. Use Your Face**
 
@@ -657,22 +657,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unveiling-the-art-of-facebook-reels-production/"><u>[New] 2024 Approved Unveiling the Art of Facebook Reels Production</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-going-pro-with-gs-effects-exclusive-free-lessons-from-4-premier-video-channels/"><u>[New] Going Pro with GS Effects Exclusive Free Lessons From 4 Premier Video Channels</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-harness-your-footage-potential-with-vimeo-record/"><u>[New] Harness Your Footage Potential with Vimeo Record</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-quick-create-excellence-professional-thumbnails-in-gaming-art/"><u>[New] Quick-Create Excellence Professional Thumbnails in Gaming Art</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-selecting-the-right-gopro-features-at-your-fingertips-for-2024/"><u>[New] Selecting the Right Gopro Features at Your Fingertips for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-flipping-scripts-generating-parody-content/"><u>2024 Approved Flipping Scripts Generating Parody Content</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-premium-15-high-resolution-camcorders-reviewed/"><u>2024 Approved Premium 15 High-Resolution Camcorders Reviewed</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-vivo-y56-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Vivo Y56 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-restore-functional-drag-and-drop-in-windows-11/"><u>Guide: Restore Functional Drag-and-Drop in Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-lava-yuva-3-pro-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Lava Yuva 3 Pro?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-expert-strategies-for-vocal-identity-on-instagram/"><u>In 2024, Expert Strategies for Vocal Identity on Instagram</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-five-ideas-of-winter-youtube-background-to-warm-up-your-videos/"><u>In 2024, Five Ideas of Winter YouTube Background to Warm Up Your Videos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-increase-video-traffic-key-youtube-seo-strategies/"><u>In 2024, Increase Video Traffic Key YouTube SEO Strategies</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-monetizing-mastery-a-triple-step-approach-to-understanding-youtube-revenue/"><u>In 2024, Monetizing Mastery A Triple Step Approach to Understanding YouTube Revenue</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-precision-in-numbers-a-3-step-process-to-examine-your-youtube-earnings/"><u>In 2024, Precision in Numbers A 3-Step Process to Examine Your YouTube Earnings</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/lead-the-way-in-streaming-your-guide-to-youtubes-full-sphere-video-trends-for-2024/"><u>Lead the Way in Streaming Your Guide to YouTube's Full-Sphere Video Trends for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/premier-video-editing-choices-for-online-sessions-for-2024/"><u>Premier Video Editing Choices for Online Sessions for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-iphone-hdr-mastery-a-complete-workshop/"><u>[New] 2024 Approved IPhone HDR Mastery A Complete Workshop</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-master-reverse-playback-of-videos-on-android-devices/"><u>[New] 2024 Approved Master Reverse Playback of Videos on Android Devices</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-flexibility-in-viewing-with-youtube-tv-options/"><u>[New] Flexibility in Viewing with YouTube TV Options</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-hundreds-to-millions-a-youtube-growth-journey/"><u>[New] From Hundreds to Millions A YouTube Growth Journey</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-maximizing-click-through-rates-with-youtube-images/"><u>[New] Maximizing Click-Through Rates with Youtube Images</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perfecting-your-images-with-cleared-backdrops/"><u>[New] Perfecting Your Images with Cleared Backdrops</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-16-innovative-ways-to-archive-web-based-podcasts/"><u>2024 Approved 16 Innovative Ways to Archive Web-Based Podcasts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-freeing-up-youtube-footage-borderless-exploration/"><u>2024 Approved Freeing Up YouTube Footage Borderless Exploration</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-instantaneity-in-playlist-dissemination-webby/"><u>2024 Approved Instantaneity in Playlist Dissemination Webby</u></a></li>
+<li><a href="https://discover-able.techidaily.com/windows-10outlook-pst/"><u>重建Windows 10中消失的Outlook PST文件：两种有效方法详解</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-techniques-to-download-thousands-of-tiktok-videos/"><u>Comprehensive Techniques to Download Thousands of TikTok Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/crafting-visual-wonders-an-insiders-guide-to-editing-on-snapchat-for-2024/"><u>Crafting Visual Wonders An Insider’s Guide to Editing on Snapchat for 2024</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/neueste-aktualisierung-der-av1-hardware-und-software-encoder-ist-jetzt-erhaltlich/"><u>Neueste Aktualisierung: Der AV1-Hardware Und -Software-Encoder Ist Jetzt Erhältlich</u></a></li>
 </ul></div>
 

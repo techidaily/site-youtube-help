@@ -1,7 +1,7 @@
 ---
 title: "\"Master the Art of Budget-Friendly YouTubes Intros and Ends for 2024\""
-date: 2024-12-13T16:15:17.509Z
-updated: 2024-12-16T17:39:48.272Z
+date: 2024-12-19T05:22:51.369Z
+updated: 2024-12-24T20:39:43.885Z
 tags:
   - ai video
   - ai youtube
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1c
 [How To Make an End Card](#how-to)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part1: Intros
@@ -73,7 +73,7 @@ You can create a simple intro card in **Filmora**.
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Choose your background. You may want to use a short clip as your intro, or you may just want a colored background.
@@ -86,7 +86,7 @@ You can create a simple intro card in **Filmora**.
 8. Export your video and save it for use in all of your other videos.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: End Cards
@@ -125,7 +125,7 @@ Some creators will leave their end cards at that and play music overtop, but it 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -143,19 +143,19 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-from-struggling-youtuber-to-industry-leader-the-hub-of-creator-studios-wisdom/"><u>[New] From Struggling Youtuber to Industry Leader The Hub of Creator Studio's Wisdom</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/avigating-account-creation-on-youtube-for-2024/"><u>[New] Navigating Account Creation on YouTube for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-advanced-photo-manipulation-focus-on-content-not-backdrop/"><u>[Updated] 2024 Approved Advanced Photo Manipulation Focus on Content, Not Backdrop</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-9-leading-live-gaming-services-for-2024/"><u>[Updated] 9 Leading Live Gaming Services for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-achieving-vibrant-colors-srgb-techniques/"><u>[Updated] Achieving Vibrant Colors Srgb Techniques</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-skyrocket-subscribers-and-engagement-top-12-video-promotion-tactics/"><u>2024 Approved Skyrocket Subscribers and Engagement - Top 12 Video Promotion Tactics</u></a></li>
-<li><a href="https://fox-links.techidaily.com/cartooncraft-master-guide-24-report/"><u>CartoonCraft Master Guide '24 Report</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/raft-designer/"><u>ClipCraft Designer</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/freesync-review-the-latest-from-lg-27uhd68-monitor/"><u>FreeSync Review The Latest From LG 27UHD68 Monitor</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-honor-90-gt-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Honor 90 GT in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-strategic-backlink-building-for-enhanced-online-traction/"><u>In 2024, Strategic Backlink Building for Enhanced Online Traction</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-secret-to-viral-videos-get-the-best-thumbnail-size-guide/"><u>In 2024, The Secret to Viral Videos? Get the Best Thumbnail Size Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/navigating-top-purchasers-for-monetized-yt-channels-for-2024/"><u>Navigating Top Purchasers for Monetized YT Channels for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Oppo A56s 5G? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-discovering-easy-music-arrangement-in-magix-maker/"><u>[New] Discovering Easy Music Arrangement in Magix Maker</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-free-youtube-outro-kings-6-top-suggestions/"><u>[New] Free YouTube Outro Kings 6 TOP Suggestions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-youtube-watch-parties-to-home-auditory-archives/"><u>[New] From YouTube Watch Parties to Home Auditory Archives</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-crafting-a-pro-sports-youtube-feed-on-macos/"><u>[Updated] Crafting a Pro Sports YouTube Feed on MacOS</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-deciphering-digital-dominance-youtube-content-strategy-comparison/"><u>[Updated] Deciphering Digital Dominance YouTube Content Strategy Comparison</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pushing-boundaries-innovative-hdr-portrait-techniques/"><u>[Updated] Pushing Boundaries Innovative HDR Portrait Techniques</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-proving-ground-for-a-wealthy-creator-carryminatis-story-ajey/"><u>2024 Approved Proving Ground for a Wealthy Creator CarryMinati's Story (Ajey)</u></a></li>
+<li><a href="https://win-tips.techidaily.com/datenschutz-beim-systemformatieren-von-windows-11-schritt-fur-schritt-anleitung-zum-zurucksetzen-ohne-datenverluste/"><u>Datenschutz Beim Systemformatieren Von Windows 11 – Schritt-Für-Schritt-Anleitung Zum Zurücksetzen Ohne Datenverluste</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-recording-success-how-to-grab-phonescreens-with-snapchat-easily/"><u>In 2024, Recording Success How to Grab Phonescreens with Snapchat Easily</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-scalable-earnings-via-youtube-beauty-channels/"><u>In 2024, Scalable Earnings via YouTube Beauty Channels</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-turn-the-screws-right-youtube-video-rotation-for-all-angles/"><u>In 2024, Turn the Screws Right YouTube Video Rotation for All Angles</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/itop-review-necessary-for-quality-recordings-in-2024/"><u>ITop Review Necessary for Quality Recordings, In 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/optimizing-vimeo-playback-speed-for-2024/"><u>Optimizing Vimeo Playback Speed for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/sub-hundred-dollars-and-high-performance-meet-the-new-earbuds-that-challenge-airpods-pricing-zdnet/"><u>Sub-Hundred Dollars and High Performance: Meet the New Earbuds That Challenge AirPods Pricing | ZDNET</u></a></li>
 </ul></div>
 

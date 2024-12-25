@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Low Memory Issues: A Guide to Uninterrupted Gameplay on God of War"
-date: 2024-12-11T17:07:03.026Z
-updated: 2024-12-16T16:53:54.138Z
+date: 2024-12-21T08:30:34.731Z
+updated: 2024-12-25T01:31:36.959Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/1d7a3c5b577ddb7940a6a2457c0bee5c40f1807e2
 
 If this is happening to you, don’t panic. Try the fixes below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes to try
 
 * [First Thing First…](https://tools.techidaily.com/drivereasy/download/)
@@ -41,29 +37,29 @@ If this is happening to you, don’t panic. Try the fixes below.
 
  You may not have to try them all; just work your way down the list until you find the one that does the trick for you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## First Thing First…
 
  When something goes wrong with Discord, the first thing you need to check is the **[server status for Discord](https://status.discordapp.com/)**  . You can also follow [**@Discord**](https://twitter.com/discord) on Twitter to see if there are any ongoing issues.
 
  If you see outages, it could be for maintenance or a problem on the Discord’s end. Just wait for the developer to resolve it in this case. If all the servers are showing up, it’s likely something else is going on. Read on for more fixes!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1\. Restart your computer
 
  Before we dive into anything advanced, make sure you restart your computer. A simple restart will reset your software and desktop environment and can often fix software glitches like this. So give it a shot!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2\. Check Your Internet Connection
 
  The Discord streams not loading issue could simply be a connection problem. If you haven’t checked out your network status to see if there’s anything that went wrong, you can do this by opening another application that requires Internet access to function.
 
  If that application fails, too, then you’ve found the core problem. Check **[this article](https://tools.techidaily.com/drivereasy/download/)**  to troubleshoot your network issue. If Discord is the only app that doesn’t work for you and the rest of your apps works just fine, read on and try the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3\. Run Discord as Administrator
 
@@ -75,16 +71,8 @@ If you’re not sure how to do it, follow the instructions below:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/open-task-manager.png)
 2. Right-click Discord then select**End Task** . (Ensure you right-click on the main Discord link, not the subdirectory entries)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/close-discord.png)
 3. Right-click the Discord icon on your desktop, then select**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/discord-properties.png)
 4. Under the**Compatibility** tab, check the box next to**Run this program as an administrator** , then click**OK** .  
@@ -92,7 +80,15 @@ If you’re not sure how to do it, follow the instructions below:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/Discord-admin-access.png)
 5. Relaunch Discord.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If your stream still gets stuck on loading, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4\. Turn off Hardware Acceleration
 
@@ -127,10 +123,6 @@ To see if this is the core issue, try turning off Hardware Acceleration:
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
@@ -151,19 +143,19 @@ To see if this is the core issue, try turning off Hardware Acceleration:
 4. On your keyboard, press the **Ctrl key** and **A**  to highlight all the files.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_19-01-07.jpg)
 5. Press the **Del key** on your keyboard to delete all selected files.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Relaunch Discord to check if this helped.
 
 If your issue still exists, move on to the fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7\. Switch to Windowed Mode
 
@@ -189,6 +181,14 @@ If your issue still exists, move on to the fix, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2021/06/image-1.png)
 4. Open Discord to see if the issue still exists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 9\. Try Desktop App/Another Browser
 
  Discord is compatible with all leading browsers such as Chrome, Firefox, Opera, and more. To make sure Discord works well on your device, make sure you’re using the latest version of the browser.
@@ -199,10 +199,6 @@ If your issue still exists, move on to the fix, below.
 
  In this case, you can contact Discord support for assistance or try[**Discord PTB**](https://support.discord.com/hc/en-us/articles/360035675191-Discord-Testing-Clients) , also called public test build, to see if the problem still exists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 10\. Reinstall Discord
 
  If Discord keeps getting stuck on loading, it could be that certain Discord files are corrupt, damaged, or missing. To run the program, you can restore these files through reinstallation.
@@ -210,6 +206,10 @@ If your issue still exists, move on to the fix, below.
 1. On your keyboard, press the **Windows logo**  and**R** keys. Type**appwiz.cpl** , and then press**Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/uninstall-apps.png)
 2. Right-click **Discord**  and click **Uninstall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_19-04-30.jpg)
 3. Download and install **[Discord](https://discordapp.com/)**  .
@@ -235,20 +235,22 @@ If your issue still exists, move on to the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-micromovie-magic/"><u>[New] MicroMovie Magic</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-prime-locations-for-youtube-content-exposure/"><u>[New] Prime Locations for YouTube Content Exposure</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-quick-cash-flow-on-youtube-maximizing-earnings-with-short-videos/"><u>[New] Quick Cash Flow on YouTube Maximizing Earnings with Short Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-10-free-to-use-game-soundtracks-online/"><u>[Updated] Top 10 Free-to-Use Game Soundtracks Online</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-filtering-through-youtube-talks/"><u>2024 Approved Filtering Through YouTube Talks</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-spark-interest-with-unique-channel-names/"><u>2024 Approved How to Spark Interest With Unique Channel Names</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-youtube-engagement-optimal-video-formats-guide/"><u>2024 Approved Mastering YouTube Engagement Optimal Video Formats Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-streamlining-ad-revenue-post-monetization-yt-tips-and-tricks/"><u>2024 Approved Streamlining Ad Revenue Post-Monetization YT Tips & Tricks</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-the-art-of-alteration-a-guide-to-video-color-correction-11-parts/"><u>2024 Approved The Art of Alteration A Guide to Video Color Correction (11 Parts)</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unveil-your-channels-potential-with-30-top-tier-free-intros/"><u>2024 Approved Unveil Your Channel's Potential with 30 Top-Tier Free Intros</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/creative-photography-palette-radiantvisuals-edge-for-2024/"><u>Creative Photography Palette RadiantVisuals Edge for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/designing-engaging-film-teasers/"><u>Designing Engaging Film Teasers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-zoom-techniques-enhance-photos-and-videos-with-simple-steps/"><u>In 2024, Optimal Zoom Techniques Enhance Photos & Videos with Simple Steps</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-definitive-guide-to-proportion-perfection-in-youtube/"><u>In 2024, The Definitive Guide to Proportion Perfection in YouTube</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revamping-ai-with-bard-the-seven-advances-launched-at-google-io-2023/"><u>Revamping AI with Bard - The Seven Advances Launched at Google I/O 2023</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-overview-and-assessment-parrots-advanced-edition/"><u>[New] Overview and Assessment - Parrot's Advanced Edition</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-top-30-metaverse-meme-creation-guide-for-fun-enthusiasts/"><u>[Updated] In 2024, Top 30 Metaverse Meme Creation Guide for Fun Enthusiasts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-maintaining-mystery-techniques-for-smoothing-out-visuals/"><u>2024 Approved Maintaining Mystery Techniques for Smoothing Out Visuals</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-steer-clear-of-obscurity-secure-a-top-spot-with-youtube-seo-tips/"><u>2024 Approved Steer Clear of Obscurity Secure a Top Spot with YouTube SEO Tips</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/access-short-videos-anywhere-the-top-6-free-and-online-youtube-short-download-apps/"><u>Access Short Videos Anywhere The Top 6 Free & Online YouTube Short Download Apps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevating-intelligence-discovering-this-years-top-5-technological-frontiers/"><u>Elevating Intelligence: Discovering This Year's Top 5 Technological Frontiers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/graph-gems-2017s-statistical-youtube-surprises-for-2024/"><u>Graph Gems 2017'S Statistical YouTube Surprises for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-master-windows-blue-screen-troubleshooting/"><u>How to Master Windows Blue Screen Troubleshooting</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-8-plus-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone 8 Plus In Different Conditionsin</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-novice-to-pro-the-complete-creator-hub-guide/"><u>In 2024, From Novice to Pro The Complete Creator Hub Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-motorola-moto-g-5g-2023-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Motorola Moto G 5G (2023) For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-insights-into-youtubes-visionary-studio-platform/"><u>In 2024, Insights Into YouTube's Visionary Studio Platform</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-masters-building-marvels-virtual-horizons/"><u>In 2024, Masters Building Marvel's Virtual Horizons</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-tailoring-your-video-content-for-wide-platform-distribution/"><u>In 2024, Tailoring Your Video Content for Wide Platform Distribution</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/journey-to-discovering-your-personal-youtube-musical-realm-for-2024/"><u>Journey to Discovering Your Personal Youtube Musical Realm for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/nintendo-game-and-watch-super-mario-bros-review/"><u>Nintendo Game & Watch: Super Mario Bros. Review</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-the-hurdle-successfully-running-payday-2-on-windowspc/"><u>Overcome the Hurdle: Successfully Running Payday 2 on Windows/PC</u></a></li>
 </ul></div>
 

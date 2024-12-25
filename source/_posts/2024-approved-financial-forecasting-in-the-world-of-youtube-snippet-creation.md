@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Financial Forecasting in the World of YouTube Snippet Creation\""
-date: 2024-12-14T17:58:12.322Z
-updated: 2024-12-16T16:52:55.075Z
+date: 2024-12-20T20:02:46.821Z
+updated: 2024-12-25T05:44:01.645Z
 tags:
   - ai video
   - ai youtube
@@ -74,10 +74,6 @@ YouTube Shorts have the potential to make a huge amount of money for creators. I
 * [Matthew King](https://www.youtube.com/@mattykayy/) (212,000 subscribers) – Earned $163.73 from 4.2 million Shorts views
 * [Hassan Khadair](https://www.youtube.com/@HassanKhadair) (2.1 million subscribers) – Earned $872.14 from 22 million Shorts views
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part 3\. How to Start Earning from YouTube Shorts**
 
 Eligible creators start earning from YouTube Shorts when they opt-in to the program. You need to make sure you are eligible and agree to start receiving revenue from your creations.
@@ -99,10 +95,6 @@ When you become eligible, follow these steps to apply for the YPP program:
 
 Once you have completed these steps, your YouTube Channel will be reviewed. You can expect to hear a decision within a month of enrolling you in the program.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **How to opt in for YouTube Shorts Monetization**
 
 After being approved and enrolled in the YPP program, you need to opt in to monetize your channel. Remember that you will not be automatically signed up for the ad revenue-sharing model. Here are a few more steps you need to take:
@@ -113,10 +105,6 @@ After being approved and enrolled in the YPP program, you need to opt in to mone
 * Accept the Base Terms and the Shorts Monetization Module to monetize Shorts
 
 Once your Shorts are monetized, track the progress and amount of money earned through YouTube Analytics.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Other Ways to Monetize YouTube Shorts**
 
@@ -154,11 +142,19 @@ Click File, followed by Import Media. Select the file that you gave imported in 
 
 ![auto reframe 2](https://images.wondershare.com/filmora/article-images/2023/youtube-shorts-revenue-sharing-explained-how-much-will-i-make-5.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **3\. Use the Tools Option**
 
 You may also use the Auto Reframe feature by clicking on the Tools feature on the top menu bar. Then click on Auto Reframe.
 
 ![auto reframe 3](https://images.wondershare.com/filmora/article-images/2023/youtube-shorts-revenue-sharing-explained-how-much-will-i-make-6.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Other Filmora Features for Editing Shorts**
 
@@ -228,6 +224,10 @@ YouTube Shorts have the potential to make a huge amount of money for creators. I
 
 Eligible creators start earning from YouTube Shorts when they opt-in to the program. You need to make sure you are eligible and agree to start receiving revenue from your creations.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Are You Eligible for YouTube Shorts Earnings?**
 
 Shorts creators growing their channel and are yet to meet the minimum requirements can track their eligibility status by selecting “Notify me when I’m eligible” in YouTube Studio’s Earn section.
@@ -285,6 +285,10 @@ The Auto Reframe feature allows creators to resize videos automatically with no 
 After opening Filmora, head over to the main interface. You will find the Auto Reframe option on the right side. Click on it to open the reframing feature.
 
 ![auto reframe 1](https://images.wondershare.com/filmora/article-images/2023/youtube-shorts-revenue-sharing-explained-how-much-will-i-make-4.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **2\. Launch Directly from the Video**
 
@@ -352,8 +356,168 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 ![make-fortnite-thumbnail-step4](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step4.jpg)
 
+**Step 05:** Drag and drop the screenshot into the timeline.
+
+![make-fortnite-thumbnail-step5](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step5.jpg)
+
+**Step 06:** Now, let's separate the background and character. Go to the Effects, then AI Portrait, select Human Segmentation, and drop it into the screenshot.
+
+![make-fortnite-thumbnail-step6](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step6.jpg)
+
+**Step 07:** Filmora will ask you to purchase it, but you can now hit "Try it" to use it.
+
+![make-fortnite-thumbnail-step7](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step7.jpg)
+
+**Step 08:** It will remove the background of the screenshot.
+
+![make-fortnite-thumbnail-step8](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step8.jpg)
+
+**Step 09:** To add a background, go to the media and navigate to "Sample Color." Drag a color of your choice and drop it below the screenshot.
+
+![make-fortnite-thumbnail-step9](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step9.jpg)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+**Step 10:** To add titles in the Thumbnail, go to the Titles tab. Here you can find several categories of titles. Find your preferred title and drop it above all the layers. You can choose titles, lower thirds, and other texts depending upon your need and requirement.
+
+![make-fortnite-thumbnail-step10](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step10.jpg)
+
+**Step 11:** We can make this Fortnite Thumbnail look more attractive by adding elements such as stickers and icons. Filmora contains a wide range of stickers. To access them, navigate to the Elements tab. Here you can find so many categories of elements. Choose any elements according to your need and drop them in the timeline above all other layers. If you cannot find a suitable sticker, you can download one from the internet and use it by importing it into Filmora.
+
+![make-fortnite-thumbnail-step11](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step11.jpg)
+
+**Step 12:** Once you are satisfied with the final results, you can take the screenshot of the Thumbnail using the Snapshot icon located below the preview panel. It will create a screenshot in the media panel of Filmora.
+
+![make-fortnite-thumbnail-step12](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+**Step 13:** To access the directory where this screenshot is saved, right-click on the screenshot and click on "Reveal in Explorer." It will open the folder that contains all the screenshots you take through Filmora. Your Fortnite Thumbnail is ready to be used on your Youtube videos.
+
+![make-fortnite-thumbnail-step13](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step13.jpg)
+
+#### Conclusion
+
+With Filmora, there are no limits. You can use your imagination to create amazing Fortnite thumbnails or thumbnails for other purposes. This article is just a demo teaching you how you use Filmora X to develop free and astounding thumbnails. Explore other options and elements of Filmora to take your thumbnails to another level.
+
+ ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+To grow a Youtube channel, you need to focus on several different factors and elements. Having an attractive and eye-catching thumbnail is one of those top factors that contribute to the growth of your channel. No matter how good your content is, if you cannot attract users to click on your videos, it will not benefit your channel. In this article, we are going to show you how you can make a Fortnite thumbnail in few simple steps using Filmora X. If you are a content creator and love to make Fortnite videos, then this article will be very helpful for you.
+
+Filmora has recently introduced a new feature named AI Portrait that uses Artificial Intelligence to remove the background from a portrait or image. This feature doesn't require any green screen to do that. Filmora also contains a wide range of elements and titles that help you enhance the Thumbnail and make look stunning and eye-catching.
+
+---
+
+**Step 01:** To start making a Fortnite thumbnail, it is important to have a screenshot of your gameplay. We can make a perfect screenshot using Fortnite Replay Mode. If you have recently played a Fortnite match, you can access its replay under the Career tab. Under the Career tab select Replays.
+
+![make-fortnite-thumbnail-step1](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step1.jpg)
+
+**Step 02:** If you are using a console, the game will only store 10 recent gameplays, but if you are using a PC, it will store 100 recent gameplays in this section. From all these gameplays, select the one that you want to use for the Thumbnail. Once you choose gameplay, you can control everything in it. The angle, speed, and camera mode.
+
+![make-fortnite-thumbnail-step2](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step2.jpg)
+
+**Step 03:** For creating a perfect thumbnail, select "Drone Free Camera" mode from the camera mode located on the bottom right corner of the screen. It will allow us to change the angle the way we want. Choose an angle of your choice and take the screenshot.
+
+![make-fortnite-thumbnail-step3](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step3.jpg)
+
+**Step 04:** Open Filmora X, make sure to select the 16:9 screen ratio. Import the screenshot using the import button.
+
+![make-fortnite-thumbnail-step4](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step4.jpg)
+
+**Step 05:** Drag and drop the screenshot into the timeline.
+
+![make-fortnite-thumbnail-step5](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+**Step 06:** Now, let's separate the background and character. Go to the Effects, then AI Portrait, select Human Segmentation, and drop it into the screenshot.
+
+![make-fortnite-thumbnail-step6](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step6.jpg)
+
+**Step 07:** Filmora will ask you to purchase it, but you can now hit "Try it" to use it.
+
+![make-fortnite-thumbnail-step7](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step7.jpg)
+
+**Step 08:** It will remove the background of the screenshot.
+
+![make-fortnite-thumbnail-step8](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step8.jpg)
+
+**Step 09:** To add a background, go to the media and navigate to "Sample Color." Drag a color of your choice and drop it below the screenshot.
+
+![make-fortnite-thumbnail-step9](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step9.jpg)
+
+**Step 10:** To add titles in the Thumbnail, go to the Titles tab. Here you can find several categories of titles. Find your preferred title and drop it above all the layers. You can choose titles, lower thirds, and other texts depending upon your need and requirement.
+
+![make-fortnite-thumbnail-step10](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step10.jpg)
+
+**Step 11:** We can make this Fortnite Thumbnail look more attractive by adding elements such as stickers and icons. Filmora contains a wide range of stickers. To access them, navigate to the Elements tab. Here you can find so many categories of elements. Choose any elements according to your need and drop them in the timeline above all other layers. If you cannot find a suitable sticker, you can download one from the internet and use it by importing it into Filmora.
+
+![make-fortnite-thumbnail-step11](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step11.jpg)
+
+**Step 12:** Once you are satisfied with the final results, you can take the screenshot of the Thumbnail using the Snapshot icon located below the preview panel. It will create a screenshot in the media panel of Filmora.
+
+![make-fortnite-thumbnail-step12](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step12.jpg)
+
+**Step 13:** To access the directory where this screenshot is saved, right-click on the screenshot and click on "Reveal in Explorer." It will open the folder that contains all the screenshots you take through Filmora. Your Fortnite Thumbnail is ready to be used on your Youtube videos.
+
+![make-fortnite-thumbnail-step13](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step13.jpg)
+
+#### Conclusion
+
+With Filmora, there are no limits. You can use your imagination to create amazing Fortnite thumbnails or thumbnails for other purposes. This article is just a demo teaching you how you use Filmora X to develop free and astounding thumbnails. Explore other options and elements of Filmora to take your thumbnails to another level.
+
+ ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+To grow a Youtube channel, you need to focus on several different factors and elements. Having an attractive and eye-catching thumbnail is one of those top factors that contribute to the growth of your channel. No matter how good your content is, if you cannot attract users to click on your videos, it will not benefit your channel. In this article, we are going to show you how you can make a Fortnite thumbnail in few simple steps using Filmora X. If you are a content creator and love to make Fortnite videos, then this article will be very helpful for you.
+
+Filmora has recently introduced a new feature named AI Portrait that uses Artificial Intelligence to remove the background from a portrait or image. This feature doesn't require any green screen to do that. Filmora also contains a wide range of elements and titles that help you enhance the Thumbnail and make look stunning and eye-catching.
+
+---
+
+**Step 01:** To start making a Fortnite thumbnail, it is important to have a screenshot of your gameplay. We can make a perfect screenshot using Fortnite Replay Mode. If you have recently played a Fortnite match, you can access its replay under the Career tab. Under the Career tab select Replays.
+
+![make-fortnite-thumbnail-step1](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step1.jpg)
+
+**Step 02:** If you are using a console, the game will only store 10 recent gameplays, but if you are using a PC, it will store 100 recent gameplays in this section. From all these gameplays, select the one that you want to use for the Thumbnail. Once you choose gameplay, you can control everything in it. The angle, speed, and camera mode.
+
+![make-fortnite-thumbnail-step2](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step2.jpg)
+
+**Step 03:** For creating a perfect thumbnail, select "Drone Free Camera" mode from the camera mode located on the bottom right corner of the screen. It will allow us to change the angle the way we want. Choose an angle of your choice and take the screenshot.
+
+![make-fortnite-thumbnail-step3](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step3.jpg)
+
+**Step 04:** Open Filmora X, make sure to select the 16:9 screen ratio. Import the screenshot using the import button.
+
+![make-fortnite-thumbnail-step4](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 05:** Drag and drop the screenshot into the timeline.
@@ -434,83 +598,9 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 ![make-fortnite-thumbnail-step5](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step5.jpg)
 
-**Step 06:** Now, let's separate the background and character. Go to the Effects, then AI Portrait, select Human Segmentation, and drop it into the screenshot.
-
-![make-fortnite-thumbnail-step6](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step6.jpg)
-
-**Step 07:** Filmora will ask you to purchase it, but you can now hit "Try it" to use it.
-
-![make-fortnite-thumbnail-step7](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step7.jpg)
-
-**Step 08:** It will remove the background of the screenshot.
-
-![make-fortnite-thumbnail-step8](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step8.jpg)
-
-**Step 09:** To add a background, go to the media and navigate to "Sample Color." Drag a color of your choice and drop it below the screenshot.
-
-![make-fortnite-thumbnail-step9](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step9.jpg)
-
-**Step 10:** To add titles in the Thumbnail, go to the Titles tab. Here you can find several categories of titles. Find your preferred title and drop it above all the layers. You can choose titles, lower thirds, and other texts depending upon your need and requirement.
-
-![make-fortnite-thumbnail-step10](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step10.jpg)
-
-**Step 11:** We can make this Fortnite Thumbnail look more attractive by adding elements such as stickers and icons. Filmora contains a wide range of stickers. To access them, navigate to the Elements tab. Here you can find so many categories of elements. Choose any elements according to your need and drop them in the timeline above all other layers. If you cannot find a suitable sticker, you can download one from the internet and use it by importing it into Filmora.
-
-![make-fortnite-thumbnail-step11](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step11.jpg)
-
-**Step 12:** Once you are satisfied with the final results, you can take the screenshot of the Thumbnail using the Snapshot icon located below the preview panel. It will create a screenshot in the media panel of Filmora.
-
-![make-fortnite-thumbnail-step12](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step12.jpg)
-
-**Step 13:** To access the directory where this screenshot is saved, right-click on the screenshot and click on "Reveal in Explorer." It will open the folder that contains all the screenshots you take through Filmora. Your Fortnite Thumbnail is ready to be used on your Youtube videos.
-
-![make-fortnite-thumbnail-step13](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step13.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-#### Conclusion
-
-With Filmora, there are no limits. You can use your imagination to create amazing Fortnite thumbnails or thumbnails for other purposes. This article is just a demo teaching you how you use Filmora X to develop free and astounding thumbnails. Explore other options and elements of Filmora to take your thumbnails to another level.
-
- ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
-To grow a Youtube channel, you need to focus on several different factors and elements. Having an attractive and eye-catching thumbnail is one of those top factors that contribute to the growth of your channel. No matter how good your content is, if you cannot attract users to click on your videos, it will not benefit your channel. In this article, we are going to show you how you can make a Fortnite thumbnail in few simple steps using Filmora X. If you are a content creator and love to make Fortnite videos, then this article will be very helpful for you.
-
-Filmora has recently introduced a new feature named AI Portrait that uses Artificial Intelligence to remove the background from a portrait or image. This feature doesn't require any green screen to do that. Filmora also contains a wide range of elements and titles that help you enhance the Thumbnail and make look stunning and eye-catching.
-
----
-
-**Step 01:** To start making a Fortnite thumbnail, it is important to have a screenshot of your gameplay. We can make a perfect screenshot using Fortnite Replay Mode. If you have recently played a Fortnite match, you can access its replay under the Career tab. Under the Career tab select Replays.
-
-![make-fortnite-thumbnail-step1](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step1.jpg)
-
-**Step 02:** If you are using a console, the game will only store 10 recent gameplays, but if you are using a PC, it will store 100 recent gameplays in this section. From all these gameplays, select the one that you want to use for the Thumbnail. Once you choose gameplay, you can control everything in it. The angle, speed, and camera mode.
-
-![make-fortnite-thumbnail-step2](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step2.jpg)
-
-**Step 03:** For creating a perfect thumbnail, select "Drone Free Camera" mode from the camera mode located on the bottom right corner of the screen. It will allow us to change the angle the way we want. Choose an angle of your choice and take the screenshot.
-
-![make-fortnite-thumbnail-step3](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step3.jpg)
-
-**Step 04:** Open Filmora X, make sure to select the 16:9 screen ratio. Import the screenshot using the import button.
-
-![make-fortnite-thumbnail-step4](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step4.jpg)
-
-**Step 05:** Drag and drop the screenshot into the timeline.
-
-![make-fortnite-thumbnail-step5](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step5.jpg)
 
 **Step 06:** Now, let's separate the background and character. Go to the Effects, then AI Portrait, select Human Segmentation, and drop it into the screenshot.
 
@@ -540,95 +630,9 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 
 ![make-fortnite-thumbnail-step12](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step12.jpg)
 
-**Step 13:** To access the directory where this screenshot is saved, right-click on the screenshot and click on "Reveal in Explorer." It will open the folder that contains all the screenshots you take through Filmora. Your Fortnite Thumbnail is ready to be used on your Youtube videos.
-
-![make-fortnite-thumbnail-step13](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step13.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-#### Conclusion
-
-With Filmora, there are no limits. You can use your imagination to create amazing Fortnite thumbnails or thumbnails for other purposes. This article is just a demo teaching you how you use Filmora X to develop free and astounding thumbnails. Explore other options and elements of Filmora to take your thumbnails to another level.
-
- ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
-To grow a Youtube channel, you need to focus on several different factors and elements. Having an attractive and eye-catching thumbnail is one of those top factors that contribute to the growth of your channel. No matter how good your content is, if you cannot attract users to click on your videos, it will not benefit your channel. In this article, we are going to show you how you can make a Fortnite thumbnail in few simple steps using Filmora X. If you are a content creator and love to make Fortnite videos, then this article will be very helpful for you.
-
-Filmora has recently introduced a new feature named AI Portrait that uses Artificial Intelligence to remove the background from a portrait or image. This feature doesn't require any green screen to do that. Filmora also contains a wide range of elements and titles that help you enhance the Thumbnail and make look stunning and eye-catching.
-
----
-
-**Step 01:** To start making a Fortnite thumbnail, it is important to have a screenshot of your gameplay. We can make a perfect screenshot using Fortnite Replay Mode. If you have recently played a Fortnite match, you can access its replay under the Career tab. Under the Career tab select Replays.
-
-![make-fortnite-thumbnail-step1](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step1.jpg)
-
-**Step 02:** If you are using a console, the game will only store 10 recent gameplays, but if you are using a PC, it will store 100 recent gameplays in this section. From all these gameplays, select the one that you want to use for the Thumbnail. Once you choose gameplay, you can control everything in it. The angle, speed, and camera mode.
-
-![make-fortnite-thumbnail-step2](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step2.jpg)
-
-**Step 03:** For creating a perfect thumbnail, select "Drone Free Camera" mode from the camera mode located on the bottom right corner of the screen. It will allow us to change the angle the way we want. Choose an angle of your choice and take the screenshot.
-
-![make-fortnite-thumbnail-step3](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step3.jpg)
-
-**Step 04:** Open Filmora X, make sure to select the 16:9 screen ratio. Import the screenshot using the import button.
-
-![make-fortnite-thumbnail-step4](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-**Step 05:** Drag and drop the screenshot into the timeline.
-
-![make-fortnite-thumbnail-step5](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step5.jpg)
-
-**Step 06:** Now, let's separate the background and character. Go to the Effects, then AI Portrait, select Human Segmentation, and drop it into the screenshot.
-
-![make-fortnite-thumbnail-step6](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step6.jpg)
-
-**Step 07:** Filmora will ask you to purchase it, but you can now hit "Try it" to use it.
-
-![make-fortnite-thumbnail-step7](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step7.jpg)
-
-**Step 08:** It will remove the background of the screenshot.
-
-![make-fortnite-thumbnail-step8](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step8.jpg)
-
-**Step 09:** To add a background, go to the media and navigate to "Sample Color." Drag a color of your choice and drop it below the screenshot.
-
-![make-fortnite-thumbnail-step9](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-**Step 10:** To add titles in the Thumbnail, go to the Titles tab. Here you can find several categories of titles. Find your preferred title and drop it above all the layers. You can choose titles, lower thirds, and other texts depending upon your need and requirement.
-
-![make-fortnite-thumbnail-step10](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step10.jpg)
-
-**Step 11:** We can make this Fortnite Thumbnail look more attractive by adding elements such as stickers and icons. Filmora contains a wide range of stickers. To access them, navigate to the Elements tab. Here you can find so many categories of elements. Choose any elements according to your need and drop them in the timeline above all other layers. If you cannot find a suitable sticker, you can download one from the internet and use it by importing it into Filmora.
-
-![make-fortnite-thumbnail-step11](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step11.jpg)
-
-**Step 12:** Once you are satisfied with the final results, you can take the screenshot of the Thumbnail using the Snapshot icon located below the preview panel. It will create a screenshot in the media panel of Filmora.
-
-![make-fortnite-thumbnail-step12](https://images.wondershare.com/filmora/article-images/make-fortnite-thumbnail-step12.jpg)
 
 **Step 13:** To access the directory where this screenshot is saved, right-click on the screenshot and click on "Reveal in Explorer." It will open the folder that contains all the screenshots you take through Filmora. Your Fortnite Thumbnail is ready to be used on your Youtube videos.
 
@@ -639,10 +643,6 @@ Filmora has recently introduced a new feature named AI Portrait that uses Artifi
 With Filmora, there are no limits. You can use your imagination to create amazing Fortnite thumbnails or thumbnails for other purposes. This article is just a demo teaching you how you use Filmora X to develop free and astounding thumbnails. Explore other options and elements of Filmora to take your thumbnails to another level.
 
  ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -665,18 +665,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-photographys-color-transformation-secrets/"><u>[Updated] Photography's Color Transformation Secrets</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-finding-and-exploring-your-own-music-selection-zone-on-youtube/"><u>2024 Approved Finding and Exploring Your Own Music Selection Zone on Youtube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-first-foray-into-fashionable-mac-made-videos-for-youtube/"><u>2024 Approved First Foray Into Fashionable Mac-Made Videos for YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-giggles-galaxy-a-guide-to-hilarious-youtube-stars/"><u>2024 Approved Giggles Galaxy A Guide to Hilarious YouTube Stars</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-smb-social-media-strategies-infographic-guide/"><u>2024 Approved SMB Social Media Strategies Infographic Guide</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/prehensive-list-of-8-authentic-propagation-tools-for-2024/"><u>A Comprehensive List of 8 Authentic Propagation Tools for 2024</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/diy-tutorial-embedding-custom-watermarks-into-your-pdf-files-for-enhanced-security/"><u>DIY Tutorial: Embedding Custom Watermarks Into Your PDF Files for Enhanced Security</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-extracted-image-selection-from-videos-to-windows-photos/"><u>In 2024, Extracted Image Selection From Videos to Windows Photos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-making-your-own-youtube-beginnings-and-endings-cheaply/"><u>In 2024, Making Your Own YouTube Beginnings & Endings Cheaply</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-pro-rated-income-status-for-content-makers/"><u>In 2024, Pro-Rated Income Status for Content Makers</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-oneplus-11r-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to OnePlus 11R Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-audio-for-apex-legends-players-experiencing-total-silence-issue/"><u>Restoring Audio for Apex Legends Players Experiencing Total Silence Issue</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/revamping-imagery-leading-insta-edits-explored/"><u>Revamping Imagery Leading Insta Edits Explored</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-maximize-impact-sharing-youtube-videos-on-social-media-fb/"><u>[New] Maximize Impact Sharing YouTube Videos on Social Media (FB)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-step-by-step-guide-distribute-your-youtube-collection/"><u>[New] Step-by-Step Guide Distribute Your YouTube Collection</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-liminal-film-narrative-plan/"><u>[Updated] Liminal Film Narrative Plan</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-explore-your-watching-tendencies-the-ultimate-six-youtuber-categorization-challenges/"><u>2024 Approved Explore Your Watching Tendencies The Ultimate Six YouTuber Categorization Challenges</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-increase-youtube-traffic-by-a-million-safely-done/"><u>2024 Approved How to Increase YouTube Traffic by a Million Safely Done</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-prevent-thumbnail-absence-in-shorts-uploads/"><u>2024 Approved How to Prevent Thumbnail Absence in Shorts Uploads</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-master-screen-time-find-your-must-have-7-android-blockers/"><u>2024 Approved Master Screen Time Find Your Must-Have 7 Android Blockers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/dji-drones-collection-entry-grade-premium-pro-elite-4k-flight/"><u>DJI Drones Collection Entry Grade, Premium Pro, Elite 4K Flight</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-make-waves-in-the-social-ocean-integrate-tiktok-into-your-insta-reels/"><u>In 2024, Make Waves in the Social Ocean Integrate TikTok Into Your Insta Reels</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-yt-techniques-for-fading-out-unwanted-backgrounds/"><u>In 2024, Mastering YT Techniques for Fading Out Unwanted Backgrounds</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/in-depth-lazesoft-data-recovery-software-analysis/"><u>In-Depth Lazesoft Data Recovery Software Analysis</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/launching-videos-efficiently-with-free-intros/"><u>Launching Videos Efficiently with FREE Intros</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/m4r-naar-wav-omzetten-gratuite-online-tool-movavi/"><u>M4R Naar WAV Omzetten Gratuite Online Tool - Movavi</u></a></li>
+<li><a href="https://fox-info.techidaily.com/unraveling-the-secrets-to-auditory-harmony-crossfade-for-2024/"><u>Unraveling the Secrets to Auditory Harmony (Crossfade) for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-advanced-graphics-control-a-guide-to-the-nvidia-control-panel/"><u>Unveiling Advanced Graphics Control: A Guide to the Nvidia Control Panel</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Exploring Video Realms  Significant Post-VidCon Conclaves\""
-date: 2024-12-14T18:19:24.146Z
-updated: 2024-12-16T17:20:40.174Z
+date: 2024-12-18T02:42:32.013Z
+updated: 2024-12-24T20:25:59.023Z
 tags:
   - ai video
   - ai youtube
@@ -53,7 +53,7 @@ Want to be a youtube creator too? Go and get **Wondershare Filmora**, the video 
 ![VidCon-On-Spot](https://images.wondershare.com/filmora/VidCon-On-Spot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In 2017 over 30,000 YouTube enthusiasts – from fans to A-list creators – attended VidCon US, and that was thousands of more people than attended in 2016\. It’s hard to imagine that this event – the biggest convention for YouTube and online video – will do anything but grow over the next few years.
@@ -119,7 +119,7 @@ There is also business **Passes** with Merch and Deluxe (Business Deluxe can cos
 ![beautycon-festivals](https://images.wondershare.com/filmora/beautycon-festivals.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Beautycon is an event meant to highlight innovators in the fields of Beauty, Makeup, and Lifestyle. They bring together online creators, fans, celebrities, and brands for two-day festivals full of fun, panel discussions, shopping, and free samples.
@@ -147,7 +147,7 @@ These events are customized to the wherever festival is visiting, so you’re al
 ![youtube-fanfest](https://images.wondershare.com/filmora/youtube-fanfest.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 There is not a steady annual schedule for FanFests, but it has visited these cities in the past: Manila, Mumbai, Seoul, Toronto, Sao Paulo, Jakarta, Tokyo, Jeddah, Bangkok, Ho Chi Minh City, Hong Kong, and Washington, DC.
@@ -163,7 +163,7 @@ Sydney, Australia: February
 ![rtx](https://images.wondershare.com/filmora/rtx.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Brought to you by the creators behind Rooster Teeth, RTX is a celebration of internet culture and gaming. It includes exhibitors, live events, panels, and activities targeting gamers. Partners include Twitch and multiple gaming companies.
@@ -204,10 +204,6 @@ For VIP access, you can buy a **Deluxe** pass for $125-$150 AUD.
 
 ![summer-in-the-city](https://images.wondershare.com/filmora/summer-in-the-city.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 This is the largest online video festival in the UK. It features discussion panels, workshops, and live performances targeted at creators, fans of online video, and industry professionals. YouTubers might hang out on the show floor meeting fans, and there are also Meet and Greet sessions for top creators. All ticket holders can submit online ballots for a chance at Meet and Greet access.
 
 Summer in the City even has its own awards show, SitC, to honor the best in online content. Previous winners include Dodie, Tomska, Jack & Dean, and Nathan Zed.
@@ -232,6 +228,10 @@ Have you ever attended an offline YouTube event? Which one, and how did you like
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -247,19 +247,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-boost-your-game-presence-with-free-voice-alteration-tips-for-free-fire/"><u>[New] Boost Your Game Presence with Free Voice Alteration Tips for Free Fire</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-streamline-accessibility-a-compreenas-top-free-tts-apps-list-for-mac-users/"><u>[Updated] 2024 Approved Streamline Accessibility A Compreenas Top Free TTS Apps List for Mac Users</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-recovering-from-a-mistaken-tiktok-reload/"><u>[Updated] In 2024, Recovering From a Mistaken TikTok Reload</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-editors-edge-advanced-tactics-for-youtube-video-spins-guide/"><u>2024 Approved The Editor's Edge Advanced Tactics for YouTube Video Spins (Guide)</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-top-25-secrets-for-effective-win10-use/"><u>2024 Approved Top 25 Secrets for Effective Win10 Use</u></a></li>
-<li><a href="https://driver-download.techidaily.com/comprehensive-installation-of-sony-vaio-pcg-fixpack-enhancing-your-windows-experience/"><u>Comprehensive Installation of Sony Vaio PCG Fixpack – Enhancing Your Windows Experience</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ensure-peak-performance-latest-epson-wf-372-printer-driver-downloads-and-updates-await/"><u>Ensure Peak Performance: Latest Epson WF 372# Printer Driver Downloads and Updates Await!</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/first-offset-guide-affordable-channel-buys-to-monetize-for-2024/"><u>First Offset Guide Affordable Channel Buys to Monetize for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-amplify-computer-sound-on-a-windows-10-operating-system/"><u>How to Amplify Computer Sound on a Windows 10 Operating System</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-navigating-backwards-youtubes-way-to-rearrange-watch-queue/"><u>In 2024, Navigating Backwards YouTube’s Way to Rearrange Watch Queue</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-skyrocket-your-view-count-youtube-success-via-sony-vegas-editing/"><u>In 2024, Skyrocket Your View Count YouTube Success via Sony Vegas Editing</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-solution-for-non-shown-shorts-thumbnails-on-youtube/"><u>In 2024, Step-by-Step Solution for Non-Shown Shorts Thumbnails on YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unlock-creative-potential-with-these-top-9-free-editors/"><u>In 2024, Unlock Creative Potential with These Top 9 Free Editors</u></a></li>
-<li><a href="https://fox-that.techidaily.com/lost-in-translation-make-sure-your-android-delivers-texts-to-your-iphone-without-fail/"><u>Lost in Translation? Make Sure Your Android Delivers Texts to Your iPhone Without Fail</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-iphone-strategies-access-tiktok-videos-without-markers/"><u>[Updated] IPhone Strategies Access TikTok Videos without Markers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-digital-imagery-standards-rgb-and-its-successor-srgb/"><u>2024 Approved Digital Imagery Standards Rgb & Its Successor, Srgb</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-innovating-storytelling-editing-and-uploading-immersive-360-content-on-youtube/"><u>2024 Approved Innovating Storytelling Editing and Uploading Immersive 360° Content on YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-tailoring-trailers-for-virtual-broadcasts/"><u>2024 Approved Tailoring Trailers for Virtual Broadcasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-gadgets-with-tom-the-ultimate-guide-to-hardware-innovations/"><u>Exploring Advanced Gadgets with Tom - The Ultimate Guide to Hardware Innovations</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/our-favorite-podcasts-and-videos-anytime-on-the-go-with-these-tools/"><u>Get Your Favorite Podcasts & Videos Anytime, On-the-Go, With These Tools</u></a></li>
+<li><a href="https://win-news.techidaily.com/guide-complet-comment-configurer-les-sauvegardes-automatiques-du-serveur-avec-python-en-2022-3-approches/"><u>Guide Complet: Comment Configurer Les Sauvegardes Automatiques Du Serveur Avec Python en 2022 (3 Approches)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-8-plus-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 8 Plus To Others devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-go-live-in-style-a-detailed-guide-to-youtubes-full-sphere-videos/"><u>In 2024, Go Live in Style A Detailed Guide to YouTube's Full-Sphere Videos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-infinix-smart-8-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Infinix Smart 8 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-smooth-transition-techniques-for-youtube-to-dailymotion-upload/"><u>In 2024, Smooth Transition Techniques for YouTube to Dailymotion Upload</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlock-your-contents-potential-mastering-the-art-of-youtube-featured-listings/"><u>In 2024, Unlock Your Content's Potential Mastering the Art of YouTube Featured Listings</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-unveiling-how-t-series-earnings-growth-on-youtube-works/"><u>In 2024, Unveiling How T-Series Earnings Growth on YouTube Works</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/maximizing-profits-from-a-million-viewer-baseline-for-2024/"><u>Maximizing Profits From a Million-Viewer Baseline for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-to-do-if-your-iphone-12-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>What to do if your iPhone 12 has bad ESN or blacklisted IMEI?</u></a></li>
 </ul></div>
 

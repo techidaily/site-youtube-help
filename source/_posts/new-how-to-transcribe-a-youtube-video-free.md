@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Transcribe a YouTube Video [FREE]"
-date: 2024-12-15T18:16:19.960Z
-updated: 2024-12-16T17:56:28.458Z
+date: 2024-12-22T18:20:46.692Z
+updated: 2024-12-24T17:32:20.606Z
 tags:
   - ai video
   - ai youtube
@@ -37,10 +37,6 @@ Besides the [basic video editing features on the YouTube](https://tools.techidai
 
 Below are the two methods to transcribe your YouTube videos for free:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Use the Automated Transcription Service on YouTube
 
 As the name suggests, YouTube automatic transcription service works automatically. This means you don’t even have to click the ‘Transcribe’ button anymore to **transcribe a YouTube video**, and the website takes care of it on its own. All you need to do is, choose English as the language of the video when setting up subtitles. You can follow the instructions given below to do so:
@@ -51,11 +47,19 @@ Sign in to your YouTube account, click your profile picture from the top-right c
 
 ![Upload YouTube videos](https://images.wondershare.com/filmora/article-images/youtube-upload-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 2  Select Transcription Language
 
 On the **Details** page of the next box that appears, scroll down and click **MORE OPTIONS**, and select **English** in the **Video language** drop-down list under the **Language, subtitles, and closed captions (CC)** section.
 
 ![Select Language on YouTube](https://images.wondershare.com/filmora/article-images/select-language-on-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 3  Publish the Video
 
@@ -80,10 +84,6 @@ In the video subtitle page of the target video, hover mouse on the **Published A
 Click and open the **Actions** drop-down list from the top-left corner of the left pane, click your preferred transcription format including .vtt, .srt and .sbv from the list, and save the file on your local hard disk.
 
 ![YouTube videos transcription](https://images.wondershare.com/filmora/article-images/download-youtube-video-transcription.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Get YouTube Transcription when Watching
 
@@ -116,6 +116,10 @@ Copy the URL of YouTube video you want to transcribe, go to <https://www.kapwing
 Click **Auto-generate** from the right window, and follow the on-screen instructions to **transcribe YouTube video to text**.
 
 ![Kapwing Auto Generate Subtitles](https://images.wondershare.com/filmora/article-images/kapwing-auto-generate-subtitles.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3: Download the Transcription File**
 
@@ -151,10 +155,6 @@ Click **Download SRT** from the left pane, and follow the instructions from ther
 
 ![Kapwing Auto Generate Subtitles](https://images.wondershare.com/filmora/article-images/kapwing-auto-generated-subtitles.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Pros**
 
 * Kapwing is free to use
@@ -166,7 +166,7 @@ Click **Download SRT** from the left pane, and follow the instructions from ther
 * The auto-transcribed text might lack accuracy as the task is done by the speech-to-text tools that work in the background
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Benefits of Transcribing YouTube Videos
@@ -224,7 +224,7 @@ If you are looking for a quick and easy way of adding subtitles to your videos, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -242,24 +242,16 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-on-camera-charisma-a-guide-to-personal-video-content/"><u>[New] On-Camera Charisma A Guide to Personal Video Content</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-ultimate-speedy-pics-viewing-tool/"><u>[New] Ultimate Speedy Pics Viewing Tool</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unleash-your-potential-with-top-igtv-creators/"><u>[Updated] 2024 Approved Unleash Your Potential with Top IGTV Creators</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-perfecting-speech-interpretation-using-google-tools/"><u>[Updated] In 2024, Perfecting Speech Interpretation Using Google Tools</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-optimal-fps-in-low-speed-clips/"><u>[Updated] Optimal FPS in Low-Speed Clips</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1726227204664-movavijpgpng/"><u>「Movaviで簡単！無料のJPGとPNG画像交換ツール」</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/01618770-2024-approved-boost-your-visibility-with-a-cutting-edge-set-of-banners/"><u>2024 Approved Boost Your Visibility with a Cutting-Edge Set of Banners</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-step-by-step-methodology-tracking-youtube-traffic-and-income/"><u>2024 Approved Step-by-Step Methodology Tracking YouTube Traffic & Income</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-playbook-of-youtubes-innovative-approach-to-video-shorts/"><u>2024 Approved The Playbook of YouTube’s Innovative Approach to Video Shorts</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unlocking-youtubes-full-potential-with-top-video-formats/"><u>2024 Approved Unlocking YouTube's Full Potential with Top Video Formats</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-infinix-hot-40i-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Infinix Hot 40i? Try These Fixes</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/formula-field-report-game-reviews-for-2024/"><u>FORMULA FIELD REPORT Game Reviews for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-finding-friends-films-and-snapshots-on-the-social-web/"><u>In 2024, Finding Friends’ Films & Snapshots on the Social Web</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-imovie-guide-to-stellar-video-introduction-designs/"><u>In 2024, IMovie Guide to Stellar Video Introduction Designs</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-prowess-in-phrasing-best-tags-for-gamer-videos/"><u>In 2024, Prowess in Phrasing Best Tags for Gamer Videos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-sound-fidelity-at-home-mastering-quality-recordings/"><u>In 2024, Sound Fidelity at Home Mastering Quality Recordings</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-beginners-blueprint-for-youtube-gear/"><u>In 2024, The Beginner's Blueprint for YouTube Gear</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unshakeable-video-quality-best-stabilizers/"><u>In 2024, Unshakeable Video Quality - Best Stabilizers</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/key-points-to-consider-when-opting-for-a-youtube-tv-subscription-for-2024/"><u>Key Points to Consider When Opting for a YouTube TV Subscription for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-navigating-the-online-marketplace-for-profitable-yt-content/"><u>[New] Navigating the Online Marketplace for Profitable YT Content</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-essential-guide-to-youtube-trailer-editing-with-filmora/"><u>2024 Approved The Essential Guide to YouTube Trailer Editing with Filmora</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-unregistered-class-errors-in-windows-11-a-step-by-step-guide/"><u>Fixing Unregistered Class Errors in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-v29-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Vivo V29?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-reno-8t-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Oppo Reno 8T 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-navigating-through-instagrams-new-features-reels-and-stories/"><u>In 2024, Navigating Through Instagram's New Features Reels & Stories</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-rethink-your-youtube-videos-with-these-non-youtube-edits/"><u>In 2024, Rethink Your YouTube Videos with These Non-Youtube Edits</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamline-your-thumbnail-design-journey-today/"><u>In 2024, Streamline Your Thumbnail Design Journey Today</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-steps-youtube-takes-once-a-video-is-submitted-for-viewing/"><u>In 2024, The Steps YouTube Takes Once a Video Is Submitted for Viewing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/tailoring-teammates-backgrounds-in-microsoft-teams-calls-for-2024/"><u>Tailoring Teammates’ Backgrounds in Microsoft Teams Calls for 2024</u></a></li>
 </ul></div>
 

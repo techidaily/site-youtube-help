@@ -1,7 +1,7 @@
 ---
 title: Winning the Battle Against Zoom Disruptions on Windows 11/10 – Update Your Troubleshooting Tactics in 202N
-date: 2024-12-11T17:50:47.087Z
-updated: 2024-12-16T17:08:15.866Z
+date: 2024-12-20T07:13:21.757Z
+updated: 2024-12-24T23:33:51.528Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/91ba55faa148d92407dbc1d9a9fedc994b551d4a3
 **FRIENDS & CHAT** is a Steam feature most players have grown accustomed to for a quick chat and to stay up-to-date. However, every once in a while, the menu will not load and throw up the confusing**Friends Network Unreachable** error.
 
  If you’re encountering the very same issue, don’t worry. Here’s a handy guide that could help you get rid of the problem. Just navigate your way down the list until you find the one that works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix Steam Friends Network Unreachable
 
@@ -59,23 +63,11 @@ Here’s how to join or exit Steam Beta programs:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-2.png)
 3. Select**Account** , then in Beta participation section, click**Change…** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/change.png)
 4. In the window that pops up, choose an option that changes your participation state. Then, click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123ok.png)
 5. Exit Steam.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Fire up Steam and see if your friends list is accessible. If yes, then congrats! If the error persists, please try**Fix 3** , below.
 
@@ -92,15 +84,19 @@ Here’s how to join or exit Steam Beta programs:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-network-driver-2.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your computer for the changes to take effect.
 5. Sign into Steam to see if your friends list loads up properly. If yes, you’ve resolved the issue. If it’s no joy, please try**Fix 4** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Revert Steam to an older version
 
@@ -113,13 +109,17 @@ The steps are as below:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123456.png)
 3. Open Steam and see if you can have access to the friends list.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. If the problem still persist, then go back to your desktop and repeat step 1 to open the Properties window.
 5. In**Shortcut** tab, locate**Target** , leave a space to the end of the field, (…–nofriendsui), then type **–nochatui** . After that, click**OK** to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/456.png)
 6. Run Steam to check if the**Friends Network Unreachable** error has been fixed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Power cycle your modem & router
@@ -132,6 +132,10 @@ The steps are pretty easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg) (a modem)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png) (a router)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Wait **60 seconds**  for your modem (and your router) to cool off.
 
 3. Plug the network devices back in again and wait until the indicator lights are back to the normal state.
@@ -139,10 +143,6 @@ The steps are pretty easy:
 5. Launch Steam and check if your friends list is available.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Is it a server issue?
 
@@ -169,22 +169,15 @@ The steps are pretty easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-how-to-purge-personal-youtube-history-records/"><u>[New] 2024 Approved How to Purge Personal YouTube History Records</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-delving-into-trending-video-exchange/"><u>[New] In 2024, Delving Into Trending Video Exchange</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-streamline-your-youtube-experience-shareable-playlists/"><u>[New] Streamline Your YouTube Experience Shareable Playlists</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-outlining-key-elements-in-youtube-trailer-creation/"><u>2024 Approved Outlining Key Elements in YouTube Trailer Creation</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-premier-content-creators-colloquy/"><u>2024 Approved Premier Content Creators Colloquy</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-8-streamlining-tools-to-elevate-your-streams/"><u>2024 Approved Premium 8 Streamlining Tools to Elevate Your Streams</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-safety-concerns-with-subforsub-for-more-youtube-supporters/"><u>2024 Approved Safety Concerns with Subforsub for More YouTube Supporters?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-thumbnail-tutorial-for-youtube-using-mobile-devices/"><u>2024 Approved Thumbnail Tutorial for YouTube Using Mobile Devices</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtubes-tagging-system-unveiled/"><u>2024 Approved YouTube's Tagging System Unveiled</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-blaze-2-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Blaze 2 5G</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-13-pro-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone 13 Pro? Complete Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-integrative-design-embedding-youtube-in-slides/"><u>In 2024, Integrative Design Embedding YouTube in Slides</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-checklist-to-successful-video-marketing-with-tags/"><u>In 2024, The Ultimate Checklist to Successful Video Marketing with Tags</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-guide-to-digital-green-magic-comprecipate-free-lessons-from-4-masterful-channels/"><u>In 2024, The Ultimate Guide to Digital Green Magic Comprecipate Free Lessons From 4 Masterful Channels</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-the-groundbreaking-yoga-book-e9i-by-lenovo-a-first-of-its-kind-two-oled-display-laptop-covered-in-latest-tech-review-at-zdnet/"><u>Introducing the Groundbreaking Yoga Book E9i by Lenovo: A First-of-Its-Kind, Two OLED Display Laptop Covered in Latest Tech Review at ZDNET</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/live-stream-excellence-which-software-leads-the-pack-vmix-or-wirecast/"><u>Live Stream Excellence Which Software Leads the Pack? VMix or Wirecast?</u></a></li>
-<li><a href="https://windows11.techidaily.com/tutorial-initiating-clipboard-operations-within-microsoft-edges-protected-environment-windows-11/"><u>Tutorial: Initiating Clipboard Operations Within Microsoft Edge's Protected Environment, Windows 11</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-top-5-cloud-voice-editors-for-chrome-os-transforming-your-tone-and-pitch/"><u>[New] 2024 Approved Top 5 Cloud Voice Editors for Chrome OS Transforming Your Tone and Pitch</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-maximize-youtube-potential-leading-rank-tracker-software/"><u>[New] Maximize YouTube Potential Leading Rank Tracker Software</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-gain-traction-on-youtube-surpass-10000-viewer-count-for-affiliate-rewards/"><u>2024 Approved Gain Traction on YouTube - Surpass 10,000 Viewer Count for Affiliate Rewards</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-streamline-your-craft-expert-tutorials-in-youtube-studio-editor/"><u>2024 Approved Streamline Your Craft Expert Tutorials in YouTube Studio Editor</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/8-free-online-video-editors-for-youtube-for-2024/"><u>8 Free Online Video Editors for YouTube for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-analysis-linksys-wrt1/"><u>Expert Analysis: Linksys WRT1</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-oppo-a2-devices-by-drfone-android/"><u>How to Reset Gmail Password on Oppo A2 Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-xiaomi-redmi-note-12r-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Xiaomi Redmi Note 12R for Parents | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/laying-foundations-for-fresh-content-first-timers-youtube-video-guide-mac-edition/"><u>Laying Foundations for Fresh Content First-Timer's Youtube Video Guide, Mac Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-establish-smooth-operations-in-windows-controls/"><u>Re-Establish Smooth Operations in Windows Controls</u></a></li>
 </ul></div>
 

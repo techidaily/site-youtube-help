@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Independent Artists' Guide to Personalized Visual Tricks"
-date: 2024-12-15T16:35:37.742Z
-updated: 2024-12-16T18:41:34.616Z
+date: 2024-12-21T12:29:48.437Z
+updated: 2024-12-25T12:53:38.967Z
 tags:
   - ai video
   - ai youtube
@@ -66,10 +66,6 @@ This site has a huge number of free After Effects tutorials. There are basic int
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -153,10 +149,14 @@ In this post, we’re going to kick things up a bit. Here is a list of places wh
  ![Video Animation](https://images.wondershare.com/filmora/article-images/animated-video-effects.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  All of these resources will teach Adobe After Effects, or a similar paid software. If you do not have access to Adobe After Effects, you might want to check out our post on [affordable animation software for video creators](https://www.filmora.io/community-blog/free-or-cheap-animation-software-for-video-creators-122.html).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **[Mt. Mograph](https://www.youtube.com/channel/UCSUSgx9qc%5FNydrOL59xbJIA)**
 
@@ -171,10 +171,6 @@ What’s great about this course is that it assumes you have no animation experi
 ## **[Bloop Animation](https://www.bloopanimation.com/)**
 
  Most of the video animation courses on this site are paid, but they have a lot of cool free tutorials as well. The focus is more on animating figures/cartoons than video effects, but if you have any interest in animation more generally then this is a great place to start learning. They even have a free ebook you can download which is targeted at beginners.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **[Video Copilot](http://www.videocopilot.net/)**
 
@@ -214,6 +210,10 @@ In this post, we’re going to kick things up a bit. Here is a list of places wh
 
  All of these resources will teach Adobe After Effects, or a similar paid software. If you do not have access to Adobe After Effects, you might want to check out our post on [affordable animation software for video creators](https://www.filmora.io/community-blog/free-or-cheap-animation-software-for-video-creators-122.html).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **[Mt. Mograph](https://www.youtube.com/channel/UCSUSgx9qc%5FNydrOL59xbJIA)**
 
 On this YouTube channel, motion graphics specialist Matt offers free animation tutorials using a variety of programs including Adobe After Effects and Cinema 4D. His lessons are for a range of skill levels, from beginner to advanced. If you are just starting out then Mt.Mograph is a great resource.
@@ -233,10 +233,6 @@ What’s great about this course is that it assumes you have no animation experi
 This site has a huge number of free After Effects tutorials. There are basic introductory lessons, and really advanced classes on creating custom cinematic FX, like explosions. There’s even a playlist on title design, which will be useful for anyone looking to create an intro sequence for their videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -262,92 +258,9 @@ Follow @Richard Bennett
 
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-Ever think about how to get a YouTube video trending? It can come down to picking a topic that's trending.
-
-A trending topic is a subject which a lot of people are currently interested in. If you learn how to tap into what’s popular and cover it in creative and innovative ways then that will help your channel grow more quickly. You’ll get more views, more subscribers, and higher search rankings by following these simple tips.
-
-1. **[Think of 'Trending' as Relevant](#relevant)**
-2. **[Find Trending Topics Within Your Niche](#niche)**
-3. **[Aim for Number 1](#aim)**
-4. **[Success Doesn't Mean Making a Viral Video](#viral)**
-5. **[The Subscriber Snowball Effect](#snowball)**
-
-[![guide-to-grow-youtube-subscribers](https://images.wondershare.com/filmora/guide-to-grow-youtube-subscribers-download-btn.png)](https://www.filmora.io/free-youtube-subscribers?utm%5Fsource=blog&utm%5Fcampaign=get%5Fsubs%5Fevergreen&utm%5Fcontent=blog%202)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-## **1\. Think of ‘Trending’ as Relevant**
-
-Instead of thinking of a trending video as a video that everyone is doing, think of it as a subject that is relevant to a lot of people. You want to cover topics that a lot of people care about.
-
-A lot of YouTubers see huge channels have a lot of success posting videos that are very focused on the personal life of the creator (i.e. ‘I had the WORST day’) or which have very vague or sensational titles (i.e. ‘The horse knows what it did’) and decide that those are the kinds of videos they want to do too. However, the only reason large channels are able to be successful with these kinds of videos and titles is that they are already big. These creators have already grown themselves huge audiences of people who know and are interested in them personally.
-
-As a smaller creator, you will not be successful if you only aim to do videos that are focused on you and your life. For example, if you have 100 subscribers and make a vlog about how your day went, then you have 100 people who may potentially find that interesting. The content might be good, but it won’t help you grow.
-
-## **2\. Find Trending Topics Within Your Niche**
-
-**![find your niche](https://images.wondershare.com/filmora/article-images/niche-find-your-niche.jpg)**
-
-Taking on trending topics shouldn’t mean taking on topics you aren’t actually interested in or don’t care about. Every genre on YouTube has its own trends, and you will often know about them just by virtue of watching other channels in your genre and talking to people who are interested in the same things as you. For example, if you’re a Gamer and your friends are also Gamers then you probably already know what Gamers are currently interested in.
-
-If you do need help determining trends, here are 2 ways to do it:
-
-1. Visit 3 of the most popular channels in your genre (i.e. gaming, beauty, or prank) and see if there’s any overlap in the themes of their most recent videos.
-2. Go to [Google Trends](https://trends.google.ca/trends/) and look at the categories most relevant to your genre. [To learn how to use Google Trends](https://tools.techidaily.com/wondershare/filmora/download/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## **3\. Aim for Number 1**
-
-**![think-in-divergent-way](https://images.wondershare.com/filmora/article-images/think-in-divergent-way.jpg)**
-
-Being trendy doesn’t mean you can’t be original. If you know what’s popular in your genre then that will enable you to ask yourself ‘what’s on-trend, but not being covered yet?’.
-
-For example, if you know that relationship videos – topics like ‘how do you know a guy likes you?’ – are doing well then you can think about what other aspects of dating people might be interested in that don’t have many videos on them yet. If you’re one of the first to tackle something that’s on-trend you have a much better chance of getting that number 1 search engine ranking, and higher ranked videos always get more views.
-
-## **4\. Success Doesn't Mean Making a Viral Video**
-
-**![viral-video](https://images.wondershare.com/filmora/article-images/viral-video.png)**
-
-There’s a common misconception that in order to grow your channel you need to make your videos go viral. The truth is that having one or two viral videos probably won’t help you much. People don’t subscribe to one video, they subscribe for consistently good content.
-
-It’s much better to have 10 videos on a popular topic that are doing alright than it is to have that one big viral hit. Those 10 videos will consistently bring in new viewers to your channel who are more likely to subscribe because they can see you have other content they’re interested in.
-
-## **5\. The Subscriber Snowball Effect**
-
-**![snowball-effect](https://images.wondershare.com/filmora/article-images/snowball-effect.jpg)**
-
-When you make multiple videos around a trending topic, they’re more likely to come up as ‘related’ to each other than if you only cover the topic in one video. If someone enjoys one of your videos on that topic and can see there’s another right there in the related videos, there’s a good chance they’ll click on it.
-
-This gets you more views on multiple videos, and more subscribers because it builds the expectation that you’re going to continue to keep covering relevant topics. Having viewers click from video to video on your channel also increases your watch time, which YouTube’s algorithm takes as a sign that they should rank your videos higher in search results (getting you even more views).
-
-Do you have any of your own tips for how to get a YouTube video trending?
-
-Finding the trend is integral for YouTube channel growth. A user-friendly video editing software will simplify the process of editing videos and saves your efforts. Get **Wondershare Filmora** by clicking the button below to make the coolest videos and see your viewers boom.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
 
 ##### Richard Bennett
 
@@ -366,10 +279,6 @@ A trending topic is a subject which a lot of people are currently interested in.
 5. **[The Subscriber Snowball Effect](#snowball)**
 
 [![guide-to-grow-youtube-subscribers](https://images.wondershare.com/filmora/guide-to-grow-youtube-subscribers-download-btn.png)](https://www.filmora.io/free-youtube-subscribers?utm%5Fsource=blog&utm%5Fcampaign=get%5Fsubs%5Fevergreen&utm%5Fcontent=blog%202)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **1\. Think of ‘Trending’ as Relevant**
 
@@ -422,6 +331,10 @@ Finding the trend is integral for YouTube channel growth. A user-friendly video 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -447,7 +360,7 @@ A trending topic is a subject which a lot of people are currently interested in.
 [![guide-to-grow-youtube-subscribers](https://images.wondershare.com/filmora/guide-to-grow-youtube-subscribers-download-btn.png)](https://www.filmora.io/free-youtube-subscribers?utm%5Fsource=blog&utm%5Fcampaign=get%5Fsubs%5Fevergreen&utm%5Fcontent=blog%202)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **1\. Think of ‘Trending’ as Relevant**
@@ -457,10 +370,6 @@ Instead of thinking of a trending video as a video that everyone is doing, think
 A lot of YouTubers see huge channels have a lot of success posting videos that are very focused on the personal life of the creator (i.e. ‘I had the WORST day’) or which have very vague or sensational titles (i.e. ‘The horse knows what it did’) and decide that those are the kinds of videos they want to do too. However, the only reason large channels are able to be successful with these kinds of videos and titles is that they are already big. These creators have already grown themselves huge audiences of people who know and are interested in them personally.
 
 As a smaller creator, you will not be successful if you only aim to do videos that are focused on you and your life. For example, if you have 100 subscribers and make a vlog about how your day went, then you have 100 people who may potentially find that interesting. The content might be good, but it won’t help you grow.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **2\. Find Trending Topics Within Your Niche**
 
@@ -472,6 +381,10 @@ If you do need help determining trends, here are 2 ways to do it:
 
 1. Visit 3 of the most popular channels in your genre (i.e. gaming, beauty, or prank) and see if there’s any overlap in the themes of their most recent videos.
 2. Go to [Google Trends](https://trends.google.ca/trends/) and look at the categories most relevant to your genre. [To learn how to use Google Trends](https://tools.techidaily.com/wondershare/filmora/download/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **3\. Aim for Number 1**
 
@@ -502,6 +415,10 @@ Do you have any of your own tips for how to get a YouTube video trending?
 Finding the trend is integral for YouTube channel growth. A user-friendly video editing software will simplify the process of editing videos and saves your efforts. Get **Wondershare Filmora** by clicking the button below to make the coolest videos and see your viewers boom.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -547,6 +464,89 @@ If you do need help determining trends, here are 2 ways to do it:
 
 1. Visit 3 of the most popular channels in your genre (i.e. gaming, beauty, or prank) and see if there’s any overlap in the themes of their most recent videos.
 2. Go to [Google Trends](https://trends.google.ca/trends/) and look at the categories most relevant to your genre. [To learn how to use Google Trends](https://tools.techidaily.com/wondershare/filmora/download/).
+
+## **3\. Aim for Number 1**
+
+**![think-in-divergent-way](https://images.wondershare.com/filmora/article-images/think-in-divergent-way.jpg)**
+
+Being trendy doesn’t mean you can’t be original. If you know what’s popular in your genre then that will enable you to ask yourself ‘what’s on-trend, but not being covered yet?’.
+
+For example, if you know that relationship videos – topics like ‘how do you know a guy likes you?’ – are doing well then you can think about what other aspects of dating people might be interested in that don’t have many videos on them yet. If you’re one of the first to tackle something that’s on-trend you have a much better chance of getting that number 1 search engine ranking, and higher ranked videos always get more views.
+
+## **4\. Success Doesn't Mean Making a Viral Video**
+
+**![viral-video](https://images.wondershare.com/filmora/article-images/viral-video.png)**
+
+There’s a common misconception that in order to grow your channel you need to make your videos go viral. The truth is that having one or two viral videos probably won’t help you much. People don’t subscribe to one video, they subscribe for consistently good content.
+
+It’s much better to have 10 videos on a popular topic that are doing alright than it is to have that one big viral hit. Those 10 videos will consistently bring in new viewers to your channel who are more likely to subscribe because they can see you have other content they’re interested in.
+
+## **5\. The Subscriber Snowball Effect**
+
+**![snowball-effect](https://images.wondershare.com/filmora/article-images/snowball-effect.jpg)**
+
+When you make multiple videos around a trending topic, they’re more likely to come up as ‘related’ to each other than if you only cover the topic in one video. If someone enjoys one of your videos on that topic and can see there’s another right there in the related videos, there’s a good chance they’ll click on it.
+
+This gets you more views on multiple videos, and more subscribers because it builds the expectation that you’re going to continue to keep covering relevant topics. Having viewers click from video to video on your channel also increases your watch time, which YouTube’s algorithm takes as a sign that they should rank your videos higher in search results (getting you even more views).
+
+Do you have any of your own tips for how to get a YouTube video trending?
+
+Finding the trend is integral for YouTube channel growth. A user-friendly video editing software will simplify the process of editing videos and saves your efforts. Get **Wondershare Filmora** by clicking the button below to make the coolest videos and see your viewers boom.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+Ever think about how to get a YouTube video trending? It can come down to picking a topic that's trending.
+
+A trending topic is a subject which a lot of people are currently interested in. If you learn how to tap into what’s popular and cover it in creative and innovative ways then that will help your channel grow more quickly. You’ll get more views, more subscribers, and higher search rankings by following these simple tips.
+
+1. **[Think of 'Trending' as Relevant](#relevant)**
+2. **[Find Trending Topics Within Your Niche](#niche)**
+3. **[Aim for Number 1](#aim)**
+4. **[Success Doesn't Mean Making a Viral Video](#viral)**
+5. **[The Subscriber Snowball Effect](#snowball)**
+
+[![guide-to-grow-youtube-subscribers](https://images.wondershare.com/filmora/guide-to-grow-youtube-subscribers-download-btn.png)](https://www.filmora.io/free-youtube-subscribers?utm%5Fsource=blog&utm%5Fcampaign=get%5Fsubs%5Fevergreen&utm%5Fcontent=blog%202)
+
+## **1\. Think of ‘Trending’ as Relevant**
+
+Instead of thinking of a trending video as a video that everyone is doing, think of it as a subject that is relevant to a lot of people. You want to cover topics that a lot of people care about.
+
+A lot of YouTubers see huge channels have a lot of success posting videos that are very focused on the personal life of the creator (i.e. ‘I had the WORST day’) or which have very vague or sensational titles (i.e. ‘The horse knows what it did’) and decide that those are the kinds of videos they want to do too. However, the only reason large channels are able to be successful with these kinds of videos and titles is that they are already big. These creators have already grown themselves huge audiences of people who know and are interested in them personally.
+
+As a smaller creator, you will not be successful if you only aim to do videos that are focused on you and your life. For example, if you have 100 subscribers and make a vlog about how your day went, then you have 100 people who may potentially find that interesting. The content might be good, but it won’t help you grow.
+
+## **2\. Find Trending Topics Within Your Niche**
+
+**![find your niche](https://images.wondershare.com/filmora/article-images/niche-find-your-niche.jpg)**
+
+Taking on trending topics shouldn’t mean taking on topics you aren’t actually interested in or don’t care about. Every genre on YouTube has its own trends, and you will often know about them just by virtue of watching other channels in your genre and talking to people who are interested in the same things as you. For example, if you’re a Gamer and your friends are also Gamers then you probably already know what Gamers are currently interested in.
+
+If you do need help determining trends, here are 2 ways to do it:
+
+1. Visit 3 of the most popular channels in your genre (i.e. gaming, beauty, or prank) and see if there’s any overlap in the themes of their most recent videos.
+2. Go to [Google Trends](https://trends.google.ca/trends/) and look at the categories most relevant to your genre. [To learn how to use Google Trends](https://tools.techidaily.com/wondershare/filmora/download/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **3\. Aim for Number 1**
 
@@ -601,21 +601,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-halt-youtube-suggested-content-now/"><u>[New] Halt YouTube Suggested Content Now</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-schedule-smarter-the-art-of-youtube-content-timing/"><u>[New] Schedule Smarter The Art of YouTube Content Timing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-streamline-caption-insertion-photos-app-tutorials-for-win-11/"><u>[New] Streamline Caption Insertion Photos App Tutorials for WIN 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/repaired-device-recognition-error-corrected/"><u>[REPAIRED] Device Recognition Error Corrected</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-melodies-for-millions-insta-music-secrets/"><u>[Updated] Melodies for Millions Insta Music Secrets</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-zoom-excellence-key-steps-to-maximize-video-format-shifts/"><u>[Updated] Zoom Excellence Key Steps to Maximize Video Format Shifts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-funimate-android-adventure-the-apk-breakdown/"><u>2024 Approved Funimate Android Adventure The APK Breakdown</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-master-the-art-of-streaming-pick-from-the-leading-6-cost-free-and-on-demand-short-video-downloads/"><u>2024 Approved Master the Art of Streaming Pick From the Leading 6 Cost-Free & On-Demand Short Video Downloads</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-selecting-gear-for-youtube-a-filmmakers-essentials/"><u>2024 Approved Selecting Gear for YouTube A Filmmaker's Essentials</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-sifting-through-youtube-rules-vs-creative-commons-guidelines/"><u>2024 Approved Sifting Through Youtube Rules Vs. Creative Commons Guidelines</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unraveling-youtubes-platform-for-content-crafting/"><u>2024 Approved Unraveling YouTube’s Platform for Content Crafting</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-motorola-mg7700-testing-a-blend-of-stability-and-speed/"><u>Comprehensive Motorola MG7700 Testing: A Blend of Stability & Speed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-cant-connect-to-printer-error-on-windows-11/"><u>How to Fix the Can’t Connect to Printer Error on Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-get-alan-wake-2-running-a-step-by-step-fix-guide/"><u>How to Get Alan Wake 2 Running: A Step-by-Step Fix Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/madden-22-malfunctions-heres-how-to-rectify-them-swiftly-and-efficiently/"><u>Madden 22 Malfunctions? Here's How to Rectify Them Swiftly and Efficiently</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/navigating-your-net-gain-three-steps-to-quantify-your-youtube-earnings-for-2024/"><u>Navigating Your Net Gain Three Steps to Quantify Your YouTube Earnings for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-couch-to-camera-earning-through-personal-vlogging/"><u>[New] From Couch-to-Camera Earning Through Personal Vlogging</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-deciphering-the-block-code-on-snapchat/"><u>[Updated] 2024 Approved Deciphering the Block Code on Snapchat</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-finding-your-ideal-video-capture-solution-bandicam-vs-camtasia-for-2024/"><u>[Updated] Finding Your Ideal Video Capture Solution Bandicam Vs Camtasia for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-simplified-design-guide-add-your-own-style-to-your-video-shorts/"><u>2024 Approved Simplified Design Guide Add Your Own Style to Your Video Shorts</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/free-youtube-end-screen-templates-plushow-tos-for-2024/"><u>Free YouTube End Screen Templates [+How-Tos] for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gratis-conversie-van-images-bestaan-u-want-een-jpg-om-te-behandelen-hoe-je-ze-kan-omgezet-worden/"><u>Gratis Conversie Van Images - Bestaan U Want Een JPG Om Te Behandelen? Hoe Je Ze Kan Omgezet Worden!</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-harmonic-hits-top-rated-dj-template-downloads/"><u>In 2024, Harmonic Hits Top-Rated DJ Template Downloads</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-monetizing-content-how-much-adsense-pays-you-per-thousand-video-hits/"><u>In 2024, Monetizing Content How Much AdSense Pays You Per Thousand Video Hits?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-notrace-remover-ultimate-background-cleanse/"><u>In 2024, NoTrace Remover Ultimate Background Cleanse</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-standard-youtube-license-vs-creative-commons/"><u>In 2024, Standard YouTube License Vs. Creative Commons</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-teacher-created-videos-precision-in-cutting-and-splicing/"><u>In 2024, Teacher-Created Videos Precision in Cutting & Splicing</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-video-content-strategies-on-youtube/"><u>In 2024, Unveiling Video Content Strategies on YouTube</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-quest-for-authenticity-differentiating-fake-from-genuine-ai-outputs/"><u>The Quest for Authenticity: Differentiating Fake From Genuine AI Outputs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-walkthrough-for-permanently-removing-your-yahoo-mail-account/"><u>The Ultimate Walkthrough for Permanently Removing Your Yahoo Mail Account</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Repair a Malfunctioning Madden 22 - Speedy Solutions Inside!
-date: 2024-12-11T17:09:13.789Z
-updated: 2024-12-16T16:22:21.565Z
+date: 2024-12-21T20:15:12.095Z
+updated: 2024-12-24T18:41:26.449Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-380.png)
 
  Running into an**Apex Legends Engine error** ? Don’t worry. It’s often not hard to fix at all…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fixes for Apex Legends Engine Error
 
@@ -47,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0209829f51.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -55,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0204fe6005.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click Update to do it for free if you like, but it’s partly manual.
@@ -76,16 +72,12 @@ Here is how to grant administrative privileges to Apex Legends:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-564.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In File Explorer, right click on **Apex Legends .exe**  and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-565.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Compatibility**  tab. Then check the box next to **Run this program as an administrator** , and click **Apply** .
@@ -105,7 +97,7 @@ Here is how to verify game files:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-439-1024x522.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Right-click on**Apex Legends** and click**Repair** .
@@ -115,6 +107,10 @@ Here is how to verify game files:
 3) Wait until the repair process finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Once done, run Apex Legends and check if the engine error is fixed. If yes, then great! If the issue persists, please move on to**Fix 4** , below.
 
@@ -131,6 +127,10 @@ Here are the steps to add the command line:
  1) Right-click on**the empty area** on your desktop, and click**New** \>**Text Document** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-474.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Add the following command to the text document.
 
@@ -174,18 +174,20 @@ Windows Registry Editor Version 5.00
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-implementing-custom-overlays-in-youtube-videos/"><u>[New] Implementing Custom Overlays in YouTube Videos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-unmatched-6-safe-online-collaboration-software-rankings/"><u>[New] Unmatched 6 Safe Online Collaboration Software Rankings</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-make-a-difference-youtubes-quick-thumbnail-guide/"><u>2024 Approved Make a Difference YouTube's Quick Thumbnail Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-refine-your-youtube-identity-with-efficient-descriptions/"><u>2024 Approved Refine Your YouTube Identity with Efficient Descriptions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/corsair-hs60-mic-repairs-addressing-the-unresponsive-audio-dilemma-effectively/"><u>Corsair HS60 Mic Repairs - Addressing the Unresponsive Audio Dilemma Effectively</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/documenting-effortlessly-a-guide-to-using-gpt-for-word/"><u>Documenting Effortlessly: A Guide to Using GPT for Word</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevate-your-vision-experience-these-7-grading-styles/"><u>Elevate Your Vision Experience These 7 Grading Styles</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/from-video-content-to-cash-flow-youtubes-profit-mechanics-for-2024/"><u>From Video Content to Cash Flow YouTube's Profit Mechanics for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-itel-a05s-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Itel A05s</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/movie-substitutes-that-shook-up-my-world-7-choices-for-2024/"><u>Movie Substitutes That Shook Up My World - #7 Choices for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-your-selling-strategy-with-lazlive-live-selling/"><u>New Your Selling Strategy With LazLive Live Selling</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-productivity-mastery-of-microsofts-phone-link-app/"><u>Unlocking Productivity: Mastery of Microsoft's ‘Phone Link’ App</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-follow-me-back-home-top-trail-tracking-drones/"><u>2024 Approved Follow Me Back Home - Top Trail-Tracking Drones</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-making-your-mark-with-youtubes-creative-commons-tools/"><u>2024 Approved Making Your Mark with YouTube’s Creative Commons Tools</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-upgrade-your-channels-visual-appeal/"><u>2024 Approved Upgrade Your Channel's Visual Appeal</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/apple-iphone-13-pro-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>Apple iPhone 13 Pro Screen Mirroring You Must Know | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-launcher-bug-patched/"><u>Direct3D Launcher Bug Patched</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-download-newest-software-version-for-your-canon-pixma-mp250-all-in-one-printer/"><u>Find & Download Newest Software Version For Your Canon PIXMA MP250 All-in-One Printer</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-navigating-inverted-video-flows-on-instagram-guide/"><u>In 2024, Navigating Inverted Video Flows on Instagram [Guide]</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-prime-platforms-for-asmr-experience/"><u>In 2024, Prime Platforms for ASMR Experience</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamlining-your-youtube-tracks-a-sound-guide/"><u>In 2024, Streamlining Your YouTube Tracks A Sound Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/interactive-subscription-buttons-filmoras-guide-to-animated-sign-up-bars-for-2024/"><u>Interactive Subscription Buttons - Filmora's Guide to Animated Sign-Up Bars for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-h-265-hevc-video-on-galaxy-m34-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Galaxy M34 5G</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/maximizing-video-impact-on-youtube-top-video-formats-for-2024/"><u>Maximizing Video Impact on YouTube – Top Video Formats for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/superior-ai-for-dynamic-imagery-creation/"><u>Superior AI for Dynamic Imagery Creation</u></a></li>
 </ul></div>
 

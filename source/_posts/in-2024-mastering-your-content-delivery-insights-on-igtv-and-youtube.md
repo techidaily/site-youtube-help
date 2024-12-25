@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering Your Content Delivery  Insights on IGTV and YouTube\""
-date: 2024-12-10T18:02:49.903Z
-updated: 2024-12-16T17:14:57.742Z
+date: 2024-12-23T10:16:39.934Z
+updated: 2024-12-24T21:36:27.753Z
 tags:
   - ai video
   - ai youtube
@@ -68,10 +68,6 @@ At the moment, views and likes can’t be monetized on IGTV, so most influencers
 
 Knowing how many people watched the entire video or how many likes and comments certain types of videos get can help you produce content that attracts a larger audience on all social networks. The metrics such as engagement or view-through rates can be essential during online marketing campaigns as they can suggest how many people are watching your videos and for how long. The analytics tools YouTube provides are much more diverse than those offered by IGTV that only lets you see the audience retention graph and the number of views and comments a video currently has. YouTube is an obviously a much better option for anyone who wants to conduct an in-depth analysis of their content’s performance, although the tools on IGTV are still powerful enough to indicate which type of content your audience likes the most.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Shouldn’t You Use YouTube and IGTV For the Same Purposes?
 
 You shouldn’t assume that you can post the same type of videos on your YouTube and IGTV channels, just because they are both video sharing platforms. The content you create for your IGTV channel needs to be dynamic and entertaining in order to captivate the audience’s attention. Posting tutorials or hour-long gaming videos on IGTV won’t attract as many viewers as on YouTube, which is why businesses who want to use IGTV to promote their products and services need to choose the content carefully. Furthermore, the videos that last between two and five minutes are still by far the most popular on IGTV, so even though technically you can upload a video that lasts one hour to your IGTV channel, the chances are that such long videos won’t get a lot of views.
@@ -88,10 +84,6 @@ However, no matter which video platform you choose, you need to ensure the video
 * And more waiting for you to discover.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
@@ -165,6 +157,10 @@ However, no matter which video platform you choose, you need to ensure the video
 * And more waiting for you to discover.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
@@ -350,96 +346,7 @@ Follow @Shanoon Cox
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-## Why subtitle and closed captions are important for YouTube videos?
-
-* Forced closed captions and subtitles actually help the viewers to understand the content in your video if the audio quality of your video is bad, muffled or barely audible. Reading makes it easier for them to understand.
-* This also helps people with hearing impairments. People with troubled ears can still watch and understand your content.
-* It's a great aid to such videos which have been recorded in other foreign languages that you don't understand. Hence it will increase the number of viewers all around the world.
-* They both are generally added for easy accessibility to the viewers who wish to watch in sound sensitive environments.
-
- So, here we are going to show you two ways to add subtittles to video: directly or uploading caption or transcript files
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## Adding subtitles and closed captions manually
-
- To add subtitles and closed captions to your YouTube video, fisrt, you should sign in to your YouTube account. On left right below 'Home' you will find 'My Channel'. It will direct you to your personal YouTube page. On the top, right next to your subscribers lays the 'Video manager', giving you the list of your uploaded videos.
-
- Select the video and click on edit to get a drop down menu. Click on subtitles and CC. This will take you to the subtitling interface. To the right of video select 'add new subtitles' and then 'create new subtitles'. Select the subtitle language. Play the video to listen to the content and type down in the box. Click on '+' button once you are done.
-
- This will create a subtitle timeline right beneath the video. You can manage by dragging and expanding the subtitle duration according to the audio of the video. The subtitle will appear at the bottom of the video screen. Click 'publish' once done.
-
- An interruption might occur with appearing of subtitles in accordance with video. Hence a lot precision is required while doing so.
-
-## Uploading Caption or Transcript Files automatically
-
- To upload Caption or Transcript Files to YouTube Videos you first need to create a format on a text editor. For windows use Notepad and for Mac you may use TextEdit. Create a format of putting the number of subtitle first, time stamp and then text of the subtitle. For example
-
-#### 1\
-
- 00:02:34:12 using a format of (hour : minute : second : millisecond)
-
-#### 2\. \*text\*
-
- This is the sample text for first subtitle at zero hours, two minutes, thirty four seconds and twelve milliseconds. Once done with this. Go to file, select 'save as'. Write the file name with an extension of .srt and select 'All files' for type of file. Click encoding menu and select UTF-8\. Once saved, sign in to your YouTube account.
-
- On left right below 'Home' you will find 'My Channel'. It will direct you to your personal YouTube page. On the top, right next to your subscribers lays the 'Video manager', giving you the list of your uploaded videos.
-
- Select the video and click on edit to get a drop down menu. Click on subtitles and CC. Go to 'add subtitles' and then 'upload a file'. A pop-up menu will appear select 'subtitles file'. Click upload. The file will send subtitles to your video.
-
- This will create a subtitle timeline right beneath the video. You can manage by dragging and expanding the subtitle duration according to the audio of the video. The subtitle will appear at the bottom of the video screen. Click 'publish' once done.
-
-## 3 Best Tools for add/managing video Subtitles/CC
-
-#### 1\.  Amara
-
- Amara is a smart video editor which helps insert captions and subtitles to videos. It also helps in transcribing the videos. It takes help of crowd sourcing to subtitle any YouTube video. They take help from viewers to subtitle the videos. By making crowd subtitling available for any YouTube creator, they are allowing them to reach more viewers in more languages
-
-#### 2\.  DIY Captions
-
- DIY captions help you to transcribe the YouTube videos, if not in most accurate manner, then in a little easier way. All you have to do is just paste the URL of the YouTube video and it will provide you all the subtitles. These may not be accurate but will provide you major base material which can be tweaked a bit here and there and is far better than making all the subtitles starting from scratch.
-
-#### 3  Subtitles for YouTube
-
- Subtitles for YouTube is a Google Chrome extension which provides subtitles for YouTube videos. For this you will have to provide a subtitle file with .srt extension. The attractive feature of this is that you won't have to download the video and still run the subtitles on it. This is very much helpful for people who work on YouTube or watch movies without subtitles.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
- In this article, we are going to show you how important it is to add subtitle and closed captions in your YouTube video, and how to add them.
-
----
-
- The best video editor for YouTubers - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), not only allows you to cut, crop, rotate, reverse videos, but also offers your advanced features like PIP, Green Screen, or audio mixing. What's more, you can find lots of effects for Fashion, gaming, education, tutorial, sports, etc. Check this article to know more.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
----
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why subtitle and closed captions are important for YouTube videos?
 
@@ -479,7 +386,7 @@ Follow @Richard Bennett
  This will create a subtitle timeline right beneath the video. You can manage by dragging and expanding the subtitle duration according to the audio of the video. The subtitle will appear at the bottom of the video screen. Click 'publish' once done.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 Best Tools for add/managing video Subtitles/CC
@@ -518,10 +425,6 @@ Follow @Richard Bennett
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why subtitle and closed captions are important for YouTube videos?
 
 * Forced closed captions and subtitles actually help the viewers to understand the content in your video if the audio quality of your video is bad, muffled or barely audible. Reading makes it easier for them to understand.
@@ -530,116 +433,43 @@ Follow @Richard Bennett
 * They both are generally added for easy accessibility to the viewers who wish to watch in sound sensitive environments.
 
  So, here we are going to show you two ways to add subtittles to video: directly or uploading caption or transcript files
-
-## Adding subtitles and closed captions manually
-
- To add subtitles and closed captions to your YouTube video, fisrt, you should sign in to your YouTube account. On left right below 'Home' you will find 'My Channel'. It will direct you to your personal YouTube page. On the top, right next to your subscribers lays the 'Video manager', giving you the list of your uploaded videos.
-
- Select the video and click on edit to get a drop down menu. Click on subtitles and CC. This will take you to the subtitling interface. To the right of video select 'add new subtitles' and then 'create new subtitles'. Select the subtitle language. Play the video to listen to the content and type down in the box. Click on '+' button once you are done.
-
- This will create a subtitle timeline right beneath the video. You can manage by dragging and expanding the subtitle duration according to the audio of the video. The subtitle will appear at the bottom of the video screen. Click 'publish' once done.
-
- An interruption might occur with appearing of subtitles in accordance with video. Hence a lot precision is required while doing so.
-
-## Uploading Caption or Transcript Files automatically
-
- To upload Caption or Transcript Files to YouTube Videos you first need to create a format on a text editor. For windows use Notepad and for Mac you may use TextEdit. Create a format of putting the number of subtitle first, time stamp and then text of the subtitle. For example
-
-#### 1\
-
- 00:02:34:12 using a format of (hour : minute : second : millisecond)
-
-#### 2\. \*text\*
-
- This is the sample text for first subtitle at zero hours, two minutes, thirty four seconds and twelve milliseconds. Once done with this. Go to file, select 'save as'. Write the file name with an extension of .srt and select 'All files' for type of file. Click encoding menu and select UTF-8\. Once saved, sign in to your YouTube account.
-
- On left right below 'Home' you will find 'My Channel'. It will direct you to your personal YouTube page. On the top, right next to your subscribers lays the 'Video manager', giving you the list of your uploaded videos.
-
- Select the video and click on edit to get a drop down menu. Click on subtitles and CC. Go to 'add subtitles' and then 'upload a file'. A pop-up menu will appear select 'subtitles file'. Click upload. The file will send subtitles to your video.
-
- This will create a subtitle timeline right beneath the video. You can manage by dragging and expanding the subtitle duration according to the audio of the video. The subtitle will appear at the bottom of the video screen. Click 'publish' once done.
-
-## 3 Best Tools for add/managing video Subtitles/CC
-
-#### 1\.  Amara
-
- Amara is a smart video editor which helps insert captions and subtitles to videos. It also helps in transcribing the videos. It takes help of crowd sourcing to subtitle any YouTube video. They take help from viewers to subtitle the videos. By making crowd subtitling available for any YouTube creator, they are allowing them to reach more viewers in more languages
-
-#### 2\.  DIY Captions
-
- DIY captions help you to transcribe the YouTube videos, if not in most accurate manner, then in a little easier way. All you have to do is just paste the URL of the YouTube video and it will provide you all the subtitles. These may not be accurate but will provide you major base material which can be tweaked a bit here and there and is far better than making all the subtitles starting from scratch.
-
-#### 3  Subtitles for YouTube
-
- Subtitles for YouTube is a Google Chrome extension which provides subtitles for YouTube videos. For this you will have to provide a subtitle file with .srt extension. The attractive feature of this is that you won't have to download the video and still run the subtitles on it. This is very much helpful for people who work on YouTube or watch movies without subtitles.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
- In this article, we are going to show you how important it is to add subtitle and closed captions in your YouTube video, and how to add them.
-
----
-
- The best video editor for YouTubers - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), not only allows you to cut, crop, rotate, reverse videos, but also offers your advanced features like PIP, Green Screen, or audio mixing. What's more, you can find lots of effects for Fashion, gaming, education, tutorial, sports, etc. Check this article to know more.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
----
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## Why subtitle and closed captions are important for YouTube videos?
-
-* Forced closed captions and subtitles actually help the viewers to understand the content in your video if the audio quality of your video is bad, muffled or barely audible. Reading makes it easier for them to understand.
-* This also helps people with hearing impairments. People with troubled ears can still watch and understand your content.
-* It's a great aid to such videos which have been recorded in other foreign languages that you don't understand. Hence it will increase the number of viewers all around the world.
-* They both are generally added for easy accessibility to the viewers who wish to watch in sound sensitive environments.
-
- So, here we are going to show you two ways to add subtittles to video: directly or uploading caption or transcript files
-
-## Adding subtitles and closed captions manually
-
- To add subtitles and closed captions to your YouTube video, fisrt, you should sign in to your YouTube account. On left right below 'Home' you will find 'My Channel'. It will direct you to your personal YouTube page. On the top, right next to your subscribers lays the 'Video manager', giving you the list of your uploaded videos.
-
- Select the video and click on edit to get a drop down menu. Click on subtitles and CC. This will take you to the subtitling interface. To the right of video select 'add new subtitles' and then 'create new subtitles'. Select the subtitle language. Play the video to listen to the content and type down in the box. Click on '+' button once you are done.
-
- This will create a subtitle timeline right beneath the video. You can manage by dragging and expanding the subtitle duration according to the audio of the video. The subtitle will appear at the bottom of the video screen. Click 'publish' once done.
-
- An interruption might occur with appearing of subtitles in accordance with video. Hence a lot precision is required while doing so.
-
-## Uploading Caption or Transcript Files automatically
-
- To upload Caption or Transcript Files to YouTube Videos you first need to create a format on a text editor. For windows use Notepad and for Mac you may use TextEdit. Create a format of putting the number of subtitle first, time stamp and then text of the subtitle. For example
-
-#### 1\
-
- 00:02:34:12 using a format of (hour : minute : second : millisecond)
-
-#### 2\. \*text\*
-
- This is the sample text for first subtitle at zero hours, two minutes, thirty four seconds and twelve milliseconds. Once done with this. Go to file, select 'save as'. Write the file name with an extension of .srt and select 'All files' for type of file. Click encoding menu and select UTF-8\. Once saved, sign in to your YouTube account.
-
- On left right below 'Home' you will find 'My Channel'. It will direct you to your personal YouTube page. On the top, right next to your subscribers lays the 'Video manager', giving you the list of your uploaded videos.
-
- Select the video and click on edit to get a drop down menu. Click on subtitles and CC. Go to 'add subtitles' and then 'upload a file'. A pop-up menu will appear select 'subtitles file'. Click upload. The file will send subtitles to your video.
-
- This will create a subtitle timeline right beneath the video. You can manage by dragging and expanding the subtitle duration according to the audio of the video. The subtitle will appear at the bottom of the video screen. Click 'publish' once done.
 
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+## Adding subtitles and closed captions manually
+
+ To add subtitles and closed captions to your YouTube video, fisrt, you should sign in to your YouTube account. On left right below 'Home' you will find 'My Channel'. It will direct you to your personal YouTube page. On the top, right next to your subscribers lays the 'Video manager', giving you the list of your uploaded videos.
+
+ Select the video and click on edit to get a drop down menu. Click on subtitles and CC. This will take you to the subtitling interface. To the right of video select 'add new subtitles' and then 'create new subtitles'. Select the subtitle language. Play the video to listen to the content and type down in the box. Click on '+' button once you are done.
+
+ This will create a subtitle timeline right beneath the video. You can manage by dragging and expanding the subtitle duration according to the audio of the video. The subtitle will appear at the bottom of the video screen. Click 'publish' once done.
+
+ An interruption might occur with appearing of subtitles in accordance with video. Hence a lot precision is required while doing so.
+
+## Uploading Caption or Transcript Files automatically
+
+ To upload Caption or Transcript Files to YouTube Videos you first need to create a format on a text editor. For windows use Notepad and for Mac you may use TextEdit. Create a format of putting the number of subtitle first, time stamp and then text of the subtitle. For example
+
+#### 1\
+
+ 00:02:34:12 using a format of (hour : minute : second : millisecond)
+
+#### 2\. \*text\*
+
+ This is the sample text for first subtitle at zero hours, two minutes, thirty four seconds and twelve milliseconds. Once done with this. Go to file, select 'save as'. Write the file name with an extension of .srt and select 'All files' for type of file. Click encoding menu and select UTF-8\. Once saved, sign in to your YouTube account.
+
+ On left right below 'Home' you will find 'My Channel'. It will direct you to your personal YouTube page. On the top, right next to your subscribers lays the 'Video manager', giving you the list of your uploaded videos.
+
+ Select the video and click on edit to get a drop down menu. Click on subtitles and CC. Go to 'add subtitles' and then 'upload a file'. A pop-up menu will appear select 'subtitles file'. Click upload. The file will send subtitles to your video.
+
+ This will create a subtitle timeline right beneath the video. You can manage by dragging and expanding the subtitle duration according to the audio of the video. The subtitle will appear at the bottom of the video screen. Click 'publish' once done.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 Best Tools for add/managing video Subtitles/CC
 
 #### 1\.  Amara
@@ -655,6 +485,176 @@ Follow @Richard Bennett
  Subtitles for YouTube is a Google Chrome extension which provides subtitles for YouTube videos. For this you will have to provide a subtitle file with .srt extension. The attractive feature of this is that you won't have to download the video and still run the subtitles on it. This is very much helpful for people who work on YouTube or watch movies without subtitles.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+ In this article, we are going to show you how important it is to add subtitle and closed captions in your YouTube video, and how to add them.
+
+---
+
+ The best video editor for YouTubers - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), not only allows you to cut, crop, rotate, reverse videos, but also offers your advanced features like PIP, Green Screen, or audio mixing. What's more, you can find lots of effects for Fashion, gaming, education, tutorial, sports, etc. Check this article to know more.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+---
+
+## Why subtitle and closed captions are important for YouTube videos?
+
+* Forced closed captions and subtitles actually help the viewers to understand the content in your video if the audio quality of your video is bad, muffled or barely audible. Reading makes it easier for them to understand.
+* This also helps people with hearing impairments. People with troubled ears can still watch and understand your content.
+* It's a great aid to such videos which have been recorded in other foreign languages that you don't understand. Hence it will increase the number of viewers all around the world.
+* They both are generally added for easy accessibility to the viewers who wish to watch in sound sensitive environments.
+
+ So, here we are going to show you two ways to add subtittles to video: directly or uploading caption or transcript files
+
+## Adding subtitles and closed captions manually
+
+ To add subtitles and closed captions to your YouTube video, fisrt, you should sign in to your YouTube account. On left right below 'Home' you will find 'My Channel'. It will direct you to your personal YouTube page. On the top, right next to your subscribers lays the 'Video manager', giving you the list of your uploaded videos.
+
+ Select the video and click on edit to get a drop down menu. Click on subtitles and CC. This will take you to the subtitling interface. To the right of video select 'add new subtitles' and then 'create new subtitles'. Select the subtitle language. Play the video to listen to the content and type down in the box. Click on '+' button once you are done.
+
+ This will create a subtitle timeline right beneath the video. You can manage by dragging and expanding the subtitle duration according to the audio of the video. The subtitle will appear at the bottom of the video screen. Click 'publish' once done.
+
+ An interruption might occur with appearing of subtitles in accordance with video. Hence a lot precision is required while doing so.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Uploading Caption or Transcript Files automatically
+
+ To upload Caption or Transcript Files to YouTube Videos you first need to create a format on a text editor. For windows use Notepad and for Mac you may use TextEdit. Create a format of putting the number of subtitle first, time stamp and then text of the subtitle. For example
+
+#### 1\
+
+ 00:02:34:12 using a format of (hour : minute : second : millisecond)
+
+#### 2\. \*text\*
+
+ This is the sample text for first subtitle at zero hours, two minutes, thirty four seconds and twelve milliseconds. Once done with this. Go to file, select 'save as'. Write the file name with an extension of .srt and select 'All files' for type of file. Click encoding menu and select UTF-8\. Once saved, sign in to your YouTube account.
+
+ On left right below 'Home' you will find 'My Channel'. It will direct you to your personal YouTube page. On the top, right next to your subscribers lays the 'Video manager', giving you the list of your uploaded videos.
+
+ Select the video and click on edit to get a drop down menu. Click on subtitles and CC. Go to 'add subtitles' and then 'upload a file'. A pop-up menu will appear select 'subtitles file'. Click upload. The file will send subtitles to your video.
+
+ This will create a subtitle timeline right beneath the video. You can manage by dragging and expanding the subtitle duration according to the audio of the video. The subtitle will appear at the bottom of the video screen. Click 'publish' once done.
+
+## 3 Best Tools for add/managing video Subtitles/CC
+
+#### 1\.  Amara
+
+ Amara is a smart video editor which helps insert captions and subtitles to videos. It also helps in transcribing the videos. It takes help of crowd sourcing to subtitle any YouTube video. They take help from viewers to subtitle the videos. By making crowd subtitling available for any YouTube creator, they are allowing them to reach more viewers in more languages
+
+#### 2\.  DIY Captions
+
+ DIY captions help you to transcribe the YouTube videos, if not in most accurate manner, then in a little easier way. All you have to do is just paste the URL of the YouTube video and it will provide you all the subtitles. These may not be accurate but will provide you major base material which can be tweaked a bit here and there and is far better than making all the subtitles starting from scratch.
+
+#### 3  Subtitles for YouTube
+
+ Subtitles for YouTube is a Google Chrome extension which provides subtitles for YouTube videos. For this you will have to provide a subtitle file with .srt extension. The attractive feature of this is that you won't have to download the video and still run the subtitles on it. This is very much helpful for people who work on YouTube or watch movies without subtitles.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+ In this article, we are going to show you how important it is to add subtitle and closed captions in your YouTube video, and how to add them.
+
+---
+
+ The best video editor for YouTubers - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), not only allows you to cut, crop, rotate, reverse videos, but also offers your advanced features like PIP, Green Screen, or audio mixing. What's more, you can find lots of effects for Fashion, gaming, education, tutorial, sports, etc. Check this article to know more.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+---
+
+## Why subtitle and closed captions are important for YouTube videos?
+
+* Forced closed captions and subtitles actually help the viewers to understand the content in your video if the audio quality of your video is bad, muffled or barely audible. Reading makes it easier for them to understand.
+* This also helps people with hearing impairments. People with troubled ears can still watch and understand your content.
+* It's a great aid to such videos which have been recorded in other foreign languages that you don't understand. Hence it will increase the number of viewers all around the world.
+* They both are generally added for easy accessibility to the viewers who wish to watch in sound sensitive environments.
+
+ So, here we are going to show you two ways to add subtittles to video: directly or uploading caption or transcript files
+
+## Adding subtitles and closed captions manually
+
+ To add subtitles and closed captions to your YouTube video, fisrt, you should sign in to your YouTube account. On left right below 'Home' you will find 'My Channel'. It will direct you to your personal YouTube page. On the top, right next to your subscribers lays the 'Video manager', giving you the list of your uploaded videos.
+
+ Select the video and click on edit to get a drop down menu. Click on subtitles and CC. This will take you to the subtitling interface. To the right of video select 'add new subtitles' and then 'create new subtitles'. Select the subtitle language. Play the video to listen to the content and type down in the box. Click on '+' button once you are done.
+
+ This will create a subtitle timeline right beneath the video. You can manage by dragging and expanding the subtitle duration according to the audio of the video. The subtitle will appear at the bottom of the video screen. Click 'publish' once done.
+
+ An interruption might occur with appearing of subtitles in accordance with video. Hence a lot precision is required while doing so.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Uploading Caption or Transcript Files automatically
+
+ To upload Caption or Transcript Files to YouTube Videos you first need to create a format on a text editor. For windows use Notepad and for Mac you may use TextEdit. Create a format of putting the number of subtitle first, time stamp and then text of the subtitle. For example
+
+#### 1\
+
+ 00:02:34:12 using a format of (hour : minute : second : millisecond)
+
+#### 2\. \*text\*
+
+ This is the sample text for first subtitle at zero hours, two minutes, thirty four seconds and twelve milliseconds. Once done with this. Go to file, select 'save as'. Write the file name with an extension of .srt and select 'All files' for type of file. Click encoding menu and select UTF-8\. Once saved, sign in to your YouTube account.
+
+ On left right below 'Home' you will find 'My Channel'. It will direct you to your personal YouTube page. On the top, right next to your subscribers lays the 'Video manager', giving you the list of your uploaded videos.
+
+ Select the video and click on edit to get a drop down menu. Click on subtitles and CC. Go to 'add subtitles' and then 'upload a file'. A pop-up menu will appear select 'subtitles file'. Click upload. The file will send subtitles to your video.
+
+ This will create a subtitle timeline right beneath the video. You can manage by dragging and expanding the subtitle duration according to the audio of the video. The subtitle will appear at the bottom of the video screen. Click 'publish' once done.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 3 Best Tools for add/managing video Subtitles/CC
+
+#### 1\.  Amara
+
+ Amara is a smart video editor which helps insert captions and subtitles to videos. It also helps in transcribing the videos. It takes help of crowd sourcing to subtitle any YouTube video. They take help from viewers to subtitle the videos. By making crowd subtitling available for any YouTube creator, they are allowing them to reach more viewers in more languages
+
+#### 2\.  DIY Captions
+
+ DIY captions help you to transcribe the YouTube videos, if not in most accurate manner, then in a little easier way. All you have to do is just paste the URL of the YouTube video and it will provide you all the subtitles. These may not be accurate but will provide you major base material which can be tweaked a bit here and there and is far better than making all the subtitles starting from scratch.
+
+#### 3  Subtitles for YouTube
+
+ Subtitles for YouTube is a Google Chrome extension which provides subtitles for YouTube videos. For this you will have to provide a subtitle file with .srt extension. The attractive feature of this is that you won't have to download the video and still run the subtitles on it. This is very much helpful for people who work on YouTube or watch movies without subtitles.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -677,22 +677,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-mastering-the-art-of-video-clarity-with-version-22-vce/"><u>[New] Mastering the Art of Video Clarity with Version 2.2 VCE</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-personalize-your-channel-with-free-pics/"><u>[New] Personalize Your Channel With Free Pics</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-stepwise-strategies-for-unique-youtube-openers/"><u>[New] Stepwise Strategies for Unique YouTube Openers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unlock-youtubes-monetizing-potential-with-strategic-short-videos/"><u>[New] Unlock YouTube's Monetizing Potential with Strategic Short Videos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-quick-turn-artistry-professionally-crafted-valorant-game-imagery/"><u>2024 Approved Quick-Turn Artistry Professionally Crafted Valorant Game Imagery</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-understanding-youtubes-view-threshold-for-money/"><u>2024 Approved Understanding Youtube’s View Threshold for Money</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-honor-90-gt-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Honor 90 GT</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/capture-the-thrill-essential-recording-tips-for-overwatch/"><u>Capture the Thrill Essential Recording Tips for Overwatch</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/gratis-konvertor-voor-asf-naar-svf-efficient-en-bevattelijk-movavi/"><u>Gratis Konvertor Voor ASF Naar SVF: Efficiënt en Bevattelijk - Movavi</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-beginners-ultimate-list-of-youtube-production-tools/"><u>In 2024, Beginner's Ultimate List of YouTube Production Tools</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-flavorful-frames-stepwise-food-film-making/"><u>In 2024, Flavorful Frames Stepwise Food Film-Making</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-samsung-galaxy-m54-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Samsung Galaxy M54 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-thematic-wow-factor-designing-engaging-youtube-templates/"><u>In 2024, Thematic Wow Factor Designing Engaging YouTube Templates</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unbeatable-freefire-gaming-hashtag-and-strategy-insights/"><u>In 2024, Unbeatable FreeFire Gaming Hashtag & Strategy Insights</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/navigating-through-your-preferred-youtube-viewing-pace-for-2024/"><u>Navigating Through Your Preferred YouTube Viewing Pace for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-honor-x8b-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Honor X8b to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/slash-your-vacation-expenses-with-incredible-deals-on-accommodations-vehicle-rentals-and-entertainment-tickets-discover-how-zdnets-travelers-club-unlocks-co227/"><u>Slash Your Vacation Expenses with Incredible Deals on Accommodations, Vehicle Rentals & Entertainment Tickets: Discover How ZDNET's Travelers Club Unlocks Cost-Effective Wanderlust Dreams!</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-enhance-clarity-of-online-video-content/"><u>[New] How to Enhance Clarity of Online Video Content</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-premier-directory-of-economical-visual-content-providers/"><u>2024 Approved Premier Directory of Economical Visual Content Providers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-professional-tips-to-perfect-igtv-thumbnails/"><u>2024 Approved Professional Tips to Perfect IGTV Thumbnails</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-seo-explosion-leading-tech-for-your-videos/"><u>2024 Approved SEO Explosion Leading Tech for Your Videos</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210023638-9780753734469-everyday-tidiness/"><u>Everyday Tidiness | Free Book</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-realme-11-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Realme 11 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-crafting-success-pushing-your-video-into-top-charts/"><u>In 2024, Crafting Success Pushing Your Video Into Top Charts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-overcoming-creative-roadblocks-in-short-form-videos/"><u>In 2024, Overcoming Creative Roadblocks in Short Form Videos</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-nubia-red-magic-8s-proplus-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Nubia Red Magic 8S Pro+? Fixed | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/integral-youtube-conduct-framework-for-2024/"><u>Integral YouTube Conduct Framework for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/integrating-imovie-productions-into-youtube-for-2024/"><u>Integrating iMovie Productions Into YouTube for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/mastering-video-editing-with-flipbuilder-how-to-seamlessly-integrate-music-tracks/"><u>Mastering Video Editing with FlipBuilder: How to Seamlessly Integrate Music Tracks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-top-7-free-tools-to-transform-your-videos-into-playable-dvds/"><u>Ultimate Top 7 Free Tools to Transform Your Videos Into Playable DVDs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting and Improving FPS Issues: Master Tips for a Better Outriders Experience"
-date: 2024-12-11T18:09:56.240Z
-updated: 2024-12-16T18:30:47.774Z
+date: 2024-12-20T11:15:54.519Z
+updated: 2024-12-25T02:18:07.891Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
  The**error: connection to server timed out (code: leaf)** on Apex Legends is an old one, and it’s supposed to be fixed ages ago. But many players are still reporting getting it all the time. In this post, we’ll go through some working fixes step by step, so make sure you check them out below!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes…
 
  You don’t have to try them all; just work your way down the list until you find the one that does the trick!
@@ -36,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 [4: Update your network driver](https://tools.techidaily.com/drivereasy/download/)
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Check your Internet connection
 
@@ -71,11 +63,19 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -83,10 +83,6 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
 
@@ -102,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. I’m using a graphics driver as an example here, since updating your graphics driver could solve many game issues (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -109,7 +109,7 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
@@ -123,7 +123,7 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
@@ -152,21 +152,14 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-x-recorder-download-for-pc/"><u>[New] 2024 Approved X-Recorder Download for PC</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-compact-5-listing-visuals-with-accompaniment-recorders-for-2024/"><u>[New] Compact 5 Listing Visuals with Accompaniment Recorders for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-strategic-insightfulness-comparing-your-channel-to-competitors-crafts/"><u>[New] Strategic Insightfulness Comparing Your Channel to Competitors' Crafts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-for-optimizing-your-srt-setup/"><u>[Updated] Expert Tips for Optimizing Your SRT Setup</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-perfecting-vlog-shots-how-to-use-a-tripod-like-a-pro-for-2024/"><u>[Updated] Perfecting Vlog Shots How to Use a Tripod Like a Pro for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-the-path-of-global-storytelling-through-film/"><u>2024 Approved Navigating the Path of Global Storytelling Through Film</u></a></li>
-<li><a href="https://article-files.techidaily.com/decoding-the-magic-of-dynamic-range-capture-for-2024/"><u>Decoding the Magic of Dynamic Range Capture for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-graph-gala-2017-an-illuminated-expedition-into-yt-data/"><u>In 2024, Graph Gala 2017 An Illuminated Expedition Into YT Data</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-master-the-visuals-top-tips-for-dynamic-and-appealing-live-videos/"><u>In 2024, Master the Visuals Top Tips for Dynamic and Appealing Live Videos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-million-visioners-dissecting-the-money-behind-the-numbers/"><u>In 2024, Million Visioners Dissecting the Money Behind the Numbers</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-stop-unsolicited-youtube-suggestion-rollouts/"><u>In 2024, Stop Unsolicited YouTube Suggestion Rollouts</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/key-view-figures-for-earning-living-on-youtube-for-2024/"><u>Key View Figures for Earning Living on YouTube for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/master-the-art-of-messaging-in-discord-apps/"><u>Master the Art of Messaging in Discord Apps</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-save-money-make-movies-4-simple-ways-to-get-filmora-discount-codes-for-2024/"><u>New Save Money, Make Movies 4 Simple Ways to Get Filmora Discount Codes for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/k-free-designs-download-banners-for-youtube-creators/"><u>Unlock Free Designs Download Banners for YouTube Creators</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-navigating-the-pitfalls-of-youtube-monetization-mistakes/"><u>[New] Navigating the Pitfalls of YouTube Monetization Mistakes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-react-and-relate-harness-the-power-of-alternate-perspectives-for-compelling-youtube-vids-2-pov-method/"><u>[New] React and Relate - Harness the Power of Alternate Perspectives for Compelling YouTube Vids (2 POV Method)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/access-high-quality-printing-with-canons-imageclass-mf4800-free-driver-downloads-now/"><u>Access High-Quality Printing with Canon's ImageCLASS MF4800: Free Driver Downloads Now!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-methods-for-converting-your-favorite-youtube-videos-into-mp4-format-desktop-and-web-based-options/"><u>Effortless Methods for Converting Your Favorite YouTube Videos Into MP4 Format – Desktop & Web-Based Options</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-gain-profit-power-the-secret-of-successful-youtube-marketing-and-500plus/"><u>In 2024, Gain Profit Power The Secret of Successful Youtube Marketing & 500+</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-news-endings-as-a-narrative-tool/"><u>In 2024, News Endings as a Narrative Tool</u></a></li>
+<li><a href="https://fox-that.techidaily.com/silence-unwanted-ringers-prevent-your-ipad-from-answering-iphone-calls/"><u>Silence Unwanted Ringers: Prevent Your iPad From Answering iPhone Calls</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-to-connect-your-iphone-to-a-vpn-explore-these-7-resolution-steps/"><u>Struggling to Connect Your IPhone to a VPN? Explore These 7 Resolution Steps</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/thriving-in-the-digital-age-mastering-facebook-interaction/"><u>Thriving in the Digital Age Mastering Facebook Interaction</u></a></li>
 </ul></div>
 

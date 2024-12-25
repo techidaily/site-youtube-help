@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Silly Suggestions  10 Hilarious Concepts for Quick, Quirky Videos\""
-date: 2024-12-11T17:44:15.490Z
-updated: 2024-12-16T16:08:32.134Z
+date: 2024-12-18T08:42:35.002Z
+updated: 2024-12-25T04:18:39.563Z
 tags:
   - ai video
   - ai youtube
@@ -31,7 +31,7 @@ YouTube is a well-known brand for videos globally. This time, it comes with its 
 That sounds great, doesn’t it? Let’s move ahead to get a good grab over some funny, engaging, and eye-catching ideas to have YouTube Shorts videos here. No need for a lengthy tutorial to become the real YouTube Shorts champion with the following tips. Let’s roll on, guys!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Top 10 Funny YouTube Shorts Video Ideas
@@ -47,7 +47,7 @@ Yeah! The first idea looks so catchy. Everyone holds some dreams. And if you hav
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Also, you can discuss different sorts of dreams that the human genre has been dreaming of for years. You can even add a flavor of future dreams that will open up the space of excellent speculation one can think of.
@@ -84,6 +84,10 @@ If experimenting with chemicals or anything that surrounds you makes you out of 
 
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Just review all your collection of experiments you did and combine them under YouTube Shorts Channel ideas. And make a big bust with such chemical/physical experiments.
 
 #### Idea 6: Funny Competition
@@ -91,10 +95,6 @@ Just review all your collection of experiments you did and combine them under Yo
 Competition creates a zeal to lead, and if you add some flavor to it. Then, people will love to take part in it. So, waiting for what? Just come out with YouTube Shorts funny Video Competition ideas to grab the audience to watch the videos and become active participants.
 
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Funny competition can vary from a weird hairstyle, odd season festival celebration, or anything that you think of interesting, different, and eye-catching.
 
@@ -105,7 +105,7 @@ The dripping sound of water, raindrops, flowing trees, and blowing air make some
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Just give it a try and dance with the music you create with all the worldwide listeners of YouTube Shorts Channel with this idea.
@@ -123,6 +123,10 @@ Mixing some comedy flavor to life will add more fun and enjoyment to all those s
 Pets are the favorite of those who own them. They are excellent; they play, dance, and do different kinds of fun activities. Have you ever noticed that, if not, they must take notice now?
 
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-ideas-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You will be surprised to see how much fun-loving these cute pets are—so, geared up to capture the funny acts of pets through YouTube Shorts ideas. It will bring a smile to everyone’s face.
 
@@ -182,10 +186,6 @@ Thus, start utilizing these powerful ideas and tips and head towards your YouTub
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -201,19 +201,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-breaking-down-sync-a-thorough-review-of-lgs-uhd68-display/"><u>[New] Breaking Down Sync A Thorough Review of LG's UHD68 Display</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-gamers-guidebook-4-proven-strategies-for-gameplay-recordings-for-2024/"><u>[New] Gamer's Guidebook 4 Proven Strategies for Gameplay Recordings for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-guidance-for-effortless-addition-of-youtube-playlists-to-your-site/"><u>[New] Guidance for Effortless Addition of YouTube Playlists to Your Site</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-instant-aspect-ratio-tuning-for-youtube-on-mac/"><u>[New] Instant Aspect Ratio Tuning for Youtube on Mac</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-streamline-your-sessions-the-discord-recorders-handbook/"><u>[Updated] 2024 Approved Streamline Your Sessions The Discord Recorder’s Handbook</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-tailoring-content-to-thrive-on-youtube-select-the-best-formats/"><u>2024 Approved Tailoring Content to Thrive on YouTube – Select the Best Formats</u></a></li>
-<li><a href="https://article-tips.techidaily.com/best-8-convertors-sub-to-srt-on-all-os-platforms-for-2024/"><u>Best 8 Convertors Sub to Srt on All OS Platforms for 2024</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/enhance-client-engagement-through-atomized-email-auto-replies-unleash-the-potential-of-massmail-technology/"><u>Enhance Client Engagement Through Atomized Email Auto-Replies - Unleash the Potential of Massmail Technology</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207747644-fix-your-stuck-arrow-keys-on-the-keyboard-with-easy-tips/"><u>Fix Your Stuck Arrow Keys on the Keyboard with Easy Tips</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-free-youtube-earning-predictors/"><u>In 2024, Free YouTube Earning Predictors</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-pinpointing-your-custom-designed-music-haven-on-youtube/"><u>In 2024, Pinpointing Your Custom-Designed Music Haven on Youtube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/navigating-the-world-of-youtube-editing-using-finalcut-pro-for-2024/"><u>Navigating the World of YouTube Editing Using FinalCut Pro for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-loop-your-videos-with-ease-10-free-online-video-looping-tools/"><u>New In 2024, Loop Your Videos with Ease 10 Free Online Video Looping Tools</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/unlock-your-apple-iphone-15-pro-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>Unlock Your Apple iPhone 15 Pro in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-facial-lockout-a-deep-dive-into-iphones-face-id-vs-galaxys-recognition-for-2024/"><u>[New] Facial Lockout A Deep Dive Into iPhone's Face ID Vs. Galaxy’s Recognition for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-revolutionize-youtube-uploads-speed-enhancing-render-tricks/"><u>[New] Revolutionize YouTube Uploads Speed-Enhancing Render Tricks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-crafting-connections-posting-vids-between-tweets-and-tumbles-for-2024/"><u>[Updated] Crafting Connections Posting Vids Between Tweets & Tumbles for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-free-form-funny-meme-tools-on-a-shoestring-budget-for-2024/"><u>[Updated] Free-Form Funny Meme Tools on a Shoestring Budget for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-essential-steps-for-chromakey-magic/"><u>2024 Approved Essential Steps for Chromakey Magic</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-modify-youtube-video-visibility-with-ease/"><u>2024 Approved Modify YouTube Video Visibility with Ease</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-step-into-wealthy-creator-land-via-youtube-shorts-revenue/"><u>2024 Approved Step Into Wealthy Creator Land via YouTube Shorts Revenue</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-modern-way-to-start-a-youtube-businesspersonal-channel-on-the-go/"><u>2024 Approved The Modern Way to Start a YouTube Business/Personal Channel on the Go</u></a></li>
+<li><a href="https://blog-min.techidaily.com/adobe-media-encoder-ame-2023-troubleshooting-solutions-for-rendering-and-import-issues/"><u>Adobe Media Encoder (AMe) 2023 Troubleshooting: Solutions for Rendering and Import Issues</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/computer-connection-5-strategies-to-move-files-for-2024/"><u>Computer Connection 5 Strategies to Move Files for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-comprehensive-review-of-the-samsung-gear-s3-frontier-the-ultimate-packed-with-features-smartwatch/"><u>Expert Analysis: Comprehensive Review of the Samsung Gear S3 Frontier - The Ultimate, Packed-with-Features Smartwatch</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-google-pixel-8-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Google Pixel 8 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-youtube-monetization-minimum-required-views-to-profit/"><u>In 2024, Mastering YouTube Monetization Minimum Required Views to Profit</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-guide-to-neon-bordered-youtube-thumbnails/"><u>In 2024, The Ultimate Guide to Neon-Bordered YouTube Thumbnails</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/monetize-more-strategies-for-youtubes-updated-partner-plan-for-2024/"><u>Monetize More Strategies for YouTube's Updated Partner Plan for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-premier-choices-in-cable-modems/"><u>Unveiling the Premier Choices in Cable Modems</u></a></li>
 </ul></div>
 

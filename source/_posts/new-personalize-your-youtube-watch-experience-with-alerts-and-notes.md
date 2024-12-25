@@ -1,7 +1,7 @@
 ---
 title: "[New] Personalize Your Youtube Watch Experience with Alerts & Notes"
-date: 2024-12-15T17:41:44.237Z
-updated: 2024-12-16T18:13:02.536Z
+date: 2024-12-19T09:27:12.147Z
+updated: 2024-12-25T11:03:20.774Z
 tags:
   - ai video
   - ai youtube
@@ -45,6 +45,10 @@ The main difference between annotation and cards is their outlook. Cards are mor
 * [Part 1: How to Add YouTube Cards](#part1)
 * [Part 2: How to Add YouTube Annotations](#part2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to add YouTube Cards
 
 YouTube **Cards** are similar to annotations but more interactive. They allow the owner of the video to add images and other links. A small box appears, clicking on which will activate the cards.
@@ -59,7 +63,7 @@ YouTube **Cards** are similar to annotations but more interactive. They allow th
 ![](https://images.wondershare.com/filmora/article-images/youtube-cards01.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * On the right panel click on "Add Card" drop down menu and select the type of card you want to add
@@ -70,13 +74,13 @@ YouTube **Cards** are similar to annotations but more interactive. They allow th
 ![](https://images.wondershare.com/filmora/article-images/add-cards-to-youtube-video.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Apply changes and exit
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to add YouTube annotations
@@ -90,17 +94,13 @@ YouTube Annotation is addition of a text layer, link or hotspots over your video
 ![](https://images.wondershare.com/filmora/article-images/add-annotations-to-youtube-video.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * On the right panel click on "+ Add Element" and select the kind of annotation you want to add
 * Adjust the position of Annotation, you can drag the rectangle to locate it at any position of the video, move the slide to set the start and end time of the annotation
 
 ![](https://images.wondershare.com/filmora/article-images/add-annotation-to-youtube-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Apply changes
 
@@ -155,22 +155,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-ultimate-guide-vidma-replayer-insights-and-rivals/"><u>[New] 2024 Approved Ultimate Guide Vidma Replayer - Insights & Rivals</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-exploring-9-zero-price-editors-for-youtube-content/"><u>[New] Exploring 9 Zero Price Editors for YouTube Content</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-how-to-keep-unwanted-content-away-from-your-computer-and-phone/"><u>[New] How to Keep Unwanted Content Away From Your Computer and Phone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-identify-8-proven-video-promotion-tactics-for-success/"><u>[New] Identify 8 Proven Video Promotion Tactics for Success</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-mirrorless-impact-on-professional-video-recording/"><u>[New] Mirrorless Impact on Professional Video Recording</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-prevent-these-8-key-mishaps-on-your-youtube-journey/"><u>[New] Prevent These 8 Key Mishaps on Your YouTube Journey</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-10-masterpieces-in-job-market-insight-for-2024/"><u>[Updated] 10 Masterpieces in Job Market Insight for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-dive-into-the-digital-realm-the-most-exquisite-pc-vr-players/"><u>[Updated] In 2024, Dive Into the Digital Realm The Most Exquisite PC VR Players</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-advanced-techniques-for-proximity-viewing-in-roblox/"><u>2024 Approved Advanced Techniques for Proximity Viewing in Roblox</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-football-game-analysis-premier-insights-in-graphs/"><u>2024 Approved Football Game Analysis Premier Insights in Graphs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/comprehensive-tutorial-on-gdocs-voice-to-text-feature-for-2024/"><u>Comprehensive Tutorial on GDoc's Voice-to-Text Feature for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-pause-life360-location-sharing-for-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-get-people-to-subscribe-by-asking-the-right-way/"><u>In 2024, How to Get People to Subscribe by Asking the Right Way</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-guide-to-cost-free-cgi-mastery-via-4-youtube-experts-insights/"><u>In 2024, The Ultimate Guide to Cost-Free CGI Mastery via 4 YouTube Experts' Insights</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-vivo-s18e-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Vivo S18e to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-path-to-professional-pictures-with-video-enhance-v22/"><u>The Path to Professional Pictures with Video Enhance V2.2</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-surprising-instantaneous-banning-of-chatgpt-in-italy/"><u>The Surprising Instantaneous Banning of ChatGPT In Italy</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-a-step-by-step-approach-cropping-and-exporting-your-videos-to-instagram/"><u>[New] 2024 Approved A Step-by-Step Approach Cropping & Exporting Your Videos to Instagram</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-quick-guide-sharing-multiple-images-and-movies-on-instagram/"><u>[New] 2024 Approved Quick Guide Sharing Multiple Images & Movies on Instagram</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-raw-footage-to-youtube-perfection-premiere-pro-techniques/"><u>[New] From Raw Footage to YouTube Perfection - Premiere Pro Techniques</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-harnessing-hashtags-for-hitting-video-hotspots-on-fb/"><u>[New] Harnessing Hashtags for Hitting Video Hotspots on FB</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-creative-splitscreens-in-youtube-filmmaking/"><u>2024 Approved Mastering Creative Splitscreens in YouTube Filmmaking</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-nailing-the-desktopmobile-youtube-speed-control/"><u>2024 Approved Nailing the Desktop/Mobile YouTube Speed Control</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-overcoming-youtube-copyright-strikes-expert-advice-revealed/"><u>2024 Approved Overcoming YouTube Copyright Strikes Expert Advice Revealed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/charting-new-territories-the-evolution-and-future-of-generative-ai-post-chatgpt/"><u>Charting New Territories: The Evolution and Future of Generative AI Post-ChatGPT</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-vivo-y17s-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Vivo Y17s Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-how-to-spot-and-attract-premium-videographers/"><u>In 2024, How to Spot and Attract Premium Videographers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-the-secrets-to-engaging-youtube-live-thumbnails/"><u>In 2024, Unveiling the Secrets to Engaging YouTube Live Thumbnails</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Vivo V27 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/and-love-effortless-youtube-video-views-on-your-tv-screen-for-2024/"><u>Loop & Love Effortless YouTube Video Views on Your TV Screen for 2024</u></a></li>
 </ul></div>
 

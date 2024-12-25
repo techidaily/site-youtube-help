@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Content Structure  Elevated Templates for YT\""
-date: 2024-07-29T19:18:21.504Z
-updated: 2024-07-30T19:18:21.504Z
+date: 2024-12-18T23:01:53.070Z
+updated: 2024-12-25T09:14:04.365Z
 tags:
   - ai video
   - ai youtube
@@ -20,36 +20,24 @@ Titles and thumbnails sometimes aren't enough. Viewers need to know more about t
 
 Description templates will let you write descriptions very easily. All you have to do is replace the words to fit your video, and you are done! Learn more about them below.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![youtube description template](https://images.wondershare.com/filmora/article-images/youtube-description-template.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Overview of YouTube Description
 
 What are YouTube descriptions? There are two types: video description and channel description.
 
 ### YouTube Video Description
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![example of a video description](https://images.wondershare.com/filmora/article-images/youtube-description-templates-video-description-sample.JPG)
 
 The video description is the text below each video. Adding descriptions to your videos is not required. However, if you want success on YouTube, we highly recommend paying attention to video descriptions. It will give viewers more context about the video and will convince them to watch it.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### YouTube Channel Description
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![example of a channel description](https://images.wondershare.com/filmora/article-images/youtube-description-templates-description-sample.JPG)
 
 This is the text on your About page. It explains to your visitors what your channel is all about. What can they expect from you? You should put this information in your channel description. It's how you can get discovered by people looking for content exactly like what you offer. Basically, your channel description is like an ad. It tells other users why they should subscribe to your channel.
@@ -66,9 +54,6 @@ YouTube is not only telling people that they should watch your content. It also 
 6. Add a call-to-action to remind your viewers to like and subscribe.
 7. Note that only the first 200 characters will appear on the screen. Users need to click the "Show More" button to view the rest. So put what's most important in the first 200 characters.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Benefits of Using a YouTube Description Templates
 
 If you have a business or something on the internet that needs promotion, you think of SEO (Search Engine Optimization.) It makes the material appear more often and higher on searches.
@@ -115,6 +100,10 @@ _\[Timestamps\]_
 
 Use this template when making an informative video. It could be how-tos, tutorials, or other educational stuff.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. YouTube Video Description for Funneling Viewers Into Your Website
 
 _This video will show you a preview of \[topic.\] If you're interested to learn more about this and what we do, please visit us at \[website link.\] You can also reach out to us at \[contact information.\]_
@@ -123,9 +112,6 @@ Please note that this is not the whole description. Rather, it is only the first
 
 **Tip:** Use URL shorteners if your website URL is too long. Remember that you only have 200 characters to use. So every character you can remove counts.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 4\. YouTube Video Descriptions for How-To Videos With Products
 
 _Hello! Today I'm going to teach you how to \[topic.\] I regularly post things like this. So please subscribe and turn on your notifications to know when I post new content._
@@ -166,9 +152,6 @@ Use this template for videos where you travel to different places.
 
 People who found your video interesting will likely visit your channel. Having a fantastic YouTube Channel description will help encourage them to subscribe. You can edit these channel description templates to make one.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. YouTube Channel Description Template for Business Accounts
 
 Suppose you are using YouTube for marketing purposes. You can use this template to make your channel description.
@@ -191,9 +174,6 @@ _Welcome to the \[Channel Name\] YouTube Channel!_
 
  _You can also find me on Instagram to see pictures of the places I visit: \[your Instagram link.\]_
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. YouTube Channel Description Template for Gaming Channels
 
 Gaming is a popular category on YouTube. If that's what your channel is for, you can try this template.
@@ -218,9 +198,6 @@ _Hi! I'm \[Your Name\] of the \[Your channel name\] YouTube Channel._
 
  _If you are interested in learning some outfit ideas, hit the Subscribe button. Also, turn on your notification, so you don't miss a video!_
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 5\. YouTube Channel Description Template for Couples
 
 Some couples enjoy sharing their daily lives with their followers through vlogs. Are you among them? You can use this template if that is the case.
@@ -241,16 +218,10 @@ Of course, good video and channel descriptions are useless if your videos aren't
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![filmora editing videos](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
 Wondershare Filmora is a budget-friendly, beginner-friendly, feature-rich video editor. It also gets regular updates. The latest one introduced fantastic features like enhanced keyframes, draw masks, switchable workspace layouts, and more AI tools. With these tools in your hands, you can transform your YouTube videos into masterpieces.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 YouTube descriptions are crucial to the success of your YouTube channel. If you can't write a good one by yourself, don't worry. You can use YouTube description [**templates**](https://tools.techidaily.com/wondershare/filmora/download/) to make it easier.
@@ -264,8 +235,9 @@ With well-written descriptions and high-quality videos, your success on YouTube 
 Wondershare Filmora is a budget-friendly, beginner-friendly, feature-rich video editor. It also gets regular updates. The latest one introduced fantastic features like enhanced keyframes, draw masks, switchable workspace layouts, and more AI tools. With these tools in your hands, you can transform your YouTube videos into masterpieces.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 YouTube descriptions are crucial to the success of your YouTube channel. If you can't write a good one by yourself, don't worry. You can use YouTube description [**templates**](https://tools.techidaily.com/wondershare/filmora/download/) to make it easier.
@@ -284,17 +256,10 @@ With well-written descriptions and high-quality videos, your success on YouTube 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## End-Screen Essentials for Social Media Success on YouTube
 
 # Free YouTube End Screen Templates
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -310,143 +275,6 @@ YouTube end screens are a great way to get your viewers who have watched your Yo
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Part 1: Free End Screen Templates Download
-
-[Wondershare Filmstock Gaming Video Editing Skils](https://images.wondershare.com/filmora/article-images/learn-gaming-video-editing-skills-banner.png)](https://filmstock.wondershare.com/creative-theme-game?source%5Fchannel=seo%5Farticle?spm=rs.filmora%5Fweb)
-
-(The images displayed below are for preview purposes only. For the highest quality and ideal dimensions to add into your own video, click the image and follow the links that we provide)
-
-#### 1. The Sales Lion
-
-In exchange for your name and e-mail address, the Sales Lion will let you download their YouTube templates pack, which includes a PhotoShop PSD file of their designed YouTube end screen.
-
-[sales-lion-outro-end-screen](https://images.wondershare.com/filmora/article-images/sales-lion-outro-end-screen.jpg) ](https://www.thesaleslion.com/download-youtube-templates-pack/ "The Sales Lion YouTube Templates Pack")
-
-#### 2. Grabster
-
-Grabster offers five free YouTube end screen templates. With each download, you’ll get a PhotoShop PSD file and a font file so that you can change the text.
-
-[grabster-outro](https://images.wondershare.com/filmora/article-images/grabster-outro.jpg) ](https://mega.nz/#!l5VVwR7J!w9hv%5FBgVIN2SsEdlf5IZViISJvXgmkDbErhG4A3gGYQ "Grabster Channel Art Template")
-
-[grabster-your-channel-name-outro](https://images.wondershare.com/filmora/article-images/grabster-your-channel-name-outro.jpg) ](https://mega.nz/#!RoMXlTbR!ALzroPD6CNRVuDABR7Uv3WAPajr0WJ1BT9ZVDwF4m0Y "Grabster Channel Art Template")
-
-[grabster-youtube-end-screen](https://images.wondershare.com/filmora/article-images/grabster-youtube-end-screen.jpg) ](https://mega.nz/#!B8sAhL6Q!iIaTl4uGojXONee6k%5FdTLWdSVrGOiRWPQu4BjU2zJ5o "Grabster Channel Art Template")
-
-[grabster-youtube-end-screen-2](https://images.wondershare.com/filmora/article-images/grabster-youtube-end-screen-2.jpg) ](https://mega.nz/#!RokxlYTK!vuKGcwG-ymNdR9tBfSp8xjhynNIkn%5F4PC9ob%5Fq2TvWc "Grabster Channel Art Template")
-
-[grabster-youtube-end-screen-3](https://images.wondershare.com/filmora/article-images/grabster-youtube-end-screen-3.jpg) ](https://mega.nz/#!otc2wRaK!pk%5F7smhaRSuymYkKpf6DVPh2yt40Vlhz8xd8wRuu9Oo "Grabster Channel Art Template")
-
-#### 3. Taha Chimar
-
-Those who do not have PhotoShop can use Taha Chimar’s end screen designs that come in png file format.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
-![taha-chimar-youtube-end-screen](https://images.wondershare.com/filmora/article-images/taha-chimar-youtube-end-screen.jpg)
-
-To download, you will have to follow a URL link in the description box of the YouTube videos. Be careful, though, as a lot of the links lead to free hosting websites with pop-ups that can harm your computer if you are easily fooled by them.
-
-#### 4. SoapyEdits
-
-SoapyEdits is a YouTuber with a [channel](https://www.youtube.com/playlist?list=PLZ-0Oq4zZj8hJkW1aXFzLr-x6WsjuGsW1) offering a whole playlist of PhotoShop PSD file end screen designs.
-
-Here are some of our favorite ones.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
-![SoapyEdits-youtube-end-screen-template-1](https://images.wondershare.com/filmora/article-images/SoapyEdits-youtube-end-screen-template-1.jpg)
-
-Here’s one for the Minecraft fans:
-
-![SoapyEdits YouTube end screen template Minecraft ](https://images.wondershare.com/filmora/article-images/SoapyEdits-youtube-end-screen-template-minecraft.jpg)
-
-![SoapyEdits YouTube end screen template  ](https://images.wondershare.com/filmora/article-images/SoapyEdits-youtube-end-screen-template-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
-![SoapyEdits YouTube end screen template  ](https://images.wondershare.com/filmora/article-images/SoapyEdits-youtube-end-screen-template-3.jpg)
-
-Another way to get your YouTube end screens for free, of course, is to make them yourself. Canva is a great free online design tool for this.
-
-## Part 2: How To Build Your Outro For Free (Step-by-step Canva Tutorial)
-
-1\. First, you have to sign up with an e-mail address
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![create-outro-end-screen-with-canva-1](https://images.wondershare.com/filmora/article-images/create-outro-end-screen-with-canva-1.jpg)
-
-2\. Once logged in, select “use custom dimensions” and plug in “1920” pixels as your width and “1080” pixels as your height (this, of course, may vary depending on the resolution of your video project).
-
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
-![create-outro-end-screen-with-canva  ](https://images.wondershare.com/filmora/article-images/create-outro-end-screen-with-canva-2.jpg)
-
-3\. After clicking “Design!,” a new browser will open with a blank canvas.
-
-4\. Next, do an image search for “YouTube End Screen,” choose an end screen with a layout that you would like to build off of, and save the image onto your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
-![download-youtube-outro-end-screen](https://images.wondershare.com/filmora/article-images/download-youtube-outro-end-screen.jpg)
-
-5\. Upload the image onto your Canva project.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
-![upload-downloaded-youtube-end-screen-canva ](https://images.wondershare.com/filmora/article-images/upload-downloaded-youtube-end-screen-canva.jpg)
-
-6\. Stretch your image to the ends of your canvas.
-
-![stretch-end-screen-templates-canva ](https://images.wondershare.com/filmora/article-images/stretch-end-screen-templates-canva.jpg)
-
-7\. Insert your own shapes, lines, colours, images, and text over the image.
-
-![adjust-end-screen-templates-in-canva](https://images.wondershare.com/filmora/article-images/adjust-end-screen-templates-in-canva.jpg)
-
-8\. When you’re done, delete the original image so that you’re left with just your own design. Go ahead and click “download.”
-
-![youtube-end-screen-made-with-canva](https://images.wondershare.com/filmora/article-images/youtube-end-screen-made-with-canva.jpg)
-
-If you're looking for other options to design your end screen, make sure to also check out our article on [The YouTube Outro Guide](https://tools.techidaily.com/wondershare/filmora/download/). To edit the YouTube video with more effects and templates, you can try [Wondershare Filmora video editor.](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-YouTube end screens are a great way to get your viewers who have watched your YouTube video until the end to subscribe to your channel, visit your website, or watch more of your videos. End screens work on all devices, including mobile phones and tablets. This was not the case for annotations (YouTube’s former way of doing these things). As more YouTubers have jumped onto using end screens, the need for well-designed end screen templates have rapidly grown. In this post, I will
-
-1. [List some places you can download free end screen templates](#freeendscreentemplates)
-2. [Give you a step-by-step tutorial on how to build your own outro for free](#diyoutro)
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
 ## Part 1: Free End Screen Templates Download
 
 [Wondershare Filmstock Gaming Video Editing Skils](https://images.wondershare.com/filmora/article-images/learn-gaming-video-editing-skills-banner.png)](https://filmstock.wondershare.com/creative-theme-game?source%5Fchannel=seo%5Farticle?spm=rs.filmora%5Fweb)
@@ -491,9 +319,6 @@ Here are some of our favorite ones.
 
 Here’s one for the Minecraft fans:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![SoapyEdits YouTube end screen template Minecraft ](https://images.wondershare.com/filmora/article-images/SoapyEdits-youtube-end-screen-template-minecraft.jpg)
 
 ![SoapyEdits YouTube end screen template  ](https://images.wondershare.com/filmora/article-images/SoapyEdits-youtube-end-screen-template-2.jpg)
@@ -506,14 +331,15 @@ Another way to get your YouTube end screens for free, of course, is to make them
 
 1\. First, you have to sign up with an e-mail address
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![create-outro-end-screen-with-canva-1](https://images.wondershare.com/filmora/article-images/create-outro-end-screen-with-canva-1.jpg)
 
 2\. Once logged in, select “use custom dimensions” and plug in “1920” pixels as your width and “1080” pixels as your height (this, of course, may vary depending on the resolution of your video project).
 
 ![create-outro-end-screen-with-canva  ](https://images.wondershare.com/filmora/article-images/create-outro-end-screen-with-canva-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3\. After clicking “Design!,” a new browser will open with a blank canvas.
 
@@ -533,148 +359,17 @@ Another way to get your YouTube end screens for free, of course, is to make them
 
 ![adjust-end-screen-templates-in-canva](https://images.wondershare.com/filmora/article-images/adjust-end-screen-templates-in-canva.jpg)
 
-8\. When you’re done, delete the original image so that you’re left with just your own design. Go ahead and click “download.”
-
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-![youtube-end-screen-made-with-canva](https://images.wondershare.com/filmora/article-images/youtube-end-screen-made-with-canva.jpg)
-
-If you're looking for other options to design your end screen, make sure to also check out our article on [The YouTube Outro Guide](https://tools.techidaily.com/wondershare/filmora/download/). To edit the YouTube video with more effects and templates, you can try [Wondershare Filmora video editor.](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-YouTube end screens are a great way to get your viewers who have watched your YouTube video until the end to subscribe to your channel, visit your website, or watch more of your videos. End screens work on all devices, including mobile phones and tablets. This was not the case for annotations (YouTube’s former way of doing these things). As more YouTubers have jumped onto using end screens, the need for well-designed end screen templates have rapidly grown. In this post, I will
-
-1. [List some places you can download free end screen templates](#freeendscreentemplates)
-2. [Give you a step-by-step tutorial on how to build your own outro for free](#diyoutro)
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
-## Part 1: Free End Screen Templates Download
-
-[Wondershare Filmstock Gaming Video Editing Skils](https://images.wondershare.com/filmora/article-images/learn-gaming-video-editing-skills-banner.png)](https://filmstock.wondershare.com/creative-theme-game?source%5Fchannel=seo%5Farticle?spm=rs.filmora%5Fweb)
-
-(The images displayed below are for preview purposes only. For the highest quality and ideal dimensions to add into your own video, click the image and follow the links that we provide)
-
-#### 1. The Sales Lion
-
-In exchange for your name and e-mail address, the Sales Lion will let you download their YouTube templates pack, which includes a PhotoShop PSD file of their designed YouTube end screen.
-
-[sales-lion-outro-end-screen](https://images.wondershare.com/filmora/article-images/sales-lion-outro-end-screen.jpg) ](https://www.thesaleslion.com/download-youtube-templates-pack/ "The Sales Lion YouTube Templates Pack")
-
-#### 2. Grabster
-
-Grabster offers five free YouTube end screen templates. With each download, you’ll get a PhotoShop PSD file and a font file so that you can change the text.
-
-[grabster-outro](https://images.wondershare.com/filmora/article-images/grabster-outro.jpg) ](https://mega.nz/#!l5VVwR7J!w9hv%5FBgVIN2SsEdlf5IZViISJvXgmkDbErhG4A3gGYQ "Grabster Channel Art Template")
-
-[grabster-your-channel-name-outro](https://images.wondershare.com/filmora/article-images/grabster-your-channel-name-outro.jpg) ](https://mega.nz/#!RoMXlTbR!ALzroPD6CNRVuDABR7Uv3WAPajr0WJ1BT9ZVDwF4m0Y "Grabster Channel Art Template")
-
-[grabster-youtube-end-screen](https://images.wondershare.com/filmora/article-images/grabster-youtube-end-screen.jpg) ](https://mega.nz/#!B8sAhL6Q!iIaTl4uGojXONee6k%5FdTLWdSVrGOiRWPQu4BjU2zJ5o "Grabster Channel Art Template")
-
-[grabster-youtube-end-screen-2](https://images.wondershare.com/filmora/article-images/grabster-youtube-end-screen-2.jpg) ](https://mega.nz/#!RokxlYTK!vuKGcwG-ymNdR9tBfSp8xjhynNIkn%5F4PC9ob%5Fq2TvWc "Grabster Channel Art Template")
-
-[grabster-youtube-end-screen-3](https://images.wondershare.com/filmora/article-images/grabster-youtube-end-screen-3.jpg) ](https://mega.nz/#!otc2wRaK!pk%5F7smhaRSuymYkKpf6DVPh2yt40Vlhz8xd8wRuu9Oo "Grabster Channel Art Template")
-
-#### 3. Taha Chimar
-
-Those who do not have PhotoShop can use Taha Chimar’s end screen designs that come in png file format.
-
-![taha-chimar-youtube-end-screen](https://images.wondershare.com/filmora/article-images/taha-chimar-youtube-end-screen.jpg)
-
-To download, you will have to follow a URL link in the description box of the YouTube videos. Be careful, though, as a lot of the links lead to free hosting websites with pop-ups that can harm your computer if you are easily fooled by them.
-
-#### 4. SoapyEdits
-
-SoapyEdits is a YouTuber with a [channel](https://www.youtube.com/playlist?list=PLZ-0Oq4zZj8hJkW1aXFzLr-x6WsjuGsW1) offering a whole playlist of PhotoShop PSD file end screen designs.
-
-Here are some of our favorite ones.
-
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![SoapyEdits-youtube-end-screen-template-1](https://images.wondershare.com/filmora/article-images/SoapyEdits-youtube-end-screen-template-1.jpg)
-
-Here’s one for the Minecraft fans:
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
-![SoapyEdits YouTube end screen template Minecraft ](https://images.wondershare.com/filmora/article-images/SoapyEdits-youtube-end-screen-template-minecraft.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![SoapyEdits YouTube end screen template  ](https://images.wondershare.com/filmora/article-images/SoapyEdits-youtube-end-screen-template-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
-![SoapyEdits YouTube end screen template  ](https://images.wondershare.com/filmora/article-images/SoapyEdits-youtube-end-screen-template-3.jpg)
-
-Another way to get your YouTube end screens for free, of course, is to make them yourself. Canva is a great free online design tool for this.
-
-## Part 2: How To Build Your Outro For Free (Step-by-step Canva Tutorial)
-
-1\. First, you have to sign up with an e-mail address
-
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![create-outro-end-screen-with-canva-1](https://images.wondershare.com/filmora/article-images/create-outro-end-screen-with-canva-1.jpg)
-
-2\. Once logged in, select “use custom dimensions” and plug in “1920” pixels as your width and “1080” pixels as your height (this, of course, may vary depending on the resolution of your video project).
-
-![create-outro-end-screen-with-canva  ](https://images.wondershare.com/filmora/article-images/create-outro-end-screen-with-canva-2.jpg)
-
-3\. After clicking “Design!,” a new browser will open with a blank canvas.
-
-4\. Next, do an image search for “YouTube End Screen,” choose an end screen with a layout that you would like to build off of, and save the image onto your computer.
-
-![download-youtube-outro-end-screen](https://images.wondershare.com/filmora/article-images/download-youtube-outro-end-screen.jpg)
-
-5\. Upload the image onto your Canva project.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![upload-downloaded-youtube-end-screen-canva ](https://images.wondershare.com/filmora/article-images/upload-downloaded-youtube-end-screen-canva.jpg)
-
-6\. Stretch your image to the ends of your canvas.
-
-![stretch-end-screen-templates-canva ](https://images.wondershare.com/filmora/article-images/stretch-end-screen-templates-canva.jpg)
-
-7\. Insert your own shapes, lines, colours, images, and text over the image.
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
-![adjust-end-screen-templates-in-canva](https://images.wondershare.com/filmora/article-images/adjust-end-screen-templates-in-canva.jpg)
 
 8\. When you’re done, delete the original image so that you’re left with just your own design. Go ahead and click “download.”
 
 ![youtube-end-screen-made-with-canva](https://images.wondershare.com/filmora/article-images/youtube-end-screen-made-with-canva.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you're looking for other options to design your end screen, make sure to also check out our article on [The YouTube Outro Guide](https://tools.techidaily.com/wondershare/filmora/download/). To edit the YouTube video with more effects and templates, you can try [Wondershare Filmora video editor.](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -747,21 +442,137 @@ Here’s one for the Minecraft fans:
 
 ![SoapyEdits YouTube end screen template Minecraft ](https://images.wondershare.com/filmora/article-images/SoapyEdits-youtube-end-screen-template-minecraft.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![SoapyEdits YouTube end screen template  ](https://images.wondershare.com/filmora/article-images/SoapyEdits-youtube-end-screen-template-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![SoapyEdits YouTube end screen template  ](https://images.wondershare.com/filmora/article-images/SoapyEdits-youtube-end-screen-template-3.jpg)
 
 Another way to get your YouTube end screens for free, of course, is to make them yourself. Canva is a great free online design tool for this.
 
+## Part 2: How To Build Your Outro For Free (Step-by-step Canva Tutorial)
+
+1\. First, you have to sign up with an e-mail address
+
+![create-outro-end-screen-with-canva-1](https://images.wondershare.com/filmora/article-images/create-outro-end-screen-with-canva-1.jpg)
+
+2\. Once logged in, select “use custom dimensions” and plug in “1920” pixels as your width and “1080” pixels as your height (this, of course, may vary depending on the resolution of your video project).
+
+![create-outro-end-screen-with-canva  ](https://images.wondershare.com/filmora/article-images/create-outro-end-screen-with-canva-2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+3\. After clicking “Design!,” a new browser will open with a blank canvas.
+
+4\. Next, do an image search for “YouTube End Screen,” choose an end screen with a layout that you would like to build off of, and save the image onto your computer.
+
+![download-youtube-outro-end-screen](https://images.wondershare.com/filmora/article-images/download-youtube-outro-end-screen.jpg)
+
+5\. Upload the image onto your Canva project.
+
+![upload-downloaded-youtube-end-screen-canva ](https://images.wondershare.com/filmora/article-images/upload-downloaded-youtube-end-screen-canva.jpg)
+
+6\. Stretch your image to the ends of your canvas.
+
+![stretch-end-screen-templates-canva ](https://images.wondershare.com/filmora/article-images/stretch-end-screen-templates-canva.jpg)
+
+7\. Insert your own shapes, lines, colours, images, and text over the image.
+
+![adjust-end-screen-templates-in-canva](https://images.wondershare.com/filmora/article-images/adjust-end-screen-templates-in-canva.jpg)
+
+8\. When you’re done, delete the original image so that you’re left with just your own design. Go ahead and click “download.”
+
+![youtube-end-screen-made-with-canva](https://images.wondershare.com/filmora/article-images/youtube-end-screen-made-with-canva.jpg)
+
+If you're looking for other options to design your end screen, make sure to also check out our article on [The YouTube Outro Guide](https://tools.techidaily.com/wondershare/filmora/download/). To edit the YouTube video with more effects and templates, you can try [Wondershare Filmora video editor.](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+YouTube end screens are a great way to get your viewers who have watched your YouTube video until the end to subscribe to your channel, visit your website, or watch more of your videos. End screens work on all devices, including mobile phones and tablets. This was not the case for annotations (YouTube’s former way of doing these things). As more YouTubers have jumped onto using end screens, the need for well-designed end screen templates have rapidly grown. In this post, I will
+
+1. [List some places you can download free end screen templates](#freeendscreentemplates)
+2. [Give you a step-by-step tutorial on how to build your own outro for free](#diyoutro)
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## Part 1: Free End Screen Templates Download
+
+[Wondershare Filmstock Gaming Video Editing Skils](https://images.wondershare.com/filmora/article-images/learn-gaming-video-editing-skills-banner.png)](https://filmstock.wondershare.com/creative-theme-game?source%5Fchannel=seo%5Farticle?spm=rs.filmora%5Fweb)
+
+(The images displayed below are for preview purposes only. For the highest quality and ideal dimensions to add into your own video, click the image and follow the links that we provide)
+
+#### 1. The Sales Lion
+
+In exchange for your name and e-mail address, the Sales Lion will let you download their YouTube templates pack, which includes a PhotoShop PSD file of their designed YouTube end screen.
+
+[sales-lion-outro-end-screen](https://images.wondershare.com/filmora/article-images/sales-lion-outro-end-screen.jpg) ](https://www.thesaleslion.com/download-youtube-templates-pack/ "The Sales Lion YouTube Templates Pack")
+
+#### 2. Grabster
+
+Grabster offers five free YouTube end screen templates. With each download, you’ll get a PhotoShop PSD file and a font file so that you can change the text.
+
+[grabster-outro](https://images.wondershare.com/filmora/article-images/grabster-outro.jpg) ](https://mega.nz/#!l5VVwR7J!w9hv%5FBgVIN2SsEdlf5IZViISJvXgmkDbErhG4A3gGYQ "Grabster Channel Art Template")
+
+[grabster-your-channel-name-outro](https://images.wondershare.com/filmora/article-images/grabster-your-channel-name-outro.jpg) ](https://mega.nz/#!RoMXlTbR!ALzroPD6CNRVuDABR7Uv3WAPajr0WJ1BT9ZVDwF4m0Y "Grabster Channel Art Template")
+
+[grabster-youtube-end-screen](https://images.wondershare.com/filmora/article-images/grabster-youtube-end-screen.jpg) ](https://mega.nz/#!B8sAhL6Q!iIaTl4uGojXONee6k%5FdTLWdSVrGOiRWPQu4BjU2zJ5o "Grabster Channel Art Template")
+
+[grabster-youtube-end-screen-2](https://images.wondershare.com/filmora/article-images/grabster-youtube-end-screen-2.jpg) ](https://mega.nz/#!RokxlYTK!vuKGcwG-ymNdR9tBfSp8xjhynNIkn%5F4PC9ob%5Fq2TvWc "Grabster Channel Art Template")
+
+[grabster-youtube-end-screen-3](https://images.wondershare.com/filmora/article-images/grabster-youtube-end-screen-3.jpg) ](https://mega.nz/#!otc2wRaK!pk%5F7smhaRSuymYkKpf6DVPh2yt40Vlhz8xd8wRuu9Oo "Grabster Channel Art Template")
+
+#### 3. Taha Chimar
+
+Those who do not have PhotoShop can use Taha Chimar’s end screen designs that come in png file format.
+
+![taha-chimar-youtube-end-screen](https://images.wondershare.com/filmora/article-images/taha-chimar-youtube-end-screen.jpg)
+
+To download, you will have to follow a URL link in the description box of the YouTube videos. Be careful, though, as a lot of the links lead to free hosting websites with pop-ups that can harm your computer if you are easily fooled by them.
+
+#### 4. SoapyEdits
+
+SoapyEdits is a YouTuber with a [channel](https://www.youtube.com/playlist?list=PLZ-0Oq4zZj8hJkW1aXFzLr-x6WsjuGsW1) offering a whole playlist of PhotoShop PSD file end screen designs.
+
+Here are some of our favorite ones.
+
+![SoapyEdits-youtube-end-screen-template-1](https://images.wondershare.com/filmora/article-images/SoapyEdits-youtube-end-screen-template-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Here’s one for the Minecraft fans:
+
+![SoapyEdits YouTube end screen template Minecraft ](https://images.wondershare.com/filmora/article-images/SoapyEdits-youtube-end-screen-template-minecraft.jpg)
+
+![SoapyEdits YouTube end screen template  ](https://images.wondershare.com/filmora/article-images/SoapyEdits-youtube-end-screen-template-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![SoapyEdits YouTube end screen template  ](https://images.wondershare.com/filmora/article-images/SoapyEdits-youtube-end-screen-template-3.jpg)
+
+Another way to get your YouTube end screens for free, of course, is to make them yourself. Canva is a great free online design tool for this.
+
 ## Part 2: How To Build Your Outro For Free (Step-by-step Canva Tutorial)
 
 1\. First, you have to sign up with an e-mail address
@@ -776,23 +587,14 @@ Another way to get your YouTube end screens for free, of course, is to make them
 
 4\. Next, do an image search for “YouTube End Screen,” choose an end screen with a layout that you would like to build off of, and save the image onto your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download-youtube-outro-end-screen](https://images.wondershare.com/filmora/article-images/download-youtube-outro-end-screen.jpg)
 
 5\. Upload the image onto your Canva project.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![upload-downloaded-youtube-end-screen-canva ](https://images.wondershare.com/filmora/article-images/upload-downloaded-youtube-end-screen-canva.jpg)
 
 6\. Stretch your image to the ends of your canvas.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![stretch-end-screen-templates-canva ](https://images.wondershare.com/filmora/article-images/stretch-end-screen-templates-canva.jpg)
 
 7\. Insert your own shapes, lines, colours, images, and text over the image.
@@ -805,9 +607,115 @@ Another way to get your YouTube end screens for free, of course, is to make them
 
 If you're looking for other options to design your end screen, make sure to also check out our article on [The YouTube Outro Guide](https://tools.techidaily.com/wondershare/filmora/download/). To edit the YouTube video with more effects and templates, you can try [Wondershare Filmora video editor.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+YouTube end screens are a great way to get your viewers who have watched your YouTube video until the end to subscribe to your channel, visit your website, or watch more of your videos. End screens work on all devices, including mobile phones and tablets. This was not the case for annotations (YouTube’s former way of doing these things). As more YouTubers have jumped onto using end screens, the need for well-designed end screen templates have rapidly grown. In this post, I will
+
+1. [List some places you can download free end screen templates](#freeendscreentemplates)
+2. [Give you a step-by-step tutorial on how to build your own outro for free](#diyoutro)
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## Part 1: Free End Screen Templates Download
+
+[Wondershare Filmstock Gaming Video Editing Skils](https://images.wondershare.com/filmora/article-images/learn-gaming-video-editing-skills-banner.png)](https://filmstock.wondershare.com/creative-theme-game?source%5Fchannel=seo%5Farticle?spm=rs.filmora%5Fweb)
+
+(The images displayed below are for preview purposes only. For the highest quality and ideal dimensions to add into your own video, click the image and follow the links that we provide)
+
+#### 1. The Sales Lion
+
+In exchange for your name and e-mail address, the Sales Lion will let you download their YouTube templates pack, which includes a PhotoShop PSD file of their designed YouTube end screen.
+
+[sales-lion-outro-end-screen](https://images.wondershare.com/filmora/article-images/sales-lion-outro-end-screen.jpg) ](https://www.thesaleslion.com/download-youtube-templates-pack/ "The Sales Lion YouTube Templates Pack")
+
+#### 2. Grabster
+
+Grabster offers five free YouTube end screen templates. With each download, you’ll get a PhotoShop PSD file and a font file so that you can change the text.
+
+[grabster-outro](https://images.wondershare.com/filmora/article-images/grabster-outro.jpg) ](https://mega.nz/#!l5VVwR7J!w9hv%5FBgVIN2SsEdlf5IZViISJvXgmkDbErhG4A3gGYQ "Grabster Channel Art Template")
+
+[grabster-your-channel-name-outro](https://images.wondershare.com/filmora/article-images/grabster-your-channel-name-outro.jpg) ](https://mega.nz/#!RoMXlTbR!ALzroPD6CNRVuDABR7Uv3WAPajr0WJ1BT9ZVDwF4m0Y "Grabster Channel Art Template")
+
+[grabster-youtube-end-screen](https://images.wondershare.com/filmora/article-images/grabster-youtube-end-screen.jpg) ](https://mega.nz/#!B8sAhL6Q!iIaTl4uGojXONee6k%5FdTLWdSVrGOiRWPQu4BjU2zJ5o "Grabster Channel Art Template")
+
+[grabster-youtube-end-screen-2](https://images.wondershare.com/filmora/article-images/grabster-youtube-end-screen-2.jpg) ](https://mega.nz/#!RokxlYTK!vuKGcwG-ymNdR9tBfSp8xjhynNIkn%5F4PC9ob%5Fq2TvWc "Grabster Channel Art Template")
+
+[grabster-youtube-end-screen-3](https://images.wondershare.com/filmora/article-images/grabster-youtube-end-screen-3.jpg) ](https://mega.nz/#!otc2wRaK!pk%5F7smhaRSuymYkKpf6DVPh2yt40Vlhz8xd8wRuu9Oo "Grabster Channel Art Template")
+
+#### 3. Taha Chimar
+
+Those who do not have PhotoShop can use Taha Chimar’s end screen designs that come in png file format.
+
+![taha-chimar-youtube-end-screen](https://images.wondershare.com/filmora/article-images/taha-chimar-youtube-end-screen.jpg)
+
+To download, you will have to follow a URL link in the description box of the YouTube videos. Be careful, though, as a lot of the links lead to free hosting websites with pop-ups that can harm your computer if you are easily fooled by them.
+
+#### 4. SoapyEdits
+
+SoapyEdits is a YouTuber with a [channel](https://www.youtube.com/playlist?list=PLZ-0Oq4zZj8hJkW1aXFzLr-x6WsjuGsW1) offering a whole playlist of PhotoShop PSD file end screen designs.
+
+Here are some of our favorite ones.
+
+![SoapyEdits-youtube-end-screen-template-1](https://images.wondershare.com/filmora/article-images/SoapyEdits-youtube-end-screen-template-1.jpg)
+
+Here’s one for the Minecraft fans:
+
+![SoapyEdits YouTube end screen template Minecraft ](https://images.wondershare.com/filmora/article-images/SoapyEdits-youtube-end-screen-template-minecraft.jpg)
+
+![SoapyEdits YouTube end screen template  ](https://images.wondershare.com/filmora/article-images/SoapyEdits-youtube-end-screen-template-2.jpg)
+
+![SoapyEdits YouTube end screen template  ](https://images.wondershare.com/filmora/article-images/SoapyEdits-youtube-end-screen-template-3.jpg)
+
+Another way to get your YouTube end screens for free, of course, is to make them yourself. Canva is a great free online design tool for this.
+
+## Part 2: How To Build Your Outro For Free (Step-by-step Canva Tutorial)
+
+1\. First, you have to sign up with an e-mail address
+
+![create-outro-end-screen-with-canva-1](https://images.wondershare.com/filmora/article-images/create-outro-end-screen-with-canva-1.jpg)
+
+2\. Once logged in, select “use custom dimensions” and plug in “1920” pixels as your width and “1080” pixels as your height (this, of course, may vary depending on the resolution of your video project).
+
+![create-outro-end-screen-with-canva  ](https://images.wondershare.com/filmora/article-images/create-outro-end-screen-with-canva-2.jpg)
+
+3\. After clicking “Design!,” a new browser will open with a blank canvas.
+
+4\. Next, do an image search for “YouTube End Screen,” choose an end screen with a layout that you would like to build off of, and save the image onto your computer.
+
+![download-youtube-outro-end-screen](https://images.wondershare.com/filmora/article-images/download-youtube-outro-end-screen.jpg)
+
+5\. Upload the image onto your Canva project.
+
+![upload-downloaded-youtube-end-screen-canva ](https://images.wondershare.com/filmora/article-images/upload-downloaded-youtube-end-screen-canva.jpg)
+
+6\. Stretch your image to the ends of your canvas.
+
+![stretch-end-screen-templates-canva ](https://images.wondershare.com/filmora/article-images/stretch-end-screen-templates-canva.jpg)
+
+7\. Insert your own shapes, lines, colours, images, and text over the image.
+
+![adjust-end-screen-templates-in-canva](https://images.wondershare.com/filmora/article-images/adjust-end-screen-templates-in-canva.jpg)
+
+8\. When you’re done, delete the original image so that you’re left with just your own design. Go ahead and click “download.”
+
+![youtube-end-screen-made-with-canva](https://images.wondershare.com/filmora/article-images/youtube-end-screen-made-with-canva.jpg)
+
+If you're looking for other options to design your end screen, make sure to also check out our article on [The YouTube Outro Guide](https://tools.techidaily.com/wondershare/filmora/download/). To edit the YouTube video with more effects and templates, you can try [Wondershare Filmora video editor.](https://tools.techidaily.com/wondershare/filmora/download/)
+
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -831,5 +739,20 @@ Follow @Richard Bennett
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-elevate-every-click-with-tailor-made-ai-generated-titles/"><u>[New] 2024 Approved Elevate Every Click with Tailor-Made AI-Generated Titles</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-maximizing-visibility-with-instagrams-highlight-system/"><u>[New] 2024 Approved Maximizing Visibility with Instagram's Highlight System</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-make-video-thumbnails-for-youtube/"><u>[New] How to Make Video Thumbnails for YouTube</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-live-transmission-via-obs-to-instagram/"><u>[Updated] Live Transmission via OBS to Instagram</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unraveling-the-discrepant-nature-of-vr-and-full-sphere-capture/"><u>[Updated] Unraveling the Discrepant Nature of VR and Full Sphere Capture</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-content-restrictions-on-youtube-videos/"><u>2024 Approved Mastering Content Restrictions on YouTube Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-maximizing-mobile-profits-enabling-youtubers-revenue/"><u>2024 Approved Maximizing Mobile Profits Enabling YouTubers' Revenue</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-step-by-step-guide-to-live-stream-your-google-meet-on-youtube/"><u>2024 Approved Step-By-Step Guide to Live Stream Your Google Meet on YouTube</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-beginners-blueprint-for-mobile-youtube-videos/"><u>2024 Approved The Beginner's Blueprint for Mobile YouTube Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-beyond-reality-jaunt-vr-breakdown/"><u>In 2024, Beyond Reality Jaunt VR Breakdown</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-keyword-optimization-for-higher-youtube-viewership/"><u>In 2024, Keyword Optimization for Higher YouTube Viewership</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-professional-video-editing-simplified-with-mac-mp4-cutters/"><u>In 2024, Professional Video Editing Simplified with Mac MP4 Cutters</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-12-mini-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone 12 mini Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Navigating Through Numbers  A Full Guide for Measuring YouTube Success for 2024\""
-date: 2024-12-13T18:42:06.358Z
-updated: 2024-12-16T17:58:53.012Z
+date: 2024-12-20T02:07:13.698Z
+updated: 2024-12-25T03:43:38.613Z
 tags:
   - ai video
   - ai youtube
@@ -47,9 +47,17 @@ Here's what you should know when using each method and why you should consider d
 | **Merchandise Shelf $5 Shirt**                     | 100 subscribers purchases your merch                               | 100\*5=$500                            |
 | **Channel Memberships $5/month**                   | 100 loyal subscribers join membership                              | 100\*5=$500                            |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### YouTube Ads
 
 The video ads on the platform aren't lucrative and can be used to supplement your income in the form of AdSense earnings. An actual advertiser pays 0.18 per ad view on average (as shown above). That means 1000 ad views equals $18 and $3-$5 per 1000 views.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Brand Sponsorships
 
@@ -112,10 +120,6 @@ Step4 The result will show you the 'Number of Total Video Views', and 'Estimated
 
 ![aux mode calculator](https://images.wondershare.com/filmora/article-images/2022/11/how-to-calculate-youtube-views-to-money-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Pros
 
 * Easy interface, with a view slider
@@ -132,10 +136,6 @@ Go to [AUX MODE](https://auxmode.com/suiteoffreetools/youtube-views-to-money-cal
 Step1 You can type total video views or, increase or decrease total views with the arrows.
 
 ![type number of views](https://images.wondershare.com/filmora/article-images/2022/11/how-to-calculate-youtube-views-to-money-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 Below you'll find a slider, you can slide forward to increase views and vice versa.
 
@@ -164,6 +164,10 @@ Step1 The first calculator on the page is based on daily views. Drag the slider 
 
 ![daily video views](https://images.wondershare.com/filmora/article-images/2022/11/how-to-calculate-youtube-views-to-money-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Scroll down and you'll find another calculator that requires specific video URL. Copy and paste the URL of YouTube video and get results based on views.
 
 ![youtube video url](https://images.wondershare.com/filmora/article-images/2022/11/how-to-calculate-youtube-views-to-money-12.jpg)
@@ -183,10 +187,6 @@ Step1 Login to your [YouTube Studio](https://studio.youtube.com/)
 Step2 In the left menu, select Analytics.
 
 ![select analytics](https://images.wondershare.com/filmora/article-images/2022/11/how-to-calculate-youtube-views-to-money-15.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step3 From the top menu, select Revenue.
 
@@ -219,10 +219,6 @@ This top-earning videos report will show you the most profitable videos and thei
 ### Ad type
 
 If you use different types of Ads for your videos, this report will help you find the percentage of your Ads revenue from each ad type.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: How much money can you make on YouTube?
 
@@ -289,10 +285,6 @@ Step5 Right-click and select Crop to Fit
 Step6 Right-Click again and select Crop and Zoom
 
 ![crop and zoom](https://images.wondershare.com/filmora/article-images/2022/11/how-to-calculate-youtube-views-to-money-22.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step7 Adjust the frame
 
@@ -468,6 +460,10 @@ The RPM is calculated based on how much traffic you're getting from YouTube comp
 
 Your CPM (Cost Per Thousand) report tells you how much each ad was worth in terms of the percentage of each play a video was spent. The playback-based CPM report shows your estimated average gross revenue per 1000 playbacks where one or more ads are shown.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Monthly estimated revenue
 
 This is a simple report showing the statistics of your video earnings over the last 6 months. It can fluctuate by invalid traffic, content disputes and ad campaign types.
@@ -534,10 +530,6 @@ Step1 Open Filmora 11 application.
 
 ![filmora 11 interface](https://images.wondershare.com/filmora/article-images/2022/11/how-to-calculate-youtube-views-to-money-17.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Open Project Settings
 
 ![file, project settings](https://images.wondershare.com/filmora/article-images/2022/11/how-to-calculate-youtube-views-to-money-18.jpg)
@@ -554,10 +546,6 @@ Step5 Right-click and select Crop to Fit
 
 ![select crop to fit](https://images.wondershare.com/filmora/article-images/2022/11/how-to-calculate-youtube-views-to-money-21.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step6 Right-Click again and select Crop and Zoom
 
 ![crop and zoom](https://images.wondershare.com/filmora/article-images/2022/11/how-to-calculate-youtube-views-to-money-22.jpg)
@@ -565,6 +553,10 @@ Step6 Right-Click again and select Crop and Zoom
 Step7 Adjust the frame
 
 ![adjust the frame](https://images.wondershare.com/filmora/article-images/2022/11/how-to-calculate-youtube-views-to-money-23.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step8 Lastly Export you file
 
@@ -617,10 +609,6 @@ The easiest way to monetize Shorts on YouTube is to access the fan-funding progr
 
 ![youtube shorts fund](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-from-youtube-shorts-requirements-and-earning-potential-1.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Eligibility for Monetizing Shorts and Videos**
 
 The other way you can monetize shorts is by accessing ad revenue and fan-funding. With this option, you will generate income from ads that appear between Shorts in addition to interacting with viewers. This is a great option for creators who make long and short videos. The requirements for this include:
@@ -642,6 +630,10 @@ Once you meet the eligibility criteria, you will be required to follow certain g
 * Turn on 2-Step verification for your Google Account
 * Have an active AdSense account
 * Have access to advanced YouTube features by verifying your identity
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part 2\. Monetizing YouTube Shorts: Step-by-Step Guide**
 
@@ -673,6 +665,10 @@ Click **Start** to review and accept YouTube’s Base terms.
 
 ![youtube base terms](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-from-youtube-shorts-requirements-and-earning-potential-6.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 6
 
 Link your existing AdSense account if you have one. If not. Click **Start** to set up a new one.
@@ -692,6 +688,10 @@ The money-making feature monetizes Shorts in exciting ways. To start monetizing 
 ## **Part 3\. YouTube Shorts Monetization: A Realistic Look at Earnings Potential**
 
 Monetizing YouTube Shorts has the potential to make decent earnings. Although the amount is not as much as a long-form videos, it is a great way of making money on YouTube quickly. Most YouTube Shorts creators agree that the revenue per thousand views (RPM) for short-form content is currently around $0.05 - $0.07\. This means that for a million Shorts views, you will make $50 - $70.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Factors** **That Influence Earnings**
 
@@ -728,6 +728,10 @@ Before uploading a short-form video on YouTube, you want to make sure it is of t
 ### **2\.** **[Text to Speech](https://tools.techidaily.com/wondershare/filmora/download/)**
 
 Narration is an important aspect of YouTube Shorts. You can tell what is happening in the clip in the simplest way for your audience to understand. The Text to Speech (TTS) feature on Filmora allows you to convert your text files to voice-over. This makes your Shorts video more entertaining and enriched with more elements.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. [**AI Portrait**](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -756,6 +760,10 @@ The easiest way to monetize Shorts on YouTube is to access the fan-funding progr
 
 ![youtube shorts fund](https://images.wondershare.com/filmora/article-images/2023/how-to-make-money-from-youtube-shorts-requirements-and-earning-potential-1.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Eligibility for Monetizing Shorts and Videos**
 
 The other way you can monetize shorts is by accessing ad revenue and fan-funding. With this option, you will generate income from ads that appear between Shorts in addition to interacting with viewers. This is a great option for creators who make long and short videos. The requirements for this include:
@@ -763,10 +771,6 @@ The other way you can monetize shorts is by accessing ad revenue and fan-funding
 * At least 1,000 subscribers to your channels
 * At least 4,000 public watch hours in the last 365 days, or
 * At least 10 million valid public Shorts views in the last 90 days
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Additional Guidelines for Creators**
 
@@ -868,10 +872,6 @@ Before uploading a short-form video on YouTube, you want to make sure it is of t
 
 Narration is an important aspect of YouTube Shorts. You can tell what is happening in the clip in the simplest way for your audience to understand. The Text to Speech (TTS) feature on Filmora allows you to convert your text files to voice-over. This makes your Shorts video more entertaining and enriched with more elements.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. [**AI Portrait**](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Just like other vertical social media videos, Shorts require some bit of personalization. You may want to add a bit of elements or filters. The AI Portrait feature automatically removes background with high accuracy to further enhance your videos. It also comes with over 70 portrait and sticker effects to bring out the mood you are going after. Automatically recognize the faces of your subjects and add AR stickers on the go.
@@ -895,14 +895,24 @@ YouTube Shorts have become immensely popular. They tend to have a higher ROI and
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-from-eyeballs-to-earnings-the-price-of-popular-videos/"><u>[New] From Eyeballs to Earnings The Price of Popular Videos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unlock-your-potential-with-these-influential-biz-video-hubs/"><u>2024 Approved Unlock Your Potential with These Influential Biz Video Hubs</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-zte-nubia-flip-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your ZTE Nubia Flip 5G? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/comparing-broadcast-tools-go-with-wirecast-or-obs-in-2024/"><u>Comparing Broadcast Tools Go With Wirecast or OBS, In 2024</u></a></li>
-<li><a href="https://win-superb.techidaily.com/compression-automatique-des-fichiers-sur-server-2022-de-lsmb-possibilites-et-limites/"><u>Compression Automatique Des Fichiers Sur Server 2022 De L'SMB : Possibilités Et Limites</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/guide-clearing-up-youtube-watchlater-stored-list-for-2024/"><u>Guide Clearing Up YouTube Watchlater Stored List for 2024</u></a></li>
-<li><a href="https://win-popular.techidaily.com/how-to-transfer-your-samsung-account-from-old-pcs-to-windows-11-a-comprehensive-guide/"><u>How to Transfer Your Samsung Account From Old PCs to Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-on-apple-iphone-13-pro-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror on Apple iPhone 13 Pro? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-learn-to-purge-your-devices-youtube-content-easily/"><u>In 2024, Learn to Purge Your Device's YouTube Content Easily</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-elevate-your-vr-experience-with-our-picks/"><u>[New] 2024 Approved Elevate Your VR Experience with Our Picks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-effective-audio-capture-for-your-zoom-sessions-for-2024/"><u>[New] Effective Audio Capture for Your Zoom Sessions for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-securing-viewer-return-with-these-effective-strategies-for-higher-retention-rates/"><u>[New] Securing Viewer Return with These Effective Strategies for Higher Retention Rates</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-mastering-live-twitch-streams-top-5-tips/"><u>[Updated] In 2024, Mastering Live Twitch Streams Top 5 Tips</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-enhance-stories-interaction-with-custom-queries-design/"><u>2024 Approved Enhance Stories Interaction with Custom Queries Design</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-conference-room-to-youtube-google-meet-broadcasting/"><u>2024 Approved From Conference Room to Youtube Google Meet Broadcasting</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-iphoneipad-uploads-to-youtube-platforms/"><u>2024 Approved Navigating iPhone/iPad Uploads to YouTube Platforms</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-omniscope-networking-an-experts-guide-to-selecting-a-media-company/"><u>2024 Approved OmniScope Networking An Expert's Guide to Selecting a Media Company</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-secrets-to-profitability-earning-with-youtube-shorts-explored/"><u>2024 Approved Secrets to Profitability Earning with YouTube Shorts Explored</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-strategies-to-dodge-content-advisory-strikes/"><u>2024 Approved Strategies to Dodge Content Advisory Strikes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-artisans-selection-best-photo-frame-software/"><u>2024 Approved The Artisan's Selection Best Photo Frame Software</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-data-driven-odyssey-of-youtubes-statistical-storytelling-2017/"><u>2024 Approved The Data-Driven Odyssey of YouTube's Statistical Storytelling (2017)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-tiers-of-technology-youtube-gamers-showcase/"><u>2024 Approved Top Tiers of Technology YouTube Gamer's Showcase</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-uncovering-facebooks-fresh-favorites-our-picks-of-top-vids/"><u>2024 Approved Uncovering Facebook's Fresh Favorites Our Picks of Top Vids</u></a></li>
+<li><a href="https://facebook.techidaily.com/beyond-boundaries-exploring-virtual-realitys-future/"><u>Beyond Boundaries: Exploring Virtual Reality's Future</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-render-and-upload-your-youtube-video-faster-in-2024/"><u>How to Render and Upload Your YouTube Video Faster, In 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-creating-seamless-connections-spotify-to-youtube-music-conversion/"><u>In 2024, Creating Seamless Connections Spotify to YouTube Music Conversion</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-the-art-and-science-of-writing-smart-slug-lines/"><u>In 2024, The Art and Science of Writing Smart Slug Lines</u></a></li>
+<li><a href="https://win-tips.techidaily.com/troubleshooting-windows-cuestiones-de-escaner-en-windows-10-con-la-ayuda-de-yl-software/"><u>Troubleshooting Windows Cuestiones De Escáner en Windows 10 Con La Ayuda De YL Software</u></a></li>
 </ul></div>
 

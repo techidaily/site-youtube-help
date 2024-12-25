@@ -1,7 +1,7 @@
 ---
 title: "[New] From Zero to Hero in YouTube Traffic"
-date: 2024-12-14T18:00:07.518Z
-updated: 2024-12-16T17:59:10.699Z
+date: 2024-12-24T09:25:45.632Z
+updated: 2024-12-24T19:46:23.717Z
 tags:
   - ai video
   - ai youtube
@@ -52,15 +52,15 @@ Do a quick search on YouTube to see what videos already exist on your topic.
 
 ![Find Related Videos Sample](https://images.wondershare.com/filmora/article-images/find-related-videos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Uh oh… your video will be competing against celebrities like Gordon Ramsay and Jamie Oliver.
 
 Okay, don’t panic! There is a fantastic quote, credited to bestselling author, [Jon Acuff](https://acuff.me/), that goes:
 
 ![fantastic quote](https://images.wondershare.com/filmora/article-images/fantastic-quote-do-not-compare-beginning-to-middle.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 While researching your competition, you will feel overwhelmed, but remember, you are at the beginning, and Gordon Ramsay and Jamie Oliver are not even at their middle, they are way passed the finish line. You still have a long journey to go, so don’t get discouraged, get inspired!
 
@@ -88,15 +88,15 @@ Once you have an idea of what people are searching for related to your topic, yo
 
 ![Find Keywords with Ubersuggest](https://images.wondershare.com/filmora/article-images/keyword-seo-tool-ubersuggest.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This app gives you a whole list of long-tail keywords, which are 3-4-word phrases which is specific to what your video is about.
 
 Some you will use to dig deeper in and other you will deem irrelevant to your videos. A good way of determining the value of a keyword is by the stats the application shows.
 
 ![Keywords in Ubersuggest](https://images.wondershare.com/filmora/article-images/find-keywords-with-ubersuggest.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ####  
 
@@ -164,6 +164,10 @@ Have the specific keywords at the top, followed by more general keywords, and th
 
 **Branded**: Gordon Ramsay scrambled eggs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Make The Best Darn Video Possible
 
 It doesn’t matter how relevant your keywords are or how epic your title is, if you video sucks (i.e. your viewers click in and leave right away), YouTube will not show it in search.
@@ -208,6 +212,10 @@ Your viewers will absolutely judge your video by its cover so it’s important t
 
 ![Design a Thumbnail](https://images.wondershare.com/filmora/article-images/design-youtube-video-thumbnail.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Take a look at your competition. If they all look the same, do something different. Add text or a human face (preferably yours) to evoke emotion, as viewers are more likely to click into a video if they see an expressive image.
 
 Don’t want to pay money for a photo editing software such as Photoshop?
@@ -222,10 +230,6 @@ Well done finishing the video! You are almost there… but not there yet.
 
 ![XDyocwuGRiSptxueJZ5aokKqKt-JXMbX](https://images.filmora.io/5/XDyocwuGRiSptxueJZ5aokKqKt-JXMbX.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Come on, keep going!
 
 #### Step 10: Fill Out Your Videos Assets
@@ -235,7 +239,7 @@ The video is done, the thumbnail is designed, and you have all your title, descr
 ![Fill Out Your Videos Assets](https://images.wondershare.com/filmora/article-images/creator-stuido-fill-out-video-assets.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 11: Add Transcripts
@@ -266,10 +270,6 @@ Do you have any questions about SEO? Please leave us a comment below.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -285,17 +285,19 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-key-software-to-craft-impeccable-voices-for-virtual-stars/"><u>[New] Key Software to Craft Impeccable Voices for Virtual Stars</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-quick-guide-youtube-videos-turned-into-engaging-animation-gifs/"><u>[New] Quick Guide YouTube Videos Turned Into Engaging Animation Gifs</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-the-art-of-mastering-funimate-for-2024/"><u>[New] The Art of Mastering Funimate for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/nlocking-asmr-potential-professional-filming-practices-revealed-for-2024/"><u>[New] Unlocking ASMR Potential Professional Filming Practices Revealed for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-youth-voices-channeling-lifes-milestinasubscriber-channel-for-impactful-personal-storytelling/"><u>[Updated] Youth Voices Channeling Life's Milestinasubscriber Channel for Impactful Personal Storytelling.</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-the-nuances-of-mukbang-filmmaking-techniques/"><u>2024 Approved Navigating the Nuances of Mukbang Filmmaking Techniques</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unveiling-the-ultimate-list-youtubes-premier-mp3-extractors/"><u>2024 Approved Unveiling the Ultimate List YouTube's Premier MP3 Extractors</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-zte-blade-a73-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on ZTE Blade A73 5Gwith/without a PC</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/juggling-jargons-an-experts-guide-to-multiple-youtube-views-for-2024/"><u>Juggling Jargons An Expert's Guide to Multiple YouTube Views for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleash-creativity-the-best-7-online-aid-resources/"><u>Unleash Creativity: The Best 7 Online Aid Resources</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Vivo Y100? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-curated-list-prime-places-to-pick-pixel-ringtones/"><u>[New] 2024 Approved Curated List Prime Places to Pick Pixel Ringtones</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-go-live-with-google-meet-youtube-broadcasting-steps/"><u>[New] Go Live with Google Meet YouTube Broadcasting Steps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-quick-tips-for-quality-animation-in-movie-maker/"><u>[New] Quick Tips for Quality Animation in Movie Maker</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-optimal-size-strategy-for-click-driven-titles/"><u>2024 Approved Optimal Size Strategy for Click-Driven Titles</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-pause-autoplay-on-youtube-suggested-videos/"><u>2024 Approved Pause Autoplay on YouTube Suggested Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-art-of-multi-platform-broadcasting-in-the-digital-age/"><u>2024 Approved The Art of Multi-Platform Broadcasting in the Digital Age</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-poco-m6-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-honor-x50-gt-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Honor X50 GT</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-ranked-5-mobile-backdrop-change-applications-iphone-x78/"><u>Best-Ranked 5 Mobile Backdrop Change Applications (iPhone X/7/8)</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-y200e-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y200e 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-instructions-removing-videos-from-youtubes-watchlater/"><u>In 2024, Instructions Removing Videos From YouTube's Watchlater</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/sierras-complete-access-to-cloud-documentationdrive-for-2024/"><u>Sierra's Complete Access to Cloud Documentation/Drive for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/troubleshooting-graphic-card-issues-tips-and-advice-by-yl-software-experts/"><u>Troubleshooting Graphic Card Issues: Tips and Advice by YL Software Experts</u></a></li>
+<li><a href="https://win-great.techidaily.com/troubleshooting-guide-how-to-fix-a-non-responsive-printer-insights-from-yl-computing-experts/"><u>Troubleshooting Guide: How to Fix a Non-Responsive Printer - Insights From YL Computing Experts</u></a></li>
 </ul></div>
 

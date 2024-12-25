@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating YouTube Shorts Investments"
-date: 2024-12-09T18:30:51.377Z
-updated: 2024-12-16T17:15:25.645Z
+date: 2024-12-23T13:09:01.030Z
+updated: 2024-12-25T09:14:30.881Z
 tags:
   - ai video
   - ai youtube
@@ -43,6 +43,10 @@ Here we are going to introduce you how to make money on YouTube Shorts and some 
 * [**Part 3: How to Claim Bonus Payment from YouTube Shorts Fund?**](#part3)
 * [**Part 4: FAQs about YouTube Shorts Fund**](#part4)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: What's YouTube Shorts Fund?
 
 The **YouTube Shorts Fund** is a part of the YouTube Shorts monetization scheme. It's a $100M fund distributed throughout 2021 - 2022.
@@ -56,7 +60,7 @@ However, this YouTube Shorts Fund is generally not limited to just the YouTube P
 Moreover, YouTube kept sharing additional details as they got closer to the same concept.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The Future of Monetization on Shorts
@@ -66,10 +70,6 @@ As discussed earlier, the YouTube Shorts Fund is the first step in their journey
 Even YouTube is excited to begin rewarding creators for their contributions via the YouTube Shorts Fund. On the same note, they'll expand their Shorts player across various YouTube surfaces to assist people in looking for new artists, creators, and Shorts to enjoy.
 
 All in all, YouTube has helped an entire generation of artists and creators turn their creativity into businesses with the YouTube Shorts Fund. YouTube has paid $30 billion-plus money to artists, creators, artists, and media companies over the last three years. They remain deeply committed to supporting the next generation of mobile creators while introducing the YouTube Shorts Fund.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Join/Apply for YouTube Shorts Fund?
 
@@ -96,7 +96,7 @@ The best way you can create is to keep uploading excellent content. You can use 
 The YouTube Shorts Fund is an ideal opportunity for creators of all sizes to activate YouTube Shorts monetization.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to Claim Bonus Payment from YouTube Shorts Fund?
@@ -139,7 +139,7 @@ A common reason behind this is that you do not hold the viewer's attention. The 
 Videos up to 60 seconds will show a trim editor. For videos longer than 60 seconds, you need to hit the **Edit** button into a Short video size to trim your video up to 60 seconds or less.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -153,7 +153,7 @@ Most people probably wouldn't get attracted if any other company launched a new 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -171,17 +171,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-ice-chase-top-moments-captured-s-olympic-snowboard-race-events-for-2024/"><u>[New] Ice Chase Top Moments Captured 'S Olympic Snowboard Race Events for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-proven-paths-to-owning-successful-monetized-youtubes/"><u>2024 Approved Proven Paths to Owning Successful Monetized Youtubes</u></a></li>
-<li><a href="https://win-able.techidaily.com/diy-troubleshooting-guide-to-fix-call-of-dutys-modern-warfare-pcxbox-dev-6eerror-code-6034/"><u>DIY Troubleshooting Guide to Fix Call of Duty's Modern Warfare (PC/Xbox) DEV-6eError Code 6034</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/from-pixels-to-popularity-crafting-engaging-youtube-thumbnails-for-2024/"><u>From Pixels to Popularity Crafting Engaging YouTube Thumbnails for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-editors-on-smartphones-for-dji-footage-excellence/"><u>In 2024, Best Editors on Smartphones for DJi Footage Excellence</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-apple-iphone-12-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your Apple iPhone 12 From Your Apple ID</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-making-your-channels-subscribe-button-pop/"><u>In 2024, Making Your Channel's Subscribe Button Pop</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-music-mastery-essentials-high-quality-dj-video-samples/"><u>In 2024, Music Mastery Essentials High-Quality DJ Video Samples</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-playlist-pivot-new-order-strategies-for-youtube/"><u>In 2024, The Playlist Pivot New Order Strategies for YouTube</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-multimedia-slides-with-speech-recordings-powerpoint/"><u>Mastering Multimedia Slides with Speech Recordings (PowerPoint)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-7-essential-windows-features-to-activate-for-optimal-performance-the-why-and-how/"><u>Top 7 Essential Windows Features to Activate for Optimal Performance: The Why and How</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-iphone-7-perfect-methods-for-screen-recording-for-2024/"><u>[New] IPhone 7 Perfect Methods for Screen Recording for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-notes-navigated-steps-for-sound-submissions-to-youtube/"><u>[New] Notes Navigated Steps for Sound Submissions to YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-rapid-learning-path-for-keying-mastery/"><u>[New] Rapid Learning Path for Keying Mastery</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-shortcut-to-go-to-tags-maximizing-your-youtube-impact/"><u>[New] Shortcut to Go-To Tags Maximizing Your YouTube Impact</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-how-to-convert-a-spotify-playlist-to-youtube-music/"><u>[Updated] In 2024, How to Convert A Spotify Playlist To YouTube Music</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-step-up-your-video-game-expert-endorsed-cost-free-intro-creators/"><u>[Updated] Step Up Your Video Game Expert-Endorsed, Cost-Free Intro Creators</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-optimize-your-channels-an-introduction-to-youtube-statistics/"><u>2024 Approved Optimize Your Channels An Introduction to YouTube Statistics</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/becoming-a-pro-at-iphone-hdr-imaging/"><u>Becoming a Pro at iPhone HDR Imaging</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/best-mac-video-software-alternatives-to-bandicam/"><u>Best Mac Video Software Alternatives to Bandicam</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-a1-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Oppo A1 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-13-location-by-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 13 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-personalize-your-soundtrack-constructing-a-youtube-playlist-from-home-and-on-the-move/"><u>In 2024, Personalize Your Soundtrack Constructing a YouTube Playlist From Home & On-the-Move</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-pivot-points-revolutionize-your-youtube-angles-with-ease/"><u>In 2024, Pivot Points Revolutionize Your YouTube Angles with Ease</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-complete-picture-youtubes-quick-clips/"><u>In 2024, The Complete Picture YouTube's Quick Clips</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-list-of-beautiful-wedding-clips-youtube-and-vimeo/"><u>In 2024, The Ultimate List of Beautiful Wedding Clips - Youtube & Vimeo</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-iphone-14-pro-max-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your iPhone 14 Pro Max</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-process-involves-screening-scoping-impact-analysis-and-mitein-of-an-eia-is-not-just-to-avoid-harm-but-also-to-explore-alternatives-and-mitigation-strate91/"><u>The Process Involves Screening, Scoping, Impact Analysis, and Mitein of an EIA Is Not Just to Avoid Harm but Also to Explore Alternatives and Mitigation Strategies.</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Overcoming MSI Afterburner's Inability to Detect Graphics Card on Modern Windows Versions"
-date: 2024-12-10T17:45:45.444Z
-updated: 2024-12-16T16:05:03.804Z
+date: 2024-12-22T08:07:37.843Z
+updated: 2024-12-24T19:20:30.641Z
 tags:
   - win11
   - win10
@@ -24,7 +24,7 @@ Many players are reporting that Hitman 3 is having server issues, and they const
  If you’re experiencing the same issue and hitting the “Retry” button didn’t work, you may want to try the following fixes, which have helped many other players.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -50,6 +50,10 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 6. Turn on your computer and connect to the Internet.
 7. Launch your game again and see if Hitman 3 works properly now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Allow Hitman 3 to run through Windows Firewall
 
  The**Connection Failed** error can happen if Windows Firewall is blocking your game. So be sure to check the Windows Firewall settings and let your Hitman 3 run through Windows Firewall. Here is how:
@@ -58,20 +62,16 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 ![Windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/Windows-firewall.jpg)
 2. On the left pane, click **Allow an app or feature through Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-app.jpg)
 3. Make sure your Hitman 3 is on the list, and also make sure it’s ticked for**Private** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. If you don’t find Hitman 3, click**Change settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/change-settings.jpg)
 5. Click**Allow another app…**  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![change settings](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-another-app.jpg)
 6. Add your Hitman 3 executable file. If you’re not sure where the game is installed, please follow these steps:  
@@ -81,10 +81,6 @@ Many players are reporting that Hitman 3 is having server issues, and they const
    * In the _**Local files**_ section, press _**Open folder**_ .  
    ![open hitman 3 folder](https://images.drivereasy.com/wp-content/uploads/2021/01/Open-folders.png)
 7. Now launch your game again and test if the**Hitman 3 connection failed error** has been solved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Update your network driver
 
@@ -103,17 +99,21 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to a flagged network adapter driver to automatically download and install the correct version of this driver (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-network-adapter-driver.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Run your game as an administrator
 
@@ -145,19 +145,19 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap9-5.jpg)
 5. Then type the command line **ipconfig /release**  and press **Enter**  on your keyboard.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap11-5.jpg)
 6. Type the command line **ipconfig /renew**  and press **Enter**  on your keyboard.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap12-5.jpg)
 7. Play Hitman 3 again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -184,19 +184,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-essential-list-8-leading-tools-for-video-translation-mastery/"><u>[New] Essential List 8 Leading Tools for Video Translation Mastery</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-leveraging-chromes-picture-in-picture-for-multi-screen-browsing/"><u>2024 Approved Leveraging Chrome's Picture-In-Picture for Multi-Screen Browsing</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/capturing-clarity-web-based-high-definition-recorders-for-2024/"><u>Capturing Clarity Web-Based High-Definition Recorders for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/from-couch-to-camera-earning-through-personal-vlogging-for-2024/"><u>From Couch-to-Camera Earning Through Personal Vlogging for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-iphone-13-pro-max-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On iPhone 13 Pro Max without Password?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/how-to-verify-your-youtube-account-a-simple-guide-for-2024/"><u>How to Verify Your YouTube Account - a Simple Guide for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-youtube-and-twitch-expand-your-viewership-with-multi-streaming-techniques/"><u>In 2024, Mastering YouTube & Twitch Expand Your Viewership with Multi-Streaming Techniques</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-maximizing-impact-a-guide-to-customizing-game-banners/"><u>In 2024, Maximizing Impact A Guide to Customizing Game Banners</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-realme-narzo-60-pro-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Realme Narzo 60 Pro 5G with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/is-your-yt-channel-earning-as-it-should-tips-to-find-out-for-2024/"><u>Is Your YT Channel Earning as It Should? – Tips to Find Out for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-fcp-or-lumafusion-the-pros-and-cons-of-each-video-editing-software/"><u>New 2024 Approved FCP or LumaFusion The Pros and Cons of Each Video Editing Software</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-prime-picks-best-storytelling-channels-fans-for-2024/"><u>The Prime Picks Best Storytelling Channels Fans for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-overcoming-driver-setup-mishaps-in-user-preferences/"><u>Troubleshooting Tips for Overcoming Driver Setup Mishaps in User Preferences</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/unraveling-the-latest-features-of-lgs-360-camera-series-for-2024/"><u>Unraveling the Latest Features of LG's 360 Camera Series for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-essential-3d-toolkit-creating-engaging-video-beginnings/"><u>[New] Essential 3D Toolkit Creating Engaging Video Beginnings</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-free-access-worlds-biggest-youtube-short-downloaders/"><u>[New] Free Access World’s Biggest YouTube Short Downloaders</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-unbeatable-ways-to-archive-lol-encounters/"><u>[New] In 2024, Unbeatable Ways to Archive LOL Encounters</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-essential-8-websites-fusing-impressive-3d-and-opulent-texts/"><u>[Updated] In 2024, Essential 8 Websites Fusing Impressive 3D & Opulent Texts</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-maximizing-xbox-broadcast-transitioning-to-fb-live/"><u>[Updated] Maximizing Xbox Broadcast Transitioning to FB Live</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-streaming-masterpieces-best-movie-directories-on-yt/"><u>2024 Approved Streaming Masterpieces Best Movie Directories on YT</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-gamers-tools-premium-gear-lists-on-youtube/"><u>2024 Approved Top Gamers' Tools Premium Gear Lists on YouTube</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-xiaomi-14-ultra-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726027542014-flac320kbps-mp3/"><u>高音質変換！FLACから320kbps MP3へ、劣化が起きない最適方法</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-revamp-your-systems-policy-settings-with-ease/"><u>How to Revamp Your System's Policy Settings with Ease</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-navigating-your-net-gain-three-steps-to-quantify-your-youtube-earnings/"><u>In 2024, Navigating Your Net Gain Three Steps to Quantify Your YouTube Earnings</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/maker-milestones-subscriber-and-interactive-feature-prizes-for-2024/"><u>Maker Milestones Subscriber & Interactive Feature Prizes for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-launch-alert-get-ready-to-play-god-of-war-in-a-thrilling-fps-format/"><u>PC Launch Alert! Get Ready to Play God of War in a Thrilling FPS Format</u></a></li>
 </ul></div>
 

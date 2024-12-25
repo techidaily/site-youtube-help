@@ -1,7 +1,7 @@
 ---
 title: "Mastering Stability: Prevent Guardians of the Galaxy From Collapsing on Your PC with Our Tricks"
-date: 2024-12-10T18:27:04.875Z
-updated: 2024-12-16T18:32:19.343Z
+date: 2024-12-19T03:07:43.385Z
+updated: 2024-12-24T17:39:21.837Z
 tags:
   - win11
   - win10
@@ -49,10 +49,6 @@ Marvel’s Guardians of the Galaxy system requirements
 
  If it keeps crashing on your powerful PC, just read on and try the fixes below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Update your graphics driver
 
  Graphics driver is essential to the functioning of video games. If Marvel’s Guardians of the Galaxy keeps crashing on your PC, it’s likely that you have a corrupted or outdated graphic driver on your PC. So you should update your drivers to see if it fixes the game crashing issues.
@@ -71,6 +67,10 @@ Marvel’s Guardians of the Galaxy system requirements
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -87,7 +87,7 @@ Marvel’s Guardians of the Galaxy system requirements
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Depending on the size of the game files, it may take some time to verify all your game files.
@@ -104,6 +104,10 @@ If this issue persists, try the next fix, below.
 
  Launch Marvel’s Guardians of the Galaxy again and check if this fix works. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Disable overlays
 
  Overlays are handy. However, sometimes they would interfere with the game and even block the game files.
@@ -115,7 +119,7 @@ If this issue persists, try the next fix, below.
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
@@ -151,10 +155,6 @@ If this fix didn’t work, try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Wait for Fortect to scan your PC. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. After the scanning process is completed, Fortect will provide you with the PC scan summary.  
 
@@ -163,7 +163,11 @@ If this fix didn’t work, try the next fix, below.
  Note: This is a paid service with a 60-day Money-Back Guarantee, which means that you’ll need to buy the full version to start repair.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Perform a clean boot
@@ -174,19 +178,11 @@ If this fix didn’t work, try the next fix, below.
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
@@ -194,10 +190,14 @@ If this fix didn’t work, try the next fix, below.
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Restart** your PC and launch Marvel’s Guardians of the Galaxy to check if the game crashes again. If not, open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
@@ -233,18 +233,16 @@ If this fix didn’t work, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-get-more-eyeballs-perfect-your-youtube-description-templates-for-viewer-attraction/"><u>[New] Get More Eyeballs Perfect Your YouTube Description Templates for Viewer Attraction</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-quick-methods-for-saving-videos-on-youtube/"><u>[New] Quick Methods for Saving Videos on YouTube</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-the-ultimate-checklist-for-google-podcast-enthusiasts-for-2024/"><u>[New] The Ultimate Checklist for Google Podcast Enthusiasts for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeos-gratis-editing-guide-enhance-videos-on-budget/"><u>[Updated] 2024 Approved Vimeo's Gratis Editing Guide Enhance Videos on Budget</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-enhancing-engagement-how-to-utilize-youtubes-prominent-channels-for-2024/"><u>[Updated] Enhancing Engagement How to Utilize YouTube's Prominent Channels for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-travel-film-kit-the-necessary-arsenal/"><u>[Updated] Travel Film Kit The Necessary Arsenal</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-dissecting-screencapturex-pros-latest-recording-capabilities/"><u>2024 Approved Dissecting ScreenCaptureX Pro's Latest Recording Capabilities</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-safe-sharing-safe-viewing-tips-for-hiding-online-images/"><u>2024 Approved Safe Sharing, Safe Viewing Tips for Hiding Online Images</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-securing-a-stable-stream-of-earnings-on-youtube/"><u>2024 Approved Securing a Stable Stream of Earnings on YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-streaming-google-meet-a-step-by-step-youtube-tutorial/"><u>2024 Approved Streaming Google Meet A Step-By-Step YouTube Tutorial</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unlock-your-youtube-shorts-earnings-potential/"><u>2024 Approved Unlock Your YouTube Shorts Earnings Potential</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-itel-a05s-frp-by-drfone-android/"><u>Full Guide to Bypass Itel A05s FRP</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-your-pc-fixing-d3dx924dll-missing-error-effectively/"><u>Troubleshooting Your PC: Fixing 'd3dx9_24.dll Missing' Error Effectively</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-frame-your-images-right-best-tools-and-sites-of-2023/"><u>[New] 2024 Approved Frame Your Images Right Best Tools & Sites of 2023</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-aesthetic-adjustments-after-effects-titles/"><u>[Updated] Aesthetic Adjustments After Effects Titles</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-importance-of-accurate-slug-line-writing-in-screenplays/"><u>[Updated] The Importance of Accurate Slug Line Writing in Screenplays</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ifunbox/"><u>「最新iFunBox日本語版を無料で入手し、スムーズに設置するためのチュートリアル」</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-leading-videographers-best-editor-picks/"><u>2024 Approved Leading Videographers' Best Editor Picks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-xiaomi-13t-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-add-featured-channels-on-youtube-a-complete-guide/"><u>In 2024, How to Add Featured Channels on YouTube A Complete Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-ispoofer-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-guide-to-crafting-striking-youtube-thumbnails-mac-edition/"><u>In 2024, Step by Step Guide to Crafting Striking YouTube Thumbnails - Mac Edition</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-steps-for-confirming-youtube-identity/"><u>In 2024, Steps for Confirming YouTube Identity</u></a></li>
+<li><a href="https://facebook.techidaily.com/redesigning-reality-from-facebook-to-meta-evolution/"><u>Redesigning Reality: From Facebook to Meta Evolution</u></a></li>
 </ul></div>
 
