@@ -1,7 +1,7 @@
 ---
 title: Streamline Your Presenting Skills with These 7 Innovative AI Tools That Craft Impressive Slide Decks
-date: 2024-12-19T06:03:22.989Z
-updated: 2024-12-24T23:34:05.742Z
+date: 2024-12-29T16:42:28.604Z
+updated: 2025-01-03T20:00:52.482Z
 tags:
   - chatgpt
   - open-ai
@@ -19,11 +19,19 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 
  By comparing the AI chatbot's workout plans to similar exercises and routines available now on websites and apps, it's easy to see what the chatbot gets right as well as highlight its potential weak spots. Here's what to know about ChatGPT and its use in the fitness realm.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is ChatGPT?
 
  The[AI chatbot ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) by generating natural-sounding responses to prompts that you type. Although this type of technology has existed for a while, ChatGPT in particular is notable for its (mostly) accurate and intelligent responses.
 
  Despite a few limitations—the chatbot has limited information about the world after about 2021—it's useful for summarizing books, writing a resume, debugging code, and much more. But does it have enough information to design a workout plan for you? Here's how ChatGPT responded to common requests for three different types of workout plans.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Basic Workout Plans From ChatGPT
 
@@ -45,15 +53,15 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 
 ![Chat GPT injury recovery prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chat-gpt-injury-recovery-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  What if you are recovering from an injury? It's safest (and always recommended) to consult your doctor for any specific questions about how you can exercise with an injury or other health concern, but I wanted to see how the bot would respond.
 
  Wisely, this response also includes a prompt to listen to your healthcare provider, so ChatGPT covers its bases in that way. It also encourages you to stretch gently, incorporate low-impact activities where appropriate, and avoid pushing too hard right away.
 
  As someone who has recovered from a fair share of sports injuries, this is the same kind of advice I received from physicians and physical therapists when returning to activities. Again, nothing can replace personalized advice from a healthcare provider, but the chatbot gets the broad strokes correct and advises caution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How ChatGPT Creates Running Plans
 
@@ -63,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 
 ![ChatGPT 10K running plan prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-10k-running-plan-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  I responded to the questions in order, and it provided a multi-week plan. The plan is actually pretty solid, even taking potential injuries into account, but it didn't get into more granular details like pacing.
 
  If your goal focuses on speed (such as running a 10K in less than an hour), then you may want a plan that targets a certain pace. In this example, you'd need to hold around a 9:30/mile pace to complete the 10K in under one hour.
@@ -75,21 +79,17 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 
 ![ChatGPT Boston qualifier prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-boston-qualifier-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, there is some level of self-awareness with ChatGPT's advice on this topic (if you can say such a thing about AI technology). For instance, if you ask it to create a running plan that will help you qualify for the Boston Marathon, then it directs you to find an online plan that already addresses this ambition. It's a huge, years-long goal, even for many talented runners, and the app rightly doesn't attempt to offer a pat response.
 
  While ChatGPT provides adequate training plans for runners, there are many free resources for running plans online that offer much more detail. In time, however, it's likely the chatbot will be able to provide more in-depth plans that take pacing, heart rate zones, and more information into account.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Strength Training Plans From ChatGPT
 
 ![ChatGPT strength training prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-strength-training-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Likewise, ChatGPT’s general strength training plan is also pretty dependable, calling for bodyweight exercises like squats and push-ups as well as dumbbell rows. It’s similar to what you might find from[top strength-training apps](https://www.makeuseof.com/best-weightlifting-apps/) .
 
@@ -98,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 ![ChatGPT deadlifts prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-deadlifts-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In this example, I received detailed instructions on the correct way to do deadlifts. It offered helpful pointers about your stance, grip, and even breathing techniques in order to make the most of this particular exercise.
@@ -124,22 +124,21 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-top-10-youtube-makeup-gurus-for-stunning-looks/"><u>[New] 2024 Approved Top 10 YouTube Makeup Gurus for Stunning Looks</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-ideal-titles-and-sizes-maximizing-click-through-rates/"><u>[New] Ideal Titles & Sizes Maximizing Click Through Rates</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-deciphering-no-snaps-possible-blocking/"><u>[Updated] 2024 Approved Deciphering No Snaps, Possible Blocking</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-innovative-approaches-to-youtube-teaser-trailblazing/"><u>[Updated] In 2024, Innovative Approaches to YouTube Teaser Trailblazing</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-innovative-alternatives-for-affordable-camera-screenshots/"><u>[Updated] Innovative Alternatives for Affordable Camera Screenshots</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-from-video-views-to-vault-closure-income-insights-for-youtubers/"><u>2024 Approved From Video Views to Vault Closure Income Insights for Youtubers</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-infuse-thumbnails-unforgettable-scenes/"><u>2024 Approved Infuse Thumbnails Unforgettable Scenes</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-micro-snippet-analysis-at-a-glance/"><u>2024 Approved Micro Snippet Analysis at a Glance</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-top-15-free-audio-resources-for-youtube-clips-makers/"><u>2024 Approved Top 15 FREE Audio Resources for YouTube Clips Makers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/articulating-imagination-chatgpts-creative-edge/"><u>Articulating Imagination: ChatGPT's Creative Edge</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-a-heartfel/"><u>In 2024, Create a Heartfel</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-scripting-your-storys-visual-heartbeat-at-home/"><u>In 2024, Scripting Your Story's Visual Heartbeat at Home</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-fastest-8-growing-video-content-hubs-on-youtube/"><u>In 2024, The Fastest 8 Growing Video Content Hubs on YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-the-leading-youtube-to-mp3-tools/"><u>In 2024, Unveiling the Leading YouTube to Mp3 Tools</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/maroon-5-their-modern-pop-rock-sound-has-many-feel-good-songs-such-as-sunday-morning-and-the-classic-this-love/"><u>Maroon 5 – Their Modern Pop-Rock Sound Has Many Feel-Good Songs Such as Sunday Morning and the Classic This Love.</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-disassemblers-path-to-understanding-an-xbox-360-slim/"><u>The Disassembler's Path to Understanding an Xbox 360 Slim</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ultimate-tutorial-for-professional-gopro-cinematography/"><u>Ultimate Tutorial for Professional GoPro Cinematography</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-building-a-vivid-world-with-animated-clips-in-movie-maker/"><u>[New] 2024 Approved Building a Vivid World with Animated Clips in Movie Maker</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-capitalize-on-your-youtube-shorts-for-cash-flow/"><u>[Updated] 2024 Approved How to Capitalize on Your YouTube Shorts for Cash Flow</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-interpreting-laws-around-youtube-content-capture/"><u>2024 Approved Interpreting Laws Around YouTube Content Capture</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-dual-platform-dance-posting-vids-with-twitter-and-tumblr/"><u>2024 Approved The Dual-Platform Dance Posting Vids with Twitter & Tumblr</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-honor-x50i-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Honor X50i Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-microsoft-flight-simulator-2020-updates-pending-error/"><u>Fix Your Microsoft Flight Simulator 2020 'Updates Pending' Error</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/gags-and-grins-techniques-in-parody-production-for-2024/"><u>Gags and Grins Techniques in Parody Production for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-in-depth-guide-to-video-money-making-across-platforms/"><u>In 2024, In-Depth Guide to Video Money-Making Across Platforms</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-online-video-earnings/"><u>In 2024, Mastering Online Video Earnings</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-art-of-profit-driven-online-shopping-blogosynthesis/"><u>In 2024, The Art of Profit-Driven Online Shopping Blogosynthesis</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-understanding-light-settings-in-youtube-video-editing/"><u>In 2024, Understanding Light Settings in YouTube Video Editing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/mastering-tweeted-videos-on-facebooks-networks/"><u>Mastering Tweeted Videos on Facebooks Networks</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-youtubes-revenue-mechanisms-for-2024/"><u>Navigating YouTube's Revenue Mechanisms for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-bluetooth-speaker-audio-only-issue/"><u>Resolving Windows: Bluetooth Speaker - Audio Only Issue</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/revisit-the-past-easy-access-to-fb-story-archive-for-2024/"><u>Revisit the Past Easy Access to FB Story Archive for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-review-of-vn-video-editor-mobile-app-for-2024/"><u>Updated The Ultimate Review of VN Video Editor Mobile App for 2024</u></a></li>
 </ul></div>
 

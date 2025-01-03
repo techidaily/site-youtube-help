@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Full-Time Careers Meet Video Content  A Harmonious Mix\""
-date: 2024-12-23T01:27:14.311Z
-updated: 2024-12-25T02:48:31.647Z
+date: 2024-12-28T16:17:34.163Z
+updated: 2025-01-03T17:52:30.090Z
 tags:
   - ai video
   - ai youtube
@@ -42,36 +42,28 @@ So, to save you and your viewers some of the same struggles, here are 5 tips I r
 
 [5. Be creative! Create audios (audio-only videos)](#createaudio)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1. Don’t force yourself to post on specific days
 
 I know what you’re thinking - “What?! That’s insane.” The first piece of advice I received about YouTube was to create a schedule of days to post so your viewers look forward to videos. That just doesn’t work for me. Whenever I became too busy with work, I couldn’t stick to my typical Tuesday or Thursday schedule. I think it’s best to focus on how many times you can post in a week rather than a specific day. I try to post at least once a week and that’s my goal. You can always increase as your workload gets lighter or you when you are able to do YouTube full-time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2. Keep track of all your ideas in one notebook planner
 
 A notebook planner is essential for keeping my life organized and on track. When I first started my channel, I had a separate planner just for my YouTube videos – this didn’t work cause I never looked at it. It worked best when I kept track of my entire life, including YouTube, in one planner since I look at it every day. Then I could also see which days I wanted to post a video or see what topics worked best around specific holidays and such.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3. Check the weather forecast in advance
 
 When starting a YouTube channel, many YouTubers like myself don’t have the money to afford all the fancy lighting you see other creators using. [I use natural light](https://tools.techidaily.com/wondershare/filmora/download/), which means I have to make sure it’s going to be a sunny day or at least bright enough for my videos to be clear. I check the forecast for the week on Sunday evenings so I can plan out my best days to film, this keeps my video shooting schedule productive.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4. Create 3-5 videos in advance
 
 This week I am on PTO (paid time off) which has given me a lot more time to film videos I can post for next month. Life happens and it can set you back on filming. If you happen to get a major break in your workweek, use the opportunity to film a bunch of videos, edit them, and have them waiting in your pocket. I filmed three videos in one day – I planned and set-up the night before, which made filming much smoother. Trust me, this tip works wonders!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5. Be creative! Create audios (audio-only videos)
@@ -79,6 +71,10 @@ This week I am on PTO (paid time off) which has given me a lot more time to film
 In the event that life gets too crazy, it’s perfectly fine to do just audio. Many of us are always on the go which means it’s the perfect time to listen to great advice while driving to work, waiting on the bus, or working at the gym. Someone out there would love to hear your advice. I started to do this with my Tea Time Talk Audios and the response was great.
 
 I hope these tips can help you on your journey with YouTube while still working a full-time job.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Make a YouTube Video with Wondershare Filmora
 
@@ -89,10 +85,14 @@ Just try it and create your own YouTube video!
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -109,15 +109,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-best-drawing-apps-for-iphones/"><u>[New] Best Drawing Apps for iPhones</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-exploring-the-monetization-framework-of-tseries-via-youtube/"><u>[New] Exploring the Monetization Framework of TSeries via YouTube</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-supercharge-your-content-editing-and-enhancing-youtube-tags/"><u>[Updated] In 2024, Supercharge Your Content Editing and Enhancing YouTube Tags</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-maximizing-your-youtube-investments-through-famebit-networking-tactics/"><u>2024 Approved Maximizing Your YouTube Investments Through FameBit Networking Tactics</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-guide-to-perfecting-your-yt-visual-footprint/"><u>2024 Approved The Ultimate Guide to Perfecting Your YT Visual Footprint</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Honor X50i? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Realme 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-privacy-in-media-cutting-out-unwanted-visibility/"><u>In 2024, Mastering Privacy in Media Cutting Out Unwanted Visibility</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-honor-play-40c-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Honor Play 40C Users</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/top-rated-holiday-music-compilations-free-mp3-downloads/"><u>Top-Rated Holiday Music Compilations: Free MP3 Downloads</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-sprinkle-of-life-in-your-text-animations/"><u>[New] 2024 Approved The Sprinkle of Life in Your Text Animations</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-discover-the-50-best-viewed-tiktok-hashtags/"><u>[New] In 2024, Discover the 50 Best-Viewed TikTok Hashtags</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-maximize-screen-tv-playback-for-youtube-clips/"><u>[New] Maximize Screen TV Playback for YouTube Clips</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-leading-tools-to-download-your-favorite-pinterest-videos-for-nothing/"><u>2024 Approved Leading Tools to Download Your Favorite Pinterest Videos for Nothing</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-permitted-practices-for-saving-youtube-videos/"><u>2024 Approved Permitted Practices for Saving YouTube Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-ways-to-stop-anonymous-phone-calls-from-ringing-your-iphone/"><u>Effective Ways to Stop Anonymous Phone Calls From Ringing Your iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-steam-big-picture-features/"><u>Exploring the Steam Big Picture Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/home-theater-wars-sony-playstation-5-vs-thrifty-pc/"><u>Home Theater Wars: Sony PlayStation 5 Vs. Thrifty PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-12-pro-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock iPhone 12 Pro without Passcode</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-reno-10-proplus-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Oppo Reno 10 Pro+ 5G Bootloader Easily</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-leading-youtube-snack-seekers-free-top-downloads/"><u>In 2024, Leading YouTube Snack Seekers Free, Top Downloads</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-starting-a-channel-with-confidence-your-essential-kit/"><u>In 2024, Starting a Channel with Confidence – Your Essential Kit</u></a></li>
+<li><a href="https://discover-community.techidaily.com/top-12-animated-series-in-2d-art-updated-list-2vear-2024-movavi/"><u>Top 12 Animated Series in 2D Art - Updated List 2Vear 2024 | Movavi</u></a></li>
 </ul></div>
 

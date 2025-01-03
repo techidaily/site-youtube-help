@@ -1,7 +1,7 @@
 ---
 title: "\"More than Just Likes and Watch Time  The Complexity of YouTube's View Tally for 2024\""
-date: 2024-12-23T13:14:01.867Z
-updated: 2024-12-24T20:36:55.164Z
+date: 2024-12-29T18:12:52.705Z
+updated: 2025-01-03T19:13:03.040Z
 tags:
   - ai video
   - ai youtube
@@ -42,10 +42,6 @@ After you have created your YouTube channel, do you want to edit videos and uplo
 
 You can use Filmora to make YouTube videos with built-in royalty-free audio. Filmora also can help you make YouTube intros. It includes more than 500 templates, transitions, effects, and text resources.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Not Everyone Who Clicks Adds to Your View Count
 
 YouTube doesn’t provide a clear definition of what counts as a view, but we know that someone clicks on your video, and clicking right away doesn’t count. That’s how we know that watch time is a factor. Some studies conclude that a [full 30 seconds need to be viewed](https://buffer.com/library/social-video-metrics/#9) to register as one view, but there is no way to know for sure.
@@ -53,7 +49,7 @@ YouTube doesn’t provide a clear definition of what counts as a view, but we kn
 ![how YouTube counts view](https://images.wondershare.com/filmora/article-images/how-youtube-count-view.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How Does YouTube Count Views?
@@ -66,10 +62,6 @@ At times, your view count can even be frozen temporarily until the algorithm can
 
 You May Also Like:
 [5 Tips To Get More Views With YouTube Optimization \[Free Checklist\] >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. How Does YouTube’s View Count Algorithm Work?
 
@@ -87,6 +79,10 @@ We are adding ‘likely’ here because, despite this 30-second rule which has b
 
 Try to watch the same video numerous times in a single day. You will find that the count will add up at first, but after some time it will stop. YouTube knows that a lot of times people replay some videos over and over when they really enjoy them, and so they want to factor replays into their algorithm because they suggest quality. However, to avoid spam views, the counter will stop after a certain point.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Account Tracking Factors - Some Viewers Don't Count
 
 Something else that can affect whether a view is counted is the behavior of the account which watches it prior to landing on your video’s watch page. Sometimes, YouTube might feel that there is an increased chance a particular account is actually a bot, and then views from that account might not be added.
@@ -95,16 +91,12 @@ One way that [YouTube might flag an account as a potential bot](https://support.
 
 Any bot-like action will result in an account’s views do not be added to your view count.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. The Skip & Skim
 
 It’s not uncommon for viewers to watch a video for say five seconds, skip forwards a bit and watch for another ten seconds as they look for a specific part. It is hard to say whether skipping through a video, but watching a scattered 30 seconds, would count as a view or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Frozen YouTube View Counts
@@ -121,6 +113,10 @@ This is why view counts are often frozen at 301\. The employees at YouTube then 
 
 During the period when the view count is frozen every legitimate view is still counted, just not added immediately. Once the YouTube team is sure that your videos are not getting fake traffic, your view count will be updated to include views that were registered during the frozen phase. However, [YouTube says](https://www.theverge.com/2015/8/5/9100759/youtube-301-view-count-freeze-going-away) it won't flag videos at 301 views anymore.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In short, we know YouTube expects a viewer to watch a video for around 30 seconds before it counts a view, that views from suspicious accounts are not counted, and that YouTube can decide to freeze your view count while they review your views. They are protecting the site from becoming saturated with videos that only look popular because of bots. Ultimately, ‘how does YouTube count views’ isn’t a question anyone but YouTube can answer for sure, but we do know it isn’t as simple as ‘a view is someone clicking on your video’.
@@ -128,6 +124,10 @@ In short, we know YouTube expects a viewer to watch a video for around 30 second
 If you want to engage your audience with cool effects and Filmora is the best choice to make a split-screen and green screen video for YouTubers. Download it now to have a try!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
@@ -146,22 +146,17 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-how-many-viewers-to-target-for-a-youtube-earning-journey/"><u>[New] How Many Viewers to Target for a YouTube Earning Journey?</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-building-sustainable-cities-innovation-in-environmental-design/"><u>[Updated] 2024 Approved Building Sustainable Cities Innovation in Environmental Design</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-professional-recordings-at-home-10-key-strategies-for-excellence/"><u>2024 Approved Professional Recordings at Home 10 Key Strategies for Excellence</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-quick-and-easy-channels-personalize-your-youtube-url-now/"><u>2024 Approved Quick and Easy Channels Personalize Your YouTube URL Now</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/abbyy-flexicapture90/"><u>ABBYY FlexiCapture®によりインボイス処理時間が90%短縮!企業デジタル変革のコア技術</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-best-family-flicks-to-watch-together-on-amazon-prime-video-in-july-2024/"><u>Discover the Best Family Flicks to Watch Together on Amazon Prime Video in July 2024</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/ditch-the-lame-fare-a-curated-selection-of-epic-dj-tracks-guaranteed-to-impress-at-any-dinner-party/"><u>Ditch the Lame Fare: A Curated Selection of Epic DJ Tracks Guaranteed to Impress at Any Dinner Party</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-itel-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Itel</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-cost-effective-stratosphere-storage-for-large-archives/"><u>In 2024, Cost-Effective Stratosphere Storage for Large Archives</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-evaluating-the-impact-of-true-to-self-imagery-on-instagram/"><u>In 2024, Evaluating the Impact of True-to-Self Imagery on Instagram</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-in-depth-earnings-analysis-adsense-payout-for-every-1000-viewers-on-youtube/"><u>In 2024, In-Depth Earnings Analysis AdSense Payout for Every 1,000 Viewers on YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-seamless-online-sound-conversion-ideal-tools-for-iphone-and-youtube-mp3s/"><u>In 2024, Seamless Online Sound Conversion Ideal Tools for iPhone and YouTube MP3s</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-rich-tapestry-of-ajeys-channel-wealth/"><u>In 2024, The Rich Tapestry of Ajey's Channel Wealth</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-hidden-gems-top-purchasers-of-youtube-creators/"><u>In 2024, Unveiling Hidden Gems Top Purchasers of YouTube Creators</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/insights-into-youtube-shorts-business-model-for-2024/"><u>Insights Into YouTube Shorts Business Model for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-energy-kits-for-hero5-official-and-alternative-products-for-2024/"><u>Ultimate Energy Kits for Hero5 - Official & Alternative Products for 2024</u></a></li>
-<li><a href="https://win-help.techidaily.com/usbwindows-server-202/"><u>USBドライブでWindows Server 202#を効率よくバックアップするコツと方法</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-techniques-for-modifying-photo-genders-on-major-social-platforms/"><u>[New] In 2024, Techniques for Modifying Photo Genders on Major Social Platforms</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-optimizing-team-calls-prepost-meeting-screen-customization-for-2024/"><u>[New] Optimizing Team Calls Pre/Post-Meeting Screen Customization for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-summit-creation-pro-x-evaluation/"><u>[Updated] In 2024, Summit Creation Pro X Evaluation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-reinvent-your-video-storytelling-in-obs-studio/"><u>[Updated] Reinvent Your Video Storytelling in OBS Studio</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/fixed-youtubes-missing-minute-media-for-2024/"><u>Fixed YouTube's Missing Minute Media for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-haste-in-playlist-distribution-youtube-guide/"><u>In 2024, Haste in Playlist Distribution YouTube Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-loop-youtube-videos-on-tv/"><u>In 2024, How to Loop YouTube Videos on TV</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-investing-right-choosing-the-best-camera-and-gear/"><u>In 2024, Investing Right Choosing the Best Camera and Gear</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-designing-safety-shortcuts-in-windows-11/"><u>Mastering the Art of Designing Safety Shortcuts in Windows 11</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-video-dimensions-a-focused-look-at-aspect-ratios-for-2024/"><u>Navigating Video Dimensions A Focused Look at ASPECT RATIOS for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/resolve-format-factory-issue-code-0x00000001-with-four-easy-fixes/"><u>Resolve Format Factory Issue Code 0X00000001 with Four Easy Fixes</u></a></li>
 </ul></div>
 

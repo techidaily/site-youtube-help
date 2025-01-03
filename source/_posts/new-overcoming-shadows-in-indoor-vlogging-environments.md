@@ -1,7 +1,7 @@
 ---
 title: "[New] Overcoming Shadows in Indoor Vlogging Environments"
-date: 2024-12-22T06:45:53.976Z
-updated: 2024-12-24T20:08:54.639Z
+date: 2024-12-29T17:47:48.854Z
+updated: 2025-01-03T19:57:56.853Z
 tags:
   - ai video
   - ai youtube
@@ -29,16 +29,12 @@ One of the best things you can do for your video quality is to ensure you have g
 Going outside and using natural light is the cheapest way to get a lot of light for your videos. If your vlog is not suited to the great outdoors then you need to get more strategic. You can turn on all the lights in your living room and still end up with a dark, grainy, video.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Video Lighting Basics: Three Point Lighting
 
 ![Lighting for YouTube Video](https://images.wondershare.com/filmora/article-images/three-point-lighting.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The most common technique of lighting a scene is called **three-point lighting**. It involves three different sources of light in the shot and is used by portrait photographers, which is also a great method for lighting your vlog.
 
@@ -53,10 +49,14 @@ The **fill light** is less bright than the primary source of light and it is pla
 The final step to creating three point lighting is to set up another light behind you. This is your 'Backlight', and it will help you stand out from your background. **Backlight or Hair light** is always placed behind and above the subject to create separation between the subject in the shot and the background. This basic lighting technique can be applied in almost every scene you shoot, which is why it is important to keep an open mind and to continue experimenting with possible light setups.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch Video! Top Lighting Tips for Vlogging
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Lightning Tips for Aspiring YouTube Videographers
 
@@ -84,15 +84,15 @@ Sets of reflectors are often under $50, so they are fairly affordable. However, 
 
 ![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips01.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If your strong main light is too hard on your eyes then you can use a translucent 'reflector' to soften it. Set your translucent reflector, or other screen, up in front of your main light to diffuse it.
 
 If you are hosting a **beauty vlog** then you might consider a slightly different set up. Instead of having your main light off to one side set it up directly in front of you so your entire face is lit evenly. It is still a good idea to use fill lights in this set up to give you some dimension, and a backlight is even more essential for helping you stand out from the background. The even light hitting your face will also make you look flat if you do not use a backlight.
 
 ![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips02.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you are using all of the lighting options available to you and your video still looks too dark then you can try brightening it by **opening up the aperture of your camera** lens/setting a lower f-stop. Letting more light into your camera can help your footage look brighter, although you also run the risk of making things look overexposed/ washed out if you are not careful.
 
@@ -101,7 +101,7 @@ If you are stuck shooting in **low light conditions** it is best to use a lens w
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -119,20 +119,16 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-introducing-10-elusive-instagram-story-visionaries/"><u>[New] 2024 Approved Introducing 10 Elusive Instagram Story Visionaries</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-sound-fidelity-preservation-computer-sounds-and-dialogue/"><u>[New] 2024 Approved Sound Fidelity Preservation Computer Sounds & Dialogue</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-strategizing-the-open-door-to-market-success/"><u>[New] In 2024, Strategizing the Open Door to Market Success</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-step-by-step-tutorial-personalize-and-elevate-your-short-videos/"><u>[New] Step-by-Step Tutorial Personalize and Elevate Your Short Videos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-unlock-the-power-of-podcasts-15-tips-for-multitasking-and-growth/"><u>[Updated] 2024 Approved Unlock the Power of Podcasts 15 Tips for Multitasking and Growth</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-most-reliable-slow-motion-camera-apps-apple-and-android/"><u>[Updated] Most Reliable Slow Motion Camera Apps, Apple & Android</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-effortlessly-eradicate-unwanted-youtube-feedback/"><u>2024 Approved How to Effortlessly Eradicate Unwanted YouTube Feedback</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-loop-it-live-watch-youtube-in-sequential-sweetness/"><u>2024 Approved Loop It Live Watch YouTube in Sequential Sweetness</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-top-15-must-use-gaming-tags-for-skyrocketing-views-on-youtube/"><u>2024 Approved Top 15 Must-Use Gaming Tags for Skyrocketing Views on YouTube</u></a></li>
-<li><a href="https://win-data.techidaily.com/3windows-vistawindows-11/"><u>3効果的な手順で、Windows VistaのデータをWindows 11にスムーズ移行しませんか?</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-crashes-and-stabilize-your-mordhau-gaming-experience/"><u>How to Overcome Crashes and Stabilize Your Mordhau Gaming Experience</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-binge-on-savings-top-tiktok-items-now-at-bargain-prices-on-amazon/"><u>In 2024, Binge on Savings Top TikTok Items Now at Bargain Prices on Amazon</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-secrets-of-soaring-wealth-joshis-youtube-path/"><u>In 2024, Secrets of Soaring Wealth Joshi's Youtube Path</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-skyrocket-your-channels-with-these-essential-freegame-tags-for-youtube/"><u>In 2024, Skyrocket Your Channels with These Essential FreeGame Tags for YouTube</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210945659-9781454950868-walking-through-darkness/"><u>Walking through Darkness | Free Book</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-secrets-of-earning-big-reddits-13-money-makers/"><u>[New] In 2024, Secrets of Earning Big Reddit's 13 Money Makers</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-the-art-of-transformation-in-tiktok-videos-via-background-shifts/"><u>[New] The Art of Transformation in TikTok Videos via Background Shifts</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-essential-steps-for-unshakable-tiktok-account-shutdown/"><u>2024 Approved Essential Steps for Unshakable TikTok Account Shutdown</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-youtubes-creative-commons-licensing-guide/"><u>2024 Approved Mastering YouTube’s Creative Commons Licensing Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/financial-insights-for-vids-how-much-do-youtubers-earn-per-sponsorship-for-2024/"><u>Financial Insights for Vids How Much Do YouTubers Earn Per Sponsorship for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-11-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone 11 and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-master-the-art-of-video-editing-with-top-7-sounds-selections/"><u>In 2024, Master the Art of Video Editing with Top 7 Sounds Selections</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-next-gen-videostreaming-hubs-triumph-beyond-youtube/"><u>In 2024, Next-Gen Videostreaming Hubs Triumph Beyond Youtube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/top-5-best-terraria-map-for-viewers-to-find-treasure/"><u>Top 5 Best Terraria Map for Viewers to Find Treasure</u></a></li>
+<li><a href="https://driver-install.techidaily.com/xerox-workcentre-os-upgrade/"><u>Xerox WorkCentre OS Upgrade</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/your-complete-insiders-handbook-on-instagram-reels/"><u>Your Complete Insider's Handbook on Instagram Reels</u></a></li>
 </ul></div>
 

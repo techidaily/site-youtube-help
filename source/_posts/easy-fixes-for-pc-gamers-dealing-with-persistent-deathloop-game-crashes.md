@@ -1,7 +1,7 @@
 ---
 title: "Easy Fixes for PC Gamers: Dealing with Persistent Deathloop Game Crashes"
-date: 2024-12-22T11:53:16.120Z
-updated: 2024-12-24T21:35:31.938Z
+date: 2024-12-27T19:39:20.242Z
+updated: 2025-01-03T18:31:15.188Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/502b1cdc938497dc65859bd4dea7388cbc83b5388
 
  If you happen to be one of them, don’t worry. Here’re some working fixes that could bring back your game without frying your graphics card.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that does the charm.
@@ -37,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/502b1cdc938497dc65859bd4dea7388cbc83b5388
 6. **[Delete specific game files](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Verify the integrity of game files
@@ -48,14 +44,14 @@ thumbnail: https://thmb.techidaily.com/502b1cdc938497dc65859bd4dea7388cbc83b5388
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-3.jpg)
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-4.jpg)
 3. Allow the checking to complete. Then you can start New World and see if it crashes again.
 
 If the problem persists, take a look at the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -73,6 +69,10 @@ If the problem persists, take a look at the next fix below.
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC and test the gameplay in New World.
@@ -89,17 +89,21 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -108,7 +112,7 @@ Here’s how you can check for updates manually:
 If your system is already up to date, you can try the next method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Change in-game graphics settings
@@ -140,24 +144,20 @@ Now you can play and check if the crash stops.
 4. Deselect the **Automatically manage paging file size for all drives** checkbox. Then select **Customize size** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/vritual-memory-set.jpg)
 5. Enter **Initial size** and **Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory (actual RAM) of my computer is 8 GB, so the **Initial size** for me here is **8 x 1024 x 1.5 = 12288 MB** , and the **Maximum size** should be **8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click **Set** , then click **OK**  to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-set-02.jpg)
 6. Restart your computer and check if New World crashes again.
 
- If this trick doesn’t do the trick for you, take a look at the next solution.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If this trick doesn’t do the trick for you, take a look at the next solution.
 
 ### Fix 6: Delete specific game files
 
@@ -192,19 +192,21 @@ Now you can play and check if the crash stops.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-softening-audio-levels-alives-approach/"><u>[New] 2024 Approved Softening Audio Levels Alive’s Approach</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-speech-synthesis-simplified-from-ssa-to-compelling-srt-files-for-2024/"><u>[New] Speech Synthesis Simplified From SSA to Compelling SRT Files for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagram-content-top-15-download-apps-unveiled/"><u>[Updated] 2024 Approved Instagram Content Top 15 Download Apps Unveiled</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-how-to-force-youtube-cc-to-stay-on-and-get-more-views/"><u>[Updated] How to Force YouTube CC to Stay On and Get More Views</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-flawless-footage-with-best-stabilizer-brands/"><u>2024 Approved Flawless Footage with Best Stabilizer Brands</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-optimal-vr-headset-choice-embracing-the-freedom-of-mobile-or-the-tethered-experience/"><u>2024 Approved Optimal VR Headset Choice Embracing the Freedom of Mobile Or The Tethered Experience?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-stream-wars-fb-live-youtube-live-and-twitters-periscope-face-off/"><u>2024 Approved The Stream Wars FB Live, YouTube Live, and Twitter's Periscope Face-Off</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/filmoras-secrets-to-captivating-youtube-trailers-for-2024/"><u>Filmora's Secrets to Captivating YouTube Trailers for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/how-to-streamline-the-integration-of-youtube-playlists-into-a-sites-layout-for-2024/"><u>How To Streamline the Integration of YouTube Playlists Into a Site's Layout for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-6-ways-to-increase-audience-retention-on-youtube-filmora/"><u>In 2024, 6 Ways To Increase Audience Retention on YouTube - Filmora</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-live-pro-tips-outfitting-with-excellent-webcams/"><u>In 2024, YouTube Live Pro Tips Outfitting with Excellent Webcams</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-oneplus-nord-ce-3-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock OnePlus Nord CE 3 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/why-are-my-photo-booth-videos-pausing-in-2024/"><u>Why Are My Photo Booth Videos Pausing, In 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/44gp44gg44ke44gj44gm5pyj5yq544gq44op44kk44k744oz44k544kz44o844oj44ks5oml44gr5ywl44km44gplus44gz44glpw/"><u>どうやって有効なライセンスコードを手に入れますか?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-from-marks-acquiring-unmarked-stock-photography/"><u>[New] Free From Marks Acquiring Unmarked Stock Photography</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-in-depth-exploration-of-theta-s-capabilities/"><u>[Updated] 2024 Approved In-Depth Exploration of Theta S Capabilities</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-implementing-custom-overlays-in-youtube-videos/"><u>2024 Approved Implementing Custom Overlays in YouTube Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-the-art-of-shorts-imagery-quick-smart-updates/"><u>2024 Approved Mastering the Art of Shorts Imagery Quick, Smart Updates</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-probing-the-depth-of-recmeisters-high-end-screen-capture-features/"><u>2024 Approved Probing the Depth of Recmeister's High-End Screen Capture Features</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unlocking-potential-tubebuddy-and-channel-mastery/"><u>2024 Approved Unlocking Potential TubeBuddy & Channel Mastery</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/cultural-mosaic-benefits-of-embracing-multiple-languages/"><u>Cultural Mosaic: Benefits of Embracing Multiple Languages</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-remove-black-bars-from-existing-youtube-videos-in-2024/"><u>How to Remove Black Bars From Existing YouTube Videos, In 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-master-rapidly-expertise-in-designing-valorant-thumbnails/"><u>In 2024, Master Rapidly Expertise in Designing Valorant Thumbnails</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-payout-patterns-adsense-earnings-from-youtube-for-every-thousand-viewers/"><u>In 2024, Payout Patterns AdSense Earnings From YouTube for Every Thousand Viewers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-say-no-to-latency-turn-on-av1-in-youtube-settings/"><u>In 2024, Say No to Latency Turn On AV1 in YouTube Settings</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-speedy-tactics-for-disorganized-youtube-song-listings/"><u>In 2024, Speedy Tactics for Disorganized YouTube Song Listings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tackling-unexpected-video-reversals-on-instagram/"><u>Tackling Unexpected Video Reversals on Instagram</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-tips-how-to-rollback-windows-11-updates/"><u>Troubleshooting Tips: How To Rollback Windows 11 Updates</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-selecting-the-ideal-case-for-your-new-iphone-16-and-pro-professional-opinions-and-top-picks-of-2024/"><u>Ultimate Guide to Selecting the Ideal Case for Your New iPhone 16 & Pro: Professional Opinions and Top Picks of 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/your-ideal-health-companion-unveiling-the-features-of-samsung-galaxy-fit2-smartwatch/"><u>Your Ideal Health Companion: Unveiling the Features of Samsung Galaxy Fit2 Smartwatch</u></a></li>
 </ul></div>
 

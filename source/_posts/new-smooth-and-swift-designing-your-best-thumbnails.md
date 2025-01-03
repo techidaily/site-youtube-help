@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Smooth & Swift  Designing Your Best Thumbnails\""
-date: 2024-12-18T17:16:48.780Z
-updated: 2024-12-25T09:29:49.601Z
+date: 2024-12-29T16:59:03.590Z
+updated: 2025-01-03T16:09:29.229Z
 tags:
   - ai video
   - ai youtube
@@ -43,6 +43,10 @@ With time, Filmora brings new and advanced features for its users to equip them 
 
 ![ai-portrait-thumbnail-step1](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 02:** Make sure that the aspect ratio of your project is 16:9\. To do that, click on a screen-shaped icon below the preview screen and select "Change Project Aspect Ratio."
 
 ![ai-portrait-thumbnail-step2](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step2.png)
@@ -55,6 +59,10 @@ With time, Filmora brings new and advanced features for its users to equip them 
 
 ![ai-portrait-thumbnail-step4](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 05:** If you want to use your custom background, you can import it into the Filmora by clicking import or dragging and dropping it in the media section.
 
 ![ai-portrait-thumbnail-step5](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step5.png)
@@ -62,10 +70,6 @@ With time, Filmora brings new and advanced features for its users to equip them 
 **Step 06:** Import your video the same way into the media folder of Filmora and drag it into the timeline and place it above your background.
 
 ![ai-portrait-thumbnail-step6](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 07:** Select your footage, go to the Effects tab and click on AI Portraits. It will open up all the effects related to AI Portraits. These AI Portrait features help you separate the human from a background without using a green screen or anything else.
 
@@ -75,10 +79,6 @@ With time, Filmora brings new and advanced features for its users to equip them 
 
 ![ai-portrait-thumbnail-step8](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 09:** To make a thumbnail for your Youtube, we have to remove the background of your footage first. To do that we have to apply Human Segmentation to the footage first. It will separate the human from the footage. Drag and drop the Human Segmentation effect into the footage in the timeline. Once you drop it into the footage, it will ask you to purchase this feature to export the footage. Since we are not trying to export the footage, we are only creating a thumbnail, click on "Try It". Once the background is removed, you can add other effects as well. Drag and drop the "Human Border" into the footage. It creates an outline around the human in your footage.
 
 ![ai-portrait-thumbnail-step9](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step9.png)
@@ -87,20 +87,20 @@ With time, Filmora brings new and advanced features for its users to equip them 
 
 ![ai-portrait-thumbnail-step10](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step10.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 11:** Now it is time to add a title into your thumbnail to highlight what the video is all about. Go to the Titles, and select lower thirds. You can also select any of the titles types which best suits your needs. Drop the title into the timeline above the footage and adjust it accordingly. Now double click on the header to edit and rename it.
 
 ![ai-portrait-thumbnail-step11](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 12:** Once you are satisfied with the final results, click on the Camera icon below the preview screen or press "Ctrl+Alt+S" to take the screenshot.
 
 ![ai-portrait-thumbnail-step12](https://images.wondershare.com/filmora/article-images/ai-portrait-thumbnail-step12.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Conclusion
@@ -111,11 +111,11 @@ This article on making a thumbnail for your Youtube is just an idea for you, and
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
 
@@ -132,16 +132,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-prime-ways-from-video-links-to-audio-downloads/"><u>[Updated] 2024 Approved Prime Ways From Video Links to Audio Downloads</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-top-pick-hilarious-tone-downloads-online/"><u>[Updated] In 2024, Top Pick Hilarious Tone Downloads Online</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-professionals-choice-best-drone-gimbals/"><u>[Updated] Professional's Choice Best Drone Gimbals</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2023-how-to-make-facebook-videos-full-screen-for-2024/"><u>2023 | How to Make Facebook Videos Full Screen for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-express-individuality-with-youtube-backgrounds/"><u>2024 Approved Express Individuality with YouTube Backgrounds</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-upgrading-your-spotify-library-to-youtube-music-access/"><u>2024 Approved Upgrading Your Spotify Library to YouTube Music Access</u></a></li>
-<li><a href="https://article-posts.techidaily.com/cost-effective-action-cams-unveiled/"><u>Cost-Effective Action Cams Unveiled</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-the-secrets-to-a-starker-pointer-on-windows-11/"><u>Decoding the Secrets to a Starker Pointer on Windows 11</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-fast-track-to-1000-subscribers-in-youtube-landscape/"><u>In 2024, Fast-Track To 1,000 Subscribers in Youtube Landscape</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-live-google-meet-on-youtube-streaming-tutorial-for-beginners/"><u>In 2024, Live Google Meet on YouTube – Streaming Tutorial for Beginners</u></a></li>
-<li><a href="https://extra-support.techidaily.com/step-by-step-guide-quick-vlog-content-ideas-for-2024/"><u>Step-by-Step Guide Quick Vlog Content Ideas for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-leverage-advanced-transcription-tools-within-microsoft-word-to-boost-productivity/"><u>[New] Leverage Advanced Transcription Tools Within Microsoft Word to Boost Productivity</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-strategizing-stream-success-maximize-revenue-on-dm-and-yo/"><u>[New] Strategizing Stream Success Maximize Revenue on Dm and Yo</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/op-15-youtube-experts-in-modern-science-exploration-for-2024/"><u>[New] Top 15 YouTube Experts in Modern Science Exploration for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-elevated-viewing-larger-youtube-images-for-2024/"><u>[Updated] Elevated Viewing Larger YouTube Images for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-instagram-filming-perfecting-the-chroma-key-effect/"><u>[Updated] In 2024, Instagram Filming Perfecting the Chroma Key Effect</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-prolific-profits-from-youtube-universal-strategies-unveiled/"><u>[Updated] Prolific Profits From YouTube Universal Strategies Unveiled</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-explore-the-8-premier-zero-cost-video-editors-for-social-media-pros/"><u>2024 Approved Explore the 8 Premier Zero-Cost Video Editors for Social Media Pros</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-maximize-learning-free-tools-for-online-video-texts/"><u>2024 Approved Maximize Learning Free Tools for Online Video Texts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-perfect-plating-guided-path-to-home-cooking-videos/"><u>2024 Approved Perfect Plating Guided Path to Home Cooking Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-2-ways-to-loop-a-youtube-video-on-tv/"><u>In 2024, 2 Ways to Loop a YouTube Video On TV</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-expand-your-horizon-best-15-online-science-platforms/"><u>In 2024, Expand Your Horizon Best 15 Online Science Platforms</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-laugh-out-loud-essential-comedy-channels-for-endless-fun/"><u>In 2024, Laugh Out Loud Essential Comedy Channels for Endless Fun</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-movie-substitutes-to-explore-top-7-choices/"><u>In 2024, Movie Substitutes to Explore - Top 7 Choices</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-guide-to-screencasting-youtube-content-for-free/"><u>In 2024, Step-by-Step Guide to Screencasting YouTube Content For Free</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-additional-payments-for-games/"><u>The Ultimate Guide to Additional Payments for Games</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-merge-videos-online-for-free-the-best-options-this-year/"><u>Updated In 2024, Merge Videos Online for Free The Best Options This Year</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Honor X9b? | Dr.fone</u></a></li>
 </ul></div>
 

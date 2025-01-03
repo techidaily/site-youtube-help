@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Sprinkle of Life in Your Text Animations"
-date: 2024-12-22T19:50:56.590Z
-updated: 2024-12-25T00:56:08.644Z
+date: 2025-01-02T16:14:07.190Z
+updated: 2025-01-03T16:23:36.117Z
 tags:
   - ai video
   - ai youtube
@@ -27,7 +27,7 @@ thumbnail: https://www.lifewire.com/thmb/MjDTenaULco1gu34wPM4hMvRH2g=/540x405/fi
 Earlier, you learned how to have a **[bounce text effect in Adobe After Effects](https://tools.techidaily.com/wondershare/filmora/download/)**. However, because AE is a complex application and has a steep learning curve, this section explains the two alternative ways to get the same effect on your existing video footage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: How to Create Bouncing Text in Filmora Video Editor?
@@ -50,22 +50,22 @@ In the timeline, double-click the title you just added, use the upper-left secti
 
 ![Create Bouncing Text video Filmora9](https://images.wondershare.com/filmora/article-images/add-up-down-animation-to-bounce.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Add Shake Filters**
 
 Go to **Effects** from the standard toolbar, expand the **Filters** category from the left pane, and click **Shake**. From the Library window, click and drag your preferred shake filter to the timeline. Here, I will choose Mild.
 
 ![Shake filters in Filmora9](https://images.wondershare.com/filmora/article-images/shake-filter.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You can customize the default effect by double-clicking the shake filter in the timeline, using the sliders in the upper-left area of the interface to make necessary adjustments, and then clicking **OK** to save the changes and to get back to the previous interface.
 
 ![Mild Shake filters adjust](https://images.wondershare.com/filmora/article-images/mild-shake-filter-adjust.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4: Export the Final Output**
@@ -73,6 +73,10 @@ You can customize the default effect by double-clicking the shake filter in the 
 Click **EXPORT** from the top of the interface, go to the **Local** tab in the **Export** box, choose your preferred output format from the list in the left, make required customizations from the right pane, and click **EXPORT** from the bottom-right corner to export the video.
 
 ![Filmora9 Export Options](https://images.wondershare.com/filmora/article-images/export-filmora9-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now, you can add the bouncing text video and the background video to the timeline, and then place the bouncing text video above the background video track.
 
@@ -83,7 +87,7 @@ As explained before, Wondeshare Filmora makes the entire process of creating and
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Generate Animated Bouncing Texts Online
@@ -124,10 +128,6 @@ Launch your favorite web browser and go to <https://loading.io/animation/text/>.
 
 ![Create Animated Bouncing Text with Loading.io](https://images.wondershare.com/filmora/article-images/create-bouncing-text-with-loadingio.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Use the options available on the webpage to type your text, and change its font, color, background, transparency level etc. Select **Bounce** (or any of its variants) from the **Animation** drop-down list, and adjust the speed using the **Speed** slider.
 
 **Step 3: Obtain the Text**
@@ -157,20 +157,20 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-strategies-that-accelerate-youtube-followers-acquisition/"><u>[New] Strategies That Accelerate YouTube Followers Acquisition</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-contrasting-youtubes-ownership-norms-with-cc-ideals/"><u>[Updated] In 2024, Contrasting YouTube's Ownership Norms with CC Ideals</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-the-new-era-youtubes-shorts-fund-explained/"><u>2024 Approved Navigating the New Era YouTube's Shorts Fund Explained</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-spark-conversations-with-these-10-youtube-reaction-ideas/"><u>2024 Approved Spark Conversations with These 10 YouTube Reaction Ideas</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/budget-saving-stratospheric-storage-for-heavy-dumps/"><u>Budget-Saving Stratospheric Storage for Heavy Dumps</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/from-ideas-to-impact-mastering-video-marketing-on-instagram/"><u>From Ideas to Impact Mastering Video Marketing on Instagram</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-8-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 8 without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-experts-guide-to-finding-cheap-sbd-solutions/"><u>In 2024, Expert's Guide to Finding Cheap SBD Solutions</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-guidelines-to-affirm-your-youtube-status/"><u>In 2024, Guidelines to Affirm Your YouTube Status</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-realme-12plus-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Realme 12+ 5G Lock Screen Password</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-optimizing-self-filmed-content-on-youtube/"><u>In 2024, Optimizing Self-Filmed Content on YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-tailor-your-narrative-crafting-engaging-youtube-descriptions-using-pre-set-templates/"><u>In 2024, Tailor Your Narrative Crafting Engaging YouTube Descriptions Using Pre-Set Templates</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-top-5-economical-game-ready-keyboards/"><u>In 2024, Top 5 Economical Game-Ready Keyboards</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-make-your-own-video-dvds-3-simple-methods-for-windows-and-mac-for-2024/"><u>New Make Your Own Video DVDs 3 Simple Methods for Windows and Mac for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-poco-m6-pro-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Poco M6 Pro 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-edit-youtube-channel-description/"><u>[New] In 2024, How to Edit YouTube Channel Description</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-revolutionizing-viewer-retention-on-youtube-with-these-powerful-strategies/"><u>[New] Revolutionizing Viewer Retention on YouTube with These Powerful Strategies</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-speed-settings-unveiled-customizing-your-snapchat-experience/"><u>[New] Speed Settings Unveiled Customizing Your Snapchat Experience</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-positive-reactions-in-a-world-of-negative-comments/"><u>2024 Approved Positive Reactions in a World of Negative Comments</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-screen-to-air-comparison-who-wins-obs-or-twitch-studio/"><u>2024 Approved Screen to Air Comparison Who Wins, OBS or Twitch Studio?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-gear-list-for-any-aspiring-vlogger-top-12-cameras/"><u>2024 Approved The Ultimate Gear List for Any Aspiring Vlogger - Top 12 Cameras</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-valorant-screenshots-transformed-by-rapid-skilled-designers/"><u>2024 Approved Valorant Screenshots Transformed by Rapid, Skilled Designers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-mac-and-monetization-imovie-editing-to-youtube-success-for-2024/"><u>Bridging Mac & Monetization IMovie Editing to YouTube Success for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/iance-in-recording-video-streams-on-youtube-for-2024/"><u>Compliance in Recording Video Streams on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/fixing-non-appearing-thumbnails-in-youtube-shorts-for-2024/"><u>Fixing Non-Appearing Thumbnails in YouTube Shorts for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-11-pro-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 11 Pro Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-speeding-up-youtube-quick-video-rendering-and-transfer-tips/"><u>In 2024, Speeding Up YouTube Quick Video Rendering & Transfer Tips</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-trimming-tips-select-the-top-5-url-shrinkers-for-youtube/"><u>In 2024, Trimming Tips Select the Top 5 URL Shrinkers for YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/the-7-best-drawing-apps-for-windows-11/"><u>The 7 Best Drawing Apps for Windows 11</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-vivo-y100i-power-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Vivo Y100i Power 5G</u></a></li>
 </ul></div>
 

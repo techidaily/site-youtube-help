@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Independent Artists' Guide to Personalized Visual Tricks"
-date: 2024-12-21T12:29:48.437Z
-updated: 2024-12-25T12:53:38.967Z
+date: 2025-01-02T20:23:33.561Z
+updated: 2025-01-03T19:45:36.501Z
 tags:
   - ai video
   - ai youtube
@@ -50,6 +50,10 @@ In this post, we’re going to kick things up a bit. Here is a list of places wh
 
 On this YouTube channel, motion graphics specialist Matt offers free animation tutorials using a variety of programs including Adobe After Effects and Cinema 4D. His lessons are for a range of skill levels, from beginner to advanced. If you are just starting out then Mt.Mograph is a great resource.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **[Richard Harrington on Lynda](https://www.lynda.com/Rich-Harrington/120-1.html)**
 
 Lynda isn’t free, but the 10-day free trial period is definitely long enough for you to watch this two-hour course.
@@ -59,6 +63,10 @@ What’s great about this course is that it assumes you have no animation experi
 ## **[Bloop Animation](https://www.bloopanimation.com/)**
 
  Most of the video animation courses on this site are paid, but they have a lot of cool free tutorials as well. The focus is more on animating figures/cartoons than video effects, but if you have any interest in animation more generally then this is a great place to start learning. They even have a free ebook you can download which is targeted at beginners.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **[Video Copilot](http://www.videocopilot.net/)**
 
@@ -149,14 +157,10 @@ In this post, we’re going to kick things up a bit. Here is a list of places wh
  ![Video Animation](https://images.wondershare.com/filmora/article-images/animated-video-effects.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  All of these resources will teach Adobe After Effects, or a similar paid software. If you do not have access to Adobe After Effects, you might want to check out our post on [affordable animation software for video creators](https://www.filmora.io/community-blog/free-or-cheap-animation-software-for-video-creators-122.html).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **[Mt. Mograph](https://www.youtube.com/channel/UCSUSgx9qc%5FNydrOL59xbJIA)**
 
@@ -210,13 +214,13 @@ In this post, we’re going to kick things up a bit. Here is a list of places wh
 
  All of these resources will teach Adobe After Effects, or a similar paid software. If you do not have access to Adobe After Effects, you might want to check out our post on [affordable animation software for video creators](https://www.filmora.io/community-blog/free-or-cheap-animation-software-for-video-creators-122.html).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **[Mt. Mograph](https://www.youtube.com/channel/UCSUSgx9qc%5FNydrOL59xbJIA)**
 
 On this YouTube channel, motion graphics specialist Matt offers free animation tutorials using a variety of programs including Adobe After Effects and Cinema 4D. His lessons are for a range of skill levels, from beginner to advanced. If you are just starting out then Mt.Mograph is a great resource.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **[Richard Harrington on Lynda](https://www.lynda.com/Rich-Harrington/120-1.html)**
 
@@ -259,7 +263,7 @@ Follow @Richard Bennett
 ![](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Richard Bennett
@@ -279,6 +283,10 @@ A trending topic is a subject which a lot of people are currently interested in.
 5. **[The Subscriber Snowball Effect](#snowball)**
 
 [![guide-to-grow-youtube-subscribers](https://images.wondershare.com/filmora/guide-to-grow-youtube-subscribers-download-btn.png)](https://www.filmora.io/free-youtube-subscribers?utm%5Fsource=blog&utm%5Fcampaign=get%5Fsubs%5Fevergreen&utm%5Fcontent=blog%202)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **1\. Think of ‘Trending’ as Relevant**
 
@@ -331,10 +339,6 @@ Finding the trend is integral for YouTube channel growth. A user-friendly video 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -360,7 +364,7 @@ A trending topic is a subject which a lot of people are currently interested in.
 [![guide-to-grow-youtube-subscribers](https://images.wondershare.com/filmora/guide-to-grow-youtube-subscribers-download-btn.png)](https://www.filmora.io/free-youtube-subscribers?utm%5Fsource=blog&utm%5Fcampaign=get%5Fsubs%5Fevergreen&utm%5Fcontent=blog%202)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **1\. Think of ‘Trending’ as Relevant**
@@ -381,10 +385,6 @@ If you do need help determining trends, here are 2 ways to do it:
 
 1. Visit 3 of the most popular channels in your genre (i.e. gaming, beauty, or prank) and see if there’s any overlap in the themes of their most recent videos.
 2. Go to [Google Trends](https://trends.google.ca/trends/) and look at the categories most relevant to your genre. [To learn how to use Google Trends](https://tools.techidaily.com/wondershare/filmora/download/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **3\. Aim for Number 1**
 
@@ -417,7 +417,7 @@ Finding the trend is integral for YouTube channel growth. A user-friendly video 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -496,7 +496,7 @@ Finding the trend is integral for YouTube channel growth. A user-friendly video 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -544,13 +544,13 @@ If you do need help determining trends, here are 2 ways to do it:
 1. Visit 3 of the most popular channels in your genre (i.e. gaming, beauty, or prank) and see if there’s any overlap in the themes of their most recent videos.
 2. Go to [Google Trends](https://trends.google.ca/trends/) and look at the categories most relevant to your genre. [To learn how to use Google Trends](https://tools.techidaily.com/wondershare/filmora/download/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **3\. Aim for Number 1**
 
 **![think-in-divergent-way](https://images.wondershare.com/filmora/article-images/think-in-divergent-way.jpg)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Being trendy doesn’t mean you can’t be original. If you know what’s popular in your genre then that will enable you to ask yourself ‘what’s on-trend, but not being covered yet?’.
 
@@ -601,20 +601,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-from-couch-to-camera-earning-through-personal-vlogging/"><u>[New] From Couch-to-Camera Earning Through Personal Vlogging</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-deciphering-the-block-code-on-snapchat/"><u>[Updated] 2024 Approved Deciphering the Block Code on Snapchat</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-finding-your-ideal-video-capture-solution-bandicam-vs-camtasia-for-2024/"><u>[Updated] Finding Your Ideal Video Capture Solution Bandicam Vs Camtasia for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-simplified-design-guide-add-your-own-style-to-your-video-shorts/"><u>2024 Approved Simplified Design Guide Add Your Own Style to Your Video Shorts</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/free-youtube-end-screen-templates-plushow-tos-for-2024/"><u>Free YouTube End Screen Templates [+How-Tos] for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/gratis-conversie-van-images-bestaan-u-want-een-jpg-om-te-behandelen-hoe-je-ze-kan-omgezet-worden/"><u>Gratis Conversie Van Images - Bestaan U Want Een JPG Om Te Behandelen? Hoe Je Ze Kan Omgezet Worden!</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-harmonic-hits-top-rated-dj-template-downloads/"><u>In 2024, Harmonic Hits Top-Rated DJ Template Downloads</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-monetizing-content-how-much-adsense-pays-you-per-thousand-video-hits/"><u>In 2024, Monetizing Content How Much AdSense Pays You Per Thousand Video Hits?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-notrace-remover-ultimate-background-cleanse/"><u>In 2024, NoTrace Remover Ultimate Background Cleanse</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-standard-youtube-license-vs-creative-commons/"><u>In 2024, Standard YouTube License Vs. Creative Commons</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-teacher-created-videos-precision-in-cutting-and-splicing/"><u>In 2024, Teacher-Created Videos Precision in Cutting & Splicing</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-video-content-strategies-on-youtube/"><u>In 2024, Unveiling Video Content Strategies on YouTube</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-quest-for-authenticity-differentiating-fake-from-genuine-ai-outputs/"><u>The Quest for Authenticity: Differentiating Fake From Genuine AI Outputs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-walkthrough-for-permanently-removing-your-yahoo-mail-account/"><u>The Ultimate Walkthrough for Permanently Removing Your Yahoo Mail Account</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-quintessential-writing-across-the-movie-matrix/"><u>[New] 2024 Approved Quintessential Writing Across the Movie Matrix</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-expert-choices-best-video-cards-for-youtubes-clearest-output/"><u>[New] Expert Choices Best Video Cards for YouTube's Clearest Output</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-exploring-media-top-ranking-camera-apps-for-iphonesandroid-devices-for-2024/"><u>[New] Exploring Media Top-Ranking Camera Apps for iPhones/Android Devices for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-overcoming-shadows-in-indoor-vlogging-environments/"><u>[New] Overcoming Shadows in Indoor Vlogging Environments</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-essential-drone-shoppers-guide-crucial-factors-and-insights/"><u>[Updated] Essential Drone Shopper's Guide Crucial Factors & Insights</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-soundsnatcher-free-toolkit-insights-and-usage/"><u>[Updated] SoundSnatcher Free Toolkit Insights & Usage</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-infographic-analysis-the-hottest-2023-trends/"><u>2024 Approved Infographic Analysis The Hottest 2023 Trends</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-money-with-8-youtube-aspects/"><u>2024 Approved Mastering Money with 8 YouTube Aspects</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-integrating-annotations-for-enhanced-engagement/"><u>In 2024, Integrating Annotations for Enhanced Engagement</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-premier-collectors-list-top-shorts-for-free-online/"><u>In 2024, Premier Collector's List Top Shorts for FREE Online</u></a></li>
+<li><a href="https://techidaily.com/innovative-humanoid-workers-revolutionize-production-processes-in-bmw-automobile-manufacturing/"><u>Innovative Humanoid Workers Revolutionize Production Processes in BMW Automobile Manufacturing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solving-svchostexes-heavy-resource-usage-in-windows-10/"><u>Troubleshooting and Solving svchost.exe's Heavy Resource Usage in Windows 10</u></a></li>
 </ul></div>
 

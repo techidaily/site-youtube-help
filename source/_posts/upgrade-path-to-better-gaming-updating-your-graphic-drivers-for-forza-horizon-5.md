@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Path to Better Gaming: Updating Your Graphic Drivers for Forza Horizon 5"
-date: 2024-12-21T02:13:09.558Z
-updated: 2024-12-24T19:06:00.576Z
+date: 2024-12-28T17:17:13.716Z
+updated: 2025-01-03T19:40:02.464Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/94949839e44613400bd5d58f4fe6242909222f901
 4. **[Check your default GPU](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure you’re using the latest drivers
@@ -45,16 +45,8 @@ thumbnail: https://thmb.techidaily.com/94949839e44613400bd5d58f4fe6242909222f901
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -63,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/94949839e44613400bd5d58f4fe6242909222f901
 If the update message pops up again, check out the next method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Check the versions of Minecraft and your system
@@ -80,6 +72,10 @@ You can use the following steps to check for Minecraft updates.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-1.jpg)
 2. On the top left corner, click**Get updates** and wait for the process to complete.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-2.jpg)
 
 ##### Java edition
@@ -89,7 +85,7 @@ You can use the following steps to check for Minecraft updates.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Make sure you’re on the latest Windows
@@ -117,6 +113,10 @@ If you’re still seeing the message, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -135,10 +135,6 @@ Here’s how you can check the preferred GPU of Minecraft:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Under**Graphics performance preference** , specify your app type (For Java Edition, select**Desktop app** . For Bedrock, choose**Microsoft Store app** ). Then click**Browse** and select your Minecraft launcher.  
 
@@ -148,10 +144,14 @@ Here’s how you can check the preferred GPU of Minecraft:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-2.jpg)
 5. Click**High performance** and then**Save** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now you can restart Minecraft and check if the message is still there.
@@ -177,19 +177,20 @@ Now you can restart Minecraft and check if the message is still there.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-winning-software-to-capture-your-display-on-windows-10/"><u>[New] 2024 Approved Winning Software to Capture Your Display on Windows 10</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-top-5-alternatives-to-tiktok-you-should-know-updated-for-2024/"><u>[New] Top 5 Alternatives to TikTok You Should Know [Updated ] for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-youtube-partnership-reaching-10k-views-quickly/"><u>2024 Approved Mastering YouTube Partnership Reaching 10K Views Quickly</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209801183-9781789042351-abide-as-that/"><u>Abide As That | Free Book</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-fix-a-comprehensive-tutorial-on-samsung-monitor-driver-updates-for-pcs-with-windows/"><u>Easy Fix: A Comprehensive Tutorial on Samsung Monitor Driver Updates for PCs with Windows</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/imagesplitter-pro-for-2024/"><u>ImageSplitter Pro for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-halt-autoplay-youtube-recommendations/"><u>In 2024, Halt Autoplay YouTube Recommendations</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-hasty-methods-for-mixed-up-youtube-playback-sequence/"><u>In 2024, Hasty Methods for Mixed-Up YouTube Playback Sequence</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-google-pixel-8-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Google Pixel 8 to Protect Your Individual Information</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-jumpstart-success-with-top-30-youtube-intra-designers-insights/"><u>In 2024, Jumpstart Success with Top 30 YouTube Intra Designers' Insights</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-the-insiders-guide-to-capturing-crisp-vr-games/"><u>In 2024, The Insider's Guide to Capturing Crisp VR Games</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unpacking-youtubes-income-distribution-from-1m-viewers/"><u>In 2024, Unpacking YouTube's Income Distribution From 1M Viewers</u></a></li>
-<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Vivo Y200e 5G? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/secure-your-email-with-gmails-two-step-verification-process-explained/"><u>Secure Your Email with Gmail's Two-Step Verification Process Explained</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-optimizing-youtube-performance-crafting-perfect-titles-and-tags/"><u>2024 Approved Optimizing YouTube Performance Crafting Perfect Titles and Tags</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/affordable-excellence-zte-blade-a3y-performance-analysis-and-review/"><u>Affordable Excellence: ZTE Blade A3Y Performance Analysis and Review</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/appleiphoneavi3/"><u>Appleスマホで楽しむ「iPhone」AVIファイルの魅力!おすすめアプリベスト3ピックアップ</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/expert-insights-on-incorporating-hashtags-for-game-streams-for-2024/"><u>Expert Insights on Incorporating Hashtags for Game Streams for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-hp-m506-laserprinter-software-downloads-and-upgrades/"><u>Get the Newest HP M506 LaserPrinter Software Downloads & Upgrades</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-fixing-and-improving-touchpad-scroll-response-on-windows-11-systems/"><u>Guide to Fixing and Improving Touchpad Scroll Response on Windows 11 Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v20-document-with-electronic-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v2.0 document with electronic signature software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hp-envy-27-4k-usb-c-monitor-review-for-2024/"><u>HP Envy 27 4K USB-C Monitor Review for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-leveraging-famebit-strategies-for-effective-youtube-sponsors/"><u>In 2024, Leveraging FameBit Strategies for Effective YouTube Sponsors</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-master-fast-sharing-youtube-playlists-made-simple/"><u>In 2024, Master Fast Sharing YouTube Playlists Made Simple</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-path-to-earning-through-youtube-a-creators-guide/"><u>In 2024, The Path to Earning Through YouTube A Creator's Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-the-wealth-wave-of-the-philanthropic-maverick-mr-beast/"><u>In 2024, The Wealth Wave of the Philanthropic Maverick, Mr. Beast</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/monetizing-video-content-8-essentials-for-novices-for-2024/"><u>Monetizing Video Content - 8 Essentials for Novices for 2024</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-10-most-popular-minion-memes-that-moms-are-crazy-about/"><u>New 10 Most Popular Minion Memes that Moms Are Crazy About</u></a></li>
 </ul></div>
 

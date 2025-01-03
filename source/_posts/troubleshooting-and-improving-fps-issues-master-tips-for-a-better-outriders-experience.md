@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting and Improving FPS Issues: Master Tips for a Better Outriders Experience"
-date: 2024-12-20T11:15:54.519Z
-updated: 2024-12-25T02:18:07.891Z
+date: 2025-01-02T21:25:18.386Z
+updated: 2025-01-03T19:21:34.716Z
 tags:
   - win11
   - win10
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
  If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Install all the game updates
 
  This one may seem obvious, but it did help some players to solve the error code leaf when they try to join a match on Apex Legends, so you may want to make sure your game is updated all the time.
@@ -60,22 +64,18 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -99,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
@@ -109,7 +109,7 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
@@ -123,7 +123,7 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
@@ -152,14 +152,22 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-navigating-the-pitfalls-of-youtube-monetization-mistakes/"><u>[New] Navigating the Pitfalls of YouTube Monetization Mistakes</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-react-and-relate-harness-the-power-of-alternate-perspectives-for-compelling-youtube-vids-2-pov-method/"><u>[New] React and Relate - Harness the Power of Alternate Perspectives for Compelling YouTube Vids (2 POV Method)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/access-high-quality-printing-with-canons-imageclass-mf4800-free-driver-downloads-now/"><u>Access High-Quality Printing with Canon's ImageCLASS MF4800: Free Driver Downloads Now!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-methods-for-converting-your-favorite-youtube-videos-into-mp4-format-desktop-and-web-based-options/"><u>Effortless Methods for Converting Your Favorite YouTube Videos Into MP4 Format – Desktop & Web-Based Options</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-gain-profit-power-the-secret-of-successful-youtube-marketing-and-500plus/"><u>In 2024, Gain Profit Power The Secret of Successful Youtube Marketing & 500+</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-news-endings-as-a-narrative-tool/"><u>In 2024, News Endings as a Narrative Tool</u></a></li>
-<li><a href="https://fox-that.techidaily.com/silence-unwanted-ringers-prevent-your-ipad-from-answering-iphone-calls/"><u>Silence Unwanted Ringers: Prevent Your iPad From Answering iPhone Calls</u></a></li>
-<li><a href="https://fox-that.techidaily.com/struggling-to-connect-your-iphone-to-a-vpn-explore-these-7-resolution-steps/"><u>Struggling to Connect Your IPhone to a VPN? Explore These 7 Resolution Steps</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/thriving-in-the-digital-age-mastering-facebook-interaction/"><u>Thriving in the Digital Age Mastering Facebook Interaction</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-harness-the-power-of-playback-speed-control-in-youtube/"><u>[New] Harness the Power of Playback Speed Control in YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-streamers-financial-health-check-in-youtubers/"><u>[New] Streamer's Financial Health Check in YouTubers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-zombie-mayhem-showdown-selecting-the-finest-games/"><u>[Updated] 2024 Approved Zombie Mayhem Showdown Selecting the Finest Games</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-free-visual-templates-to-upgrade-your-profile/"><u>2024 Approved Free Visual Templates to Upgrade Your Profile</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-definitive-guide-to-removing-persistent-youtube-channels-on-all-screens/"><u>2024 Approved The Definitive Guide to Removing Persistent Youtube Channels on All Screens</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unlock-the-power-of-sony-vegas-to-enhance-your-youtube-channel/"><u>2024 Approved Unlock the Power of Sony Vegas to Enhance Your YouTube Channel</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/elevate-your-videography-top-tier-vimeo-tools/"><u>Elevate Your Videography Top-Tier Vimeo Tools</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Honor Magic 6 Lite? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Nubia Z50S Pro? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-12-pro-5-ways-to-get-into-a-locked-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 12 Pro? 5 Ways to get into a Locked Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-precision-in-perspective-mastery-of-youtube-video-degrees/"><u>In 2024, Precision in Perspective Mastery of Youtube Video Degrees</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamlined-design-integrating-gamers-banner-templates/"><u>In 2024, Streamlined Design Integrating Gamers' Banner Templates</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-pc-with-toms-hardware-insights-and-in-depth-analysis/"><u>Master Your PC with Tom's Hardware Insights and In-Depth Analysis</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-youtubes-privacy-controls-for-video-accessibility-for-2024/"><u>Navigating YouTube's Privacy Controls for Video Accessibility for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/tesla-faces-restrictions-not-all-autonomous-driving-features-approved-in-specific-us-region/"><u>Tesla Faces Restrictions: Not All Autonomous Driving Features Approved in Specific U.S. Region</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-insiders-technique-to-unite-separate-spotify-playlists-into-a-perfect-mix/"><u>The Insider’s Technique to Unite Separate Spotify Playlists Into a Perfect Mix</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-tips-how-to-rollback-recent-windows-11-updates-successfully/"><u>Troubleshooting Tips: How to Rollback Recent Windows 11 Updates Successfully</u></a></li>
 </ul></div>
 
