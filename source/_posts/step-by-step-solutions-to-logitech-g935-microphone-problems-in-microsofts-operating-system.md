@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions to Logitech G935 Microphone Problems in Microsoft's Operating System
-date: 2024-12-31T21:24:56.286Z
-updated: 2025-01-03T18:52:05.493Z
+date: 2025-01-09T16:07:05.302Z
+updated: 2025-01-10T16:24:43.864Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/9cb4bb095934cdbe52cf30982bf7e5d8440404211
 3. **[Check Windows sound settings](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update your audio drivers](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Troubleshoot the hardware issues
 
  Just do some basic troubleshooting steps before trying anything more complicated:
@@ -53,20 +49,20 @@ thumbnail: https://thmb.techidaily.com/9cb4bb095934cdbe52cf30982bf7e5d8440404211
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/win11-microphone-privacy.jpg)
 3. Ensure microphpne access for this device is**on** . If it is off, then check the**Change** button below to turn it on. You should also**turn on the toggle** under**Allow apps to access your microphone** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Allow access to the microphone on this device and allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-access-to-the-microphone-on-this-device-and-allow-apps-to-access-your-microphone.jpg)
 4. Scroll down to check if the**Allow desktop apps access to your microphone** part is set to **On** .  
 
 ![Allow desktop apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-desktop-apps-to-access-your-microphone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then check if your Logitech G733 mic works on your computer. If not, don’t worry. Just try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Check Windows sound settings
 
@@ -76,18 +72,18 @@ thumbnail: https://thmb.techidaily.com/9cb4bb095934cdbe52cf30982bf7e5d8440404211
 ![control mmsys.cpl sounds](https://images.drivereasy.com/wp-content/uploads/2021/04/control-mmsys.cpl-sounds.jpg)
 2. Navigate to the **Recording** tab, then**right-click** on any empty place inside the device list and**check Show Disabled Devices** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Show disabled Recording Devices ](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dc36f136c6.jpg)
 3. **Right-click** the**Headset Microphone** and click **Enable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Enable headset microphone recording](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4daac96f5e7.jpg)
 4. Then**right-click** it again and select **Set as Default Device** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Set as default recording device](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
@@ -99,11 +95,11 @@ thumbnail: https://thmb.techidaily.com/9cb4bb095934cdbe52cf30982bf7e5d8440404211
 ![drag the volume slider towards the maximum value.](https://images.drivereasy.com/wp-content/uploads/2020/12/img_5b4db71801655.jpg)
 7. Click**OK** to save the changes.
 
- Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem. If not, try the next fix, below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem. If not, try the next fix, below.
 
 ## Fix 4: Update your audio drivers
 
@@ -117,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/9cb4bb095934cdbe52cf30982bf7e5d8440404211
 2. Run **Driver Easy** and click the **Scan Now** button. **Driver Easy** will scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to your sound device or your headset to download the latest and correct driver for it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — if you don’t already have it, you’ll be prompted to upgrade when you click **Update All** .)  
 ![audio-driver-update](https://images.drivereasy.com/wp-content/uploads/2021/03/audio-driver-update.jpg)
@@ -148,16 +148,22 @@ thumbnail: https://thmb.techidaily.com/9cb4bb095934cdbe52cf30982bf7e5d8440404211
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-expedited-guide-to-effective-double-take-technique/"><u>[New] Expedited Guide to Effective Double-Take Technique</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-stepwise-strategy-creating-effective-youtube-subscriber-buttons/"><u>[New] Stepwise Strategy Creating Effective YouTube Subscriber Buttons</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-streaming-masterpieces-best-movie-directories-on-yt/"><u>[New] Streaming Masterpieces Best Movie Directories on YT</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-tips-and-tricks-recording-conversations-on-whatsapp/"><u>[Updated] 2024 Approved Tips and Tricks Recording Conversations on WhatsApp</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-discovering-your-youtube-comments-on-various-devices/"><u>[Updated] Discovering Your YouTube Comments on Various Devices</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-leading-youtube-snack-seekers-free-top-downloads/"><u>2024 Approved Leading YouTube Snack Seekers Free, Top Downloads</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-navigating-through-youtubes-revenue-flow-after-monetization/"><u>In 2024, Navigating Through YouTube's Revenue Flow After Monetization</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-quickcapturewin-instant-screenshots-for-pcs/"><u>In 2024, QuickCaptureWin Instant Screenshots for PCs</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/maximize-your-gopro-footage-effortless-video-editing-on-macbook-with-quik/"><u>Maximize Your GoPro Footage Effortless Video Editing on MacBook with Quik</u></a></li>
-<li><a href="https://facebook.techidaily.com/stay-alert-expose-these-14-ubiquitous-facebook-scams/"><u>Stay Alert! Expose These 14 Ubiquitous Facebook Scams</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/strategies-for-capturing-high-quality-periscope-broadcasts-for-2024/"><u>Strategies for Capturing High-Quality Periscope Broadcasts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-make-a-youtube-intro-video-2-ways-for-2024/"><u>[New] How to Make A YouTube Intro Video [2 Ways] for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-simple-way-to-blur-faces-in-picsart/"><u>[New] Simple Way To Blur Faces in Picsart</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-infusing-life-into-jujutsu-kaisen-with-tiktok-videos/"><u>[Updated] Infusing Life Into Jujutsu Kaisen with TikTok Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-add-timestamps-to-youtube-video-to-increase-views/"><u>2024 Approved How to Add Timestamps to YouTube Video to Increase Views</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-through-top-rated-livestreams-your-guide-to-watching-cricket/"><u>2024 Approved Navigating Through Top-Rated Livestreams Your Guide to Watching Cricket</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-revolutionizing-channel-management-through-tubebuddy/"><u>2024 Approved Revolutionizing Channel Management Through TubeBuddy</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-simple-steps-adding-comprehensive-captions-to-youtube-videos/"><u>2024 Approved Simple Steps Adding Comprehensive Captions to YouTube Videos</u></a></li>
+<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-iphone-6s-plus-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing iPhone 6s Plus Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-explore-the-world-of-tiny-screens-top-6-online-tools-for-free-and-complimentary-youtube-short-downloads/"><u>In 2024, Explore the World of Tiny Screens Top 6 Online Tools for Free & Complimentary YouTube Short Downloads</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-fixing-the-problem-hidden-thumbnails-in-youtube-shorts/"><u>In 2024, Fixing the Problem Hidden Thumbnails in YouTube Shorts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-harvest-cost-free-visuals-from-leading-4-youtube-hubs/"><u>In 2024, Harvest Cost-Free Visuals From Leading 4 YouTube Hubs</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-art-of-refining-published-videos-on-youtube/"><u>In 2024, The Art of Refining Published Videos on YouTube</u></a></li>
+<li><a href="https://discover-best.techidaily.com/iosmacdvd/"><u>IOSデバイスにMacから動画・DVDコンテンツを転送して楽しむ方法</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mastering-video-introduction-on-ios-and-android-devices-for-2024/"><u>Mastering Video Introduction on iOS & Android Devices for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-technical-operation-of-gpt-4-in-7-apps/"><u>Understanding the Technical Operation of GPT-4 in 7 Apps</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unveiling-hidden-gpus-pc-detection-strategies/"><u>Unveiling Hidden GPUs: PC Detection Strategies</u></a></li>
 </ul></div>
 

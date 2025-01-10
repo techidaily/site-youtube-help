@@ -1,7 +1,7 @@
 ---
 title: "Integrating YouTube Into IGTV's Repertoire (3 Ways) for 2024"
-date: 2024-07-29T19:10:25.340Z
-updated: 2024-07-30T19:10:25.340Z
+date: 2025-01-08T16:31:49.759Z
+updated: 2025-01-10T16:09:37.519Z
 tags:
   - ai video
   - ai youtube
@@ -114,78 +114,54 @@ YouTube videos, on the other hand, are mostly horizontally oriented. If you atte
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Part 1: Convert YouTube Videos to IGTV Vertical Videos with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you don’t already have the original file of the video you’d like to upload to your IGTV channel, you can [download a video from YouTube](https://tools.techidaily.com/wondershare/filmora/download/), but keep in mind that you can’t use any content without permission from its owner.
 
 Once you have the file, you can **create a new project** in Filmora and then after the project loads you should click on the **File menu** and select the **Project Settings option**. Pick one of the **9:16** video resolution options provided by the editor and click **OK to confirm the changes**.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora  Project Settings](https://images.wondershare.com/filmora/article-images/filmora-project-settings-window.jpg)
 
 Click on the **Import button** to add a YouTube video to your project and then place it on the timeline. Your video will be displayed in the **Preview Panel**, and you’ll be able to see that the video is positioned at the center of the panel and that its top and bottom are black.
 
 Go to the **Effects tab** and click on the **Background Blur** submenu if you want to blur the empty areas of the frame. Add the **Basic Blur effect** to the timeline and drag one of its sides to position it over the entire video.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Filmora  convert YouTube to IGTV](https://images.wondershare.com/filmora/article-images/filmora-convert-youtube-video-igtv.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In case you are working with a video that already has a 16:9 aspect ratio, you can create a project that has the same aspect ratio, and then just use **the Rotate slider in the Transform menu**, to change turn a landscape video into a portrait video. The scaling tool is helpful to enlarge the frames in a vertical aspect ratio.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![Filmora  convert YouTube to IGTV with transform](https://images.wondershare.com/filmora/article-images/rotate-youtube-video-to-convert-youtube-igtv.jpg)
 
 Filmora lets you create vertical videos in just a few quick steps, which makes it a perfect choice for influencers and marketers who want to share video content on YouTube and IGTV.
 
 Latest News: In Filmora V10.5 and later versions, there is a new feature called Auto-Reframe. This feature allows users to convert one video for different social media platforms based on the aspect ratio changing, and its features of detecting the moving object. Click the Analyze button, and Filmora will convert this 16:9 YouTube video to vertical 9:16 IGTV video automatically. And I can adjust frames to follow Yasmine’s movement to fine-tune the result.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Filmora  Auto-Reframe YouTube video to IGTV](https://images.wondershare.com/filmora/article-images/auto-reframe-youtube-video-to-vertical-igtv-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can watch the video below to find out more information about the Auto-Reframe tool.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## Part 2: Use Kapwing to Convert YouTube to IGTV Online
 
 YouTubers who already have lots of videos on their channel can use online video editing platforms, like [Kapwing](https://www.kapwing.com/) to edit the content they want to post on IGTV. This online video editor offers a number of video editing tools that let you polish your videos before posting them on social media.
 
 Click on the Resize tool and simply **copy and paste the URL** of a YouTube into the appropriate bar and the platform will **automatically import a video and display it on the screen** once the content is finally fetched.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![Kapwing  Crop YouTube video to IGTV](https://images.wondershare.com/filmora/article-images/kapwing-crop-youtube-to-igtv.jpg)
 
 Pick the **Story (Snap/Insta) or IGTV 9:16 option** and then proceed to **choose the background color for your IGTV video, increase or decrease the zoom level or change the position of the video**. Click on the **Create button** when ready and wait for Kapwing to process your video. **All videos you create with the free version of this online video editor are going to be watermarked** and you have to pay a six-dollar fee for each watermark-free video you edit with Kapwing or you can opt for a $20 monthly subscription fee that enables you to export an unlimited amount of videos without watermarks each month.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Kapwing  Rotate YouTube video to IGTV](https://images.wondershare.com/filmora/article-images/rotate-youtube-video-convert-to-igtv.jpg)
 
 A growing number of IGTV users choose to rotate their videos, instead of resizing them, so if you already have a YouTube video with a 16:9 aspect ratio you can just rotate it and get a video with a 9:16 aspect ratio. Click on the **Rotate**  option and then rotate it **90 degrees clockwise or counterclockwise** and click on the **Create button**. If you opt for this method of creating a vertical video for IGTV, your video will remain the same size, but the viewers will have to hold their phones horizontally in order to view it properly.
@@ -226,57 +202,40 @@ YouTube videos, on the other hand, are mostly horizontally oriented. If you atte
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Convert YouTube Videos to IGTV Vertical Videos with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you don’t already have the original file of the video you’d like to upload to your IGTV channel, you can [download a video from YouTube](https://tools.techidaily.com/wondershare/filmora/download/), but keep in mind that you can’t use any content without permission from its owner.
 
 Once you have the file, you can **create a new project** in Filmora and then after the project loads you should click on the **File menu** and select the **Project Settings option**. Pick one of the **9:16** video resolution options provided by the editor and click **OK to confirm the changes**.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora  Project Settings](https://images.wondershare.com/filmora/article-images/filmora-project-settings-window.jpg)
 
 Click on the **Import button** to add a YouTube video to your project and then place it on the timeline. Your video will be displayed in the **Preview Panel**, and you’ll be able to see that the video is positioned at the center of the panel and that its top and bottom are black.
 
 Go to the **Effects tab** and click on the **Background Blur** submenu if you want to blur the empty areas of the frame. Add the **Basic Blur effect** to the timeline and drag one of its sides to position it over the entire video.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora  convert YouTube to IGTV](https://images.wondershare.com/filmora/article-images/filmora-convert-youtube-video-igtv.jpg)
 
 In case you are working with a video that already has a 16:9 aspect ratio, you can create a project that has the same aspect ratio, and then just use **the Rotate slider in the Transform menu**, to change turn a landscape video into a portrait video. The scaling tool is helpful to enlarge the frames in a vertical aspect ratio.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![Filmora  convert YouTube to IGTV with transform](https://images.wondershare.com/filmora/article-images/rotate-youtube-video-to-convert-youtube-igtv.jpg)
 
 Filmora lets you create vertical videos in just a few quick steps, which makes it a perfect choice for influencers and marketers who want to share video content on YouTube and IGTV.
 
 Latest News: In Filmora V10.5 and later versions, there is a new feature called Auto-Reframe. This feature allows users to convert one video for different social media platforms based on the aspect ratio changing, and its features of detecting the moving object. Click the Analyze button, and Filmora will convert this 16:9 YouTube video to vertical 9:16 IGTV video automatically. And I can adjust frames to follow Yasmine’s movement to fine-tune the result.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![Filmora  Auto-Reframe YouTube video to IGTV](https://images.wondershare.com/filmora/article-images/auto-reframe-youtube-video-to-vertical-igtv-video.jpg)
 
 You can watch the video below to find out more information about the Auto-Reframe tool.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## Part 2: Use Kapwing to Convert YouTube to IGTV Online
 
 YouTubers who already have lots of videos on their channel can use online video editing platforms, like [Kapwing](https://www.kapwing.com/) to edit the content they want to post on IGTV. This online video editor offers a number of video editing tools that let you polish your videos before posting them on social media.
@@ -293,9 +252,6 @@ A growing number of IGTV users choose to rotate their videos, instead of resizin
 
 **You may also like:** [ How to Convert MKV to MP4 without Losing Quality \[Free Converters Provided\] >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: Changing the Aspect Ratio of a YouTube Video with Final Cut Pro
 
 Editing videos with professional video editing software products like Final Cut Pro or Premiere Pro requires a certain amount of skill. There is more than just one way to change the aspect ratio of a video in Final Cut Pro, but probably the best one is to **set the project resolution to 2160X3840 or any other lower resolution that matches the 9:16 aspect ratio**. During the video editing process, you will have to **resize all of the footage** you want to include in the final version of the video. Planning your shots and composing them differently than you would compose horizontally oriented shots can potentially save you a little time on resizing and repositioning the video clips you’re working with.
@@ -330,9 +286,6 @@ YouTube videos, on the other hand, are mostly horizontally oriented. If you atte
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: Convert YouTube Videos to IGTV Vertical Videos with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -341,9 +294,6 @@ If you don’t already have the original file of the video you’d like to uploa
 
 Once you have the file, you can **create a new project** in Filmora and then after the project loads you should click on the **File menu** and select the **Project Settings option**. Pick one of the **9:16** video resolution options provided by the editor and click **OK to confirm the changes**.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora  Project Settings](https://images.wondershare.com/filmora/article-images/filmora-project-settings-window.jpg)
 
 Click on the **Import button** to add a YouTube video to your project and then place it on the timeline. Your video will be displayed in the **Preview Panel**, and you’ll be able to see that the video is positioned at the center of the panel and that its top and bottom are black.
@@ -351,6 +301,10 @@ Click on the **Import button** to add a YouTube video to your project and then p
 Go to the **Effects tab** and click on the **Background Blur** submenu if you want to blur the empty areas of the frame. Add the **Basic Blur effect** to the timeline and drag one of its sides to position it over the entire video.
 
 ![Filmora  convert YouTube to IGTV](https://images.wondershare.com/filmora/article-images/filmora-convert-youtube-video-igtv.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In case you are working with a video that already has a 16:9 aspect ratio, you can create a project that has the same aspect ratio, and then just use **the Rotate slider in the Transform menu**, to change turn a landscape video into a portrait video. The scaling tool is helpful to enlarge the frames in a vertical aspect ratio.
 
@@ -372,25 +326,20 @@ YouTubers who already have lots of videos on their channel can use online video 
 
 Click on the Resize tool and simply **copy and paste the URL** of a YouTube into the appropriate bar and the platform will **automatically import a video and display it on the screen** once the content is finally fetched.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Kapwing  Crop YouTube video to IGTV](https://images.wondershare.com/filmora/article-images/kapwing-crop-youtube-to-igtv.jpg)
 
 Pick the **Story (Snap/Insta) or IGTV 9:16 option** and then proceed to **choose the background color for your IGTV video, increase or decrease the zoom level or change the position of the video**. Click on the **Create button** when ready and wait for Kapwing to process your video. **All videos you create with the free version of this online video editor are going to be watermarked** and you have to pay a six-dollar fee for each watermark-free video you edit with Kapwing or you can opt for a $20 monthly subscription fee that enables you to export an unlimited amount of videos without watermarks each month.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![Kapwing  Rotate YouTube video to IGTV](https://images.wondershare.com/filmora/article-images/rotate-youtube-video-convert-to-igtv.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 A growing number of IGTV users choose to rotate their videos, instead of resizing them, so if you already have a YouTube video with a 16:9 aspect ratio you can just rotate it and get a video with a 9:16 aspect ratio. Click on the **Rotate**  option and then rotate it **90 degrees clockwise or counterclockwise** and click on the **Create button**. If you opt for this method of creating a vertical video for IGTV, your video will remain the same size, but the viewers will have to hold their phones horizontally in order to view it properly.
 
 **You may also like:** [ How to Convert MKV to MP4 without Losing Quality \[Free Converters Provided\] >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Changing the Aspect Ratio of a YouTube Video with Final Cut Pro
 
 Editing videos with professional video editing software products like Final Cut Pro or Premiere Pro requires a certain amount of skill. There is more than just one way to change the aspect ratio of a video in Final Cut Pro, but probably the best one is to **set the project resolution to 2160X3840 or any other lower resolution that matches the 9:16 aspect ratio**. During the video editing process, you will have to **resize all of the footage** you want to include in the final version of the video. Planning your shots and composing them differently than you would compose horizontally oriented shots can potentially save you a little time on resizing and repositioning the video clips you’re working with.
@@ -403,10 +352,11 @@ Posting YouTube videos on your IGTV channel is still a somewhat complicated proc
 
 **You may also like:** [YouTube to WAV File: 4 Best Free Convert Solutions >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -426,9 +376,6 @@ Follow @Shanoon Cox
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Why AV1 Matters: Enabling It for YouTube Videos
 
 Do you notice that many YouTube videos have been streamed in AV1? **YouTube AV1** just happened suddenly a few years ago. This article will inform you about all the things you want to know about **AV1 Youtube** settings. I will let you know the tutorial to turn in AV1 settings on YouTube and the reason why should choose AV1 along with the others, and some more things about AV1.
@@ -441,10 +388,11 @@ Do you wonder how to turn on **AV1 settings on YouTube**? For your information, 
 
 ##### Step1Go to playback and performance
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![youtube settings](https://images.wondershare.com/filmora/article-images/2022/11/av1-settings-on-youtube-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * To turn on the AV1 settings, go to your YouTube account, after that click "Playback and Performance".
 * In the AV1 settings. Besides "Auto (Recommended)", there are other two options, which are "Prefer AV1 for SD" and also "Always prefer SD".
@@ -455,6 +403,10 @@ Do you wonder how to turn on **AV1 settings on YouTube**? For your information, 
 ![av1 settings](https://images.wondershare.com/filmora/article-images/2022/11/av1-settings-on-youtube-3.jpg)
 
 You may ask how to confirm your YouTube videos are playing with AV1 Codec. Well, you can search playlist on YouTube with the keywords "[4K, 5K, and 8K videos with the new AV1 Codec](https://www.youtube.com/playlist?list=PLRJRxnLlXbB0ETtMprpLypZs68duRS1t1)". You can test it by playing one of the videos. You have to right-click on the media player and then select "Stats for nerd". If it shows the av01 codec there, then the AV1 settings are enabled already.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Why choose AV1 over VP9 and other formats?
 
@@ -474,9 +426,6 @@ As mentioned before, AV1 is royalty-free. AV1 is such a next-generation of royal
 
 When it comes to the group that will ask for the royalty, MPEG is not the only one. There are also other patent groups and companies that can ask for it. Aomedia integrated Google, Mozilla, and Cisco, while they were busy creating their new video codec. However, the three companies joined together to create one codec to beat them all.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Better performance
 
 It is said that the AV1 codec is 30% more efficient. According to the tests conducted by Moscow State University, AV1 can outperform AV1 by about 28% in the efficiency of encoding and decoding. As per the performance graph from the Graphics & Media Lab Video Group, MSU below, AV1 can offer the exactly same quality as X264 at 55% of the average bitrate.
@@ -486,8 +435,9 @@ It is said that the AV1 codec is 30% more efficient. According to the tests cond
 AV1 is designed so exclusively to function better than all the other codecs in the market. It is an open-sourced codec with simple patent licensing, and the integration manages to save, as mentioned, up to 30% of the bandwidth for the exactly same image quality. In other words, with AV1, distributors can send streams much faster and cheaper and we can enjoy higher definitions in the same bandwidth.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. AV2 to come in the future
 
 AV1 is undoubtedly superior if we compare it to other available video codecs and the exploration of the codec technology AV2 has already begun. This is such an early performance evaluation. There is some interesting part of the exploration development of AV2, such as multiple line selection for Intra prediction can make you select not just neighboring row/column for directional prediction. The same tool also exists in VVC.
@@ -495,8 +445,9 @@ AV1 is undoubtedly superior if we compare it to other available video codecs and
 There are also three essential improvements, which are simplifying the existing feature (also complete removal) and picking the tool used by VVC/H.266 (It is lack originality but so much work on it) and improvement periodically improvement of an existing tool, it is too few and also not original. We haven't known yet when AV2 will be done completely though, maybe there still be some more essential improvements.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: What's the best video editor for YouTubers with AV1 format?
 
 When we talk about YouTube, it feels incomplete if we don't talk about the video editor. So, what is the best video editing software for YouTubers with AV1 format? Yes, it is [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). It is such a great video editing software that allows you to import and edit many video file formats. Filmora also allows users to export AV1 MP4 format video and then can directly upload it to YouTube.
@@ -511,9 +462,6 @@ After that, you can export your video to any device you want, such as iPhone, iP
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4: FAQ: Does YouTube use AV1 or VP9?
 
 For today, YouTube encodes all the videos with the VP9 codec, but for some reason displays for low view count videos. AV1 usage also had been pushed to very low view counts. When it comes to cost or quality tradeoffs, AV1 took about 18 times longer to encode than x264.
@@ -537,5 +485,26 @@ For today, YouTube encodes all the videos with the VP9 codec, but for some reaso
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-step-up-your-game-mastering-the-art-of-capturing-playthroughs/"><u>[New] 2024 Approved Step Up Your Game Mastering the Art of Capturing Playthroughs</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-harness-10-tools-to-grab-youtube-images-online/"><u>[New] Harness 10 Tools to Grab YouTube Images Online</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-in-depth-video-metrics-at-your-fingertips-social-blade-for-youtube/"><u>[New] In-Depth Video Metrics at Your Fingertips Social Blade for YouTube</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1726030005616-mp3/"><u>「MP3プレイヤーで音楽を再生するたびに解決法」</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-compreenas-guide-for-efficient-pip-integration-in-edge-browser/"><u>2024 Approved A Compreenas Guide for Efficient PIP Integration in Edge Browser</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-quick-tips-to-create-dynamic-gifs-using-youtube-media/"><u>2024 Approved Quick Tips to Create Dynamic GIFs Using YouTube Media</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-smb-video-marketing-success-factors/"><u>2024 Approved SMB Video Marketing Success Factors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/at-the-forefront-haptic-enhanced-headgear-for-2024/"><u>At the Forefront Haptic-Enhanced Headgear for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-professional-images-using-photoshops-powerful-luts/"><u>In 2024, Crafting Professional Images Using Photoshop's Powerful LUTs</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mimicking-masterpieces-crafting-successful-parodies/"><u>In 2024, Mimicking Masterpieces Crafting Successful Parodies</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-optimizing-youtube-content-with-social-blade-a-stats-journey/"><u>In 2024, Optimizing YouTube Content With Social Blade - A Stats Journey</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-blueprint-of-tomorrow-eco-friendly-urban-strategies/"><u>In 2024, The Blueprint of Tomorrow Eco-Friendly Urban Strategies</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-networking-haven-beyond-vidcon/"><u>In 2024, The Ultimate Networking Haven Beyond VidCon</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/master-the-art-of-budget-friendly-youtubes-intros-and-ends-for-2024/"><u>Master the Art of Budget-Friendly YouTubes Intros and Ends for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/nebula-accounting-data-salvation/"><u>Nebula Accounting Data Salvation</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-discover-the-best-top-10-public-domain-image-libraries/"><u>New Discover the Best Top 10 Public Domain Image Libraries</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-to-enable-a-locked-apple-mobile-phonetablet/"><u>Step-by-Step Guide to Enable a Locked Apple Mobile Phone/Tablet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-to-concoct-an-awkward-potion-in-minecraft-universe/"><u>Step-by-Step Instructions to Concoct an Awkward Potion in Minecraft Universe</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/visual-tapestry-maker-premium-photo-edition-for-2024/"><u>Visual Tapestry Maker Premium Photo Edition for 2024</u></a></li>
+</ul></div>
 

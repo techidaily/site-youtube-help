@@ -1,7 +1,7 @@
 ---
 title: "Easy Fixes for PC Gamers: Dealing with Persistent Deathloop Game Crashes"
-date: 2024-12-27T19:39:20.242Z
-updated: 2025-01-03T18:31:15.188Z
+date: 2025-01-03T16:18:00.930Z
+updated: 2025-01-10T16:13:17.454Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/502b1cdc938497dc65859bd4dea7388cbc83b5388
 5. [**Increase your virtual memory**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Delete specific game files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Verify the integrity of game files
 
  AAA titles tend to be large, and they’re likely to crash when there’re missing or corrupted game files. To make sure the data is intact and up to date, you need to**verify the integrity of your game files** .
@@ -44,14 +40,18 @@ thumbnail: https://thmb.techidaily.com/502b1cdc938497dc65859bd4dea7388cbc83b5388
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-3.jpg)
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-4.jpg)
 3. Allow the checking to complete. Then you can start New World and see if it crashes again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If the problem persists, take a look at the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -70,7 +70,7 @@ If the problem persists, take a look at the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -90,7 +90,7 @@ Here’s how you can check for updates manually:
 2. Scroll down and select**Update & Security** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
@@ -100,20 +100,20 @@ Here’s how you can check for updates manually:
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  Once you’ve installed all the updates, restart your PC and check if New World crashes again.
 
 If your system is already up to date, you can try the next method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Change in-game graphics settings
 
@@ -125,9 +125,17 @@ If your system is already up to date, you can try the next method.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now you can play and check if the crash stops.
 
  If changing graphics settings doesn’t give you luck, continue to the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Increase your virtual memory
 
@@ -143,19 +151,11 @@ Now you can play and check if the crash stops.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
 4. Deselect the **Automatically manage paging file size for all drives** checkbox. Then select **Customize size** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/vritual-memory-set.jpg)
 5. Enter **Initial size** and **Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory (actual RAM) of my computer is 8 GB, so the **Initial size** for me here is **8 x 1024 x 1.5 = 12288 MB** , and the **Maximum size** should be **8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click **Set** , then click **OK**  to save the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-set-02.jpg)
 6. Restart your computer and check if New World crashes again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If this trick doesn’t do the trick for you, take a look at the next solution.
 
@@ -192,21 +192,20 @@ Now you can play and check if the crash stops.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-free-from-marks-acquiring-unmarked-stock-photography/"><u>[New] Free From Marks Acquiring Unmarked Stock Photography</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-in-depth-exploration-of-theta-s-capabilities/"><u>[Updated] 2024 Approved In-Depth Exploration of Theta S Capabilities</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-implementing-custom-overlays-in-youtube-videos/"><u>2024 Approved Implementing Custom Overlays in YouTube Videos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-the-art-of-shorts-imagery-quick-smart-updates/"><u>2024 Approved Mastering the Art of Shorts Imagery Quick, Smart Updates</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-probing-the-depth-of-recmeisters-high-end-screen-capture-features/"><u>2024 Approved Probing the Depth of Recmeister's High-End Screen Capture Features</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unlocking-potential-tubebuddy-and-channel-mastery/"><u>2024 Approved Unlocking Potential TubeBuddy & Channel Mastery</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/cultural-mosaic-benefits-of-embracing-multiple-languages/"><u>Cultural Mosaic: Benefits of Embracing Multiple Languages</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/how-to-remove-black-bars-from-existing-youtube-videos-in-2024/"><u>How to Remove Black Bars From Existing YouTube Videos, In 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-master-rapidly-expertise-in-designing-valorant-thumbnails/"><u>In 2024, Master Rapidly Expertise in Designing Valorant Thumbnails</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-payout-patterns-adsense-earnings-from-youtube-for-every-thousand-viewers/"><u>In 2024, Payout Patterns AdSense Earnings From YouTube for Every Thousand Viewers</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-say-no-to-latency-turn-on-av1-in-youtube-settings/"><u>In 2024, Say No to Latency Turn On AV1 in YouTube Settings</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-speedy-tactics-for-disorganized-youtube-song-listings/"><u>In 2024, Speedy Tactics for Disorganized YouTube Song Listings</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/tackling-unexpected-video-reversals-on-instagram/"><u>Tackling Unexpected Video Reversals on Instagram</u></a></li>
-<li><a href="https://win-forum.techidaily.com/troubleshooting-tips-how-to-rollback-windows-11-updates/"><u>Troubleshooting Tips: How To Rollback Windows 11 Updates</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-selecting-the-ideal-case-for-your-new-iphone-16-and-pro-professional-opinions-and-top-picks-of-2024/"><u>Ultimate Guide to Selecting the Ideal Case for Your New iPhone 16 & Pro: Professional Opinions and Top Picks of 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/your-ideal-health-companion-unveiling-the-features-of-samsung-galaxy-fit2-smartwatch/"><u>Your Ideal Health Companion: Unveiling the Features of Samsung Galaxy Fit2 Smartwatch</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-mastering-social-media-enhancing-your-facebook-page-position/"><u>[New] 2024 Approved Mastering Social Media Enhancing Your Facebook Page Position</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-social-media-live-war-fb-live-and-yt-live-vs-twitter-spaces/"><u>[New] Social Media Live War FB LIVE & YT Live Vs. Twitter Spaces</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-unveiling-the-enhanced-samsung-k850u-experience-for-2024/"><u>[Updated] Unveiling the Enhanced Samsung K850U Experience for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-flashglimpse-crafter/"><u>2024 Approved FlashGlimpse Crafter</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-free-to-paid-subscriber-count-surpasses-500/"><u>2024 Approved From Free to Paid Subscriber Count Surpasses 500</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dive-into-the-world-of-free-online-entertainment-movies-and-tv-on-the-crackle-video-hub/"><u>Dive Into the World of Free Online Entertainment - Movies and TV on the 'Crackle' Video Hub</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gopro-hero-10-secrets-for-flawless-long-exposure-films-for-2024/"><u>GoPro Hero 10 Secrets for Flawless Long-Exposure Films for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-factory-reset-iphone-12-mini-and-ipad-without-apple-id-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Factory Reset iPhone 12 mini and iPad Without Apple ID | Stellar</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/identifying-viewers-a-guide-to-finding-out-who-watches-your-youtube-content/"><u>Identifying Viewers: A Guide to Finding Out Who Watches Your YouTube Content</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-exploring-platform-variations-youtube-vs-dailymention/"><u>In 2024, Exploring Platform Variations YouTube Vs. DailyMention</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-exploring-youtubes-ownership-vs-cc-freedom/"><u>In 2024, Exploring YouTube's Ownership Vs. CC Freedom</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-key-elements-in-asmr-video-content/"><u>In 2024, Key Elements in ASMR Video Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-the-ultimate-list-top-15-affordable-online-image-enhancers/"><u>In 2024, The Ultimate List Top 15 Affordable Online Image Enhancers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-manual-for-youtube-playlist-reordering/"><u>In 2024, The Ultimate Manual for YouTube Playlist Reordering</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/learning-to-let-go-of-hurtful-comments-for-2024/"><u>Learning to Let Go of Hurtful Comments for 2024</u></a></li>
 </ul></div>
 

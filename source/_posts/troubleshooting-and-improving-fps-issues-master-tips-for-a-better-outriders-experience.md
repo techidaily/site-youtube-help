@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting and Improving FPS Issues: Master Tips for a Better Outriders Experience"
-date: 2025-01-02T21:25:18.386Z
-updated: 2025-01-03T19:21:34.716Z
+date: 2025-01-08T16:03:26.434Z
+updated: 2025-01-10T16:26:16.578Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Check your Internet connection
 
  The first thing you can do is to make sure your Internet connection is valid and able to connect to Apex Legends servers. A few things you can look for to check your Internet connection go as below:
@@ -45,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
  If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Install all the game updates
@@ -64,15 +68,19 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
@@ -98,19 +106,11 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. I’m using a graphics driver as an example here, since updating your graphics driver could solve many game issues (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
 
@@ -122,12 +122,12 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/exit-game.png)
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -152,22 +152,21 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-harness-the-power-of-playback-speed-control-in-youtube/"><u>[New] Harness the Power of Playback Speed Control in YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-streamers-financial-health-check-in-youtubers/"><u>[New] Streamer's Financial Health Check in YouTubers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-zombie-mayhem-showdown-selecting-the-finest-games/"><u>[Updated] 2024 Approved Zombie Mayhem Showdown Selecting the Finest Games</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-free-visual-templates-to-upgrade-your-profile/"><u>2024 Approved Free Visual Templates to Upgrade Your Profile</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-definitive-guide-to-removing-persistent-youtube-channels-on-all-screens/"><u>2024 Approved The Definitive Guide to Removing Persistent Youtube Channels on All Screens</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unlock-the-power-of-sony-vegas-to-enhance-your-youtube-channel/"><u>2024 Approved Unlock the Power of Sony Vegas to Enhance Your YouTube Channel</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/elevate-your-videography-top-tier-vimeo-tools/"><u>Elevate Your Videography Top-Tier Vimeo Tools</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Honor Magic 6 Lite? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Nubia Z50S Pro? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-12-pro-5-ways-to-get-into-a-locked-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 12 Pro? 5 Ways to get into a Locked Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-precision-in-perspective-mastery-of-youtube-video-degrees/"><u>In 2024, Precision in Perspective Mastery of Youtube Video Degrees</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-streamlined-design-integrating-gamers-banner-templates/"><u>In 2024, Streamlined Design Integrating Gamers' Banner Templates</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/master-your-pc-with-toms-hardware-insights-and-in-depth-analysis/"><u>Master Your PC with Tom's Hardware Insights and In-Depth Analysis</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/navigating-youtubes-privacy-controls-for-video-accessibility-for-2024/"><u>Navigating YouTube's Privacy Controls for Video Accessibility for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/tesla-faces-restrictions-not-all-autonomous-driving-features-approved-in-specific-us-region/"><u>Tesla Faces Restrictions: Not All Autonomous Driving Features Approved in Specific U.S. Region</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-insiders-technique-to-unite-separate-spotify-playlists-into-a-perfect-mix/"><u>The Insider’s Technique to Unite Separate Spotify Playlists Into a Perfect Mix</u></a></li>
-<li><a href="https://win-forum.techidaily.com/troubleshooting-tips-how-to-rollback-recent-windows-11-updates-successfully/"><u>Troubleshooting Tips: How to Rollback Recent Windows 11 Updates Successfully</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-expert-tips-on-controlling-timeline-pace-in-videos/"><u>[New] 2024 Approved Expert Tips on Controlling Timeline Pace in Videos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-turn-youtube-shorts-into-a-money-machine-key-requirements-and-income-potential/"><u>[New] How to Turn YouTube Shorts Into a Money Machine Key Requirements & Income Potential</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-enhance-visual-appeal-edit-videos-for-instagram-success/"><u>[Updated] Enhance Visual Appeal Edit Videos for Instagram Success</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-leading-video-makers-in-asmr-sphere/"><u>2024 Approved Leading Video Makers in ASMR Sphere</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-solving-the-issue-of-spinning-videos-on-instagram/"><u>2024 Approved Solving the Issue of Spinning Videos on Instagram</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-7-gratis-youtube-tags-extractor-tools/"><u>2024 Approved Top 7 Gratis Youtube Tags Extractor Tools</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-ultimate-livestream-guidebook-recommended-tools-and-devices-compilation/"><u>2024 Approved Ultimate Livestream Guidebook Recommended Tools and Devices Compilation</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/vering-and-perfecting-your-individual-style-for-2024/"><u>Discovering & Perfecting Your Individual Style for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-hot-40-phone-without-google-account-by-drfone-android/"><u>How to Unlock Infinix Hot 40 Phone without Google Account?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/html-techniques-for-youtube-playlist-web-insertion-for-2024/"><u>HTML Techniques for YouTube Playlist Web Insertion for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-premier-select-affordable-youtube-sbs-extraction/"><u>In 2024, Premier Select Affordable YouTube SBS Extraction</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-realme-narzo-n55-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Realme Narzo N55 Screen | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-skyrocketing-revenue-mastering-video-monetization-everywhere/"><u>In 2024, Skyrocketing Revenue Mastering Video Monetization Everywhere</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/instant-insight-into-colour-difference-filming-methods-for-2024/"><u>Instant Insight Into Colour Difference Filming Methods for 2024</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/step-by-step-guide-capturing-synchronized-audio-and-pip-videos-on-your-device/"><u>Step-by-Step Guide: Capturing Synchronized Audio and PIP Videos on Your Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/talk-to-ai-anytime-anywhere-get-chatgpt-for-your-android/"><u>Talk to AI Anytime, Anywhere - Get ChatGPT for Your Android</u></a></li>
 </ul></div>
 

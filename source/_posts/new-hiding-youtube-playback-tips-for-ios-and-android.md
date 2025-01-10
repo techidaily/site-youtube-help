@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Hiding YouTube Playback  Tips for iOS and Android\""
-date: 2024-12-30T19:33:56.919Z
-updated: 2025-01-03T18:47:57.641Z
+date: 2025-01-03T16:34:47.079Z
+updated: 2025-01-10T16:32:10.128Z
 tags:
   - ai video
   - ai youtube
@@ -31,7 +31,7 @@ Another reason why people may want to listen to YouTube in the background could 
 With that said, here you will learn how to **play YouTube in the background on iPhone** **or Android** both with and without any specific app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Paid Solution for Playing YouTube in Background: YouTube Premium
@@ -54,25 +54,25 @@ Launch **YouTube Music**, search for your favorite music using the **Search** ic
 
 ![YouTube Premium Play Music background](https://images.wondershare.com/filmora/article-images/youtube-premium-play-music-background.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 2: Switch to Audio Only (Optional)
 
 Tap anywhere on the video player window, and tap **Audio** from the top of the screen to switch to the audio only mode where the video of the song won’t be played.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 3: Play YouTube in Background
 
 Use your phone-specific button or option to minimize YouTube Music. You can then either continue using your smartphone normally, or turn off the screen to **play YouTube in background**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Play YouTube Videos in Background on iPhone
 
 If you don’t want to pay for YouTube Premium, there are a few other workarounds that you can try to play YouTube in background on your iPhone. One of the easiest methods among them is explained below:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 1: Play YouTube Video on Browser
 
@@ -88,10 +88,6 @@ Tap the **All Tabs** icon from the bottom-right corner of the browser, and tap *
 
 Press the **Home** button or swipe up on iPhone X or above to get to the Home screen. You can notice how YouTube still continues to stream. From this point onward, you can either start using your iPhone normally, or turn off the screen and let your device **play YouTube in background**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Play YouTube Videos in Background on Android
 
 The process to **play YouTube in background** on an Android smartphone is slightly different than what it is on an iPhone if you don’t have a Premium subscription. To get this done on your Android, you must:
@@ -103,7 +99,7 @@ Launch Google Chrome (default) on your Android phone, and go to [**www.youtube.c
 ![Switch to YouTube desktop site on Android](https://images.wondershare.com/filmora/article-images/switch-to-desktop-site-youtube.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Search for and Stream a Video
@@ -116,21 +112,25 @@ Once the video starts streaming, get back to the Home screen, pull down the **No
 
 ![Play YouTube  background on Android](https://images.wondershare.com/filmora/article-images/play-youtube-background-android.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 Best Apps to Play YouTube Videos in Background on Android
 
 Instead of using the above workaround on Android, if you want something simpler and more straightforward, there are a few apps that can help you **play YouTube videos in background**. Some of the most used programs are listed below:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### VLC for Android
 
 Being one of the most versatile media playing software, VLC needs no introduction, and icing on the cake was added when the program was made available on Google Play Store. After you have installed VLC on your Android phone, you can launch the YouTube app, search for and tap the video you want to play in the background, tap the streaming video, tap the ‘More options’ icon from the top-right corner, and tap ‘Play in VLC’ from the available options.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Minimize play in background
 
@@ -144,15 +144,15 @@ Yet another app available on Google Play Store that lets you search for your fav
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Conclusion**
 
 Watching YouTube videos has become a part of people’s day-to-day life now. While many of them use the platform to learn new skills through the tutorials that are available for free, others love the idea of having unlimited and unrestricted access to the gigantic database of music videos that they can dig in to find and play their favorite tracks. For the latter scenario, the processes explained above are likely to come in handy in order to **play YouTube in background** so the users can take full advantage of their iPhone or Android smartphone in case they only want to listen to the audio, and are not interested in watching the video while streaming.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -169,19 +169,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-expert-guide-to-cutting-edge-online-streaming-via-vlc-media-player/"><u>[New] Expert Guide to Cutting-Edge Online Streaming via VLC Media Player</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unlocking-creative-potential-with-filmora-answers/"><u>[New] Unlocking Creative Potential with Filmora Answers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-complete-roadmap-to-feeding-your-youtube-plays-with-content/"><u>[Updated] The Complete Roadmap to Feeding Your YouTube Plays with Content</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-infographic-cache-of-2017s-yt-facts-and-figures/"><u>2024 Approved The Infographic Cache of 2017’S YT Facts and Figures</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/exploring-the-best-under-100-video-doorbells-the-comprehensive-review-of-remobell/"><u>Exploring the Best Under-$100 Video Doorbells: The Comprehensive Review of RemoBell</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Realme 11X 5G? | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-essential-skills-for-harvesting-and-storing-gifs-from-facebooks-feed/"><u>In 2024, Essential Skills for Harvesting and Storing GIFs From Facebook's Feed</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-social-media-savvy-top-trending-hashtags-for-youtubers/"><u>In 2024, Social Media Savvy Top Trending Hashtags for Youtubers</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-streamline-your-content-efficiently-adding-youtube-captions/"><u>In 2024, Streamline Your Content Efficiently Adding YouTube Captions</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-top-picks-11-affordable-innovative-yt-moniker-generators/"><u>In 2024, Top Picks 11 Affordable, Innovative YT Moniker Generators</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/minecraft-branding-resources-for-youtubers-for-2024/"><u>Minecraft Branding Resources for YouTubers for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/efinitive-guide-to-ios-and-android-maker-tools/"><u>The Definitive Guide to iOS & Android Maker Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-your-ps4-controller-what-do-the-blinks-in-different-colors-indicate/"><u>Troubleshooting Your PS4 Controller - What Do The Blinks in Different Colors Indicate?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-your-apple-tvs-full-potential-by-streaming-with-vlc-how-to/"><u>Unlock Your Apple TV's Full Potential by Streaming With VLC - How To?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-superb-alter-ego-voice-tools-for-aspiring-vtubers/"><u>[New] 2024 Approved Superb Alter-Ego Voice Tools For Aspiring VTubers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-pro-freefire-compiling-premier-gaming-vids-and-hashtags/"><u>[New] Pro-FreeFire Compiling Premier Gaming Vids and Hashtags</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-sprinkle-some-smiles-emojis-on-youtube/"><u>[New] Sprinkle Some Smiles Emojis on YouTube</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-tricks-to-taper-down-video-playback-speed-in-snapchat-for-2024/"><u>[New] Tricks to Taper Down Video Playback Speed in Snapchat for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-mastering-youtube-timestamp-addition-for-desktop-and-mobile-devices/"><u>[Updated] 2024 Approved Mastering YouTube Timestamp Addition for Desktop & Mobile Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-solving-the-mystery-recovering-your-vanished-itunes-collection-from-mac-or-pc/"><u>1. Solving the Mystery: Recovering Your Vanished iTunes Collection From Mac or PC</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-indulge-in-9-holiday-blockbusters-free-online-christmas-viewing/"><u>2024 Approved Indulge in 9 Holiday Blockbusters Free Online Christmas Viewing</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/entsorgung-von-programmen-die-sich-nicht-entfernen-lassen/"><u>Entsorgung Von Programmen, Die Sich Nicht Entfernen Lassen</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/from-zero-to-hero-youtube-intro-wonders-with-imovie-for-2024/"><u>From Zero to Hero YouTube Intro Wonders with iMovie for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-on-itel-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Videos Not Playing on Itel ?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ideal-displays-of-2024-essential-photo-editing-gear-selection/"><u>Ideal Displays of 2024 Essential Photo Editing Gear Selection</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-fbx-gaming-record-your-adventure/"><u>In 2024, FBX Gaming Record Your Adventure</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-luxurious-asmr-sound-priced-right-top-picks-listed-here/"><u>In 2024, Luxurious ASMR Sound, Priced Right - Top Picks Listed Here</u></a></li>
 </ul></div>
 

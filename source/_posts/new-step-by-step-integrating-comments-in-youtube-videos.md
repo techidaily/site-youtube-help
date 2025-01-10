@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step  Integrating Comments in YouTube Videos\""
-date: 2024-12-27T20:04:37.426Z
-updated: 2025-01-03T18:43:58.910Z
+date: 2025-01-03T16:34:44.467Z
+updated: 2025-01-10T16:35:56.720Z
 tags:
   - ai video
   - ai youtube
@@ -45,10 +45,6 @@ The main difference between annotation and cards is their outlook. Cards are mor
 * [Part 1: How to Add YouTube Cards](#part1)
 * [Part 2: How to Add YouTube Annotations](#part2)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to add YouTube Cards
 
 YouTube **Cards** are similar to annotations but more interactive. They allow the owner of the video to add images and other links. A small box appears, clicking on which will activate the cards.
@@ -58,13 +54,17 @@ YouTube **Cards** are similar to annotations but more interactive. They allow th
 ![](https://images.wondershare.com/filmora/article-images/video-manager-in-youtube.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Click "Edit" tab under the video screen shot you want to add the card on
 * Click on the "Cards" tab
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-cards01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * On the right panel click on "Add Card" drop down menu and select the type of card you want to add
 * Click on the create button which will open the corresponding video
@@ -73,10 +73,14 @@ YouTube **Cards** are similar to annotations but more interactive. They allow th
 
 ![](https://images.wondershare.com/filmora/article-images/add-cards-to-youtube-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Apply changes and exit
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to add YouTube annotations
@@ -90,7 +94,7 @@ YouTube Annotation is addition of a text layer, link or hotspots over your video
 ![](https://images.wondershare.com/filmora/article-images/add-annotations-to-youtube-video.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * On the right panel click on "+ Add Element" and select the kind of annotation you want to add
@@ -136,10 +140,6 @@ No matter what kind of annotations you are using, you should never use more than
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -155,17 +155,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-how-to-activate-or-deactivate-video-commenting-in-youtube/"><u>[New] How To Activate or Deactivate Video Commenting in YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-best-sites-to-buy-monetized-youtube-channels-for-beginners/"><u>2024 Approved Best Sites to Buy Monetized YouTube Channels for Beginners</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-knowledge-currents-best-yt-for-academic-growth/"><u>2024 Approved Knowledge Currents Best YT for Academic Growth</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximizing-revenue-a-youtube-channelers-guide/"><u>2024 Approved Maximizing Revenue A YouTube Channeler’s Guide</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/black-desert-pc-crash-solutions-how-to-optimize-gameplay-stability/"><u>Black Desert PC Crash Solutions - How to Optimize Gameplay Stability</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/contrasting-bert-with-gpt-insights-on-the-revolutionary-nlp-model/"><u>Contrasting BERT with GPT: Insights on the Revolutionary NLP Model</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-seek-out-sites-that-connect-you-to-youtube-revenue-models/"><u>In 2024, Seek Out Sites That Connect You to YouTube Revenue Models</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-step-into-simplicity-a-tailored-approach-to-creating-shorts-thumbnails/"><u>In 2024, Step Into Simplicity A Tailored Approach to Creating Shorts Thumbnails</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/movavi-onlineaacogg/"><u>Movavi OnlineフリーAAC音源の迅速かつストレスなしOGGへの変更 - 使い勝手強化版</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/navigating-social-media-how-to-proficiently-record-live-on-fb-for-2024/"><u>Navigating Social Media How to Proficiently Record Live on FB for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/el-the-mystery-of-the-overly-green-hue-in-mac-recordings-for-2024/"><u>Unravel the Mystery of the Overly Green Hue in Mac Recordings for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-video-capture-clash-go-obs-against-shadowgl/"><u>[New] 2024 Approved Video Capture Clash Go OBS! Against ShadowGL</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-quick-response-guide-adding-youtubes-closed-captions-and-subtitles/"><u>[New] Quick-Response Guide Adding YouTube's Closed Captions and Subtitles</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-unlocking-content-easy-downloads-of-vimeo-hd-videos-mp4-for-2024/"><u>[New] Unlocking Content Easy Downloads of Vimeo HD Videos (MP4) for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-a-practical-approach-to-incorporate-youtube-playlists-online/"><u>[Updated] A Practical Approach to Incorporate YouTube Playlists Online</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-diy-guide-zero-cost-youtube-intros-and-template-usage-for-2024/"><u>[Updated] DIY Guide Zero Cost YouTube Intros & Template Usage for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-online-screenshots-and-screen-recorders-guide-for-2024/"><u>[Updated] Online Screenshots & Screen Recorders Guide for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-video-aspects-on-youtube-perfect-size-and-quality-balance/"><u>2024 Approved Navigating Video Aspects on YouTube Perfect Size & Quality Balance</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-in-depth-technique-for-formulating-youtube-playlists/"><u>2024 Approved The In-Depth Technique for Formulating YouTube Playlists</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unlock-youtube-success-subscriber-boosts-at-a-bargain/"><u>2024 Approved Unlock YouTube Success - Subscriber Boosts at a Bargain</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unlocking-earnings-the-mean-daily-pay-from-youtube-adsense-per-k-viewers/"><u>2024 Approved Unlocking Earnings The Mean Daily Pay From YouTube AdSense per K Viewers</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/an-easy-to-follow-guide-to-applying-cc-license-types/"><u>An Easy-to-Follow Guide to Applying CC License Types</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-the-shadows-to-spotlight-rise-in-popularity-with-these-steps-on-youtube/"><u>In 2024, From the Shadows to Spotlight Rise in Popularity with These Steps on YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-start-saving-smiles-on-youtube-a-beginners-mac-tutorial/"><u>In 2024, Start Saving Smiles on YouTube A Beginner's Mac Tutorial</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamline-your-online-experience-blocking-youtube-channels-effectively/"><u>In 2024, Streamline Your Online Experience Blocking Youtube Channels Effectively</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/instantly-accessible-music-mixes-assembling-youtube-playlists-webmobile-style-for-2024/"><u>Instantly Accessible Music Mixes Assembling YouTube Playlists Web/Mobile Style for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-find-the-perfect-green-screen-software-for-your-mac-workflow-for-2024/"><u>New Find the Perfect Green Screen Software for Your Mac Workflow for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-guide-how-to-turn-off-driver-signature-protection-in-windows-10/"><u>Quick Guide: How to Turn Off Driver Signature Protection in Windows 10</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/understanding-email-impersonation-techniques-and-defense-strategies/"><u>Understanding Email Impersonation: Techniques & Defense Strategies</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-poco-f5-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Poco F5 5G? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

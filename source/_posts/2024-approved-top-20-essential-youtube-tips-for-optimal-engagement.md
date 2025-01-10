@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 20 Essential YouTube Tips for Optimal Engagement\""
-date: 2024-07-29T19:08:50.827Z
-updated: 2024-07-30T19:08:50.827Z
+date: 2025-01-04T16:27:48.429Z
+updated: 2025-01-10T16:23:07.340Z
 tags:
   - ai video
   - ai youtube
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 
 # YouTube Shortcuts You Should Know in 2024
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -31,9 +28,6 @@ YouTube, as one of the most popular free streaming video portals, the majority o
 
 With that said, the following two-columned tables give you detailed information on the shortcut keys and their respective functions, so you don’t have to grab the mouse every time you want to navigate through the YouTube videos, or do any such similar tasks.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Amazing YouTube Keyboard Shortcuts You May Not Know
 
 To make things convenient for you, the shortcut keys are placed under their corresponding categories, where each category is in the form of a two-columned table.
@@ -87,9 +81,6 @@ This category talks about managing the video captions using the shortcut keys:
 | '-' (Minus Key)    | Reduce the font size of the captions (Minus key on the Numpad isn't supported)                                       |
 | '+' (Plus Key)     | Increase the font size of the captions (Plus key on the Numpad isn't supported)                                      |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Category 5: Managing the Audio Video
 
 This category shows the shortcut keys to manage audio for a YouTube video:
@@ -115,151 +106,9 @@ Double press F/T/I on the keyboard will exit the full-screen/theater model/indep
 If you are watching video on YouTube mobile app, you can swipe up the video slightly to enter the full screen mode, and swipe down the video slightly to exit the full screen.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-### Category 7: Viewing 360o/VR Videos
 
-In this category, the navigation and management of shortcut keys for 360o and Virtual Reality (VR) view are discussed:
-
-| Keyboard Shortcut           | Function                                              |
-| --------------------------- | ----------------------------------------------------- |
-| 'W', 'A', 'S', 'D'          | Up, left, down, and right camera panning respectively |
-| '+' (Plus Key on Numpad)    | Zoom in                                               |
-| '-' (Minus Key on Numpad)   | Zoom out                                              |
-| '-' (Minus Key on Keyboard) | Decrease font size                                    |
-| '+' (Plus Key on Keyboard)  | Increase font size                                    |
-
-## Bonus: How to Get the YouTube Shortcut List with One-Click
-
-In this section, you will learn how to pull up the list of important YouTube shortcuts by pressing merely one key:
-
-| Keyboard Shortcut | Function                                                   |
-| ----------------- | ---------------------------------------------------------- |
-| 'SHIFT' + '?'     | Show the important keyboard shortcuts assigned for YouTube |
-
-So, when you press the Shift+? on YouTube, you will see a full list of shortcuts.
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![YouTube Shortcut List](https://images.wondershare.com/filmora/article-images/youtube-keyboard-shortcuts-list.jpg)
-
-**Conclusion**
-
-Watching videos on YouTube is fun, and you can enjoy the clips, movies, tutorials, etc. more if you are well-aware of the important shortcut keys. This not only helps you navigate through the videos faster but also gives you relief from the additional efforts that you would otherwise have to make while grabbing the mouse, and then looking for and using the correct option.
-
-As one of the most popular video editing software among YouTubers, Filmora provides lots of effects, title templates, transitions, and elements as well as powerful video editing tools such as instant cutter tool, [scene detection](https://tools.techidaily.com/wondershare/filmora/download/), [beat detection](https://tools.techidaily.com/wondershare/filmora/download/), [motion tracking](https://tools.techidaily.com/wondershare/filmora/download/), animation keyframe, and much more. All these editing features and effects makes Filmora as one of the best video editing software for all creators.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-YouTube, as one of the most popular free streaming video portals, the majority of people use it, probably several times a day. However, how many of you know that there are more than 20 shortcuts that help you use the website comparatively more conveniently?
-
-With that said, the following two-columned tables give you detailed information on the shortcut keys and their respective functions, so you don’t have to grab the mouse every time you want to navigate through the YouTube videos, or do any such similar tasks.
-
-## Amazing YouTube Keyboard Shortcuts You May Not Know
-
-To make things convenient for you, the shortcut keys are placed under their corresponding categories, where each category is in the form of a two-columned table.
-
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### Category 1: YouTube Playback Hotkeys
-
-While watching a YouTube video, there might be instances when you want to pause and resume the playback. This category teaches how this can be done using the keyboard:
-
-| Keyboard Shortcut | Function                               |
-| ----------------- | -------------------------------------- |
-| 'K'               | Play and Pause (Works as a toggle key) |
-| 'Spacebar'        | Play and Pause (Works as a toggle key) |
-
-### Category 2: Scrolling YouTube Videos Back and Forth
-
-This section talks about the shortcut keys to skim the video forward and backward during playback:
-
-| Keyboard Shortcut                    | Function                                                                                                                                                                     |
-| ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 'L'                                  | Skip the video 10 seconds forward                                                                                                                                            |
-| 'J'                                  | Skip the video 10 seconds backward                                                                                                                                           |
-| '→' (Right Arrow)                    | Skip the video 5 seconds forward                                                                                                                                             |
-| '←' (Left Arrow)                     | Skip the video 5 seconds backward                                                                                                                                            |
-| 'SHIFT' + 'N'                        | Skip to the next video in the playlist or to the next suggested video                                                                                                        |
-| 'K' or 'Spacebar'; then '.' (Period) | Pressing 'K' or 'Spacebar' pauses the video; pressing the '.' (Period) key repeatedly moves the video forward one frame at a time (Period key on the Numpad isn't supported) |
-| 'K' or 'Spacebar'; then ',' (Comma)  | Pressing 'K' or 'Spacebar' pauses the video; pressing the ',' (Comma) key repeatedly moves the video backward one frame at a time (Period key on the Numpad isn't supported) |
-| '0' (Zero)                           | Takes the video to the beginning                                                                                                                                             |
-
-If you’re watching videos on YouTube mobile app, you can use double-tap on the right side of the video player to skip 10 seconds forward, and double-tap on the left side of the video player to skip the video 10 seconds backward. Every double-tap forwards/rewinds the video in 10-seconds increments. E.g., Tapping 6 times on the right skips the video 30 seconds forward. Tapping 6 times on the left skips the video 30 seconds backward.
-
-Long press the Video Player and swipe right will navigate the video forward; and long press the video player and wwipe left will navigate the video backward.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
-### Category 3: Manage Playback Speed
-
-This category contains information on increasing or decreasing the playback speed of a YouTube video:
-
-| Keyboard Shortcut      | Function                |
-| ---------------------- | ----------------------- |
-| 'SHIFT' + '.' (Period) | Increase playback speed |
-| 'SHIFT' + ',' (Comma)  | Decrease playback speed |
-
-### Category 4: Managing the Captions
-
-This category talks about managing the video captions using the shortcut keys:
-
-| Keyboard Shortcut  | Function                                                                                                             |
-| ------------------ | -------------------------------------------------------------------------------------------------------------------- |
-| 'C'                | Enable or disable captions (Works as a toggle key)                                                                   |
-| 'O' (The letter O) | Increase or decrease the brightness level of the captions (Works as a toggle key)                                    |
-| 'W'                | Enable, increase, and disable the background transparency of the captions (Press multiple times to manage intensity) |
-| '-' (Minus Key)    | Reduce the font size of the captions (Minus key on the Numpad isn't supported)                                       |
-| '+' (Plus Key)     | Increase the font size of the captions (Plus key on the Numpad isn't supported)                                      |
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### Category 5: Managing the Audio Video
-
-This category shows the shortcut keys to manage audio for a YouTube video:
-
-| Keyboard Shortcut | Function              |
-| ----------------- | --------------------- |
-| 'M'               | Mute YouTube video    |
-| '↑'               | Increase volume by 5% |
-| '↓'               | Decrease volume by 5% |
-
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### Category 6: Switching Between Screen Modes
-
-The shortcut keys given in this table enable you to switch between different screen modes:
-
-| Keyboard Shortcut | Function                                                                      |
-| ----------------- | ----------------------------------------------------------------------------- |
-| 'F'               | Switch between the full-screen and normal mode (Works as a toggle key)        |
-| 'T'               | Switch between the theater and normal mode (Works as a toggle key)            |
-| 'I'               | Switch between the independent player and normal mode (Works as a toggle key) |
-
-Double press F/T/I on the keyboard will exit the full-screen/theater model/independent mode accordingly.
-
-If you are watching video on YouTube mobile app, you can swipe up the video slightly to enter the full screen mode, and swipe down the video slightly to exit the full screen.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### Category 7: Viewing 360o/VR Videos
 
 In this category, the navigation and management of shortcut keys for 360o and Virtual Reality (VR) view are discussed:
@@ -309,15 +158,13 @@ YouTube, as one of the most popular free streaming video portals, the majority o
 With that said, the following two-columned tables give you detailed information on the shortcut keys and their respective functions, so you don’t have to grab the mouse every time you want to navigate through the YouTube videos, or do any such similar tasks.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Amazing YouTube Keyboard Shortcuts You May Not Know
 
 To make things convenient for you, the shortcut keys are placed under their corresponding categories, where each category is in the form of a two-columned table.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Category 1: YouTube Playback Hotkeys
 
 While watching a YouTube video, there might be instances when you want to pause and resume the playback. This category teaches how this can be done using the keyboard:
@@ -327,9 +174,6 @@ While watching a YouTube video, there might be instances when you want to pause 
 | 'K'               | Play and Pause (Works as a toggle key) |
 | 'Spacebar'        | Play and Pause (Works as a toggle key) |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Category 2: Scrolling YouTube Videos Back and Forth
 
 This section talks about the shortcut keys to skim the video forward and backward during playback:
@@ -349,9 +193,6 @@ If you’re watching videos on YouTube mobile app, you can use double-tap on the
 
 Long press the Video Player and swipe right will navigate the video forward; and long press the video player and wwipe left will navigate the video backward.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ### Category 3: Manage Playback Speed
 
 This category contains information on increasing or decreasing the playback speed of a YouTube video:
@@ -373,9 +214,6 @@ This category talks about managing the video captions using the shortcut keys:
 | '-' (Minus Key)    | Reduce the font size of the captions (Minus key on the Numpad isn't supported)                                       |
 | '+' (Plus Key)     | Increase the font size of the captions (Plus key on the Numpad isn't supported)                                      |
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ### Category 5: Managing the Audio Video
 
 This category shows the shortcut keys to manage audio for a YouTube video:
@@ -401,8 +239,9 @@ Double press F/T/I on the keyboard will exit the full-screen/theater model/indep
 If you are watching video on YouTube mobile app, you can swipe up the video slightly to enter the full screen mode, and swipe down the video slightly to exit the full screen.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Category 7: Viewing 360o/VR Videos
 
 In this category, the navigation and management of shortcut keys for 360o and Virtual Reality (VR) view are discussed:
@@ -415,9 +254,6 @@ In this category, the navigation and management of shortcut keys for 360o and Vi
 | '-' (Minus Key on Keyboard) | Decrease font size                                    |
 | '+' (Plus Key on Keyboard)  | Increase font size                                    |
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus: How to Get the YouTube Shortcut List with One-Click
 
 In this section, you will learn how to pull up the list of important YouTube shortcuts by pressing merely one key:
@@ -428,9 +264,6 @@ In this section, you will learn how to pull up the list of important YouTube sho
 
 So, when you press the Shift+? on YouTube, you will see a full list of shortcuts.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![YouTube Shortcut List](https://images.wondershare.com/filmora/article-images/youtube-keyboard-shortcuts-list.jpg)
 
 **Conclusion**
@@ -439,9 +272,6 @@ Watching videos on YouTube is fun, and you can enjoy the clips, movies, tutorial
 
 As one of the most popular video editing software among YouTubers, Filmora provides lots of effects, title templates, transitions, and elements as well as powerful video editing tools such as instant cutter tool, [scene detection](https://tools.techidaily.com/wondershare/filmora/download/), [beat detection](https://tools.techidaily.com/wondershare/filmora/download/), [motion tracking](https://tools.techidaily.com/wondershare/filmora/download/), animation keyframe, and much more. All these editing features and effects makes Filmora as one of the best video editing software for all creators.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -460,16 +290,14 @@ YouTube, as one of the most popular free streaming video portals, the majority o
 
 With that said, the following two-columned tables give you detailed information on the shortcut keys and their respective functions, so you don’t have to grab the mouse every time you want to navigate through the YouTube videos, or do any such similar tasks.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Amazing YouTube Keyboard Shortcuts You May Not Know
 
 To make things convenient for you, the shortcut keys are placed under their corresponding categories, where each category is in the form of a two-columned table.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Category 1: YouTube Playback Hotkeys
 
 While watching a YouTube video, there might be instances when you want to pause and resume the playback. This category teaches how this can be done using the keyboard:
@@ -479,9 +307,6 @@ While watching a YouTube video, there might be instances when you want to pause 
 | 'K'               | Play and Pause (Works as a toggle key) |
 | 'Spacebar'        | Play and Pause (Works as a toggle key) |
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Category 2: Scrolling YouTube Videos Back and Forth
 
 This section talks about the shortcut keys to skim the video forward and backward during playback:
@@ -501,9 +326,6 @@ If you’re watching videos on YouTube mobile app, you can use double-tap on the
 
 Long press the Video Player and swipe right will navigate the video forward; and long press the video player and wwipe left will navigate the video backward.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Category 3: Manage Playback Speed
 
 This category contains information on increasing or decreasing the playback speed of a YouTube video:
@@ -514,8 +336,146 @@ This category contains information on increasing or decreasing the playback spee
 | 'SHIFT' + ',' (Comma)  | Decrease playback speed |
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+### Category 4: Managing the Captions
+
+This category talks about managing the video captions using the shortcut keys:
+
+| Keyboard Shortcut  | Function                                                                                                             |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------- |
+| 'C'                | Enable or disable captions (Works as a toggle key)                                                                   |
+| 'O' (The letter O) | Increase or decrease the brightness level of the captions (Works as a toggle key)                                    |
+| 'W'                | Enable, increase, and disable the background transparency of the captions (Press multiple times to manage intensity) |
+| '-' (Minus Key)    | Reduce the font size of the captions (Minus key on the Numpad isn't supported)                                       |
+| '+' (Plus Key)     | Increase the font size of the captions (Plus key on the Numpad isn't supported)                                      |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### Category 5: Managing the Audio Video
+
+This category shows the shortcut keys to manage audio for a YouTube video:
+
+| Keyboard Shortcut | Function              |
+| ----------------- | --------------------- |
+| 'M'               | Mute YouTube video    |
+| '↑'               | Increase volume by 5% |
+| '↓'               | Decrease volume by 5% |
+
+### Category 6: Switching Between Screen Modes
+
+The shortcut keys given in this table enable you to switch between different screen modes:
+
+| Keyboard Shortcut | Function                                                                      |
+| ----------------- | ----------------------------------------------------------------------------- |
+| 'F'               | Switch between the full-screen and normal mode (Works as a toggle key)        |
+| 'T'               | Switch between the theater and normal mode (Works as a toggle key)            |
+| 'I'               | Switch between the independent player and normal mode (Works as a toggle key) |
+
+Double press F/T/I on the keyboard will exit the full-screen/theater model/independent mode accordingly.
+
+If you are watching video on YouTube mobile app, you can swipe up the video slightly to enter the full screen mode, and swipe down the video slightly to exit the full screen.
+
+### Category 7: Viewing 360o/VR Videos
+
+In this category, the navigation and management of shortcut keys for 360o and Virtual Reality (VR) view are discussed:
+
+| Keyboard Shortcut           | Function                                              |
+| --------------------------- | ----------------------------------------------------- |
+| 'W', 'A', 'S', 'D'          | Up, left, down, and right camera panning respectively |
+| '+' (Plus Key on Numpad)    | Zoom in                                               |
+| '-' (Minus Key on Numpad)   | Zoom out                                              |
+| '-' (Minus Key on Keyboard) | Decrease font size                                    |
+| '+' (Plus Key on Keyboard)  | Increase font size                                    |
+
+## Bonus: How to Get the YouTube Shortcut List with One-Click
+
+In this section, you will learn how to pull up the list of important YouTube shortcuts by pressing merely one key:
+
+| Keyboard Shortcut | Function                                                   |
+| ----------------- | ---------------------------------------------------------- |
+| 'SHIFT' + '?'     | Show the important keyboard shortcuts assigned for YouTube |
+
+So, when you press the Shift+? on YouTube, you will see a full list of shortcuts.
+
+![YouTube Shortcut List](https://images.wondershare.com/filmora/article-images/youtube-keyboard-shortcuts-list.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+**Conclusion**
+
+Watching videos on YouTube is fun, and you can enjoy the clips, movies, tutorials, etc. more if you are well-aware of the important shortcut keys. This not only helps you navigate through the videos faster but also gives you relief from the additional efforts that you would otherwise have to make while grabbing the mouse, and then looking for and using the correct option.
+
+As one of the most popular video editing software among YouTubers, Filmora provides lots of effects, title templates, transitions, and elements as well as powerful video editing tools such as instant cutter tool, [scene detection](https://tools.techidaily.com/wondershare/filmora/download/), [beat detection](https://tools.techidaily.com/wondershare/filmora/download/), [motion tracking](https://tools.techidaily.com/wondershare/filmora/download/), animation keyframe, and much more. All these editing features and effects makes Filmora as one of the best video editing software for all creators.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+YouTube, as one of the most popular free streaming video portals, the majority of people use it, probably several times a day. However, how many of you know that there are more than 20 shortcuts that help you use the website comparatively more conveniently?
+
+With that said, the following two-columned tables give you detailed information on the shortcut keys and their respective functions, so you don’t have to grab the mouse every time you want to navigate through the YouTube videos, or do any such similar tasks.
+
+## Amazing YouTube Keyboard Shortcuts You May Not Know
+
+To make things convenient for you, the shortcut keys are placed under their corresponding categories, where each category is in the form of a two-columned table.
+
+### Category 1: YouTube Playback Hotkeys
+
+While watching a YouTube video, there might be instances when you want to pause and resume the playback. This category teaches how this can be done using the keyboard:
+
+| Keyboard Shortcut | Function                               |
+| ----------------- | -------------------------------------- |
+| 'K'               | Play and Pause (Works as a toggle key) |
+| 'Spacebar'        | Play and Pause (Works as a toggle key) |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### Category 2: Scrolling YouTube Videos Back and Forth
+
+This section talks about the shortcut keys to skim the video forward and backward during playback:
+
+| Keyboard Shortcut                    | Function                                                                                                                                                                     |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 'L'                                  | Skip the video 10 seconds forward                                                                                                                                            |
+| 'J'                                  | Skip the video 10 seconds backward                                                                                                                                           |
+| '→' (Right Arrow)                    | Skip the video 5 seconds forward                                                                                                                                             |
+| '←' (Left Arrow)                     | Skip the video 5 seconds backward                                                                                                                                            |
+| 'SHIFT' + 'N'                        | Skip to the next video in the playlist or to the next suggested video                                                                                                        |
+| 'K' or 'Spacebar'; then '.' (Period) | Pressing 'K' or 'Spacebar' pauses the video; pressing the '.' (Period) key repeatedly moves the video forward one frame at a time (Period key on the Numpad isn't supported) |
+| 'K' or 'Spacebar'; then ',' (Comma)  | Pressing 'K' or 'Spacebar' pauses the video; pressing the ',' (Comma) key repeatedly moves the video backward one frame at a time (Period key on the Numpad isn't supported) |
+| '0' (Zero)                           | Takes the video to the beginning                                                                                                                                             |
+
+If you’re watching videos on YouTube mobile app, you can use double-tap on the right side of the video player to skip 10 seconds forward, and double-tap on the left side of the video player to skip the video 10 seconds backward. Every double-tap forwards/rewinds the video in 10-seconds increments. E.g., Tapping 6 times on the right skips the video 30 seconds forward. Tapping 6 times on the left skips the video 30 seconds backward.
+
+Long press the Video Player and swipe right will navigate the video forward; and long press the video player and wwipe left will navigate the video backward.
+
+### Category 3: Manage Playback Speed
+
+This category contains information on increasing or decreasing the playback speed of a YouTube video:
+
+| Keyboard Shortcut      | Function                |
+| ---------------------- | ----------------------- |
+| 'SHIFT' + '.' (Period) | Increase playback speed |
+| 'SHIFT' + ',' (Comma)  | Decrease playback speed |
+
 ### Category 4: Managing the Captions
 
 This category talks about managing the video captions using the shortcut keys:
@@ -552,9 +512,6 @@ Double press F/T/I on the keyboard will exit the full-screen/theater model/indep
 
 If you are watching video on YouTube mobile app, you can swipe up the video slightly to enter the full screen mode, and swipe down the video slightly to exit the full screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Category 7: Viewing 360o/VR Videos
 
 In this category, the navigation and management of shortcut keys for 360o and Virtual Reality (VR) view are discussed:
@@ -567,9 +524,6 @@ In this category, the navigation and management of shortcut keys for 360o and Vi
 | '-' (Minus Key on Keyboard) | Decrease font size                                    |
 | '+' (Plus Key on Keyboard)  | Increase font size                                    |
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus: How to Get the YouTube Shortcut List with One-Click
 
 In this section, you will learn how to pull up the list of important YouTube shortcuts by pressing merely one key:
@@ -622,9 +576,6 @@ A YouTube trailer is a short intro video for your channel. What do you do? What 
 
 In other words, a YouTube trailer is necessary for your channel. It will give the audience a better understanding of yourself and what to expect from your YouTube channel.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** also, the trailer will be visible for non-subscribed viewers who come to your channel for the first time. So as first impressions matter, they need to be creative and engaging.
@@ -665,10 +616,11 @@ Make a short intro, depending on the content and your presence on the screen. Ag
 
 You can add a quick introduction about yourself and your backstory. It will create a sense of personal attachment to the channel and help you engage better with the audience.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** keep in mind to make a short intro. Please don't spend too much time on it. And remember, it's all about the audience.
 
@@ -682,9 +634,6 @@ One of the easiest ways is to use perfect music. So if you want to know how to s
 
 Here, you should explain to your audience the purpose of your channel and what they can expect from you. At this stage, new potential viewers can get you, whether your goal is to entertain them, teach something specific, or discuss certain topics and how you intend to achieve them.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![an example of a creative trailer](https://images.wondershare.com/filmora/article-images/2022/12/youtube-trailer-3.jpg)
 
 **Determine the style of your video**
@@ -758,6 +707,10 @@ The trick here is to get the viewers' attention within 5 seconds, so they're int
 Make a short intro, depending on the content and your presence on the screen. Again, developing a friendly relationship between the viewers and yourself is beneficial.
 
 ![self-introduction example](https://images.wondershare.com/filmora/article-images/2022/12/youtube-trailer-2.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can add a quick introduction about yourself and your backstory. It will create a sense of personal attachment to the channel and help you engage better with the audience.
 
@@ -828,5 +781,22 @@ Alright! Following the steps mentioned above, you will be able to create a good 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-accelerating-videos-in-tiktok-quick-tips/"><u>[New] Accelerating Videos in TikTok Quick Tips</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-exclusive-list-of-the-top-10-digital-recording-apps/"><u>[New] Exclusive List of the Top 10 Digital Recording Apps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-from-social-networks-to-personal-messages-twitchs-journey-through-whatsapp/"><u>[Updated] From Social Networks to Personal Messages Twitch's Journey Through WhatsApp</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-investing-5-yields-hundreds-of-new-viewers-now/"><u>2024 Approved Investing $5 Yields Hundreds of New Viewers Now</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-quick-fix-valorant-thumbnails-professionally-done-now/"><u>2024 Approved Quick-Fix Valorant Thumbnails Professionally Done Now</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-rising-riches-of-a-kid-star-ryans-income-insights/"><u>2024 Approved The Rising Riches of a Kid Star Ryan's Income Insights</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-10-freefire-game-hacks-for-youtube-gamers/"><u>2024 Approved Top 10 FreeFire Game Hacks for YouTube Gamers</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/ensuring-optimal-performance-how-to-verify-sound-card-compatibility-with-your-computer-system-yl-technical-support-tips/"><u>Ensuring Optimal Performance: How To Verify Sound Card Compatibility with Your Computer System - YL Technical Support Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-itel-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-a78-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo A78 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamline-your-channels-customized-end-screen-templates/"><u>In 2024, Streamline Your Channels Customized End Screen Templates</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-guide-to-channel-evolution-via-studio/"><u>In 2024, The Ultimate Guide to Channel Evolution via Studio</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-leading-list-where-to-find-gamers-music-without-costs-for-2024/"><u>The Leading List Where to Find Gamers' Music Without Costs for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-green-screen-apps-for-mac-a-comprehensive-guide/"><u>Top Green Screen Apps for Mac A Comprehensive Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Sony Xperia 10 V | Dr.fone</u></a></li>
+</ul></div>
 
