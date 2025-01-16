@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Tidied  Missing Miniature Videos on YouTube\""
-date: 2025-01-07T16:02:23.656Z
-updated: 2025-01-10T16:05:16.539Z
+date: 2025-01-14T04:52:15.899Z
+updated: 2025-01-15T19:18:13.926Z
 tags:
   - ai video
   - ai youtube
@@ -61,13 +61,13 @@ And, you must note that a YouTube Shorts video consists of two criteria as follo
 * The video has to be vertical (portrait-style)
 * The video must be 60 seconds or less
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Fix YouTube Shorts Not Showing Up?
 
 Here’s the section covering fixes on YouTube Shorts not showing. Please give it a read and resolve your issue happily!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update the YouTube App
 
@@ -78,12 +78,16 @@ Moreover, the option to upload Shorts is now hidden behind the **+** icon. Tap o
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-not-showing-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Check If Shorts Is Available in Your Country
 
 Now, YouTube Shorts is available globally, but there was a phase when YouTube Shorts was a beta feature. It was only available in India and the US, which could be why you could not view Shorts in the YouTube app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: YouTube Shorts Is Mobile-only
 
@@ -113,6 +117,10 @@ All in all, you must include #shorts to let the YouTube algorithm figure out the
 
 **Solution 3:** If your YouTube Shorts is not getting views, you need to wait more here because it takes a while for YouTube to index a Shorts video and suggest them to people. So, it's the task of the algorithm that varies from person to person. Some Shorts videos take several days while others take weeks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### If YouTube Shorts Videos Are Not Showing up Correctly
 
 Once uploaded, the YouTube Shorts will be displayed in a vertical thumbnail on YouTube and other regular content already there in your account. Or, it's your choice to create a new channel for the YouTube shorts videos. If the YouTube shorts not showing correctly, you can try as follows:
@@ -124,14 +132,6 @@ Once uploaded, the YouTube Shorts will be displayed in a vertical thumbnail on Y
 **Step 3.** You'll see shorts videos under the "videos" section. Click that, and the videos you have which are tagged in with #shorts in the title or description will automatically display here.
 
 ![filmora](https://images.wondershare.com/filmora/youtube-shorts-not-showing-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Bonus Tip: How to Easily Create Vertical Videos for YouTube Shorts on PC
 
@@ -171,6 +171,10 @@ You can choose among three ways to open the Auto Reframe feature in Filmora.
 
 ![filmora](https://images.wondershare.com/filmora/guide/3-auto-reframe-tools.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2\. Adjust the Aspect Ratio and Motion Speed**
 
 A separate dialog box will display once you have selected the **Auto Reframe** option. Now, click on **Import Media** and choose a single video to import. You can change the imported video by hitting the **Replace File** at the top menu.
@@ -179,13 +183,13 @@ There are multiple aspect ratio templates available such as square (1:1), vertic
 
 ![filmora](https://images.wondershare.com/filmora/guide/4-select-reframing-aspect-ratio.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You can adjust the speed of your video in multiple options: keep it at **Auto** or make it **Slow** or **Fast** as per your requirements.
 
 ![filmora](https://images.wondershare.com/filmora/guide/5-select-motion-speed.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3\. Analyze, and Auto Reframe the Video**
 
@@ -206,7 +210,7 @@ Finally, after all the final adjustments, you can hit the **Export** tab, name y
 ![filmora](https://images.wondershare.com/filmora/guide/9-export-reframed-video.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: FAQs about YouTube Shorts
@@ -249,10 +253,6 @@ However, we've mainly defined the editing part of Wondershare Filmora except cre
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -268,19 +268,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-premier-popularity-prognosticator-for-video-charts/"><u>[New] Premier Popularity Prognosticator for Video Charts</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-professional-thumbnails-from-your-phone-for-youtube/"><u>[New] Professional Thumbnails From Your Phone for YouTube</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-affordable-pc-obs-tuning-guide/"><u>[Updated] Affordable PC OBS Tuning Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-key-to-discovery-perfecting-your-youtube-tags-game/"><u>2024 Approved Key to Discovery Perfecting Your YouTube Tags Game</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unlocking-your-youtube-music-collection-a-detailed-guide/"><u>2024 Approved Unlocking Your YouTube Music Collection A Detailed Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/address-broken-drivers-impacting-windows-printers/"><u>Address Broken Drivers Impacting Windows Printers</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/exclusive-guide-to-the-best-7-android-browsers-ad-free-for-2024/"><u>Exclusive Guide to the Best 7 Android Browsers, Ad-Free for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-correctly-install-hps-beats-audio-drivers-for-windows-11-8-and/"><u>How to Correctly Install HP's Beats Audio Drivers for Windows 11, 8 &</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-oppo-k11x-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Oppo K11x to Roku | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-jumpstart-your-youtube-channel-growth-with-key-editing-skills-from-sony-vegas/"><u>In 2024, Jumpstart Your YouTube Channel Growth with Key Editing Skills From Sony Vegas</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-xiaomi-redmi-note-12-4g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Xiaomi Redmi Note 12 4G to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/strategies-for-planning-optimal-nutrition-using-ai-insights-from-chatgpt-experts/"><u>Strategies for Planning Optimal Nutrition Using AI: Insights From ChatGPT Experts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-walmart-bargains-pre-holiday-season-expert-picks-to-save-big-on-prime-day-and-beyond/"><u>Ultimate Walmart Bargains Pre-Holiday Season: Expert Picks to Save Big on Prime Day & Beyond!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-leading-the-way-in-video-game-recording-software-without-fbx-dependence/"><u>[New] In 2024, Leading the Way in Video Game Recording Software Without FBX Dependence</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unique-vlogging-conversation-pieces/"><u>2024 Approved Unique Vlogging Conversation Pieces</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/freedom-in-sound-extracting-audio-magic-with-pazera-for-2024/"><u>Freedom in Sound Extracting Audio Magic with Pazera for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/global-viewer-count-triumphs-play-button-honors-for-2024/"><u>Global Viewer Count Triumphs Play Button Honors for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-make-fortnite-thumbnail-for-free-and-easy-for-2024/"><u>How to Make Fortnite Thumbnail for Free and Easy for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-is-your-yt-channel-earning-as-it-should-tips-to-find-out/"><u>In 2024, Is Your YT Channel Earning as It Should? – Tips to Find Out</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-skyrocketing-growth-top-strategies-to-increase-views-in-freefire-tagging/"><u>In 2024, Skyrocketing Growth Top Strategies to Increase Views in FreeFire Tagging</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-potential-tubebuddy-and-channel-mastery/"><u>In 2024, Unlocking Potential TubeBuddy & Channel Mastery</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/pioneering-affordable-switch-emulators-for-2024/"><u>Pioneering Affordable Switch Emulators for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/prime-day-prep-unveiling-the-ultimate-best-buy-offers-tips-and-tricks-by-zdnet/"><u>Prime Day Prep: Unveiling the Ultimate Best Buy Offers – Tips & Tricks by ZDNET</u></a></li>
+<li><a href="https://techtrends.techidaily.com/sequential-viewing-order-for-the-epic-indiana-jones-movie-series/"><u>Sequential Viewing Order for the Epic Indiana Jones Movie Series</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-thumbnails-the-ultimate-guide-to-optimal-youtube-sizes-for-2024/"><u>Top Thumbnails The Ultimate Guide to Optimal YouTube Sizes for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Infinix Smart 8 Pro | Dr.fone</u></a></li>
 </ul></div>
 

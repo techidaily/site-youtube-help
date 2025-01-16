@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In the Ring of Creatives  Evaluating Own and Adversary Arts\""
-date: 2025-01-06T16:37:02.237Z
-updated: 2025-01-10T16:33:56.594Z
+date: 2025-01-14T03:31:54.792Z
+updated: 2025-01-16T03:53:04.864Z
 tags:
   - ai video
   - ai youtube
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/6b81d20b1d6e26d0457009bbfe739603019d02e6b
  Tracking your brand's YouTube metrics is not enough to ensure success in YouTube. Unless you garner deep insights of your competitors. You must be thinking how can you gauge their company insights using YouTube and track the data movement as well. There is nothing to worry about, we have got you covered. We will show you how to analyze your own channel as well as that of your competitors' YouTube analytics. Let's now explore about it!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to analyze your own YouTube channel/video?
@@ -44,25 +44,21 @@ thumbnail: https://thmb.techidaily.com/6b81d20b1d6e26d0457009bbfe739603019d02e6b
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-views.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 2\.  Playback Location
 
  As 'Playback locations' of YouTube videos can reveal where does all the traffic come from, it would help your channel figure out for which location the video has fared well. It will guide you to reach the backlinks locations/sites. Knowing the popular locations for your YouTube video being played, you can know whether YouTube is the search engine or they have been diverted from somewhere else. Depending on the video playing locations, the views will be segregated in to embedded video, YouTube watch page, mobile devices, and YouTube channel page. Understanding location specific views would help you decide where should you focus to enhance the performance of your video.
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-playback-location.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 3\.  Demographics
 
  The demographics page helps you get YouTube insights, using them you can know the audience in a gender and location specific manner. For local businesses targeting a certain region, YouTube analytics would prove to be a boon. You can also know the geography and device used by the viewers with this feature. Understanding the gender and location of people will help you create dedicated product videos that would be helpful to them.
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-demographic.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 4\.  Traffic sources
 
@@ -71,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/6b81d20b1d6e26d0457009bbfe739603019d02e6b
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-traffic-source.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 5\.  Audience Retention
@@ -79,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/6b81d20b1d6e26d0457009bbfe739603019d02e6b
  This data explains how far your video has engaged your audience. Along with views, the duration that a viewer is on your video weighs too. From the audience retention page, you can find out the specific time that a viewer has exited your video and see what made them do so. There are 2 types of audience retention features – absolute audience retention and relative audience retention.
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-audience-retention.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 6\.  Devices
 
@@ -91,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/6b81d20b1d6e26d0457009bbfe739603019d02e6b
  YouTube insights gauge the audience acceptance for your video by the number of likes and dislikes. Videos with a huge number of like implies that it is loved by people, though, the quality of video can't exactly be defined by the number of likes or dislikes. Even the best quality video created for asking opinions about a certain situation/issue might be good enough but still get dislikes.
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-likes-and-dislikes.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 8\.  Subscribers
 
@@ -113,7 +109,7 @@ thumbnail: https://thmb.techidaily.com/6b81d20b1d6e26d0457009bbfe739603019d02e6b
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-annotations.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 10\.  Comments
@@ -121,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/6b81d20b1d6e26d0457009bbfe739603019d02e6b
  Audience engagement on any YouTube video can easily be gauged by using the vital aspect known as comments. Either it touched a chord in their heart, inspired or motivated them, or simply made them smile, the comments will say it all. Sometimes the audience simply taps 'Like' in place of commenting at their convenient.
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-analytics-comments.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 11\.  Cards
 
@@ -181,18 +181,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-historical-insights-the-most-relevant-youtube-channels-for-learners/"><u>[New] Historical Insights - The Most Relevant YouTube Channels for Learners</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-livestream-landscape-analysis-fb-live-vs-yt-live-and-tweettv/"><u>[New] Livestream Landscape Analysis FB LIVE Vs. YT Live & TweetTV</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-self-filmed-flair-tips-for-captivating-solo-videos/"><u>[New] Self-Filmed Flair Tips for Captivating Solo Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-uninterrupted-airdrop-connections-in-the-world-of-iphones-and-macs/"><u>[Updated] Uninterrupted AirDrop Connections in the World of iPhones & Macs</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-zooctorial-template-goldmine-for-2024/"><u>[Updated] Zooctorial Template Goldmine for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-jumpstart-your-journey-essential-youtubing-skills-course/"><u>2024 Approved Jumpstart Your Journey Essential YouTubing Skills Course</u></a></li>
-<li><a href="https://program-issues.techidaily.com/black-ops-cold-war-game-patch-for-ui-problem-27711-correction/"><u>Black Ops: Cold War Game Patch for UI Problem 27711 Correction</u></a></li>
-<li><a href="https://win-answers.techidaily.com/end-steams-misbehavior-rapid-solutions-to-cease-game-interruptions/"><u>End Steam's Misbehavior: Rapid Solutions to Cease Game Interruptions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-tecno-spark-20-proplus-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Tecno Spark 20 Pro+ Face Lock?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-a79-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Oppo A79 5G Phone Without Password?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-omniscope-networking-an-experts-guide-to-selecting-a-media-company/"><u>In 2024, OmniScope Networking An Expert's Guide to Selecting a Media Company</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/mastering-youtubes-ecosystem-with-optimal-video-formats-for-2024/"><u>Mastering YouTube's Ecosystem with Optimal Video Formats for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-infinix-gt-10-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Infinix GT 10 Pro? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tand-out-with-a-unique-streamer-identity-a-filmora-approach-for-2024/"><u>[New] Stand Out with a Unique Streamer Identity A Filmora Approach for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-strategizing-stream-success-maximize-revenue-on-dm-and-yo/"><u>[New] Strategizing Stream Success Maximize Revenue on Dm and Yo</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-maintaining-confidentiality-with-professional-zoom-recordings/"><u>[Updated] Maintaining Confidentiality with Professional Zoom Recordings</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-maximize-learning-free-tools-for-online-video-texts/"><u>2024 Approved Maximize Learning Free Tools for Online Video Texts</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-apple-iphone-14-pro-fix-now-drfone-by-drfone-virtual-ios/"><u>3uTools Virtual Location Not Working On Apple iPhone 14 Pro? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/best-5-web-based-tools-for-creating-animation-gifs/"><u>Best 5 Web-Based Tools for Creating Animation GIFs</u></a></li>
+<li><a href="https://common-error.techidaily.com/darkened-panel-uncharted-issue/"><u>Darkened Panel: Uncharted Issue</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/festplatten-unformatieren-in-windows-11-kostenfrei-tipps-und-tricks-zum-umgestalten-des-datentragers/"><u>Festplatten Unformatieren in Windows 11 Kostenfrei - Tipps Und Tricks Zum Umgestalten Des Datenträgers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-2-ways-to-loop-a-youtube-video-on-tv/"><u>In 2024, 2 Ways to Loop a YouTube Video On TV</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-expand-your-horizon-best-15-online-science-platforms/"><u>In 2024, Expand Your Horizon Best 15 Online Science Platforms</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-passion-to-paychecks-your-vlog-venture-guide/"><u>In 2024, From Passion to Paychecks Your Vlog Venture Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Huawei Nova Y71? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-laugh-out-loud-essential-comedy-channels-for-endless-fun/"><u>In 2024, Laugh Out Loud Essential Comedy Channels for Endless Fun</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-movie-substitutes-to-explore-top-7-choices/"><u>In 2024, Movie Substitutes to Explore - Top 7 Choices</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-manual-for-estimating-youtube-ad-revenue-and-views/"><u>In 2024, Step-by-Step Manual for Estimating YouTube Ad Revenue & Views</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719205412582-shed-light-on-dark-windows-11-desktops-tips-inside/"><u>Shed Light on Dark Windows 11 Desktops - Tips Inside</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-recommended-asmrists-for-nighttime-calmness/"><u>Top Recommended ASMRists for Nighttime Calmness</u></a></li>
 </ul></div>
 

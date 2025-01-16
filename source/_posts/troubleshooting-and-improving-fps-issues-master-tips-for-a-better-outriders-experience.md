@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting and Improving FPS Issues: Master Tips for a Better Outriders Experience"
-date: 2025-01-08T16:03:26.434Z
-updated: 2025-01-10T16:26:16.578Z
+date: 2025-01-14T18:25:05.658Z
+updated: 2025-01-16T03:25:21.592Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
  The**error: connection to server timed out (code: leaf)** on Apex Legends is an old one, and it’s supposed to be fixed ages ago. But many players are still reporting getting it all the time. In this post, we’ll go through some working fixes step by step, so make sure you check them out below!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You don’t have to try them all; just work your way down the list until you find the one that does the trick!
@@ -33,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Check your Internet connection
 
  The first thing you can do is to make sure your Internet connection is valid and able to connect to Apex Legends servers. A few things you can look for to check your Internet connection go as below:
@@ -47,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 * If you have low-speed Internet, it could lead to an unstable Internet connection. You can google “Internet speed test” and pick a tool to**test your Internet speed** . However, when your Internet connection is unreasonably slow, consider contacting your Internet provider for help.
 
  If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Install all the game updates
 
@@ -72,15 +68,11 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 3. Right-click**the network you’re using** , then click**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
@@ -90,7 +82,15 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
 
@@ -122,12 +122,12 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/exit-game.png)
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -152,21 +152,16 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-expert-tips-on-controlling-timeline-pace-in-videos/"><u>[New] 2024 Approved Expert Tips on Controlling Timeline Pace in Videos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-how-to-turn-youtube-shorts-into-a-money-machine-key-requirements-and-income-potential/"><u>[New] How to Turn YouTube Shorts Into a Money Machine Key Requirements & Income Potential</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-enhance-visual-appeal-edit-videos-for-instagram-success/"><u>[Updated] Enhance Visual Appeal Edit Videos for Instagram Success</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-leading-video-makers-in-asmr-sphere/"><u>2024 Approved Leading Video Makers in ASMR Sphere</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-solving-the-issue-of-spinning-videos-on-instagram/"><u>2024 Approved Solving the Issue of Spinning Videos on Instagram</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-top-7-gratis-youtube-tags-extractor-tools/"><u>2024 Approved Top 7 Gratis Youtube Tags Extractor Tools</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-ultimate-livestream-guidebook-recommended-tools-and-devices-compilation/"><u>2024 Approved Ultimate Livestream Guidebook Recommended Tools and Devices Compilation</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/vering-and-perfecting-your-individual-style-for-2024/"><u>Discovering & Perfecting Your Individual Style for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-hot-40-phone-without-google-account-by-drfone-android/"><u>How to Unlock Infinix Hot 40 Phone without Google Account?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/html-techniques-for-youtube-playlist-web-insertion-for-2024/"><u>HTML Techniques for YouTube Playlist Web Insertion for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-premier-select-affordable-youtube-sbs-extraction/"><u>In 2024, Premier Select Affordable YouTube SBS Extraction</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-realme-narzo-n55-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Realme Narzo N55 Screen | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-skyrocketing-revenue-mastering-video-monetization-everywhere/"><u>In 2024, Skyrocketing Revenue Mastering Video Monetization Everywhere</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/instant-insight-into-colour-difference-filming-methods-for-2024/"><u>Instant Insight Into Colour Difference Filming Methods for 2024</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/step-by-step-guide-capturing-synchronized-audio-and-pip-videos-on-your-device/"><u>Step-by-Step Guide: Capturing Synchronized Audio and PIP Videos on Your Device</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/talk-to-ai-anytime-anywhere-get-chatgpt-for-your-android/"><u>Talk to AI Anytime, Anywhere - Get ChatGPT for Your Android</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-innovative-house-blueprints-for-snapshot-players/"><u>[New] Innovative House Blueprints for Snapshot Players</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-ultimate-steps-to-document-lol-encounters/"><u>[Updated] 2024 Approved Ultimate Steps to Document LOL Encounters</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-painless-percussions-reduction-in-garageband-for-2024/"><u>[Updated] Painless Percussions Reduction in Garageband for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-youtubes-payment-system/"><u>2024 Approved Navigating YouTube's Payment System</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-speedy-tutorial-crafting-youtube-image-thumbnails-from-scratch/"><u>2024 Approved Speedy Tutorial Crafting YouTube Image Thumbnails From Scratch</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-stability-essentials-for-online-videography/"><u>2024 Approved Stability Essentials for Online Videography</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/afrikaans-for-business-success-top-reasons-learned-via-mondlys-method/"><u>Afrikaans for Business Success: Top Reasons Learned via Mondly's Method</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expertly-curated-selections-leading-htpcs-that-elevate-your-home-entertainment-in-234/"><u>Expertly Curated Selections: Leading HTPCs that Elevate Your Home Entertainment in 2^34</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/flair-and-finesse-in-your-gaming-youtube-channel-for-2024/"><u>Flair and Finesse in Your Gaming YouTube Channel for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-how-to-turn-video-soundtracks-into-audible-files/"><u>In 2024, How to Turn Video Soundtracks Into Audible Files</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/mp4-conversion-of-skype-call-videos-capture-and-save-your-meetings-on-pcmac/"><u>MP4 Conversion of Skype Call Videos: Capture & Save Your Meetings on PC/Mac</u></a></li>
 </ul></div>
 
