@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pranks & Puns Playbook  7 Clever Gags for Video Virtuosos\""
-date: 2024-12-17T19:05:05.046Z
-updated: 2024-12-25T11:40:26.154Z
+date: 2025-01-18T05:43:25.424Z
+updated: 2025-01-22T02:22:51.806Z
 tags:
   - ai video
   - ai youtube
@@ -83,7 +83,7 @@ Lip-syncing to tunes from the most popular stars in the world will enable you to
 Need more YouTube video ideas? Check out our [Definitive List of YouTube Video Ideas](https://tools.techidaily.com/wondershare/filmora/download/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Making A Better YouTube Comedy Video with Wondershare Filmora
@@ -109,10 +109,6 @@ Follow @Richard Bennett
 Aspiring comedians used to have to find success performing in bars and clubs before they’d get the chance to make big audiences laugh. Now funny people can reach millions of viewers on YouTube, and all they need are funny video ideas. [Generating great video ideas](https://www.filmora.io/community-blog/how-to-come-up-with-better-youtube-video-ideas-391.html) isn't always easy, but I'm here to help you get over that minor speed bump.
 
 Let's dive into the world of YouTube comedy videos and find out which ideas can help you launch your career as a comedian.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7 Comedy YouTube Video Ideas
 
@@ -248,14 +244,10 @@ As one of the best software to [edit videos](https://tools.techidaily.com/wonder
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -273,10 +265,6 @@ Follow @Richard Bennett
 Aspiring comedians used to have to find success performing in bars and clubs before they’d get the chance to make big audiences laugh. Now funny people can reach millions of viewers on YouTube, and all they need are funny video ideas. [Generating great video ideas](https://www.filmora.io/community-blog/how-to-come-up-with-better-youtube-video-ideas-391.html) isn't always easy, but I'm here to help you get over that minor speed bump.
 
 Let's dive into the world of YouTube comedy videos and find out which ideas can help you launch your career as a comedian.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7 Comedy YouTube Video Ideas
 
@@ -336,10 +324,14 @@ As one of the best software to [edit videos](https://tools.techidaily.com/wonder
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -386,11 +378,19 @@ Step1 First, open a browser on your PC and visit the [**YouTube homepage**](http
 
 ![accessing the youtube web library](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-youtube-web-library.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Croll down and click the **"See All"** option under the Watch Later header. Click the **Three Dots** below the Watch Later playlist details on the next page.
 
 Step3 From the drop-down menu, click **"Remove Watch Videos."** This will instantly remove all the videos you've watched but are still in the playlist.
 
 ![removing watched videos from youtube watch later](https://images.wondershare.com/filmora/article-images/2023/03/removing-watched-videos-from-youtube-watch-later.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 Finally, to remove the unwatched videos, hover over a video and click the **Three Dots**. Select the **"Remove from Watch Later"** option to delete the video. You can repeat this process to remove all the content from the playlist until it is decluttered at the point of your satisfaction.
 
@@ -406,10 +406,6 @@ Step2 Now, hit the **"Ctrl + Shift + J"** keys on Windows or the **"Command + Op
 
 ![using script to clear watch later](https://images.wondershare.com/filmora/article-images/2023/03/using-script-to-clear-watch-later.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 Copy and paste the following lines of the script at the end of the line under the Console tab where the cursor is blinking.
 
 setInterval(function () { document.querySelector('#primary button\[aria-label="Action menu"\]').click(); var things = document.evaluate( '//span\[contains(text(),"Remove from")\]', document, null, XPathResult.ORDERED\_NODE\_SNAPSHOT\_TYPE, null ); for (var i = 0; i < things.snapshotLength; i++) { things.snapshotItem(i).click(); } }, 1000);
@@ -424,10 +420,6 @@ You can also replace the number at the end of the script with a lower entry to d
 
 **Note:** It is important to note that experimenting with scripts is only for some. The script above has been confirmed to work, but others still need to be thoroughly checked and could potentially damage your computer. To prevent this from happening, only look for scripts from reliable sources instead of those posted by random people in various forums.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How To Delete YouTube Watch Later Playlist On YouTube App?
 
 If you are using YouTube on an Android or iOS device, it is possible to clear the Watch Later Playlist by doing the steps below:
@@ -437,10 +429,6 @@ Step1 In the first step, **swipe up** on the Homescreen of your Android device o
 Step2 Now, tap the **"Library"** option in the bottom-right corner of the screen and tap **"Watch Later."**
 
 ![accessing the watch later playlist](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-watch-later-playlist.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step3 Next, tap the three dots (vertical ellipses) icon on the top-right side of the screen and choose the **"Remove Watched Videos"** option to delete them from the playlist.
 
@@ -462,11 +450,19 @@ Hopefully, you have found the most appropriate solution to clear your YouTube Wa
 
 If you have any interests, you can watch the video we specially prepared for you. This video will show you how to use a user-friendly video editor, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), to create your own YouTube videos!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In this article, we've discussed how to clear your YouTube watch later playlist from both the YouTube web from the homepage and using the script in the browser's developer mode. We've also provided a step-by-step process for deleting the Watch Later playlist on the YouTube mobile app.
 
 This guide was informative enough to answer most of your queries, and after reading it, you can now unclutter your YouTube Watch Later without any issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How To Delete YouTube Watch Later Playlist On YouTube App?
 
@@ -477,6 +473,10 @@ Step1 In the first step, **swipe up** on the Homescreen of your Android device o
 Step2 Now, tap the **"Library"** option in the bottom-right corner of the screen and tap **"Watch Later."**
 
 ![accessing the watch later playlist](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-watch-later-playlist.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 Next, tap the three dots (vertical ellipses) icon on the top-right side of the screen and choose the **"Remove Watched Videos"** option to delete them from the playlist.
 
@@ -493,7 +493,7 @@ Now that you've learned how you can clear the Watch Later playlist on YouTube, y
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus Video Tutorial: From a User to a Creator, How To Edit YouTube Videos Like a Pro
@@ -523,22 +523,21 @@ This guide was informative enough to answer most of your queries, and after read
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-flash-clip-content-wizard/"><u>[New] Flash Clip Content Wizard</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-maximize-learning-free-tools-for-online-video-texts/"><u>[New] Maximize Learning Free Tools for Online Video Texts</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-zooming-into-success-a-complete-guide-to-podcast-audio-capture/"><u>[New] Zooming Into Success A Complete Guide to Podcast Audio Capture</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/b200-correction-implemented/"><u>B200 Correction Implemented</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exclusive-insights-budgeted-windows-11-codes/"><u>Exclusive Insights: Budgeted Windows 11 Codes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/experience-hollywood-the-best-way-to-watch-3d-movies-via-fandango-from-anywhere/"><u>Experience Hollywood: The Best Way to Watch 3D Movies via Fandango From Anywhere</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/get-rid-of-youtube-distractions-ad-blocking-on-chrome-firefox-and-ios-for-2024/"><u>Get Rid of YouTube Distractions Ad-Blocking on Chrome, Firefox & iOS for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/going-pro-with-gs-effects-exclusive-free-lessons-from-4-premier-video-channels-for-2024/"><u>Going Pro with GS Effects Exclusive Free Lessons From 4 Premier Video Channels for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/how-to-broadcast-your-online-meeting-via-youtube-google-meet-steps-for-2024/"><u>How To Broadcast Your Online Meeting via YouTube - Google Meet Steps for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-video-content-defeating-10-vlogging-hurdles/"><u>In 2024, Mastering Video Content Defeating 10 Vlogging Hurdles</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-online-havens-for-sponsorship-initiatives-on-youtube/"><u>In 2024, Online Havens for Sponsorship Initiatives on YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/masterful-tag-utilization-boosting-video-performance-for-2024/"><u>Masterful Tag Utilization Boosting Video Performance for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/navigating-updated-earnings-policies-for-streamers-for-2024/"><u>Navigating Updated Earnings Policies for Streamers for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-drivers-refreshed-gtx-970-for-w10-users/"><u>Nvidia Drivers Refreshed: GTX 970 For W10 Users</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/schritt-fur-schritt-ubertragen-und-einrichten-von-onedrive-dateien-auf-ihren-computer/"><u>Schritt-Für-Schritt: Übertragen Und Einrichten Von OneDrive Dateien Auf Ihren Computer</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/starter-steps-to-wealthy-streaming-in-periscope-for-2024/"><u>Starter Steps to Wealthy Streaming in Periscope for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/unleash-your-creativity-a-guide-to-crafting-custom-audio-on-android-phones/"><u>Unleash Your Creativity A Guide to Crafting Custom Audio on Android Phones</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-quick-recap-of-chromakey-and-green-screen-processes/"><u>[New] Quick Recap of Chromakey and Green Screen Processes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-revenue-sharing-explained-maximizing-profits-with-snippet-videos/"><u>[New] Revenue Sharing Explained Maximizing Profits with Snippet Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-a-list-of-ten-soaring-youtube-creations-with-speed-and-purpose/"><u>[Updated] A List of Ten Soaring YouTube Creations with Speed and Purpose</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-breakthrough-tactics-for-improved-voice-identity-in-pubg/"><u>[Updated] Breakthrough Tactics for Improved Voice Identity in PUBG</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-mastering-memes-kinemaster-guide-for-2024/"><u>[Updated] Mastering Memes KineMaster Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unveiling-the-power-of-three-tiers-in-crafting-fb-ad-engaging-messages-for-2024/"><u>[Updated] Unveiling the Power of Three Tiers in Crafting FB Ad Engaging Messages for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-youtube-video-free-transcription-techniques/"><u>2024 Approved Mastering YouTube Video Free Transcription Techniques</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-understanding-and-resolving-the-issue-of-missing-shorts-thumbnails/"><u>2024 Approved Understanding & Resolving the Issue of Missing Shorts Thumbnails</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722998369273-diablo-ii-resurrected-wont-boot-here-are-your-top-solutions/"><u>Diablo II Resurrected Won't Boot? Here Are Your Top Solutions</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-11-pro-max-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-finding-hashtags-that-amplify-to-6k-views/"><u>In 2024, Finding #Hashtags That Amplify to 6K Views</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-into-profitability-on-youtube-beginners-guide/"><u>In 2024, Step Into Profitability on YouTube - Beginner's Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/initiate-internet-income-low-cost-youtube-channel-buys-for-2024/"><u>Initiate Internet Income Low-Cost YouTube Channel Buys for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-performance-issues-fix-the-freezing-problem-in-code-vein-for-a-smooth-experience/"><u>Resolving Performance Issues: Fix the Freezing Problem in Code Vein for a Smooth Experience</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211348180-9798330011179-summary-of-skye-alexanders-the-modern-witchcraft-spell-book/"><u>Summary of Skye Alexander's The Modern Witchcraft Spell Book | Free Book</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-to-the-newest-amd-radeon-hd-graphics-driver-on-windows-download-now/"><u>Update to the Newest AMD Radeon HD Graphics Driver on Windows - Download Now!</u></a></li>
 </ul></div>
 

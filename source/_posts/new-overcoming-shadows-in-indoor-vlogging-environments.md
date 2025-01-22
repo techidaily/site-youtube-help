@@ -1,7 +1,7 @@
 ---
 title: "[New] Overcoming Shadows in Indoor Vlogging Environments"
-date: 2025-01-12T03:50:59.389Z
-updated: 2025-01-15T22:40:08.328Z
+date: 2025-01-21T10:46:16.121Z
+updated: 2025-01-22T13:08:17.905Z
 tags:
   - ai video
   - ai youtube
@@ -28,9 +28,17 @@ One of the best things you can do for your video quality is to ensure you have g
 
 Going outside and using natural light is the cheapest way to get a lot of light for your videos. If your vlog is not suited to the great outdoors then you need to get more strategic. You can turn on all the lights in your living room and still end up with a dark, grainy, video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Video Lighting Basics: Three Point Lighting
 
 ![Lighting for YouTube Video](https://images.wondershare.com/filmora/article-images/three-point-lighting.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The most common technique of lighting a scene is called **three-point lighting**. It involves three different sources of light in the shot and is used by portrait photographers, which is also a great method for lighting your vlog.
 
@@ -45,14 +53,10 @@ The **fill light** is less bright than the primary source of light and it is pla
 The final step to creating three point lighting is to set up another light behind you. This is your 'Backlight', and it will help you stand out from your background. **Backlight or Hair light** is always placed behind and above the subject to create separation between the subject in the shot and the background. This basic lighting technique can be applied in almost every scene you shoot, which is why it is important to keep an open mind and to continue experimenting with possible light setups.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch Video! Top Lighting Tips for Vlogging
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Lightning Tips for Aspiring YouTube Videographers
 
@@ -81,7 +85,7 @@ Sets of reflectors are often under $50, so they are fairly affordable. However, 
 ![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips01.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If your strong main light is too hard on your eyes then you can use a translucent 'reflector' to soften it. Set your translucent reflector, or other screen, up in front of your main light to diffuse it.
@@ -91,7 +95,7 @@ If you are hosting a **beauty vlog** then you might consider a slightly differen
 ![lighting tips](https://images.wondershare.com/filmora/article-images/lighting-tips02.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If you are using all of the lighting options available to you and your video still looks too dark then you can try brightening it by **opening up the aperture of your camera** lens/setting a lower f-stop. Letting more light into your camera can help your footage look brighter, although you also run the risk of making things look overexposed/ washed out if you are not careful.
@@ -99,10 +103,6 @@ If you are using all of the lighting options available to you and your video sti
 If you are stuck shooting in **low light conditions** it is best to use a lens with a wider aperture/lower f-stop. This will make the best of the light you do have.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -119,24 +119,16 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-best-and-free-facebook-picture-video-maker/"><u>[New] Best And Free Facebook Picture Video Maker</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-best-sites-to-buy-monetized-youtube-channels-for-beginners/"><u>[New] Best Sites to Buy Monetized YouTube Channels for Beginners</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-chorus-chronicles-storytelling-with-musical-themes/"><u>[New] Chorus Chronicles Storytelling with Musical Themes</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-harmonic-haven-best-dj-template-selections/"><u>[New] Harmonic Haven Best DJ Template Selections</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-harnessing-the-power-of-short-videos-for-maximum-income/"><u>[New] Harnessing the Power of Short Videos for Maximum Income</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-post-publish-editing-elevating-your-youtube-content/"><u>[New] Post-Publish Editing Elevating Your YouTube Content</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-ultimate-routes-turning-pinterest-vids-into-music-files/"><u>[Updated] 2024 Approved Ultimate Routes Turning Pinterest Vids Into Music Files</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-capturing-chats-storing-gh-live-sessions/"><u>[Updated] Capturing Chats Storing GH Live Sessions</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-excellent-7-dslrs-elevating-live-stream-cinematic-style/"><u>2024 Approved Excellent 7 DSLRs Elevating Live-Stream Cinematic Style</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-exquisite-couple-clips-the-best-weddings-online-8-picks/"><u>2024 Approved Exquisite Couple Clips The Best Weddings Online (8 Picks)</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-galleryguide-adjusting-post-dimensions-in-instagram/"><u>2024 Approved GalleryGuide Adjusting Post Dimensions in Instagram</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-13-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 13 Without Passcode Now | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-fresh-takes-on-favorites-movie-alternate-list/"><u>In 2024, Fresh Takes on Favorites - Movie Alternate List</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-samsung-galaxy-f34-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Samsung Galaxy F34 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://article-posts.techidaily.com/m1-mastery-seamless-editing-with-video-tools-for-2024/"><u>M1 Mastery Seamless Editing with Video Tools for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/making-fx-magic-a-novices-step-into-animated-worlds-for-2024/"><u>Making FX Magic A Novice's Step Into Animated Worlds for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/mastering-youtube-dimensions-a-comprehensive-guide-for-2024/"><u>Mastering YouTube Dimensions A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/pinnacle-video-devices-for-windows-11-enthusiasts-for-2024/"><u>Pinnacle Video Devices for Windows 11 Enthusiasts for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-iphone-13-mini-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From iPhone 13 mini? 5 Tips You Must Know</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-how-to-distort-text-in-photographyvideo/"><u>[New] 2024 Approved How to Distort Text in Photography/Video</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-best-freebies-winning-windowsmac-video-tools/"><u>[New] In 2024, Best Freebies Winning Windows/Mac Video Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-instagram-sequence-steps-to-reach-1k-monthly-followers/"><u>[New] The Instagram Sequence Steps to Reach 1K Monthly Followers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-lg-bp350-review-audiovisual-performance-analysis-for-2024/"><u>[Updated] The LG BP350 Review Audiovisual Performance Analysis for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-art-of-viewing-several-youtube-videos-concurrently/"><u>2024 Approved The Art of Viewing Several Youtube Videos Concurrently</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-the-ultimate-guide-zero-cost-seminar-capture/"><u>2024 Approved The Ultimate Guide Zero-Cost Seminar Capture</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-revolutionize-your-lessons-implementing-youtube-in-the-academic-realm/"><u>In 2024, Revolutionize Your Lessons Implementing YouTube in the Academic Realm</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-unleash-your-creativity-top-highlight-video-editors-for-desktop-and-mobile-devices/"><u>In 2024, Unleash Your Creativity Top Highlight Video Editors for Desktop and Mobile Devices</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unleashing-your-youtube-potential-a-comprehensively-tailored-upload-process/"><u>In 2024, Unleashing Your YouTube Potential A Comprehensively Tailored Upload Process</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-views-with-optimal-thumbnail-design/"><u>In 2024, Unlocking Views with Optimal Thumbnail Design</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-and-fastest-nvidia-drivers-now-available-for-windows-10-users/"><u>Latest & Fastest NVIDIA Drivers Now Available for Windows 10 Users!</u></a></li>
 </ul></div>
 
