@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step  Integrating Comments in YouTube Videos\""
-date: 2025-01-20T19:33:12.098Z
-updated: 2025-01-21T16:11:29.851Z
+date: 2025-01-22T23:58:41.469Z
+updated: 2025-01-29T16:36:17.898Z
 tags:
   - ai video
   - ai youtube
@@ -46,7 +46,7 @@ The main difference between annotation and cards is their outlook. Cards are mor
 * [Part 2: How to Add YouTube Annotations](#part2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to add YouTube Cards
@@ -58,17 +58,13 @@ YouTube **Cards** are similar to annotations but more interactive. They allow th
 ![](https://images.wondershare.com/filmora/article-images/video-manager-in-youtube.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Click "Edit" tab under the video screen shot you want to add the card on
 * Click on the "Cards" tab
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-cards01.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * On the right panel click on "Add Card" drop down menu and select the type of card you want to add
 * Click on the create button which will open the corresponding video
@@ -77,11 +73,11 @@ YouTube **Cards** are similar to annotations but more interactive. They allow th
 
 ![](https://images.wondershare.com/filmora/article-images/add-cards-to-youtube-video.jpg)
 
-* Apply changes and exit
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+* Apply changes and exit
 
 ## How to add YouTube annotations
 
@@ -99,7 +95,7 @@ YouTube Annotation is addition of a text layer, link or hotspots over your video
 ![](https://images.wondershare.com/filmora/article-images/add-annotation-to-youtube-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Apply changes
@@ -140,6 +136,10 @@ No matter what kind of annotations you are using, you should never use more than
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -155,18 +155,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/xclusive-insight-into-low-cost-footage-websites/"><u>[New] Exclusive Insight Into Low-Cost Footage Websites</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-foremost-editing-tools-for-device-developers/"><u>[Updated] 2024 Approved Foremost Editing Tools for Device Developers</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-unveiling-the-hidden-significance-of-pfp-in-tiktok/"><u>[Updated] 2024 Approved Unveiling the Hidden Significance of PFP in TikTok</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-elevate-your-creativity-6-aplus-apps-for-instagram-reels/"><u>[Updated] Elevate Your Creativity 6 A+ Apps for Instagram Reels</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-simplified-guide-instant-deletion-methods-for-youtube-discussions/"><u>[Updated] Simplified Guide Instant Deletion Methods for Youtube Discussions</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-scrutinizing-how-content-makers-get-paid-from-youtube-shorts-videos/"><u>2024 Approved Scrutinizing How Content Makers Get Paid From YouTube Shorts Videos</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-honor-x50-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Honor X50 Phone When You Forget the Password</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-secrets-of-sending-short-videos-to-youtube-tech-for-mobile-and-laptops/"><u>In 2024, Secrets of Sending Short Videos to YouTube - Tech for Mobile & Laptops</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-secrets-unlocked-becoming-a-leader-in-online-social-media-live-events/"><u>In 2024, Secrets Unlocked Becoming a Leader in Online Social Media Live Events</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-art-of-crafting-youtube-playlists-for-optimal-listening/"><u>In 2024, The Art of Crafting YouTube Playlists for Optimal Listening</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/monetizing-videos-on-youtube-strategies-success-for-2024/"><u>Monetizing Videos on YouTube Strategies Success for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/tecnicas-avanzadas-en-edicion-de-archivos-vob-usando-movavi-como-combinar-recortar-y-particionar-sin-problemas/"><u>Técnicas Avanzadas en Edición De Archivos VOB Usando Movavi: Cómo Combinar, Recortar Y Particionar Sin Problemas</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-blurry-text-heres-how-to-fix-it/"><u>Windows 10 Blurry Text? Here’s How to Fix It</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-efficient-downloads-transform-vimeo-videos-into-mp4/"><u>[New] In 2024, Efficient Downloads Transform Vimeo Videos Into MP4</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-navigating-the-seo-maze-a-guide-to-youtube-keywords/"><u>[New] Navigating the SEO Maze A Guide to YouTube Keywords</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-poco-x5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-first-steps-in-the-digital-dollar-youtube-earning-hacks/"><u>2024 Approved First Steps in the Digital Dollar - YouTube Earning Hacks</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-step-into-editing-excellence-with-youtube-studio-toolset/"><u>2024 Approved Step Into Editing Excellence with YouTube Studio Toolset</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-fifa-scoreboard-tactics-in-infographics/"><u>2024 Approved Top FIFA Scoreboard Tactics in Infographics</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-potential-androidandioss-top-free-overlay-tools-guide/"><u>2024 Approved Unlock Potential Android&iOS's Top Free Overlay Tools Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/future-visions-10-sci-fi-metaverse-movies-explore-worlds-anew/"><u>Future Visions 10 Sci-Fi Metaverse Movies Explore Worlds Anew</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-flaunt-your-brand-with-ease-the-top-10-youtube-theme-designers/"><u>In 2024, Flaunt Your Brand with Ease - The Top 10 YouTube Theme Designers</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-infinix-hot-40i-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Infinix Hot 40i Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-maximize-content-impact-with-youtubes-movie-maker-tools/"><u>In 2024, Maximize Content Impact with YouTube's Movie Maker Tools</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-tailoring-thumbnails-for-increased-video-engagement-on-youtube/"><u>In 2024, Tailoring Thumbnails for Increased Video Engagement on YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-creative-summit-top-talent-junction/"><u>In 2024, The Creative Summit Top Talent Junction</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-xiaomi-redmi-k70-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Xiaomi Redmi K70 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/love-in-full-view-discovering-youtube-and-vimeos-top-7-wedding-movies-for-2024/"><u>Love in Full View Discovering Youtube & Vimeo's Top 7 Wedding Movies for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-honor-90-lite-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Honor 90 Lite.</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-exclusive-templates-for-tiktok-backdrops-for-2024/"><u>Unveiling Exclusive Templates for TikTok Backdrops for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-vivo-y27-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Vivo Y27 5G Phones</u></a></li>
 </ul></div>
 

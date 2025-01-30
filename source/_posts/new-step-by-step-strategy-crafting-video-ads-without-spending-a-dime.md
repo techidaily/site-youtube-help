@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Strategy  Crafting Video Ads without Spending a Dime\""
-date: 2025-01-19T06:26:11.480Z
-updated: 2025-01-22T04:55:34.292Z
+date: 2025-01-26T18:13:26.185Z
+updated: 2025-01-29T20:26:03.239Z
 tags:
   - ai video
   - ai youtube
@@ -70,11 +70,19 @@ There are some text input fields that you can populate with the relevant informa
 
 Finally, you can add background music to the video from the royalty-free tracks that can be accessed from the built-in library, and you are all set to go.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How Can I Get YouTube Video Builder?
 
 Because YouTube Video Builder is in its Beta phase, at the time of this writing you are required to send an access request to Google using your account that you want to use to create the videos from. You can send your requests to: <https://services.google.com/fb/forms/videobuilderbeta/>.
 
 Once your request is approved, you can then use the same Google account to sign in to the **YouTube Video Builder** portal, and start preparing your video advertisements. Here, it is important to understand that the Google account that you use to send an access request and prepare the videos must be the same ID that has your active and functional YouTube Channel.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How to Make Video Ads for Free with YouTube Video Builder?
 
@@ -86,6 +94,10 @@ After signing in to your **YouTube Video Builder** account, on the main interfac
 
 ![YouTube Video Builder](https://images.wondershare.com/filmora/article-images/youtube-video-builder-select-layout.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Next, from the **Color & Logo** section, choose the base (background) and text colors using their corresponding tools from under the **Brand colors** section.
 
 ![Create video with YouTube Video Builder](https://images.wondershare.com/filmora/article-images/youtube-video-builder-select-color-logo.jpg)
@@ -95,7 +107,7 @@ After this, insert an image of your brand logo in the block under the **Logos** 
 ![Create video with YouTube Video Builder](https://images.wondershare.com/filmora/article-images/youtube-video-builder-insert-brand-logo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 2: Add the Ingredients
@@ -104,17 +116,9 @@ When you are on the **Images & Text** section of the navigation bar, pick the hi
 
 ![Create video with YouTube Video Builder](https://images.wondershare.com/filmora/article-images/youtube-video-builder-insert-images-texts.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now, scroll down to the **Text** section, and add the relevant content in the available text input fields. Make sure to add a compelling **Call to action** text to give the viewers a free passage to connect with you.
 
 ![Create video with YouTube Video Builder with CTA](https://images.wondershare.com/filmora/article-images/youtube-video-builder-call-to-action-texts.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Step 3: Make Cosmetic Manipulations
 
@@ -131,7 +135,7 @@ Finally, click **Create video**, and wait while **YouTube Video Builder** takes 
 ![YouTube Video Builder Video create video](https://images.wondershare.com/filmora/article-images/youtube-video-builder-create-video.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 4: Save the Video and Begin Promotion
@@ -144,13 +148,13 @@ On the next page, click **Copy** to copy the video link, and share it with your 
 
 ![YouTube Video Builder Video Copy Link](https://images.wondershare.com/filmora/article-images/youtube-video-builder-copy-link.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Next, scroll down to get to the **Create Campaign** section of the navigation bar, and from the left screen, click **Create campaign** to begin a campaign to promote your brand and/or product(s).
 
 ![YouTube Video Builder Video Create Campaign](https://images.wondershare.com/filmora/article-images/youtube-video-builder-create-campaign.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Part 5: Tips for Making Good Video Ads with YouTube Video Builder
 
@@ -170,10 +174,6 @@ The bitter truth is, producing videos, especially for brand promotions requires 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -189,20 +189,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-securing-youtube-tracks-at-no-cost-with-security-in-mind/"><u>[Updated] Securing Youtube Tracks at No Cost, with Security in Mind</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-auditory-artifacts-essential-ringtone-archives-online/"><u>2024 Approved Auditory Artifacts Essential Ringtone Archives Online</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-rethink-your-favorite-films-top-7-replacements/"><u>2024 Approved Rethink Your Favorite Films - Top 7 Replacements</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-reversing-the-consequences-of-a-youtube-ban/"><u>2024 Approved Reversing the Consequences of a YouTube Ban</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-simplified-method-for-youtubers-to-dailymotion/"><u>2024 Approved Simplified Method for YouTubers to Dailymotion</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-streamline-your-screen-time-step-by-step-towards-a-well-curated-playlist/"><u>2024 Approved Streamline Your Screen Time Step-by-Step Towards a Well-Curated Playlist</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/appreciation-series-unlimited-freepaid-otus-for-2024/"><u>Appreciation Series Unlimited Free/Paid OTUs for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/discover-the-evolution-of-video-technology-with-mycams-review-for-2024/"><u>Discover the Evolution of Video Technology with MyCam's Review for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/expertly-design-your-3d-openers-best-picks-for-2024/"><u>Expertly Design Your 3D Openers Best Picks for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-make-a-cool-intro-for-youtube-plusfree-templates/"><u>In 2024, How to Make a Cool Intro for YouTube? [+Free Templates]</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/mastering-desktop-and-mobile-incorporate-timestamps-on-youtube-for-2024/"><u>Mastering Desktop & Mobile Incorporate Timestamps on YouTube for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-frustrating-freeze-frame-situations-on-your-desktop-or-laptop/"><u>Overcoming Frustrating Freeze-Frame Situations on Your Desktop or Laptop</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-unrecoverable-error-in-directx-a-comprehensive-guide/"><u>Resolving 'Unrecoverable Error' In DirectX: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-hdmi-connection-problem-in-windows-11-a-step-by-step-guide/"><u>Solving the HDMI Connection Problem in Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-itel-a05s-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/infographic-social-video-marketing-tips-for-small-business-for-2024/"><u>[Infographic] Social Video Marketing Tips for Small Business for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-the-insiders-guide-to-recording-games-in-windows-11/"><u>[New] 2024 Approved The Insider's Guide to Recording Games in Windows 11</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-explore-the-ultimate-trivia-realm-for-24/"><u>[Updated] Explore the Ultimate Trivia Realm for '24</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-roadmap-to-wealth-sourav-joshi-and-youtube-earning/"><u>2024 Approved The Roadmap to Wealth Sourav Joshi and YouTube Earning</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-gionee-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Gionee Phones with/without a PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-stabilize-iphone-videos-in-2024/"><u>How to Stabilize iPhone Videos, In 2024</u></a></li>
+<li><a href="https://discover-best.techidaily.com/i-migliori-programmi-di-montaggio-video-per-pc-una-guida-completa-ai-dieci-scelte-consigliate/"><u>I Migliori Programmi Di Montaggio Video per PC: Una Guida Completa Ai Dieci Scelte Consigliate</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-correcting-accidental-youself-reappearances-on-social-media/"><u>In 2024, Correcting Accidental 'Youself' Reappearances on Social Media</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-global-viewership-kings-youtubes-viral-royalty/"><u>In 2024, Global Viewership Kings YouTube's Viral Royalty</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-master-the-art-of-video-sending-from-youtube-to-dailymotion/"><u>In 2024, Master the Art of Video Sending From YouTube to Dailymotion</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-the-potential-of-your-mobile-content-for-youtube-wealth/"><u>In 2024, Unlocking the Potential of Your Mobile Content for YouTube Wealth</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-upgrade-your-content-creation-process-via-youtube-studio/"><u>In 2024, Upgrade Your Content Creation Process via YouTube Studio</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-realme-c33-2023-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Realme C33 2023 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/pinpoint-pci-data-acquisition-errors-win10/"><u>Pinpoint PCI Data Acquisition Errors Win10</u></a></li>
 </ul></div>
 

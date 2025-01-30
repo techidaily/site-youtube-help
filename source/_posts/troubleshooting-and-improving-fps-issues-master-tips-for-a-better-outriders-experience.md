@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting and Improving FPS Issues: Master Tips for a Better Outriders Experience"
-date: 2025-01-17T19:29:17.951Z
-updated: 2025-01-21T17:43:28.551Z
+date: 2025-01-23T20:05:49.567Z
+updated: 2025-01-29T18:37:49.521Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
  The**error: connection to server timed out (code: leaf)** on Apex Legends is an old one, and it’s supposed to be fixed ages ago. But many players are still reporting getting it all the time. In this post, we’ll go through some working fixes step by step, so make sure you check them out below!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes…
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 [4: Update your network driver](https://tools.techidaily.com/drivereasy/download/)
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Check your Internet connection
 
@@ -72,14 +68,14 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 3. Right-click**the network you’re using** , then click**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
@@ -89,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
 
@@ -113,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
@@ -152,18 +152,22 @@ thumbnail: https://thmb.techidaily.com/5d2525fa4f290b123e4403376fabc636b3a54f2e7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagram-video-conversion-unlocking-the-mp3-potential/"><u>[New] 2024 Approved Instagram Video Conversion - Unlocking the MP3 Potential</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-harmonizing-hues-in-online-beauty-videos/"><u>[New] Harmonizing Hues in Online Beauty Videos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-digital-image-coloring-upside-down/"><u>[Updated] Digital Image Coloring Upside Down</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-optimal-visual-branding-best-practices-for-youtube-channel-size/"><u>2024 Approved Optimal Visual Branding Best Practices for YouTube Channel Size</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-pause-unrequested-youtube-video-selections/"><u>2024 Approved Pause Unrequested YouTube Video Selections</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-steps-to-join-start-and-manage-a-zoom-call-with-your-android-device/"><u>2024 Approved Quick Steps to Join, Start & Manage a Zoom Call with Your Android Device</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-skyline-your-videos-reach-writing-captivating-youtube-descs-using-templates/"><u>2024 Approved Skyline Your Video's Reach Writing Captivating Youtube Descs Using Templates</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-tailor-your-narrative-crafting-engaging-youtube-descriptions-using-pre-set-templates/"><u>2024 Approved Tailor Your Narrative Crafting Engaging YouTube Descriptions Using Pre-Set Templates</u></a></li>
-<li><a href="https://games-able.techidaily.com/expert-advice-on-linking-a-controller-to-an-android-compatible-gadget/"><u>Expert Advice on Linking a Controller to an Android Compatible Gadget</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-systems-that-blend-the-past-with-now/"><u>Game Systems That Blend the Past with Now</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-finding-superior-hashtags-for-your-youtube-content/"><u>In 2024, Finding Superior Hashtags for Your YouTube Content</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-leveraging-video-for-maximum-impact-with-these-5-youtube-strategies/"><u>In 2024, Leveraging Video for Maximum Impact with These 5 YouTube Strategies</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/x-studio-audio-pc-app/"><u>X-Studio Audio PC App</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-color-correction-app/"><u>[New] Best Color Correction App</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-final-thoughts-in-journalistic-styling/"><u>[New] Final Thoughts in Journalistic Styling</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-fixing-problematic-youtube-shorts-thumbnails-display/"><u>[New] Fixing Problematic YouTube Shorts Thumbnails Display</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-simplifying-complexities-in-youtube-shorts/"><u>[New] Simplifying Complexities in YouTube Shorts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-tailoring-battery-choices-for-exceptional-drone-performance-for-2024/"><u>[New] Tailoring Battery Choices for Exceptional Drone Performance for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-maximize-your-sims-legacy-top-techniques-for-capturing-sims-4-adventures-for-2024/"><u>[Updated] Maximize Your Sim's Legacy Top Techniques for Capturing Sims 4 Adventures for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-ace-subtitles-conversion-the-best-free-services-listed/"><u>2024 Approved Ace Subtitles Conversion The Best Free Services Listed</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-pioneers-in-digital-avengers-landscapes/"><u>2024 Approved Pioneers in Digital Avengers Landscapes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-step-by-step-guide-to-opposite-list-orders-on-yt/"><u>2024 Approved Step by Step Guide to Opposite List Orders on YT</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-issue-with-robocop-rogue-city-how-to-get-it-running-on-windows/"><u>Fixing the Issue with 'RoboCop: Rogue City': How to Get It Running on Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-secure-your-data-when-using-tailored-generative-pre-trained-transformer-versions-like-chatgpt/"><u>How to Secure Your Data When Using Tailored Generative Pre-Trained Transformer Versions Like ChatGPT</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-lightning-fast-method-for-double-exposure-filming/"><u>In 2024, Lightning-Fast Method for Double Exposure Filming</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-next-wave-creators-8-yt-growth-powerhouses/"><u>In 2024, Next Wave Creators 8 YT Growth Powerhouses</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-spin-the-clock-back-inside-the-art-of-snapchat-flipping/"><u>In 2024, Spin the Clock Back Inside the Art of Snapchat Flipping</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-key-to-designing-captivating-valorant-videos-for-youtube/"><u>In 2024, The Ultimate Key to Designing Captivating Valorant Videos for YouTube</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-nubia-red-magic-9-proplus-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Nubia Red Magic 9 Pro+</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-guide-installing-m-audio-fast-track-drivers-on-win-10-7-8-and-81/"><u>Ultimate Guide: Installing M-Audio Fast Track Drivers on Win 10, 7, 8 & 8.1</u></a></li>
 </ul></div>
 

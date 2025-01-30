@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Surging Channel Growth with Optimal Video Hashes"
-date: 2025-01-21T00:25:30.274Z
-updated: 2025-01-22T02:21:51.038Z
+date: 2025-01-27T00:25:00.925Z
+updated: 2025-01-30T00:59:31.340Z
 tags:
   - ai video
   - ai youtube
@@ -111,17 +111,9 @@ The next time you upload a video, it will analyze it and help you process and pu
 
 Additionally, TubeBuddy will also show you the best possible hashtags to use for your unique video. Over 1 million people use it. That should be proof enough that this tool truly offers something valuable.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3 [VidIQ Chrome Extension](https://chrome.google.com/webstore/detail/vidiq-vision-for-youtube/pachckjkecffpdphbpmfolblodfkgbhl?hl=en)
 
 ![vidlq chrome extension](https://images.wondershare.com/filmora/article-images/2023/04/vidlq.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 This is another Chrome extension that helps you find keywords and YouTube tags to get more views. It's just as easy to use as the previous one. VidLQ has over 2 million users worldwide, proving its usefulness.
 
@@ -132,7 +124,7 @@ It's a great tool that can be especially beneficial for beginners. However, beca
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** If you hope to know more about YouTube keyword tools to get more views, you can read this article to increase your audience: [10 Best YouTube Keyword Tools to Get More Views](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -220,6 +212,10 @@ The best way to always have the perfect tags is to use a YouTube hashtags genera
 
 Here are the three best YouTube hashtag generators you can use:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1 [Keyword Tool](https://keywordtool.io/youtube)
 
 This tool's primary purpose may be to help with keyword research, but it has a valuable hashtag extension.
@@ -264,10 +260,6 @@ It's a great tool that can be especially beneficial for beginners. However, beca
 
 **Note:** If you hope to know more about YouTube keyword tools to get more views, you can read this article to increase your audience: [10 Best YouTube Keyword Tools to Get More Views](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bonus: Edit Your Vlog Videos Like A Pro With Filmora
 
 Another way to get more YouTube views is to upload high-quality videos consistently.
@@ -281,10 +273,6 @@ By high quality, we mean no background noise, proper color grading, entertaining
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 ![filmora feature instant mode](https://images.wondershare.com/filmora/article-images/2023/04/instant-mode.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If you're a more experienced video editor, Filmora's also got you covered. Aside from its simple features, it also has an advanced editor. It allows you to touch up [every tiny detail](https://tools.techidaily.com/wondershare/filmora/download/) of your video if you feel like it.
 
@@ -314,6 +302,10 @@ Yet, it would help if you didn't forget the most important thing: the video itse
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Strategic Content Creation: Unleashing Ideas Through Google Trends
 
 # How to Use Google Trends to Come up with Video Ideas \[Easy Guide\]
@@ -334,13 +326,13 @@ Google Trends, of course!
 
 Google Trends is a completely free tool you can use to determine what’s trending on YouTube or in Google’s search engine. Here’s how you can use Google Trends to figure out what’s trending in your niche and make a video before there’s tons of competition.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Seeing The Big Picture
 
 ![Google Trends YouTube Ideas](https://images.wondershare.com/filmora/article-images/how-to-use-google-trends-to-come-up-with-video-seeing-big-picture.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _You’ll need to be signed into your Google account to use Google Trends._
 
@@ -373,126 +365,6 @@ Once you have narrowed down your results you can just scroll through and pick ou
 For example, if you have a gaming channel and you’re looking for a non-gameplay topic to make a video on, you would look under Sci/Tech. If I look under that category today (May 29, 2017) and specify that I want topics trending in the United States then these are my top 5 results:
 
 ![Google Trends Category YouTube Video Ideas](https://images.wondershare.com/filmora/article-images/google-trends-categories.jpg)
-
-The first two happen to be about gaming. If you, as a gamer, had any strong reaction to either of these topics – whether it’s that you feel like you’re knowledgeable about them, or that you’re excited by something that’s coming up, or that something made you groan – then that would be a sign that you should make a video. Capitalizing on a trend while also covering a topic you have a lot to say about is always a good move.
-
-Having something to say doesn’t have to mean having a strong opinion. If you just find something interesting and want to pass the information along to your viewers then that’s great too.
-
-Clicking on these results will give you more specific data including how often the topic has been searched recently and links to recent news articles. These can give you a better idea of why it is trending and help you come up with what you want to say.
-
-## Part 3: Battle of the Keywords
-
-Once you have a topic in mind for your next video – whether it came from Google Trends or your own noggin – think about what the most important keyword for that topic might be.
-
-A [keyword is a word or short phrase](https://www.filmora.io/community-blog/the-12-step-youtube-seo-guide-for-beginners-who-want-more-448.html) that people type into a search engine like Google or YouTube. In order for people to find your videos, you’ll have to include a keyword in your video’s title.
-
-Once you have a keyword in mind, type it into the Explore bar at the top of your page in Google Trends.
-
-![Google Trends Keywords YouTube Video](https://images.wondershare.com/filmora/article-images/explore-topic-in-google-trends.jpg)
-
-What happens after you click **enter** is pretty much magic. Say I want to make a video on how to use Filmora. The first thing I’ll type into that Explore bar is ‘Filmora’.
-
-![Google Trends YouTube Video Keywords](https://images.wondershare.com/filmora/article-images/google-trends-search-term.jpg)
-
-You can see near the top that this chart represents searches for the topic over the last 5 years, which isn’t necessarily useful (although it is sort of cool that you can see when Filmora was ‘born’). I’m going to narrow that down to results from the U.S in the last week.
-
-![Google Trends YouTube Video Ideas Filmora](https://images.wondershare.com/filmora/article-images/google-trends-search-term-time-range.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-There, now I can see how the popularity of Filmora as a search term has spiked on specific days and times (if you hover over a spike it tells you the time and day) and plan to post my video at a time that capitalizes on these trends.
-
-Next, what other words do I want to include in my video title? Is this a review, a tutorial, or a how-to? By clicking on my search term Filmora, I can edit it to read ‘filmora review’. Then I can click **\+ Compare** and type in ‘filmora tutorial’ and ‘how to use Filmora’. Google Trends will create a chart comparing the popularity of those 3 terms.
-
-![Google Trends Filmora Keywords](https://images.wondershare.com/filmora/article-images/google-trends-search-term-comparison.jpg)
-
-_I also ‘zoomed out’ to 90 days – if I’d only looked at how they compared over the last week my results could have been skewed._
-
-It’s pretty clear from the chart that ‘filmora review’ is the strongest of those 3 search terms. The title of my video should definitely start with the words **Filmora Review** because that is what most people are searching for when they want information about Filmora. Putting your most important keyword/search term first in your video titles will help them rank better in the viewer’s search results.
-
-Although, when you do a comparison like this you should also go to YouTube and search for each potential keyword/phrase individually. It might turn out that there is a ton of strong competition for the most popular search term, and not as much for the second or third most popular. Here’s a search for ‘Filmora Review’ on YouTube:
-
-![YouTube search Filmora Keyword](https://images.wondershare.com/filmora/article-images/google-trends-youtube-keyword-search.jpg)
-
-_If my view of YouTube looks different from yours it’s because I’m using the [VidIQ plugin for Chrome](https://chrome.google.com/webstore/detail/vidiq-vision-for-youtube/pachckjkecffpdphbpmfolblodfkgbhl?hl=en). It’s free and it gives you all kinds of extra info about videos and channels._
-
-The second-highest ranked result is only 2 months old and isn’t from a huge channel. Although there is competition for this keyword, ranking for it is not impossible. It also helps that software reviews are a topic where people will always be looking for the latest information/newest videos.
-
-If the search results for your keyword are dominated by monster channels with millions of subs, and you can’t think of an angle you can use to crack into those top results (i.e. having newer information people will be looking for, which the more established videos are lacking), then maybe try the search with your second best keyword and see if there’s a better opportunity for you to rank there.
-
-One of the biggest benefits of identifying trends and making videos about them quickly is that you can get in before there’s a lot of competition for the first few pages of search results on YouTube or Google, and before larger channels start making videos of their own on the same topic.
-
-Want to make coming up with YouTube video ideas a habit? [This post here](https://www.filmora.io/community-blog/how-to-come-up-with-better-youtube-video-ideas-391.html) will help you develop a process to generate more ideas and properly evaluate them.
-
-## Making Better YouTube Videos with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
-
-As one of the most widely used video editing software among YouTubers, Filmora provides plentiful editing tools, such as cut, trim, [video stabilization](https://tools.techidaily.com/wondershare/filmora/download/), [noise removal](https://tools.techidaily.com/wondershare/filmora/download/), [chroma key compositing](https://tools.techidaily.com/wondershare/filmora/download/), and color grading. Besides, there are royalty-free music track and sound effects available in the built-in Audio library, and title templates and presets, as well as elements and effects. Download the free trial version below and get started now.
-
-[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-[0](#commentsBoxSeoTemplate)
-
-There is always something to make a video about. It’s a big world where new things happen every day, in every [YouTube niche](https://tools.techidaily.com/wondershare/filmora/download/). One of the best ways to climb to the top of YouTube’s search engine results is to be among the first creators to make a video about a trending topic.
-
-But how do you know what’s trending? If you’re in a huge genre like beauty or technology then it’s not impossible to keep track of the latest news and trends, but you probably hear about things as other people start making videos and as websites start publishing articles. How do you get on top of trends just as they’re becoming trends?
-
-Google Trends, of course!
-
-Google Trends is a completely free tool you can use to determine what’s trending on YouTube or in Google’s search engine. Here’s how you can use Google Trends to figure out what’s trending in your niche and make a video before there’s tons of competition.
-
-## Part 1: Seeing The Big Picture
-
-![Google Trends YouTube Ideas](https://images.wondershare.com/filmora/article-images/how-to-use-google-trends-to-come-up-with-video-seeing-big-picture.jpg)
-
-_You’ll need to be signed into your Google account to use Google Trends._
-
-Start off at [trends.google.com](https://trends.google.com/trends/) and you’ll see what’s trending in general – usually big news stories or things like sports finals. The data is laid out like this: at the top there are three ‘Featured Insights’. These are three of the most popular trending topics paired with graphs of their recent search traffic. Underneath these there will be a list of stories that are currently trending. You can click on them to see charts of their search data and links to where the stories are being covered online.
-
-Unless you do news or political commentary on your channel these probably aren’t topics you want to cover, but if you like to insert some topical references into your other videos then it’s still good to be aware of these things.
-
-To get information more relevant to your channel you’re going to have to do some filtering.
-
-## Part 2: Getting Results That Matter to You
-
-In the Google Trend home page, scroll down to the 'Recently Trending' section and click on 'More Trending Searches'.
-
-Then click from 'Daily Search Trends' to 'Realtime Search Trends'.
-
-On top you will see two drop-down menus, one is for the category and one is for location.
-
-![Google Trends Video Ideas](https://images.wondershare.com/filmora/article-images/google-trends-video-ideas.jpg)
-
-Under **All categories** select the general theme your channel falls under.
-
-Your options are business, entertainment, health, Sci/Tech, sports, and top stories.
-
-It might be the case that your channel doesn’t fall under any of these themes, but there could still be related stories for you in other categories. For example, if you have a beauty channel then there could be something that’d interest you under health, entertainment, or even business.
-
-Under the **location menu** choose the region most of your viewers are from. This might not be the same as where you are from – you could be in Australia and most of your viewers could be in the U.S. If you’re not sure where your viewers are from you can find out in your **Creator Studio** under **Analytics > Demographics**.
-
-Once you have narrowed down your results you can just scroll through and pick out a topic related to your channel’s theme that you have something to say about.
-
-For example, if you have a gaming channel and you’re looking for a non-gameplay topic to make a video on, you would look under Sci/Tech. If I look under that category today (May 29, 2017) and specify that I want topics trending in the United States then these are my top 5 results:
-
-![Google Trends Category YouTube Video Ideas](https://images.wondershare.com/filmora/article-images/google-trends-categories.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The first two happen to be about gaming. If you, as a gamer, had any strong reaction to either of these topics – whether it’s that you feel like you’re knowledgeable about them, or that you’re excited by something that’s coming up, or that something made you groan – then that would be a sign that you should make a video. Capitalizing on a trend while also covering a topic you have a lot to say about is always a good move.
 
@@ -570,6 +442,10 @@ Google Trends, of course!
 
 Google Trends is a completely free tool you can use to determine what’s trending on YouTube or in Google’s search engine. Here’s how you can use Google Trends to figure out what’s trending in your niche and make a video before there’s tons of competition.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Seeing The Big Picture
 
 ![Google Trends YouTube Ideas](https://images.wondershare.com/filmora/article-images/how-to-use-google-trends-to-come-up-with-video-seeing-big-picture.jpg)
@@ -612,9 +488,129 @@ Having something to say doesn’t have to mean having a strong opinion. If you j
 
 Clicking on these results will give you more specific data including how often the topic has been searched recently and links to recent news articles. These can give you a better idea of why it is trending and help you come up with what you want to say.
 
+## Part 3: Battle of the Keywords
+
+Once you have a topic in mind for your next video – whether it came from Google Trends or your own noggin – think about what the most important keyword for that topic might be.
+
+A [keyword is a word or short phrase](https://www.filmora.io/community-blog/the-12-step-youtube-seo-guide-for-beginners-who-want-more-448.html) that people type into a search engine like Google or YouTube. In order for people to find your videos, you’ll have to include a keyword in your video’s title.
+
+Once you have a keyword in mind, type it into the Explore bar at the top of your page in Google Trends.
+
+![Google Trends Keywords YouTube Video](https://images.wondershare.com/filmora/article-images/explore-topic-in-google-trends.jpg)
+
+What happens after you click **enter** is pretty much magic. Say I want to make a video on how to use Filmora. The first thing I’ll type into that Explore bar is ‘Filmora’.
+
+![Google Trends YouTube Video Keywords](https://images.wondershare.com/filmora/article-images/google-trends-search-term.jpg)
+
+You can see near the top that this chart represents searches for the topic over the last 5 years, which isn’t necessarily useful (although it is sort of cool that you can see when Filmora was ‘born’). I’m going to narrow that down to results from the U.S in the last week.
+
+![Google Trends YouTube Video Ideas Filmora](https://images.wondershare.com/filmora/article-images/google-trends-search-term-time-range.jpg)
+
+There, now I can see how the popularity of Filmora as a search term has spiked on specific days and times (if you hover over a spike it tells you the time and day) and plan to post my video at a time that capitalizes on these trends.
+
+Next, what other words do I want to include in my video title? Is this a review, a tutorial, or a how-to? By clicking on my search term Filmora, I can edit it to read ‘filmora review’. Then I can click **\+ Compare** and type in ‘filmora tutorial’ and ‘how to use Filmora’. Google Trends will create a chart comparing the popularity of those 3 terms.
+
+![Google Trends Filmora Keywords](https://images.wondershare.com/filmora/article-images/google-trends-search-term-comparison.jpg)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+_I also ‘zoomed out’ to 90 days – if I’d only looked at how they compared over the last week my results could have been skewed._
+
+It’s pretty clear from the chart that ‘filmora review’ is the strongest of those 3 search terms. The title of my video should definitely start with the words **Filmora Review** because that is what most people are searching for when they want information about Filmora. Putting your most important keyword/search term first in your video titles will help them rank better in the viewer’s search results.
+
+Although, when you do a comparison like this you should also go to YouTube and search for each potential keyword/phrase individually. It might turn out that there is a ton of strong competition for the most popular search term, and not as much for the second or third most popular. Here’s a search for ‘Filmora Review’ on YouTube:
+
+![YouTube search Filmora Keyword](https://images.wondershare.com/filmora/article-images/google-trends-youtube-keyword-search.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+_If my view of YouTube looks different from yours it’s because I’m using the [VidIQ plugin for Chrome](https://chrome.google.com/webstore/detail/vidiq-vision-for-youtube/pachckjkecffpdphbpmfolblodfkgbhl?hl=en). It’s free and it gives you all kinds of extra info about videos and channels._
+
+The second-highest ranked result is only 2 months old and isn’t from a huge channel. Although there is competition for this keyword, ranking for it is not impossible. It also helps that software reviews are a topic where people will always be looking for the latest information/newest videos.
+
+If the search results for your keyword are dominated by monster channels with millions of subs, and you can’t think of an angle you can use to crack into those top results (i.e. having newer information people will be looking for, which the more established videos are lacking), then maybe try the search with your second best keyword and see if there’s a better opportunity for you to rank there.
+
+One of the biggest benefits of identifying trends and making videos about them quickly is that you can get in before there’s a lot of competition for the first few pages of search results on YouTube or Google, and before larger channels start making videos of their own on the same topic.
+
+Want to make coming up with YouTube video ideas a habit? [This post here](https://www.filmora.io/community-blog/how-to-come-up-with-better-youtube-video-ideas-391.html) will help you develop a process to generate more ideas and properly evaluate them.
+
+## Making Better YouTube Videos with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+
+As one of the most widely used video editing software among YouTubers, Filmora provides plentiful editing tools, such as cut, trim, [video stabilization](https://tools.techidaily.com/wondershare/filmora/download/), [noise removal](https://tools.techidaily.com/wondershare/filmora/download/), [chroma key compositing](https://tools.techidaily.com/wondershare/filmora/download/), and color grading. Besides, there are royalty-free music track and sound effects available in the built-in Audio library, and title templates and presets, as well as elements and effects. Download the free trial version below and get started now.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+[0](#commentsBoxSeoTemplate)
+
+There is always something to make a video about. It’s a big world where new things happen every day, in every [YouTube niche](https://tools.techidaily.com/wondershare/filmora/download/). One of the best ways to climb to the top of YouTube’s search engine results is to be among the first creators to make a video about a trending topic.
+
+But how do you know what’s trending? If you’re in a huge genre like beauty or technology then it’s not impossible to keep track of the latest news and trends, but you probably hear about things as other people start making videos and as websites start publishing articles. How do you get on top of trends just as they’re becoming trends?
+
+Google Trends, of course!
+
+Google Trends is a completely free tool you can use to determine what’s trending on YouTube or in Google’s search engine. Here’s how you can use Google Trends to figure out what’s trending in your niche and make a video before there’s tons of competition.
+
+## Part 1: Seeing The Big Picture
+
+![Google Trends YouTube Ideas](https://images.wondershare.com/filmora/article-images/how-to-use-google-trends-to-come-up-with-video-seeing-big-picture.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+_You’ll need to be signed into your Google account to use Google Trends._
+
+Start off at [trends.google.com](https://trends.google.com/trends/) and you’ll see what’s trending in general – usually big news stories or things like sports finals. The data is laid out like this: at the top there are three ‘Featured Insights’. These are three of the most popular trending topics paired with graphs of their recent search traffic. Underneath these there will be a list of stories that are currently trending. You can click on them to see charts of their search data and links to where the stories are being covered online.
+
+Unless you do news or political commentary on your channel these probably aren’t topics you want to cover, but if you like to insert some topical references into your other videos then it’s still good to be aware of these things.
+
+To get information more relevant to your channel you’re going to have to do some filtering.
+
+## Part 2: Getting Results That Matter to You
+
+In the Google Trend home page, scroll down to the 'Recently Trending' section and click on 'More Trending Searches'.
+
+Then click from 'Daily Search Trends' to 'Realtime Search Trends'.
+
+On top you will see two drop-down menus, one is for the category and one is for location.
+
+![Google Trends Video Ideas](https://images.wondershare.com/filmora/article-images/google-trends-video-ideas.jpg)
+
+Under **All categories** select the general theme your channel falls under.
+
+Your options are business, entertainment, health, Sci/Tech, sports, and top stories.
+
+It might be the case that your channel doesn’t fall under any of these themes, but there could still be related stories for you in other categories. For example, if you have a beauty channel then there could be something that’d interest you under health, entertainment, or even business.
+
+Under the **location menu** choose the region most of your viewers are from. This might not be the same as where you are from – you could be in Australia and most of your viewers could be in the U.S. If you’re not sure where your viewers are from you can find out in your **Creator Studio** under **Analytics > Demographics**.
+
+Once you have narrowed down your results you can just scroll through and pick out a topic related to your channel’s theme that you have something to say about.
+
+For example, if you have a gaming channel and you’re looking for a non-gameplay topic to make a video on, you would look under Sci/Tech. If I look under that category today (May 29, 2017) and specify that I want topics trending in the United States then these are my top 5 results:
+
+![Google Trends Category YouTube Video Ideas](https://images.wondershare.com/filmora/article-images/google-trends-categories.jpg)
+
+The first two happen to be about gaming. If you, as a gamer, had any strong reaction to either of these topics – whether it’s that you feel like you’re knowledgeable about them, or that you’re excited by something that’s coming up, or that something made you groan – then that would be a sign that you should make a video. Capitalizing on a trend while also covering a topic you have a lot to say about is always a good move.
+
+Having something to say doesn’t have to mean having a strong opinion. If you just find something interesting and want to pass the information along to your viewers then that’s great too.
+
+Clicking on these results will give you more specific data including how often the topic has been searched recently and links to recent news articles. These can give you a better idea of why it is trending and help you come up with what you want to say.
 
 ## Part 3: Battle of the Keywords
 
@@ -698,6 +694,10 @@ Unless you do news or political commentary on your channel these probably aren�
 
 To get information more relevant to your channel you’re going to have to do some filtering.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Getting Results That Matter to You
 
 In the Google Trend home page, scroll down to the 'Recently Trending' section and click on 'More Trending Searches'.
@@ -742,13 +742,13 @@ What happens after you click **enter** is pretty much magic. Say I want to make 
 
 ![Google Trends YouTube Video Keywords](https://images.wondershare.com/filmora/article-images/google-trends-search-term.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You can see near the top that this chart represents searches for the topic over the last 5 years, which isn’t necessarily useful (although it is sort of cool that you can see when Filmora was ‘born’). I’m going to narrow that down to results from the U.S in the last week.
 
 ![Google Trends YouTube Video Ideas Filmora](https://images.wondershare.com/filmora/article-images/google-trends-search-term-time-range.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 There, now I can see how the popularity of Filmora as a search term has spiked on specific days and times (if you hover over a spike it tells you the time and day) and plan to post my video at a time that capitalizes on these trends.
 
@@ -803,20 +803,21 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-quick-react-guide-efficiently-answering-discord-messages/"><u>[New] In 2024, Quick-React Guide Efficiently Answering Discord Messages</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-seamless-google-meet-integration-for-youtube-enthusiasts/"><u>[New] Seamless Google Meet Integration for YouTube Enthusiasts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-7-ideas-to-improve-the-unboxing-experience/"><u>[Updated] 7 Ideas to Improve the Unboxing Experience</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-break-free-from-the-ordinary-top-tinder-profiles-that-hook-readers/"><u>[Updated] Break Free From the Ordinary Top Tinder Profiles that Hook Readers</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-comprehensive-checklist-for-incorporating-srt-in-mp4-files/"><u>[Updated] In 2024, Comprehensive Checklist for Incorporating SRT in MP4 Files</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-estimating-byte-consumption-of-full-film-daily/"><u>2024 Approved Estimating Byte Consumption of Full Film Daily</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mix-masters-ideal-dj-videos-to-download/"><u>2024 Approved Mix Masters Ideal DJ Videos to Download</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-essential-playbook-achieving-peak-video-editing-on-youtube-studio/"><u>2024 Approved The Essential Playbook Achieving Peak Video Editing on YouTube Studio</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175718934-experience-unprecedented-comfort-with-grizzlys-new-thermal-pad-shifts-between-states-above-45c/"><u>Experience Unprecedented Comfort with Grizzly's New Thermal Pad – Shifts Between States Above 45°C!</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-exploring-adsense-revenue-streams-on-youtube-for-every-1k-watcher/"><u>In 2024, Exploring AdSense Revenue Streams on YouTube for Every 1K Watcher</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-remove-youtube-videos/"><u>In 2024, How to Remove YouTube Videos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-talking-heads-visual-techniques-to-engage-audiences/"><u>In 2024, Talking Heads Visual Techniques to Engage Audiences</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-itel-p40-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Itel P40 Location | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/leveraging-consumer-reviews-for-youtube-wealth-creation-for-2024/"><u>Leveraging Consumer Reviews for YouTube Wealth Creation for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/professional-videography-on-the-go-final-cut-now-available-for-iphone-users-news/"><u>Professional Videography On-the-Go: Final Cut Now Available for iPhone Users News</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-eliminating-robotic-ratings-to-grow-views/"><u>[New] 2024 Approved Eliminating Robotic Ratings to Grow Views</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-expert-tips-for-post-upload-video-improvement/"><u>[New] Expert Tips for Post-Upload Video Improvement</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-setup-and-strategies-for-youtube-gamers-live-sessions/"><u>[New] Setup and Strategies for YouTube Gamers' Live Sessions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-leading-titles-in-rapid-online-content-expansion/"><u>[Updated] 2024 Approved The Leading Titles in Rapid Online Content Expansion</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-online-havens-for-sponsorship-initiatives-on-youtube/"><u>[Updated] Online Havens for Sponsorship Initiatives on YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-exploring-youtubes-strategy-for-video-short-promotion/"><u>2024 Approved Exploring YouTube's Strategy for Video Short Promotion</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-non-youtube-havens-for-unparalleled-video-streaming/"><u>2024 Approved Non-Youtube Havens for Unparalleled Video Streaming</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-smiles-and-snickers-7-hilarious-video-concepts-for-content-creators/"><u>2024 Approved Smiles & Snickers 7 Hilarious Video Concepts for Content Creators</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-visionary-video-conclave/"><u>2024 Approved The Visionary Video Conclave</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-ultimate-guide-to-effective-video-marketing-tools-8/"><u>2024 Approved Ultimate Guide to Effective Video Marketing Tools (8)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/cinematic-sequence-best-video-cameras-for-extended-slow-motion/"><u>Cinematic Sequence Best Video Cameras for Extended Slow Motion</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-as-pie-fixing-the-top-11-windows-11-issues/"><u>Easy as Pie: Fixing the Top 11 Windows 11 Issues</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-comprehensive-examination-for-straightforward-hdr/"><u>In 2024, Comprehensive Examination for Straightforward HDR</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-infinix-smart-7-hd-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Infinix Smart 7 HD Phone Screen?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95958876-9781984800060-yoga-and-the-quest-for-the-true-self/"><u>Yoga and the Quest for the True Self | Free Book</u></a></li>
 </ul></div>
 
