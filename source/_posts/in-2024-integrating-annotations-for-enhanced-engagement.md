@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Integrating Annotations for Enhanced Engagement"
-date: 2025-01-25T22:46:15.634Z
-updated: 2025-01-29T19:38:50.993Z
+date: 2025-02-07T05:44:41.587Z
+updated: 2025-02-09T20:30:40.154Z
 tags:
   - ai video
   - ai youtube
@@ -390,10 +390,6 @@ Follow @Richard Bennett
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Richard Bennett
 
  Mar 27, 2024• Proven solutions
@@ -419,9 +415,17 @@ Follow @Richard Bennett
 
 ![click OK](https://images.wondershare.com/filmora/article-images/click-ok.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6:**  You will find option to register to application with your respective device. Select and hit register.
 
 ![Click register](https://images.wondershare.com/filmora/article-images/click-register.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 7:** As soon as your registration process is complete then un-plug your USB cable.
 
@@ -449,139 +453,9 @@ Follow @Richard Bennett
 
 ![Theta UVC](https://images.wondershare.com/filmora/article-images/theta-uvc.jpg)
 
-**Step 15:** You need to adjust screen as per your requirements.
-
-![screen](https://images.wondershare.com/filmora/article-images/screen.jpg)
-
-**Step 16:** Now move to YouTube and then hit New Live Events option.
-
-![new live events](https://images.wondershare.com/filmora/article-images/new-live-events.jpg)
-
-**Step 17:** Complete the basic information.
-
-![basic info](https://images.wondershare.com/filmora/article-images/basic-info.jpg)
-
-**Step 18:** You need to move to advanced settings now; select 360 live stream option and then create event.
-
-**Step 19:** Now complete the ingesting settings and finally select create new stream option.
-
-![new stream option](https://images.wondershare.com/filmora/article-images/new-stream-option.jpg)
-
-**Step 20:** As soon as your event is created then you will be able to find your stream name on screen, copy it and simply paste it on OBS window.
-
-![ingesting settings](https://images.wondershare.com/filmora/article-images/ingesting-settings.jpg)
-
-**Step 21:** It is time to return to OBS settings and then you need to paste that copied name on stream key option.
-
-![paste to obs](https://images.wondershare.com/filmora/article-images/paste-to-obs.jpg)
-
-**Step 22:** Once all above settings are complete then click start stream option from your OBS window and you will soon be able to find your 360 live on YouTube.
-
-![stream key](https://images.wondershare.com/filmora/article-images/stream-key.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-![360 live](https://images.wondershare.com/filmora/article-images/360-live.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## 2.Live Stream from Allie 360 Camera to YouTube on Mobile
-
-**Step 1:** Get ready with your Allie 360 camera unit.
-
-**Step 2:** Visit YouTube and then hit the option to create your live event.
-
-**Step 3:** It is time to download your Allie Application and then get it installed on your device.
-
-* Prefer to use this link if you are working on iOS: <https://itunes.apple.com/app/allie-home/id1063986074>
-* Android users need to visit: <https://play.google.com/store/apps/details?id=com.icrealtime.allie>
-
-**Step 4:** As soon as you have downloaded your app then simply turn on the Bluetooth, Wi-Fi and air plane mode on your device.
-
-![air plane mode](https://images.wondershare.com/filmora/article-images/air-plane-mode.jpg)
-
-**Step 5:** Simply open your Allie application and then connect your camera.
-
-![allie app](https://images.wondershare.com/filmora/article-images/allie-app.jpg)
-
-**Step 6:** Now users need to hit stream icon on screen.
-
-![icon on](https://images.wondershare.com/filmora/article-images/icon-on.jpg)
-
-**Step 7:** You will be asked to fill the necessary information about your video. It is also possible to make adjustments regarding video quality. Once you are done with all required settings then hit Submit option.
-
-![click submit](https://images.wondershare.com/filmora/article-images/click-submit.jpg)
-
-**Step 8:** Soon your video will become live; note that you can also share your live video via SNS platform with other viewers.
-
-![SNS platform](https://images.wondershare.com/filmora/article-images/sns-platform.jpg)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-* [Part1.Stream 360 to Youtube via Ricoh Theta S and OBS on PC](#part1)
-* [Part2.Live Stream from Allie 360 Camera to YouTube on Mobile](#part2)
-
-## 1\. Stream 360 to Youtube via Ricoh Theta S and OBS on PC
-
-**Step 1:** First of all you need to get ready with your Ricoh Theta S 360 camera unit.
-
-**Step 2:** Now visit the [official website](https://theta360.com/en/support/download/) of Theta 360 in order to download your dedicated live streaming application.
-
-![official website](https://images.wondershare.com/filmora/article-images/official-website.jpg)
-
-**Step 3:** Get your application and install it on your Mac or PC as per need.
-
-**Step 4:** It is time to plug in to your Ricoh Theta S 360 camera using your PC.
-
-![Richoh Theta](https://images.wondershare.com/filmora/article-images/richoh-theta.jpg)
-
-**Step 5:** Now select your device ‘Ricoh Theta S’ and then hit Okay.
-
-![click OK](https://images.wondershare.com/filmora/article-images/click-ok.jpg)
-
-**Step 6:**  You will find option to register to application with your respective device. Select and hit register.
-
-![Click register](https://images.wondershare.com/filmora/article-images/click-register.jpg)
-
-**Step 7:** As soon as your registration process is complete then un-plug your USB cable.
-
-**Step 8:** It is time to turn the Ricoh Theta device to Live Mode; you simple need to press the top power and lower video button simultaneously to directly switch to the live mode.
-
-![bottom video](https://images.wondershare.com/filmora/article-images/bottom-video.jpg)
-
-**Step 9:** Once your device enters into Live Stream mode then a Led will start blinking on your device that represents your device is live at this moment.
-
-![led](https://images.wondershare.com/filmora/article-images/led.jpg)
-
-**Step 10:** Now you need to plug in the USB cable again with your computer.
-
-**Step 11:** Visit the official site of OBS and download your software; install it on your system.
-
-**Step 12:** Go to create scene option and then switch to create sources.
-
-![Create scene](https://images.wondershare.com/filmora/article-images/create-scene.jpg)
-
-**Step 13:** Select video capture device as your source from drop down menu.
-
-![device as](https://images.wondershare.com/filmora/article-images/device-as.jpg)
-
-**Step 14:** Now from available list select Theta UVC as your active video capture source.
-
-![Theta UVC](https://images.wondershare.com/filmora/article-images/theta-uvc.jpg)
 
 **Step 15:** You need to adjust screen as per your requirements.
 
@@ -637,78 +511,82 @@ Follow @Richard Bennett
 **Step 6:** Now users need to hit stream icon on screen.
 
 ![icon on](https://images.wondershare.com/filmora/article-images/icon-on.jpg)
-
-**Step 7:** You will be asked to fill the necessary information about your video. It is also possible to make adjustments regarding video quality. Once you are done with all required settings then hit Submit option.
-
-![click submit](https://images.wondershare.com/filmora/article-images/click-submit.jpg)
-
-**Step 8:** Soon your video will become live; note that you can also share your live video via SNS platform with other viewers.
-
-![SNS platform](https://images.wondershare.com/filmora/article-images/sns-platform.jpg)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-* [Part1.Stream 360 to Youtube via Ricoh Theta S and OBS on PC](#part1)
-* [Part2.Live Stream from Allie 360 Camera to YouTube on Mobile](#part2)
-
-## 1\. Stream 360 to Youtube via Ricoh Theta S and OBS on PC
-
-**Step 1:** First of all you need to get ready with your Ricoh Theta S 360 camera unit.
-
-**Step 2:** Now visit the [official website](https://theta360.com/en/support/download/) of Theta 360 in order to download your dedicated live streaming application.
-
-![official website](https://images.wondershare.com/filmora/article-images/official-website.jpg)
-
-**Step 3:** Get your application and install it on your Mac or PC as per need.
-
-**Step 4:** It is time to plug in to your Ricoh Theta S 360 camera using your PC.
-
-![Richoh Theta](https://images.wondershare.com/filmora/article-images/richoh-theta.jpg)
-
-**Step 5:** Now select your device ‘Ricoh Theta S’ and then hit Okay.
-
-![click OK](https://images.wondershare.com/filmora/article-images/click-ok.jpg)
-
-**Step 6:**  You will find option to register to application with your respective device. Select and hit register.
-
-![Click register](https://images.wondershare.com/filmora/article-images/click-register.jpg)
-
-**Step 7:** As soon as your registration process is complete then un-plug your USB cable.
-
-**Step 8:** It is time to turn the Ricoh Theta device to Live Mode; you simple need to press the top power and lower video button simultaneously to directly switch to the live mode.
-
-![bottom video](https://images.wondershare.com/filmora/article-images/bottom-video.jpg)
-
-**Step 9:** Once your device enters into Live Stream mode then a Led will start blinking on your device that represents your device is live at this moment.
-
-![led](https://images.wondershare.com/filmora/article-images/led.jpg)
-
-**Step 10:** Now you need to plug in the USB cable again with your computer.
-
-**Step 11:** Visit the official site of OBS and download your software; install it on your system.
-
-**Step 12:** Go to create scene option and then switch to create sources.
-
-![Create scene](https://images.wondershare.com/filmora/article-images/create-scene.jpg)
-
-**Step 13:** Select video capture device as your source from drop down menu.
-
-![device as](https://images.wondershare.com/filmora/article-images/device-as.jpg)
 
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+**Step 7:** You will be asked to fill the necessary information about your video. It is also possible to make adjustments regarding video quality. Once you are done with all required settings then hit Submit option.
+
+![click submit](https://images.wondershare.com/filmora/article-images/click-submit.jpg)
+
+**Step 8:** Soon your video will become live; note that you can also share your live video via SNS platform with other viewers.
+
+![SNS platform](https://images.wondershare.com/filmora/article-images/sns-platform.jpg)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+* [Part1.Stream 360 to Youtube via Ricoh Theta S and OBS on PC](#part1)
+* [Part2.Live Stream from Allie 360 Camera to YouTube on Mobile](#part2)
+
+## 1\. Stream 360 to Youtube via Ricoh Theta S and OBS on PC
+
+**Step 1:** First of all you need to get ready with your Ricoh Theta S 360 camera unit.
+
+**Step 2:** Now visit the [official website](https://theta360.com/en/support/download/) of Theta 360 in order to download your dedicated live streaming application.
+
+![official website](https://images.wondershare.com/filmora/article-images/official-website.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+**Step 3:** Get your application and install it on your Mac or PC as per need.
+
+**Step 4:** It is time to plug in to your Ricoh Theta S 360 camera using your PC.
+
+![Richoh Theta](https://images.wondershare.com/filmora/article-images/richoh-theta.jpg)
+
+**Step 5:** Now select your device ‘Ricoh Theta S’ and then hit Okay.
+
+![click OK](https://images.wondershare.com/filmora/article-images/click-ok.jpg)
+
+**Step 6:**  You will find option to register to application with your respective device. Select and hit register.
+
+![Click register](https://images.wondershare.com/filmora/article-images/click-register.jpg)
+
+**Step 7:** As soon as your registration process is complete then un-plug your USB cable.
+
+**Step 8:** It is time to turn the Ricoh Theta device to Live Mode; you simple need to press the top power and lower video button simultaneously to directly switch to the live mode.
+
+![bottom video](https://images.wondershare.com/filmora/article-images/bottom-video.jpg)
+
+**Step 9:** Once your device enters into Live Stream mode then a Led will start blinking on your device that represents your device is live at this moment.
+
+![led](https://images.wondershare.com/filmora/article-images/led.jpg)
+
+**Step 10:** Now you need to plug in the USB cable again with your computer.
+
+**Step 11:** Visit the official site of OBS and download your software; install it on your system.
+
+**Step 12:** Go to create scene option and then switch to create sources.
+
+![Create scene](https://images.wondershare.com/filmora/article-images/create-scene.jpg)
+
+**Step 13:** Select video capture device as your source from drop down menu.
+
+![device as](https://images.wondershare.com/filmora/article-images/device-as.jpg)
+
 **Step 14:** Now from available list select Theta UVC as your active video capture source.
 
 ![Theta UVC](https://images.wondershare.com/filmora/article-images/theta-uvc.jpg)
@@ -743,10 +621,6 @@ Follow @Richard Bennett
 
 ![stream key](https://images.wondershare.com/filmora/article-images/stream-key.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![360 live](https://images.wondershare.com/filmora/article-images/360-live.jpg)
 
 ## 2.Live Stream from Allie 360 Camera to YouTube on Mobile
@@ -763,10 +637,6 @@ Follow @Richard Bennett
 **Step 4:** As soon as you have downloaded your app then simply turn on the Bluetooth, Wi-Fi and air plane mode on your device.
 
 ![air plane mode](https://images.wondershare.com/filmora/article-images/air-plane-mode.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 5:** Simply open your Allie application and then connect your camera.
 
@@ -821,15 +691,15 @@ Follow @Richard Bennett
 
 ![Click register](https://images.wondershare.com/filmora/article-images/click-register.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 7:** As soon as your registration process is complete then un-plug your USB cable.
 
 **Step 8:** It is time to turn the Ricoh Theta device to Live Mode; you simple need to press the top power and lower video button simultaneously to directly switch to the live mode.
 
 ![bottom video](https://images.wondershare.com/filmora/article-images/bottom-video.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 9:** Once your device enters into Live Stream mode then a Led will start blinking on your device that represents your device is live at this moment.
 
@@ -847,6 +717,10 @@ Follow @Richard Bennett
 
 ![device as](https://images.wondershare.com/filmora/article-images/device-as.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 14:** Now from available list select Theta UVC as your active video capture source.
 
 ![Theta UVC](https://images.wondershare.com/filmora/article-images/theta-uvc.jpg)
@@ -855,13 +729,13 @@ Follow @Richard Bennett
 
 ![screen](https://images.wondershare.com/filmora/article-images/screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 16:** Now move to YouTube and then hit New Live Events option.
 
 ![new live events](https://images.wondershare.com/filmora/article-images/new-live-events.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 17:** Complete the basic information.
 
@@ -872,10 +746,6 @@ Follow @Richard Bennett
 **Step 19:** Now complete the ingesting settings and finally select create new stream option.
 
 ![new stream option](https://images.wondershare.com/filmora/article-images/new-stream-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 20:** As soon as your event is created then you will be able to find your stream name on screen, copy it and simply paste it on OBS window.
 
@@ -915,8 +785,138 @@ Follow @Richard Bennett
 ![icon on](https://images.wondershare.com/filmora/article-images/icon-on.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**Step 7:** You will be asked to fill the necessary information about your video. It is also possible to make adjustments regarding video quality. Once you are done with all required settings then hit Submit option.
+
+![click submit](https://images.wondershare.com/filmora/article-images/click-submit.jpg)
+
+**Step 8:** Soon your video will become live; note that you can also share your live video via SNS platform with other viewers.
+
+![SNS platform](https://images.wondershare.com/filmora/article-images/sns-platform.jpg)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+* [Part1.Stream 360 to Youtube via Ricoh Theta S and OBS on PC](#part1)
+* [Part2.Live Stream from Allie 360 Camera to YouTube on Mobile](#part2)
+
+## 1\. Stream 360 to Youtube via Ricoh Theta S and OBS on PC
+
+**Step 1:** First of all you need to get ready with your Ricoh Theta S 360 camera unit.
+
+**Step 2:** Now visit the [official website](https://theta360.com/en/support/download/) of Theta 360 in order to download your dedicated live streaming application.
+
+![official website](https://images.wondershare.com/filmora/article-images/official-website.jpg)
+
+**Step 3:** Get your application and install it on your Mac or PC as per need.
+
+**Step 4:** It is time to plug in to your Ricoh Theta S 360 camera using your PC.
+
+![Richoh Theta](https://images.wondershare.com/filmora/article-images/richoh-theta.jpg)
+
+**Step 5:** Now select your device ‘Ricoh Theta S’ and then hit Okay.
+
+![click OK](https://images.wondershare.com/filmora/article-images/click-ok.jpg)
+
+**Step 6:**  You will find option to register to application with your respective device. Select and hit register.
+
+![Click register](https://images.wondershare.com/filmora/article-images/click-register.jpg)
+
+**Step 7:** As soon as your registration process is complete then un-plug your USB cable.
+
+**Step 8:** It is time to turn the Ricoh Theta device to Live Mode; you simple need to press the top power and lower video button simultaneously to directly switch to the live mode.
+
+![bottom video](https://images.wondershare.com/filmora/article-images/bottom-video.jpg)
+
+**Step 9:** Once your device enters into Live Stream mode then a Led will start blinking on your device that represents your device is live at this moment.
+
+![led](https://images.wondershare.com/filmora/article-images/led.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+**Step 10:** Now you need to plug in the USB cable again with your computer.
+
+**Step 11:** Visit the official site of OBS and download your software; install it on your system.
+
+**Step 12:** Go to create scene option and then switch to create sources.
+
+![Create scene](https://images.wondershare.com/filmora/article-images/create-scene.jpg)
+
+**Step 13:** Select video capture device as your source from drop down menu.
+
+![device as](https://images.wondershare.com/filmora/article-images/device-as.jpg)
+
+**Step 14:** Now from available list select Theta UVC as your active video capture source.
+
+![Theta UVC](https://images.wondershare.com/filmora/article-images/theta-uvc.jpg)
+
+**Step 15:** You need to adjust screen as per your requirements.
+
+![screen](https://images.wondershare.com/filmora/article-images/screen.jpg)
+
+**Step 16:** Now move to YouTube and then hit New Live Events option.
+
+![new live events](https://images.wondershare.com/filmora/article-images/new-live-events.jpg)
+
+**Step 17:** Complete the basic information.
+
+![basic info](https://images.wondershare.com/filmora/article-images/basic-info.jpg)
+
+**Step 18:** You need to move to advanced settings now; select 360 live stream option and then create event.
+
+**Step 19:** Now complete the ingesting settings and finally select create new stream option.
+
+![new stream option](https://images.wondershare.com/filmora/article-images/new-stream-option.jpg)
+
+**Step 20:** As soon as your event is created then you will be able to find your stream name on screen, copy it and simply paste it on OBS window.
+
+![ingesting settings](https://images.wondershare.com/filmora/article-images/ingesting-settings.jpg)
+
+**Step 21:** It is time to return to OBS settings and then you need to paste that copied name on stream key option.
+
+![paste to obs](https://images.wondershare.com/filmora/article-images/paste-to-obs.jpg)
+
+**Step 22:** Once all above settings are complete then click start stream option from your OBS window and you will soon be able to find your 360 live on YouTube.
+
+![stream key](https://images.wondershare.com/filmora/article-images/stream-key.jpg)
+
+![360 live](https://images.wondershare.com/filmora/article-images/360-live.jpg)
+
+## 2.Live Stream from Allie 360 Camera to YouTube on Mobile
+
+**Step 1:** Get ready with your Allie 360 camera unit.
+
+**Step 2:** Visit YouTube and then hit the option to create your live event.
+
+**Step 3:** It is time to download your Allie Application and then get it installed on your device.
+
+* Prefer to use this link if you are working on iOS: <https://itunes.apple.com/app/allie-home/id1063986074>
+* Android users need to visit: <https://play.google.com/store/apps/details?id=com.icrealtime.allie>
+
+**Step 4:** As soon as you have downloaded your app then simply turn on the Bluetooth, Wi-Fi and air plane mode on your device.
+
+![air plane mode](https://images.wondershare.com/filmora/article-images/air-plane-mode.jpg)
+
+**Step 5:** Simply open your Allie application and then connect your camera.
+
+![allie app](https://images.wondershare.com/filmora/article-images/allie-app.jpg)
+
+**Step 6:** Now users need to hit stream icon on screen.
+
+![icon on](https://images.wondershare.com/filmora/article-images/icon-on.jpg)
 
 **Step 7:** You will be asked to fill the necessary information about your video. It is also possible to make adjustments regarding video quality. Once you are done with all required settings then hit Submit option.
 
@@ -949,14 +949,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-how-to-loop-a-video-on-iphone/"><u>[New] How to Loop A Video on iPhone?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-speedy-fortnite-cover-art-creation/"><u>[New] Speedy Fortnite Cover Art Creation</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-navigating-instagram-copyright/"><u>[Updated] In 2024, Navigating Instagram Copyright</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-maximizing-video-impact-post-upload-edit-tips-for-youtube/"><u>2024 Approved Maximizing Video Impact Post-Upload Edit Tips for YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-guide-to-longer-video-submissions-on-youtube/"><u>2024 Approved The Ultimate Guide to Longer Video Submissions on YouTube</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-mastering-snapchat-adjust-your-voice-fast-and-simple/"><u>In 2024, Mastering Snapchat Adjust Your Voice Fast and Simple</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/method-to-separate-bunched-up-window-applications/"><u>Method to Separate Bunched-Up Window Applications</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/top-10-independent-android-games-for-non-networked-natives-for-2024/"><u>Top 10 Independent Android Games for Non-Networked Natives for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-hidden-perils-in-ai-an-in-depth-guide/"><u>Unveiling the Hidden Perils in AI - An In-Depth Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-how-to-win-over-product-sponsors-in-the-youtube-arena/"><u>[New] How to Win Over Product Sponsors in the YouTube Arena</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/s-it-illegal-to-archive-your-youtube-watch-history-for-2024/"><u>[New] Is It Illegal to Archive Your YouTube Watch History for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-quick-tricks-randomizing-youtube-videos-on-all-devices/"><u>[New] Quick Tricks Randomizing YouTube Videos on All Devices</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-step-by-step-guide-to-making-your-youtube-content-stand-out/"><u>[New] Step-by-Step Guide to Making Your YouTube Content Stand Out</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-step-by-step-setting-up-snapchat-on-mac/"><u>[Updated] Step-by-Step Setting Up Snapchat on Mac</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-elevating-your-film-utilizing-drones-effectively/"><u>2024 Approved Elevating Your Film Utilizing Drones Effectively</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-piecing-together-attention-grabbing-channel-snippets/"><u>2024 Approved Piecing Together Attention-Grabbing Channel Snippets</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-slow-your-roll-thriving-in-the-world-of-sluggish-youtube-content-52-chars/"><u>2024 Approved Slow Your Roll Thriving in the World of Sluggish YouTube Content (52 Chars)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-strategies-for-effective-youtube-playlist-distribution/"><u>2024 Approved Strategies for Effective YouTube Playlist Distribution</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-understanding-satire-building-parodies-online/"><u>2024 Approved Understanding Satire Building Parodies Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-control-over-group-policy-in-windows-11/"><u>Enhance Control over Group Policy in Windows 11</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-retain-video-engagement-sustained-use-of-youtubes-cc-license-for-2024/"><u>How to Retain Video Engagement Sustained Use of YouTube's CC License for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-behind-the-scenes-how-to-master-voice-manipulation-with-free-tools/"><u>In 2024, Behind the Scenes How to Master Voice Manipulation with Free Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-lol-streaming-made-easy-mastering-video-capture-in-3-steps/"><u>In 2024, LOL Streaming Made Easy Mastering Video Capture in 3 Steps</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-maximizing-videography-with-youtubes-creative-commons/"><u>In 2024, Maximizing Videography with YouTube's Creative Commons</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-thumbnail-artistry-for-engaging-youtube-channels/"><u>In 2024, Thumbnail Artistry for Engaging YouTube Channels</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reformatting-win10-high-res-displays/"><u>Reformatting Win10 High-Res Displays</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/save-big-by-choosing-the-affordable-macbook-air-over-the-expensive-macbook-pro/"><u>Save Big by Choosing the Affordable MacBook Air Over the Expensive MacBook Pro</u></a></li>
 </ul></div>
 

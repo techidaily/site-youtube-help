@@ -1,7 +1,7 @@
 ---
 title: "Instant YouTube Playlists Shared Tutorial for 2024"
-date: 2025-01-28T22:33:17.372Z
-updated: 2025-01-29T21:21:37.158Z
+date: 2025-02-06T12:37:56.003Z
+updated: 2025-02-09T19:17:31.057Z
 tags:
   - ai video
   - ai youtube
@@ -22,6 +22,10 @@ But what if you've created a playlist of your favorite videos and think your fri
 
 So, let's get started with our guide without any further delay!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Doesn't The Share Function In The Playlist Work?
 
 Firstly, let's figure out why the "Share" function doesn't work. The "Share" function in the playlist does not work because it is set to "private," and YouTube doesn't allow you to share them. To fix this, you must first change the privacy settings of the playlist to "public" in the following way:
@@ -35,10 +39,6 @@ Step2
 * Scroll down to the **"Playlist"** section.
 
 ![changing playlist visibility](https://images.wondershare.com/filmora/article-images/2023/03/changing-playlist-visibility.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step3 Select your playlist labeled as **"Private."** On the next page, click the **"Private"** option in the playlist details section and select **"Public"** to change the visibility of your playlist.
 
@@ -68,6 +68,10 @@ Step2 Next, go to the **"Playlist"** tab and click the **"View Full Playlist"** 
 
 ![sharing own youtube playlist](https://images.wondershare.com/filmora/article-images/2023/03/sharing-own-youtube-playlist.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Finally, click the **"Share"** icon in the playlist's details section, and a window will pop up. From here, you can either click **"Copy"** to save the link to your clipboard or share the playlist directly to WhatsApp, Twitter, Facebook, Email, KakaoTalk, Reddit, and more platforms.
 
 ##### How To Share Someone Else's YouTube Playlist With A Link To View?
@@ -79,6 +83,10 @@ Step1 In the first step, launch your preferred browser, visit the **YouTube** we
 Step2 On the left side of the website's main interface, click the **"Library"** option and scroll down to the **Playlists** section.
 
 ![sharing others youtube playlist](https://images.wondershare.com/filmora/article-images/2023/03/sharing-others-youtube-playlist.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 Under the **"Playlists"** section, click on the playlist you want to share. Now, click the **"Share"** icon in the playlist's details section, and a pop-up window will appear. In the **"Share"** section, copy the URL and paste it into an email, message, or social media post to share.
 
@@ -116,27 +124,27 @@ Step4 In the details section of your YouTube playlist on the playlist page, clic
 
 ![sharing youtube playlist link to collaborate](https://images.wondershare.com/filmora/article-images/2023/03/sharing-youtube-playlist-link-to-collaborate.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step5 A pop-up window will appear on your screen. Toggle on the **"Collaborators can add videos to this playlist"** option to enable it, and the **"Allow new collaborators"** option will appear.
 
 Toggle on the **"Allow new collaborators"** option, click **"Copy"** to save the URL to your clipboard, and click **"Done"** to apply the changes.
 
 ![allowing collaboration on youtube playlist](https://images.wondershare.com/filmora/article-images/2023/03/allowing-collaboration-on-youtube-playlist.png)
 
-That's about it! You can now share the playlist link with your friends, who can now add videos to it.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+That's about it! You can now share the playlist link with your friends, who can now add videos to it.
 
 ### 2\. For iOS and Android
 
 If you want to quickly share a YouTube playlist using your iOS or Android device, follow these instructions step-by-step:
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** The method of sharing the YouTube playlist on an iOS device is the same as mentioned above.
 
@@ -158,6 +166,10 @@ We hope you have found the solution to share your YouTube Playlist. Supposing yo
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In this comprehensive guide, we've explored why the share function in the playlist is not working and **how to share a YouTube playlist** using your computer and mobile device.
@@ -197,7 +209,7 @@ In this comprehensive guide, we've explored why the share function in the playli
      data-ad-slot="1223367746"></ins>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Smoothly View YouTube Videos without Borders?
@@ -231,10 +243,6 @@ In this comprehensive guide, we've explored why the share function in the playli
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 2\.  Sony Vegas Pro
 
  One of the most popular and sought after video editing tool, [Sony Vegas Pro](https://tools.techidaily.com/wondershare/filmora/download/) can help removing the black bars very simply:
@@ -283,10 +291,6 @@ In this comprehensive guide, we've explored why the share function in the playli
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -301,10 +305,6 @@ Follow @Richard Bennett
 
 * [Part 1: Removing the black bars before uploading](#part1)
 * [Part 2: Removing the black bars from uploaded YouTube videos](#part2)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Remove the black bars before uploading
 
@@ -322,10 +322,6 @@ Follow @Richard Bennett
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 2\.  Sony Vegas Pro
 
  One of the most popular and sought after video editing tool, [Sony Vegas Pro](https://tools.techidaily.com/wondershare/filmora/download/) can help removing the black bars very simply:
@@ -358,6 +354,10 @@ Follow @Richard Bennett
 
 ![Remove black bars from youtube videos](https://images.wondershare.com/filmora/article-images/remove-black-bars-from-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **yt:crop=16:9**
 
  This tag zooms in on the video because of which the contents at the borders (black bars in this case) do not appear anymore.
@@ -373,10 +373,6 @@ Follow @Richard Bennett
  Try any of the above software to remove black bars from existing YouTube videos or the new videos and make it pleasant to viewers.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -514,11 +510,19 @@ Follow @Richard Bennett
 * Select the video and change its aspect ratio. (Either stretch it or crop it).
 * Save the video after it has been corrected.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Removing the black bars from uploaded YouTube videos
 
  It is very simple to remove black bars from existing YouTube videos or while uploading a video. Click on the Edit button next to the video, and add the most suited instruction in the Tag bar below:
 
 ![Remove black bars from youtube videos](https://images.wondershare.com/filmora/article-images/remove-black-bars-from-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **yt:crop=16:9**
 
@@ -535,10 +539,6 @@ Follow @Richard Bennett
  Try any of the above software to remove black bars from existing YouTube videos or the new videos and make it pleasant to viewers.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -561,22 +561,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-imageslice-cutter/"><u>[New] ImageSlice Cutter</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-behind-the-scenes-what-does-an-unlisted-video-mean/"><u>[Updated] Behind the Scenes What Does an 'Unlisted' Video Mean?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-convenient-technique-winning-the-art-of-fish-dialogue-alteration/"><u>[Updated] Convenient Technique Winning the Art of Fish Dialogue Alteration</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-maximizing-engagement-youtube-links-as-a-catalyst/"><u>2024 Approved Maximizing Engagement YouTube Links as a Catalyst</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-step-by-step-guide-to-making-your-youtube-content-stand-out/"><u>2024 Approved Step-by-Step Guide to Making Your YouTube Content Stand Out</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-streamline-your-channel-adobe-premiere-to-youtube/"><u>2024 Approved Streamline Your Channel Adobe Premiere to YouTube</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/examining-performance-fluctuations-in-seatechs-portable-blu-ray-burner-for-external-usb-use/"><u>Examining Performance Fluctuations in SeaTech's Portable Blu-Ray Burner for External USB Use</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/from-viewers-to-vips-ajays-strategy-for-sustainable-income-streams-for-2024/"><u>From Viewers to VIPs Ajay's Strategy for Sustainable Income Streams for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-honor-x9a-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Honor X9a to iPod | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-free-endings-that-wow-ranked-for-you-top-6/"><u>In 2024, Free Endings That Wow - Ranked for You (Top 6)</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-apple-iphone-xr-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and Apple iPhone XR iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-lead-the-way-in-streaming-your-guide-to-youtubes-full-sphere-video-trends/"><u>In 2024, Lead the Way in Streaming Your Guide to YouTube's Full-Sphere Video Trends</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-study-aids-top-10-educational-history-channels/"><u>In 2024, Study Aids Top 10 Educational History Channels</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/minimal-effort-maximum-recovery-for-deleted-posts/"><u>Minimal Effort, Maximum Recovery for Deleted Posts</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ight-on-the-top-8-authentic-video-promotion-methods/"><u>Spotlight on the Top 8 Authentic Video Promotion Methods</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-tweaking-your-iphone-control-center-settings-in-ios-18-infographic/"><u>Step-by-Step Guide: Tweaking Your iPhone Control Center Settings in iOS 18 [Infographic]</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-smart-home-innovations-in-2eightyfour-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Ranking Smart Home Innovations in 2Eightyfour: Comprehensive Reviews by Tech Gurus | ZDNET</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-swiftly-assemble-a-stunning-google-image-mosaic-with-ease/"><u>[New] 2024 Approved Swiftly Assemble a Stunning Google Image Mosaic with Ease</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-endless-creativity-free-youtube-art-resources-for-2024/"><u>[Updated] Endless Creativity FREE YouTube Art Resources for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-tips-to-share-pre-recorded-videos-live-on-facebook/"><u>[Updated] Tips to Share Pre-Recorded Videos Live on Facebook</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unleash-your-stream-potential-on-youtube-with-just-a-handful-of-followers-for-2024/"><u>[Updated] Unleash Your Stream Potential on YouTube with Just a Handful of Followers for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-maximize-your-yi-4k-footage-ideal-add-ons-guide/"><u>2024 Approved Maximize Your YI 4K Footage Ideal Add-Ons Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-polishing-your-youtube-projects-the-premiere-pro-way/"><u>2024 Approved Polishing Your YouTube Projects The Premiere Pro Way</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-strategy-for-developing-and-managing-youtube-collaborations/"><u>2024 Approved The Ultimate Strategy for Developing & Managing YouTube Collaborations</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-20-thumbnail-fonts-for-impressive-video-credits/"><u>2024 Approved Top 20 Thumbnail Fonts for Impressive Video Credits</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-diagnosing-and-repairing-recurrent-halo-3-pc-game-crashes/"><u>Expert Advice: Diagnosing and Repairing Recurrent Halo 3 PC Game Crashes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/forget-youtube-try-these-top-5-video-editor-options-for-2024/"><u>Forget Youtube? Try These Top 5 Video Editor Options for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/from-idea-to-screen-smartphone-video-creation-tips-for-2024/"><u>From Idea to Screen Smartphone Video Creation Tips for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-end-your-youtube-void-top-10-insights-on-igniting-video-interest/"><u>In 2024, How To End Your Youtube Void Top 10 Insights on Igniting Video Interest</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-skyrocket-with-telegram-proven-marketing-techniques-unveiled/"><u>In 2024, Skyrocket with Telegram Proven Marketing Techniques Unveiled</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unconventional-uses-what-if-google-recommended-ingestion-of-adhesives-and-fueling-your-pasta/"><u>Unconventional Uses: What if Google Recommended Ingestion of Adhesives and Fueling Your Pasta?</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-lava-yuva-2-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Lava Yuva 2 Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 
