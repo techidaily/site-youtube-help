@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Full-Time Careers Meet Video Content  A Harmonious Mix\""
-date: 2025-02-05T13:57:38.554Z
-updated: 2025-02-09T18:32:57.840Z
+date: 2025-02-12T17:32:32.317Z
+updated: 2025-02-20T04:14:49.853Z
 tags:
   - ai video
   - ai youtube
@@ -42,33 +42,33 @@ So, to save you and your viewers some of the same struggles, here are 5 tips I r
 
 [5. Be creative! Create audios (audio-only videos)](#createaudio)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1. Don’t force yourself to post on specific days
 
 I know what you’re thinking - “What?! That’s insane.” The first piece of advice I received about YouTube was to create a schedule of days to post so your viewers look forward to videos. That just doesn’t work for me. Whenever I became too busy with work, I couldn’t stick to my typical Tuesday or Thursday schedule. I think it’s best to focus on how many times you can post in a week rather than a specific day. I try to post at least once a week and that’s my goal. You can always increase as your workload gets lighter or you when you are able to do YouTube full-time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2. Keep track of all your ideas in one notebook planner
 
 A notebook planner is essential for keeping my life organized and on track. When I first started my channel, I had a separate planner just for my YouTube videos – this didn’t work cause I never looked at it. It worked best when I kept track of my entire life, including YouTube, in one planner since I look at it every day. Then I could also see which days I wanted to post a video or see what topics worked best around specific holidays and such.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3. Check the weather forecast in advance
 
 When starting a YouTube channel, many YouTubers like myself don’t have the money to afford all the fancy lighting you see other creators using. [I use natural light](https://tools.techidaily.com/wondershare/filmora/download/), which means I have to make sure it’s going to be a sunny day or at least bright enough for my videos to be clear. I check the forecast for the week on Sunday evenings so I can plan out my best days to film, this keeps my video shooting schedule productive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4. Create 3-5 videos in advance
 
 This week I am on PTO (paid time off) which has given me a lot more time to film videos I can post for next month. Life happens and it can set you back on filming. If you happen to get a major break in your workweek, use the opportunity to film a bunch of videos, edit them, and have them waiting in your pocket. I filmed three videos in one day – I planned and set-up the night before, which made filming much smoother. Trust me, this tip works wonders!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5. Be creative! Create audios (audio-only videos)
 
@@ -85,13 +85,13 @@ Just try it and create your own YouTube video!
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -109,18 +109,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-dissecting-the-marketplace-does-inshot-dominate-editing-for-2024/"><u>[New] Dissecting the Marketplace Does InShot Dominate Editing for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-hypergame-hub-your-portal-to-infinite-titles/"><u>[New] HyperGame Hub Your Portal to Infinite Titles</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-editors-edge-advanced-tactics-for-youtube-video-spins-guide/"><u>2024 Approved The Editor's Edge Advanced Tactics for YouTube Video Spins (Guide)</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-fixes-for-dying-lights-performance-issues-and-how-to-improve-your-gameplay-experience/"><u>Expert Fixes for Dying Light's Performance Issues and How to Improve Your Gameplay Experience</u></a></li>
-<li><a href="https://fox-making.techidaily.com/fast-and-efficient-methods-top-5-rapid-techniques-for-editing-text-within-your-pdf-files/"><u>Fast and Efficient Methods: Top 5 Rapid Techniques for Editing Text Within Your PDF Files</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-navigating-backwards-youtubes-way-to-rearrange-watch-queue/"><u>In 2024, Navigating Backwards YouTube’s Way to Rearrange Watch Queue</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-solution-for-non-shown-shorts-thumbnails-on-youtube/"><u>In 2024, Step-by-Step Solution for Non-Shown Shorts Thumbnails on YouTube</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-tips-for-capturing-high-quality-gaming-sessions/"><u>In 2024, Tips for Capturing High-Quality Gaming Sessions</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-top-5-exhilarating-virtual-track-gaming-experiences/"><u>In 2024, Top 5 Exhilarating Virtual Track Gaming Experiences</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-your-quick-guide-to-google-voice-call-history/"><u>In 2024, Your Quick Guide to Google Voice Call History</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-magic-5-pro-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor Magic 5 Pro Phone FRP Lock</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-converting-4k-footage-to-full-hd-on-macpc/"><u>Step-by-Step Guide: Converting 4K Footage to Full HD on Mac/PC</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-prime-day-bargains-on-oneplus-save-big-and-score-the-latest/"><u>Top Prime Day Bargains on OnePlus: Save Big & Score the Latest!</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-ideas-to-action-how-to-transform-photos-into-engaging-mobile-videos/"><u>[New] From Ideas to Action How to Transform Photos Into Engaging Mobile Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-navigating-iphone-the-ringtone-alteration-process/"><u>[New] In 2024, Navigating iPhone The Ringtone Alteration Process</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-heard-words-spoken-ideas-no-price-for-2024/"><u>[Updated] Heard Words, Spoken Ideas – No Price for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-a-stepwise-journey-to-meme-mastery-in-kinemaster/"><u>[Updated] In 2024, A Stepwise Journey to Meme Mastery in KineMaster</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-essential-screen-recording-steps-for-perfection/"><u>[Updated] In 2024, Essential Screen Recording Steps for Perfection</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-disableremove-youtube-shorts-permanently2/"><u>2024 Approved How to Disable/Remove YouTube Shorts Permanently?2</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bulk-up-your-storage-with-a-steep-discount-get-the-8tb-samsung-t5-at-amazon-for-36-less-after-prime-day/"><u>Bulk Up Your Storage with a Steep Discount: Get the 8TB Samsung T5 at Amazon for 36% Less After Prime Day</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-inspire-your-recruitment-process-with-pioneering-tapes/"><u>In 2024, Inspire Your Recruitment Process with Pioneering Tapes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-launching-educator-channels-10-key-tips-for-youtube-success/"><u>In 2024, Launching Educator Channels 10 Key Tips for YouTube Success</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-resolving-the-mystery-of-missing-shorts-thumbnails-on-youtube/"><u>In 2024, Resolving the Mystery of Missing Shorts Thumbnails on YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-top-ways-to-turn-your-shorts-into-a-money-machine-on-youtube/"><u>In 2024, Top Ways to Turn Your Shorts Into a Money Machine on YouTube</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-v30t-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme V30T Device</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
 </ul></div>
 

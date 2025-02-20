@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Sprinkle of Life in Your Text Animations"
-date: 2025-02-09T06:40:23.138Z
-updated: 2025-02-10T06:56:10.015Z
+date: 2025-02-17T09:26:45.207Z
+updated: 2025-02-20T07:01:58.819Z
 tags:
   - ai video
   - ai youtube
@@ -26,10 +26,6 @@ thumbnail: https://www.lifewire.com/thmb/MjDTenaULco1gu34wPM4hMvRH2g=/540x405/fi
 
 Earlier, you learned how to have a **[bounce text effect in Adobe After Effects](https://tools.techidaily.com/wondershare/filmora/download/)**. However, because AE is a complex application and has a steep learning curve, this section explains the two alternative ways to get the same effect on your existing video footage.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: How to Create Bouncing Text in Filmora Video Editor?
 
 When talking about [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/), the application is populated with several presets for texts and titles, animations, effects, filters, and much more.
@@ -51,7 +47,7 @@ In the timeline, double-click the title you just added, use the upper-left secti
 ![Create Bouncing Text video Filmora9](https://images.wondershare.com/filmora/article-images/add-up-down-animation-to-bounce.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3: Add Shake Filters**
@@ -59,6 +55,10 @@ In the timeline, double-click the title you just added, use the upper-left secti
 Go to **Effects** from the standard toolbar, expand the **Filters** category from the left pane, and click **Shake**. From the Library window, click and drag your preferred shake filter to the timeline. Here, I will choose Mild.
 
 ![Shake filters in Filmora9](https://images.wondershare.com/filmora/article-images/shake-filter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can customize the default effect by double-clicking the shake filter in the timeline, using the sliders in the upper-left area of the interface to make necessary adjustments, and then clicking **OK** to save the changes and to get back to the previous interface.
 
@@ -79,11 +79,11 @@ As explained before, Wondeshare Filmora makes the entire process of creating and
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Generate Animated Bouncing Texts Online
@@ -125,7 +125,7 @@ Launch your favorite web browser and go to <https://loading.io/animation/text/>.
 ![Create Animated Bouncing Text with Loading.io](https://images.wondershare.com/filmora/article-images/create-bouncing-text-with-loadingio.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Use the options available on the webpage to type your text, and change its font, color, background, transparency level etc. Select **Bounce** (or any of its variants) from the **Animation** drop-down list, and adjust the speed using the **Speed** slider.
@@ -157,22 +157,16 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-inshot-music-syncing-step-by-step-instructions/"><u>[New] 2024 Approved InShot Music Syncing Step-by-Step Instructions</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-best-writing-across-the-spectrum-8-film-categories/"><u>[New] Best Writing Across the Spectrum 8 Film Categories</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-examining-youtubers-monthly-revenue-strategies/"><u>[New] Examining YouTubers' Monthly Revenue Strategies</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-paving-the-way-for-individuality-in-the-digital-age-your-youtube-journey/"><u>[New] Paving the Way for Individuality in the Digital Age Your YouTube Journey</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-small-scale-success-with-the-safest-online-meeting-tools/"><u>[Updated] 2024 Approved Small-Scale Success with the Safest Online Meeting Tools</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-best-instant-windows-photograph-gazing-tool/"><u>[Updated] Best Instant Windows Photograph Gazing Tool</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-strategies-for-success-in-work-and-online-creation/"><u>2024 Approved Strategies for Success in Work and Online Creation</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-blueprint-for-viral-video-mastery/"><u>2024 Approved The Blueprint for Viral Video Mastery</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/comprehensive-tutorial-determining-your-videos-bitrate-on-pc-and-mac-systems/"><u>Comprehensive Tutorial: Determining Your Video's Bitrate on PC & Mac Systems</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/how-to-factory-reset-an-iphone-and-remove-personal-data/"><u>How to Factory Reset an iPhone and Remove Personal Data</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-from-script-to-screen-building-a-youtube-trailer-in-filmora/"><u>In 2024, From Script to Screen Building a YouTube Trailer in Filmora</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-optimize-video-engagement-through-resizing-thumbnails-on-youtube/"><u>In 2024, How to Optimize Video Engagement Through Resizing Thumbnails on YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/must-know-youtube-directives-for-successful-channels-for-2024/"><u>Must-Know YouTube Directives for Successful Channels for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/navigating-optimal-youtube-aesthetics-for-maximum-engagement-for-2024/"><u>Navigating Optimal YouTube Aesthetics for Maximum Engagement for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/phrase-perfection-a-complete-guide-to-uk-speech/"><u>Phrase Perfection: A Complete Guide to UK Speech</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/together-in-tune-easy-steps-to-enjoy-spotify-with-compannions/"><u>Together in Tune: Easy Steps to Enjoy Spotify with Compannions</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/top-quality-fb-picture-and-film-maker-gratis-for-2024/"><u>Top-Quality FB Picture & Film Maker (Gratis!) For 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-essential-guide-to-capturing-skype-conversations-on-windowsmac/"><u>[New] 2024 Approved The Essential Guide to Capturing Skype Conversations on Windows/Mac</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-guidelines-to-affirm-your-youtube-status/"><u>[New] Guidelines to Affirm Your YouTube Status</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-screensnapper-revisited-apowersofts-latest-pc-tool/"><u>[Updated] In 2024, ScreenSnapper Revisited Apowersoft's Latest PC Tool</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-transforming-youtube-descriptions-leveraging-template-power/"><u>2024 Approved Transforming YouTube Descriptions Leveraging Template Power</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-harnessing-real-time-trends-for-visionary-video-ideas/"><u>In 2024, Harnessing Real-Time Trends for Visionary Video Ideas</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-metaverse-joke-ology-building-your-own-hilarious-memes/"><u>In 2024, Metaverse Joke-Ology Building Your Own Hilarious Memes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-the-secrets-to-filmoras-fcc-status/"><u>In 2024, Unveiling the Secrets to Filmora’s FCC Status</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-in-depth-analysis-of-cutting-edge-components/"><u>Tom's Tech Reviews: In-Depth Analysis of Cutting-Edge Components</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oneplus-12r-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On OnePlus 12R Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207602645-win-7-freeze-frustration-heres-how-to-stabilize-your-pc-and-avoid-surprises/"><u>Win 7 Freeze Frustration? Here's How to Stabilize Your PC and Avoid Surprises!</u></a></li>
 </ul></div>
 

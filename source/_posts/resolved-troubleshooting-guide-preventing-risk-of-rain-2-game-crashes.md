@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting Guide - Preventing Risk of Rain 2 Game Crashes"
-date: 2025-02-07T01:54:07.184Z
-updated: 2025-02-10T09:53:47.272Z
+date: 2025-02-15T17:20:21.137Z
+updated: 2025-02-19T21:25:40.396Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/50f9025d1cd24e51aee5d683c09c648b774d15c54
 
 Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers have reported this problem. But the good news is, you can fix it. Here’re 9 known fixes for the Phasmophobia crashing issue. You may not need to try them all; just work your way down the list until you find the one that does the trick for you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 * [Fix 1: Restart your computer](https://tools.techidaily.com/drivereasy/download/)
@@ -32,6 +28,10 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 * [Fix 7: Stop overlocking your GPU/CPU](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 8: Disable fullscreen optimizations](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 9: Try Phasmophobia beta version](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Restart your computer
 
@@ -54,16 +54,12 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart the game after the process is complete.
 
 If Phasmophobia still crashes, move on to the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Delete corrupted game files
 
@@ -77,6 +73,10 @@ Game crashing issues might happen when your game files are corrupted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-19-47.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Delete everything except these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-44-34.png)
@@ -86,7 +86,7 @@ Game crashing issues might happen when your game files are corrupted.
 If the game still crashes, try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
@@ -108,17 +108,13 @@ If the game still crashes, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -153,6 +149,10 @@ If the crash still occurs, go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-22_16-23-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Launch the game to see if your problem has been resolved.
 
 If Phasmophobia crashing issues persist, try the next fix below.
@@ -171,15 +171,15 @@ If Phasmophobia crashing issues persist, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_14-53-17.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Apply > OK** .
 
  4) Relaunch the game to test your issue.
 
 If the problem still exists, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 9: Try Phasmophobia beta version
 
@@ -212,24 +212,24 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-5-inspirational-winter-bgs-to-heat-your-videos/"><u>[New] 5 Inspirational Winter Bgs to Heat Your Videos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-how-to-verify-your-youtube-account-a-simple-guide/"><u>[New] How to Verify Your YouTube Account - a Simple Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-profit-strategies-in-youtube-marketing/"><u>[New] Profit Strategies in YouTube Marketing</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-beyond-the-screen-insightful-metaverse-models-summarized/"><u>[Updated] 2024 Approved Beyond The Screen Insightful Metaverse Models Summarized</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-unlocking-image-potential-the-importance-of-luts/"><u>[Updated] 2024 Approved Unlocking Image Potential The Importance of LUTs</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instagram-video-dimension-guide-for-best-video-format-2023/"><u>[Updated] In 2024, Instagram Video Dimension [Guide for Best Video Format 2023]</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-softening-mix-tracks-incrementally-in-fl/"><u>[Updated] Softening Mix Tracks Incrementally in FL</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-iphone-and-android-compared-top-youtube-app-analysis/"><u>2024 Approved IPhone & Android Compared Top YouTube App Analysis</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-essential-guide-to-aspect-ratios-on-youtube-platforms/"><u>2024 Approved The Essential Guide to ASPECT RATIOS on YOUTUBE Platforms</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-three-trustworthy-ways-to-extract-audio-from-youtube-videos/"><u>2024 Approved Three Trustworthy Ways to Extract Audio From YouTube Videos</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/beyond-marketing-hype-the-genuine-facts-of-reels/"><u>Beyond Marketing Hype The Genuine Facts of Reels</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-complete-guide-to-eradicating-youtube-keep-queue/"><u>In 2024, The Complete Guide to Eradicating YouTube Keep Queue</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-the-power-of-thumbnails-creating-visual-appeal-for-youtube-content/"><u>In 2024, Unlocking the Power of Thumbnails Creating Visual Appeal for YouTube Content</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-mr-beasts-economic-status/"><u>In 2024, Unveiling Mr. Beast's Economic Status</u></a></li>
-<li><a href="https://review-topics.techidaily.com/issues-playing-h-265-hevc-video-on-redmi-a2-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Redmi A2</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/mastering-video-content-for-youtube-success-for-2024/"><u>Mastering Video Content for YouTube Success for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-the-process-of-purging-audio-content-in-the-latest-avi-codec/"><u>New 2024 Approved The Process of Purging Audio Content in the Latest AVI Codec</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-rise-and-fall-of-firefox-a-look-at-mozillas-struggle-to-maintain-relevance-among-internet-browsers/"><u>The Rise and Fall of Firefox: A Look at Mozilla's Struggle to Maintain Relevance Among Internet Browsers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unlocking-asmr-potential-professional-filming-practices-revealed-for-2024/"><u>Unlocking ASMR Potential Professional Filming Practices Revealed for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unmask-subject-with-backdrop-blanket-removal/"><u>[New] Unmask Subject with Backdrop Blanket Removal</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-boosting-zoom-hd-quality-step-by-step-guide/"><u>2024 Approved Boosting Zoom HD Quality Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-highest-rated-smartphone-camera-and-recording-apps-iphone-vs-android/"><u>2024 Approved Highest Rated Smartphone Camera & Recording Apps IPhone vs Android</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-the-basics-a-comprehensive-guide-to-yt-shorts/"><u>2024 Approved Mastering the Basics A Comprehensive Guide to YT Shorts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-maximize-your-youtube-impact-with-perfect-aspect-ratios/"><u>2024 Approved Maximize Your YouTube Impact with Perfect Aspect Ratios</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-6-budget-friendly-youtube-outro-makers/"><u>2024 Approved Top 6 Budget-Friendly YouTube Outro Makers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/facebook-live-vs-youtube-live-vs-twitter-periscope-for-2024/"><u>Facebook Live Vs YouTube Live Vs Twitter Periscope for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-animtech-full-audit-24-summary/"><u>In 2024, AnimTech Full Audit '24 Summary</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-gamers-sound-showdown-the-top-5-headset-list/"><u>In 2024, Gamers' Sound Showdown The Top 5 Headset List</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-turn-your-google-meet-into-a-youtube-live-event/"><u>In 2024, How To Turn Your Google Meet Into a YouTube Live Event</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-6s-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From iPhone 6s?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-secrets-to-boost-engagement-in-gaming-vlogs-via-hashes/"><u>In 2024, Unveiling Secrets to Boost Engagement in Gaming Vlogs via Hashes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/making-an-impact-on-youtube-tips-on-banners-and-art-dimensions-for-2024/"><u>Making an Impact on YouTube Tips on Banners and Art Dimensions for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/masterful-fixes-for-avatar-gameplay-overcoming-lag-challenges-in-the-world-of-pandora/"><u>Masterful Fixes for Avatar Gameplay – Overcoming Lag Challenges in the World of Pandora</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/myai-vs-chatgpt-choosing-the-right-tool-for-your-needs-on-snapchat/"><u>MyAI vs ChatGPT: Choosing the Right Tool for Your Needs on Snapchat</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/networking-strategies-for-the-shy-professional-insights-from-zdnet/"><u>Networking Strategies for the Shy Professional: Insights From ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/start-menu-not-working-in-windows-11-solved/"><u>Start Menu Not Working in Windows 11 [Solved]</u></a></li>
+<li><a href="https://blog-min.techidaily.com/the-ultimate-handbrake-tutorial-setting-the-perfect-bitrate-and-quality-for-your-videos/"><u>The Ultimate Handbrake Tutorial: Setting the Perfect Bitrate & Quality for Your Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleashing-creativity-with-captivating-image-assemblies-for-2024/"><u>Unleashing Creativity with Captivating Image Assemblies for 2024</u></a></li>
 </ul></div>
 

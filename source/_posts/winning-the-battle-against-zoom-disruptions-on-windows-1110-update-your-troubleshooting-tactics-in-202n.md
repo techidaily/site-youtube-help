@@ -1,7 +1,7 @@
 ---
 title: Winning the Battle Against Zoom Disruptions on Windows 11/10 – Update Your Troubleshooting Tactics in 202N
-date: 2025-02-06T23:19:15.050Z
-updated: 2025-02-09T22:38:56.137Z
+date: 2025-02-13T18:09:53.881Z
+updated: 2025-02-20T02:27:02.119Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/91ba55faa148d92407dbc1d9a9fedc994b551d4a3
 
  If you’re encountering the very same issue, don’t worry. Here’s a handy guide that could help you get rid of the problem. Just navigate your way down the list until you find the one that works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Steam Friends Network Unreachable
 
 * [Fix 1: Clear Steam cache and cookies](https://tools.techidaily.com/drivereasy/download/)
@@ -29,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/91ba55faa148d92407dbc1d9a9fedc994b551d4a3
 * [Fix 6: Is it a server issue?](https://tools.techidaily.com/drivereasy/download/)
 
  This error indicates a poor network connection from you or your friend’s network, a Steam glitch, or a problem with Steam’s server. So **it’s recommended that both you and your friends should be trying these fixes to isolate the culprit.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Clear Steam cache and cookies
 
@@ -41,18 +49,14 @@ To clear Steam cache:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-2.png)
 3. Select**Web Browser** , then click**DELETE WEB BROWSER CACHE** and**DELETE ALL BROWSER COOKIES** respectively. Once finished, click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/1234.png)
 4. Exit Steam.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Re-launch into Steam, then click if your friends list loads up fine. If yes, then great! If the**Friends Network Unreachable** error still pops up, please move on to**Fix 2** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Join or exit Steam Beta programs
 
@@ -70,17 +74,13 @@ Here’s how to join or exit Steam Beta programs:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/change.png)
 4. In the window that pops up, choose an option that changes your participation state. Then, click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123ok.png)
 5. Exit Steam.
 
 6. Fire up Steam and see if your friends list is accessible. If yes, then congrats! If the error persists, please try**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your network adapter driver
@@ -113,13 +113,17 @@ The steps are as below:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123456.png)
 3. Open Steam and see if you can have access to the friends list.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. If the problem still persist, then go back to your desktop and repeat step 1 to open the Properties window.
 5. In**Shortcut** tab, locate**Target** , leave a space to the end of the field, (…–nofriendsui), then type **–nochatui** . After that, click**OK** to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/456.png)
 6. Run Steam to check if the**Friends Network Unreachable** error has been fixed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Power cycle your modem & router
@@ -131,10 +135,6 @@ The steps are pretty easy:
 1. Unplug your modem (and your router, if it’s a separate device) from the power socket.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg) (a modem)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png) (a router)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2. Wait **60 seconds**  for your modem (and your router) to cool off.
 
@@ -169,17 +169,22 @@ The steps are pretty easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-flexibility-in-viewing-with-youtube-tv-options/"><u>[New] Flexibility in Viewing with YouTube TV Options</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-from-hundreds-to-millions-a-youtube-growth-journey/"><u>[New] From Hundreds to Millions A YouTube Growth Journey</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-stepwise-guide-for-broadcasting-google-meet-on-youtube/"><u>[New] Stepwise Guide for Broadcasting Google Meet on YouTube</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-stepwise-guide-to-leveraging-picture-in-picture-feature-on-microsoft-edge/"><u>[Updated] 2024 Approved Stepwise Guide to Leveraging Picture-in-Picture Feature on Microsoft Edge</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-seamless-username-switching-in-google-meet-settings-for-2024/"><u>[Updated] Seamless Username Switching in Google Meet Settings for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-freeing-up-youtube-footage-borderless-exploration/"><u>2024 Approved Freeing Up YouTube Footage Borderless Exploration</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-revolutionizing-healthcare-cyber-therapies/"><u>2024 Approved Revolutionizing Healthcare Cyber-Therapies</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-step-by-step-end-screen-customization-guide-for-vimeo/"><u>2024 Approved Step-by-Step End Screen Customization Guide for Vimeo</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/discover-a-new-dawn-with-zenergy-by-ihome-an-authoritative-product-assessment/"><u>Discover a New Dawn with Zenergy by IHome - An Authoritative Product Assessment</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-become-a-photo-editing-wizard-with-lunapic-expertise/"><u>In 2024, Become a Photo Editing Wizard with LunaPic Expertise</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/master-class-in-music-production-dj-video-samples-galore-for-2024/"><u>Master Class in Music Production DJ Video Samples Galore for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-advanced-tips-for-professionally-changing-image-hues/"><u>2024 Approved Advanced Tips for Professionally Changing Image Hues</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-how-to-enrich-social-media-content-with-auto-generated-speech/"><u>2024 Approved How to Enrich Social Media Content with Auto-Generated Speech</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-maximize-content-consumption-6-best-free-youtube-short-downloaders/"><u>2024 Approved Maximize Content Consumption 6 Best Free YouTube Short Downloaders</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-strategies-for-personalizing-your-youtube-shorts-templates/"><u>2024 Approved Strategies for Personalizing Your YouTube Shorts Templates</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-years-predictions-rendered-in-infographics/"><u>2024 Approved The Year's Predictions Rendered in Infographics</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unlock-the-full-potential-of-video-content-with-studios-power/"><u>2024 Approved Unlock the Full Potential of Video Content with Studio's Power</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-tech-insights-from-toms-comprehensive-equipment-reviews/"><u>Cutting-Edge Tech Insights From Tom's Comprehensive Equipment Reviews</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-tips-to-access-pcs-health-metrics/"><u>Decoding Tips to Access PC's Health Metrics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/geavanceerd-online-3gp-to-webm-konvertierungsinstrument-gratis-movavi-videoconverter/"><u>Geavanceerd Online 3GP-to-WebM Konvertierungsinstrument - Gratis Movavi Videoconverter!</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-does-youtube-manage-post-upload-operations-in-2024/"><u>How Does YouTube Manage Post-Upload Operations, In 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-video-dimensions-the-key-to-youtube-presence/"><u>In 2024, Mastering Video Dimensions The Key to YouTube Presence</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-cell-phone-packages-for-seniors-ranked-exclusive-picks/"><u>Leading Cell Phone Packages for Seniors Ranked: Exclusive Picks</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/maximize-engagement-learn-from-tubebuddy-experts-for-2024/"><u>Maximize Engagement - Learn From TubeBuddy Experts for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/maximizing-impact-with-every-second-in-a-youtube-short-for-2024/"><u>Maximizing Impact with Every Second in a YouTube Short for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-the-look-of-windows-11s-basic-text-editor/"><u>Transforming the Look of Windows 11'S Basic Text Editor</u></a></li>
 </ul></div>
 

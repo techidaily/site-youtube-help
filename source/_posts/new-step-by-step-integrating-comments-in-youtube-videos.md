@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step  Integrating Comments in YouTube Videos\""
-date: 2025-02-06T18:56:18.502Z
-updated: 2025-02-10T01:28:37.218Z
+date: 2025-02-19T08:58:00.306Z
+updated: 2025-02-19T21:05:13.004Z
 tags:
   - ai video
   - ai youtube
@@ -58,6 +58,10 @@ YouTube **Cards** are similar to annotations but more interactive. They allow th
 
 ![](https://images.wondershare.com/filmora/article-images/youtube-cards01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * On the right panel click on "Add Card" drop down menu and select the type of card you want to add
 * Click on the create button which will open the corresponding video
 * Once you finish the subsequent information required click create card
@@ -66,13 +70,13 @@ YouTube **Cards** are similar to annotations but more interactive. They allow th
 ![](https://images.wondershare.com/filmora/article-images/add-cards-to-youtube-video.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Apply changes and exit
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to add YouTube annotations
@@ -86,17 +90,13 @@ YouTube Annotation is addition of a text layer, link or hotspots over your video
 ![](https://images.wondershare.com/filmora/article-images/add-annotations-to-youtube-video.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * On the right panel click on "+ Add Element" and select the kind of annotation you want to add
 * Adjust the position of Annotation, you can drag the rectangle to locate it at any position of the video, move the slide to set the start and end time of the annotation
 
 ![](https://images.wondershare.com/filmora/article-images/add-annotation-to-youtube-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Apply changes
 
@@ -137,7 +137,7 @@ No matter what kind of annotations you are using, you should never use more than
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -155,19 +155,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-disseminating-your-work-sharing-igtv-on-facebook/"><u>[New] 2024 Approved Disseminating Your Work Sharing IGTV on Facebook</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-direct-video-tweeting-on-phones-avoid-retweets/"><u>[New] In 2024, Direct Video Tweeting on Phones - Avoid Retweets</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-integrating-obs-for-youtube-and-twitch-streaming-for-2024/"><u>[New] Integrating OBS for YouTube & Twitch Streaming for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-maximizing-team-output-8-excellent-facebook-planners-revealed/"><u>[New] Maximizing Team Output 8 Excellent Facebook Planners Revealed</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-streamlined-design-integrating-gamers-banner-templates/"><u>[New] Streamlined Design Integrating Gamers' Banner Templates</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-cost-effective-strategies-to-combine-videos-with-text/"><u>[Updated] In 2024, Cost-Effective Strategies to Combine Videos with Text</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-pro-tools-for-non-pro-youtubers/"><u>2024 Approved Pro Tools for Non-Pro YouTubers</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/all-in-one-screen-capture-tools-the-ultimate-guide/"><u>All-in-One Screen Capture Tools: The Ultimate Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-making-a-mark-with-effective-youtube-channel-graphics/"><u>In 2024, Making a Mark with Effective YouTube Channel Graphics</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-blueprint-for-your-mobile-youtube-businesspersonal-platform/"><u>In 2024, The Ultimate Blueprint for Your Mobile YouTube Business/Personal Platform</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/key-screen-snapping-programs-for-content-sharing-for-2024/"><u>Key Screen-Snapping Programs for Content Sharing for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/premier-8-safe-video-communication-programs-for-smbs/"><u>Premier 8 Safe Video Communication Programs for SMBs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solve-your-issues-with-necromunda-sovled-pc-game-stability-fixes/"><u>Solve Your Issues with Necromunda [SOVLED] - PC Game Stability Fixes</u></a></li>
-<li><a href="https://media-tips.techidaily.com/streamlining-the-process-expert-tips-on-transforming-footage-into-stunning-4k/"><u>Streamlining the Process: Expert Tips on Transforming Footage Into Stunning 4K</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-expert-choices-best-video-cards-for-youtubes-clearest-output/"><u>[New] Expert Choices Best Video Cards for YouTube's Clearest Output</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-overcoming-shadows-in-indoor-vlogging-environments/"><u>[New] Overcoming Shadows in Indoor Vlogging Environments</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-5-compelling-literary-video-tts/"><u>[New] Unveiling 5 Compelling Literary Video TTs</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nveiling-the-best-3-video-hosts-post-youtube-era-for-2024/"><u>[New] Unveiling the Best 3 Video Hosts Post-YouTube Era for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-radiant-realms-creating-exceptional-hdr-with-photoshop/"><u>[Updated] 2024 Approved Radiant Realms Creating Exceptional HDR with Photoshop</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-flawless-playlist-integration-techniques-in-web-development/"><u>2024 Approved Flawless Playlist Integration Techniques in Web Development</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-infographic-analysis-the-hottest-2023-trends/"><u>2024 Approved Infographic Analysis The Hottest 2023 Trends</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-money-with-8-youtube-aspects/"><u>2024 Approved Mastering Money with 8 YouTube Aspects</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-initialization-successful/"><u>Direct3D Initialization Successful</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-fix-windows-11-wont-run-on-my-pc-error-revouninstaller/"><u>How to Fix Windows 11 Wont Run on My PC Error - RevoUninstaller</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-nubia-red-magic-8s-pro-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Nubia Red Magic 8S Pro Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-premier-collectors-list-top-shorts-for-free-online/"><u>In 2024, Premier Collector's List Top Shorts for FREE Online</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-quick-cut-technique-making-your-vlog-more-engaging/"><u>In 2024, Quick-Cut Technique Making Your Vlog More Engaging</u></a></li>
+<li><a href="https://fox-http.techidaily.com/prime-cut-film-highlights-for-2024/"><u>Prime Cut Film Highlights for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-quest-for-perfection-topiary-angles-in-mobile-photography-for-2024/"><u>The Quest for Perfection Topiary Angles in Mobile Photography for 2024</u></a></li>
 </ul></div>
 

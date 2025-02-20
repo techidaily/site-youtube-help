@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Exploring Video Realms  Significant Post-VidCon Conclaves\""
-date: 2025-02-04T11:25:27.465Z
-updated: 2025-02-10T14:25:47.136Z
+date: 2025-02-14T19:27:29.330Z
+updated: 2025-02-20T07:58:06.158Z
 tags:
   - ai video
   - ai youtube
@@ -52,6 +52,10 @@ Want to be a youtube creator too? Go and get **Wondershare Filmora**, the video 
 
 ![VidCon-On-Spot](https://images.wondershare.com/filmora/VidCon-On-Spot.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In 2017 over 30,000 YouTube enthusiasts – from fans to A-list creators – attended VidCon US, and that was thousands of more people than attended in 2016\. It’s hard to imagine that this event – the biggest convention for YouTube and online video – will do anything but grow over the next few years.
 
 VidCon was founded by the Vlogbrothers in 2010 as a place for internet friends to meet in real life.
@@ -79,10 +83,6 @@ You have a two-week window (usually the first half of May) to submit your choice
 **Washington DC:** September
 
 ![Playlistlive](https://images.wondershare.com/filmora/Playlistlive.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Playlist Live is a YouTube event for creators and their supporters that has a particular focus on music. Where VidCon is advertised using images of sunshine, crowded convention halls, and speakers, Playlist Live is advertised with images of city skylines, concerts, and fireworks.
 
@@ -119,7 +119,7 @@ There is also business **Passes** with Merch and Deluxe (Business Deluxe can cos
 ![beautycon-festivals](https://images.wondershare.com/filmora/beautycon-festivals.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Beautycon is an event meant to highlight innovators in the fields of Beauty, Makeup, and Lifestyle. They bring together online creators, fans, celebrities, and brands for two-day festivals full of fun, panel discussions, shopping, and free samples.
@@ -146,10 +146,6 @@ These events are customized to the wherever festival is visiting, so you’re al
 
 ![youtube-fanfest](https://images.wondershare.com/filmora/youtube-fanfest.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 There is not a steady annual schedule for FanFests, but it has visited these cities in the past: Manila, Mumbai, Seoul, Toronto, Sao Paulo, Jakarta, Tokyo, Jeddah, Bangkok, Ho Chi Minh City, Hong Kong, and Washington, DC.
 
 #### 5. ** RTX
@@ -163,7 +159,7 @@ Sydney, Australia: February
 ![rtx](https://images.wondershare.com/filmora/rtx.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Brought to you by the creators behind Rooster Teeth, RTX is a celebration of internet culture and gaming. It includes exhibitors, live events, panels, and activities targeting gamers. Partners include Twitch and multiple gaming companies.
@@ -204,6 +200,10 @@ For VIP access, you can buy a **Deluxe** pass for $125-$150 AUD.
 
 ![summer-in-the-city](https://images.wondershare.com/filmora/summer-in-the-city.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This is the largest online video festival in the UK. It features discussion panels, workshops, and live performances targeted at creators, fans of online video, and industry professionals. YouTubers might hang out on the show floor meeting fans, and there are also Meet and Greet sessions for top creators. All ticket holders can submit online ballots for a chance at Meet and Greet access.
 
 Summer in the City even has its own awards show, SitC, to honor the best in online content. Previous winners include Dodie, Tomska, Jack & Dean, and Nathan Zed.
@@ -229,7 +229,7 @@ Have you ever attended an offline YouTube event? Which one, and how did you like
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -247,20 +247,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-guffaws-in-grooves-parody-playlist/"><u>[New] Guffaws in Grooves Parody Playlist</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/astering-reach-without-money-youtube-video-advancement-strategies/"><u>[New] Mastering Reach Without Money YouTube Video Advancement Strategies</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-partner-up-strategies-optimal-selection-for-youtube-teams/"><u>[New] Partner Up Strategies Optimal Selection for YouTube Teams</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-rapid-fortnite-tile-making-hacks/"><u>2024 Approved Rapid Fortnite Tile-Making Hacks</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unleashing-creativity-in-youtube-banner-and-thumbnail-design/"><u>2024 Approved Unleashing Creativity in YouTube Banner & Thumbnail Design</u></a></li>
-<li><a href="https://fox-within.techidaily.com/cold-frames-and-greenhouses-can-maintain-a-microclimate-with-higher-humidity-levels-which-reduces-transpiration-stress-on-the-plant-during-cold-periods/"><u>Cold Frames and Greenhouses Can Maintain a Microclimate with Higher Humidity Levels, Which Reduces Transpiration Stress on the Plant During Cold Periods.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/complete-tutorial-on-registering-for-chatgpts-latest-add-on-capabilities/"><u>Complete Tutorial on Registering for ChatGPT's Latest Add-On Capabilities</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-acpisys-in-windows-10/"><u>How to Fix ACPI.sys in Windows 10</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/identifying-hardware-compatibility-issues-with-your-graphics-card-yl-technical-tips/"><u>Identifying Hardware Compatibility Issues with Your Graphics Card - YL Technical Tips</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-free-mcb-theme-images-templates-and-more/"><u>In 2024, Free MCB Theme Images, Templates & More</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-x-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone X? Learn All 4 Methods</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-streamline-your-seo-strategy-with-the-leading-7-online-youtube-tags-tools/"><u>In 2024, Streamline Your SEO Strategy with the Leading 7 Online Youtube Tags Tools</u></a></li>
-<li><a href="https://win-web.techidaily.com/in-depth-analysis-of-jabras-evolve2-75-audio-gear-the-ultimate-hybrid-work-companion-featuring-anc-and-all-day-conversations-techreviewzdnet/"><u>In-Depth Analysis of Jabra's Evolve2 75 Audio Gear: The Ultimate Hybrid Work Companion Featuring ANC & All-Day Conversations | TechReviewZDNet</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ering-online-video-secrets-for-youtubes-spherical-livestreaming-techniques-for-2024/"><u>Pioneering Online Video Secrets for YouTube's Spherical Livestreaming Techniques for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-the-most-efficient-dvd-ripper-applications-for-windows-10-mp4-mkv-avi-formats/"><u>Ultimate Guide to the Most Efficient DVD Ripper Applications for Windows 10 (MP4, MKV, AVI Formats)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-sharpen-your-snapshots-effortlessly-with-these-10-editors/"><u>[New] Sharpen Your Snapshots Effortlessly with These 10 Editors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-snicker-shelf-premium-collection-of-gratuitous-gags/"><u>[New] Snicker Shelf Premium Collection of Gratuitous Gags</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-step-by-step-process-converting-youtube-clips-into-playful-gifs/"><u>[New] Step-By-Step Process Converting YouTube Clips Into Playful GIFs</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-exploring-advanced-video-features-on-nikon-1j5-for-2024/"><u>[Updated] Exploring Advanced Video Features on Nikon 1J5 for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-much-do-you-earn-when-a-million-watch-youtube/"><u>2024 Approved How Much Do You Earn When a Million Watch Youtube?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-is-your-content-flourishing-consider-an-mcn-partnership/"><u>2024 Approved Is Your Content Flourishing? Consider an MCN Partnership</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-masterclass-youtube-music-arrangement/"><u>2024 Approved Masterclass YouTube Music Arrangement</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-step-by-step-process-to-embrace-cc-copyrights/"><u>2024 Approved Step-by-Step Process to Embrace CC Copyrights</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-supercharge-view-counts-through-strategic-video-time-stamping/"><u>2024 Approved Supercharge View Counts Through Strategic Video Time-Stamping</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-pathway-to-recognition-youtubers-guide-to-personal-brands/"><u>2024 Approved The Pathway to Recognition YouTubers' Guide to Personal Brands</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ced-techniques-for-high-quality-youtube-content/"><u>Advanced Techniques for High-Quality YouTube Content</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-best-screen-quality-for-less-with-our-latest-lightweight-laptop-deal-now-on-sale-zdnet/"><u>Get the Best Screen Quality for Less with Our Latest Lightweight Laptop Deal - Now On Sale | ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-oneplus-open-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 OnePlus Open Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-how-to-enable-speech-to-text-in-powerpoint-a-step-by-step-guide/"><u>In 2024, How to Enable Speech-to-Text in PowerPoint A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-shake-the-sound-mobile-beats-best-ripplers/"><u>In 2024, Shake the Sound Mobile Beats' Best Ripplers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-wanderlust-chronicles-setting-up-for-success-as-a-travel-vlogger/"><u>In 2024, The Wanderlust Chronicles Setting Up for Success as a Travel Vlogger</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/track-your-every-move-best-motion-tracking-apps-reviewed/"><u>Track Your Every Move Best Motion Tracking Apps Reviewed</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-oneplus-11r-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My OnePlus 11R Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 
